@@ -1,0 +1,706 @@
+[
+  {
+    "id": "03edde47-c0be-4742-9311-848ba4fb3809",
+    "name": "Uss Lamson",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Bikini Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.622813200578634",
+      "lng": "165.4772758483887"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0bb751bf-260f-4e52-9c8b-f2e5f1c68174",
+    "name": "Eternal Eden",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Majuro Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.147990571313195",
+      "lng": "171.19832038879395"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0c75f6d6-ef8a-4850-a48f-a7ab83c4106c",
+    "name": "Uss Gilliam",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Bikini Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.607982725450873",
+      "lng": "165.52221679477952"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0d68812d-3d90-49fb-8eac-6ec00044c47e",
+    "name": "Coral Story",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Majuro Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.119374700840105",
+      "lng": "171.32011413574222"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "10fed017-aa6d-462a-b24d-3e777faf025c",
+    "name": "Kolalen Inside",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Majuro Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.15497393457557",
+      "lng": "171.20329856872561"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "119ae8ca-a019-447b-b349-cce641dd22ee",
+    "name": "Hijms Sakawa",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Bikini Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.60011317660571",
+      "lng": "165.53049087524417"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "276f16bd-8c13-4685-addb-034c3a5b340a",
+    "name": "L.i.h.",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Majuro Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.073977413786595",
+      "lng": "171.298828125"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "27b27f76-ffad-49d7-aeee-dbc0e89cd7ad",
+    "name": "Majuro-Majuro",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Majuro Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.159061707402842",
+      "lng": "171.20355606079104"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2f0a0fda-9951-4e0e-9510-62a774c2c08b",
+    "name": "Hijms Nagato",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Bikini Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.63391031709329",
+      "lng": "165.50886154174808"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3010f4ec-a0dc-4e2c-85be-4632e151859f",
+    "name": "Delap",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Majuro Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.089862714764622",
+      "lng": "171.38684749603274"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3a7039a9-5edb-49cc-b305-ff6fdbd4696c",
+    "name": "Uss Carlisle",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Bikini Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.60801635758654",
+      "lng": "165.4992485046387"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3eea07ba-2795-4568-a2a5-87ad8b0f85c0",
+    "name": "Lsm-60",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Bikini Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.628361814123132",
+      "lng": "165.4915237426758"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "48f94e5c-3734-453a-b370-fea87c33ba2a",
+    "name": "Parking Lot",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Majuro Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.1209077392192786",
+      "lng": "171.3509273529053"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4dbe6b95-2c77-43e6-ae24-b26a1d8b2f4d",
+    "name": "Victoria Garden",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Majuro Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.047401318904406",
+      "lng": "171.22604370117188"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "56346f6f-c59b-4ba0-8fc2-8f69afef18a7",
+    "name": "Uss Apogon",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Bikini Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.61373341276084",
+      "lng": "165.48379898071292"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "61ef6b80-36c5-4929-b1b9-58fca339d72d",
+    "name": "Ardc-13",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Bikini Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.622140633849732",
+      "lng": "165.48946380615237"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "67107bb3-d741-4b60-9064-06d20ac147e7",
+    "name": "Heaven&#039;s Hill",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Majuro Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.155825556934366",
+      "lng": "171.2135124206543"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "686dc795-bbf8-48bd-ab7b-d1f212823fe2",
+    "name": "Aquarium Inside",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Majuro Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.155229421450049",
+      "lng": "171.1953163146973"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6bab4e96-7d43-4c01-9cc6-90dbbeb2e549",
+    "name": "Bridge",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Majuro Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.081558135052339",
+      "lng": "171.35581970214847"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6ce3b593-d72f-4a66-9e7c-cf23af3e1df6",
+    "name": "Shark Street",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Majuro Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.1283173524600505",
+      "lng": "171.36680603027347"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "72376ec7-5c7f-4a9a-bcb6-242e8bfdbe3e",
+    "name": "West Coral Pass",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Majuro Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.080919315032313",
+      "lng": "171.35423183441165"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7590c725-dcab-478e-98fa-68e651ff2a03",
+    "name": "Anemonet No. 1",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Majuro Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.123207287179546",
+      "lng": "171.31161689758304"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "769ec437-b3cf-48f8-bbbc-782f689c8fe6",
+    "name": "No. 4",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Majuro Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.150886125137759",
+      "lng": "171.23368263244632"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7b2fa3fa-63f4-47dd-aac1-d23c8c4e6ab7",
+    "name": "Kolalen Outside",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Majuro Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.163660408047004",
+      "lng": "171.2132549285889"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "87270df7-cbfc-4772-9d80-5ce1fb2796a2",
+    "name": "Uss Arkansas",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Bikini Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.620795495520678",
+      "lng": "165.50268173217776"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8c192260-9698-4aed-8ce0-2001400e66df",
+    "name": "Aquarium Outside",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Majuro Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.160253967578265",
+      "lng": "171.19523048400882"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "929ef163-f7c7-4d17-b0d3-1445a8889541",
+    "name": "Anemonet No. 3",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Majuro Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.13564167995864",
+      "lng": "171.29582405090335"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9b8a4997-6ff3-43af-ac10-aad1bedd409e",
+    "name": "Kidenen Backdrop",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Majuro Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.151141614299807",
+      "lng": "171.26595497131348"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a097c573-9f67-41e5-92bc-2da832b995e3",
+    "name": "No. 2",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Majuro Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.153781660603779",
+      "lng": "171.22544288635254"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a1abff66-9af9-4b81-b1d0-d4b62a3033d0",
+    "name": "Kolalen Pass",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Majuro Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.161531385736207",
+      "lng": "171.20441436767578"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a2282587-04b8-4873-bb97-7f21eef4b320",
+    "name": "Uss Anderson",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Bikini Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.60011317660571",
+      "lng": "165.5131530761719"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ae40c37a-93d3-4287-99ca-af74cb9b5250",
+    "name": "Uss Pilotfish",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Bikini Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.59086448918151",
+      "lng": "165.5203628540039"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bbaf514d-e3d5-430e-bbed-40ae84683a1b",
+    "name": "Bok-Lap",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Majuro Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.139985121141252",
+      "lng": "171.29058837890628"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c3d39419-a4c0-47ba-9a2c-78f0c9d0818f",
+    "name": "Rre Front",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Majuro Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.1133276661727916",
+      "lng": "171.36543273925784"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c43617b5-e5d3-43a0-9041-daa45f06ce0d",
+    "name": "Prinz Eugen",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Kwajalein Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.752610306632409",
+      "lng": "167.68308162689212"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d015d58e-7da5-4b13-b888-5d13fb06d792",
+    "name": "Mir Front",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Majuro Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.0907144580681445",
+      "lng": "171.37495994567874"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d48a4e34-1cb1-4c07-96d7-c73c24516675",
+    "name": "Pinnacle No. 1",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Majuro Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.115286573451466",
+      "lng": "171.3201999664307"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d5d3c70a-91f4-47fe-94c6-71a85b3c2be2",
+    "name": "Coral Field",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Majuro Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.109409826544021",
+      "lng": "171.3791656494141"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d7e2cf87-a654-41c7-8ee8-c25594ca49ee",
+    "name": "Mountain",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Majuro Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.15054547269936",
+      "lng": "171.2281894683838"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d7fd16cb-f940-4e28-966a-49f70e6263c7",
+    "name": "Anemonet No. 2",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Majuro Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.130446529507696",
+      "lng": "171.30226135253906"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d92d757a-f1f1-484f-886d-4609c9527f53",
+    "name": "Ao Beach",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Majuro Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.069548170712811",
+      "lng": "171.27616882324222"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dfc120dd-a5a4-4feb-a23f-b9ba992372fb",
+    "name": "Kolalen Reef",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Majuro Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.1543777979789365",
+      "lng": "171.20862007141113"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f7fd7e0d-5e3a-40de-a895-b6f607a22b71",
+    "name": "Uss Saratoga",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Bikini Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.612892676704268",
+      "lng": "165.53581237792972"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fd946a9c-8527-46d5-955c-bb1135272422",
+    "name": "Yo-160",
+    "location": {
+      "country": "Marshall Islands",
+      "region": "Bikini Atoll, Marshall Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.629706915907917",
+      "lng": "165.51898956298828"
+    },
+    "additionalInfo": {}
+  }
+]

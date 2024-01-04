@@ -1,0 +1,1384 @@
+[
+  {
+    "id": "05cf22b8-f03e-46df-b9b5-75a27aa376c6",
+    "name": "Salon",
+    "location": {
+      "country": "Mozambique",
+      "region": "Inhambane, Mozambique",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.834972904448264",
+      "lng": "35.55720806121827"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "082ea305-a909-4559-9965-0059f07c354e",
+    "name": "5 Mile Reef",
+    "location": {
+      "country": "Mozambique",
+      "region": "Bazaruto Island, Inhambane",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.764760830166374",
+      "lng": "35.4791021347046"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "09a2b2d0-a85f-4ffa-9c65-ac354c8392ac",
+    "name": "Sponge Garden",
+    "location": {
+      "country": "Mozambique",
+      "region": "Cabo Delgado, Mozambique",
+      "ocean": [
+        "Africa",
+        "Mozambique",
+        "Cabo Delgado"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.75833",
+      "lng": "40.63694"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0eeb1168-57fa-4c6c-a7e7-453a10a7d226",
+    "name": "Lighthouse Reef",
+    "location": {
+      "country": "Mozambique",
+      "region": "Maputo, Mozambique",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-26.85148846829373",
+      "lng": "32.90789365768433"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0fd8e12c-c5c1-46fd-beb0-306827ee806f",
+    "name": "La Cheminee De Brandele",
+    "location": {
+      "country": "Mozambique",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Mayotte"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.960732116760264",
+      "lng": "45.224361419677734"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "171a27bb-f9ed-4bf5-8e35-bb289cf19f6a",
+    "name": "Crayfish Alley",
+    "location": {
+      "country": "Mozambique",
+      "region": "Cabo Delgado, Mozambique",
+      "ocean": [
+        "Africa",
+        "Mozambique",
+        "Cabo Delgado"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.75556",
+      "lng": "40.63389"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1f220ec8-b0bb-441e-b62a-4b4e3db12fd9",
+    "name": "Hotel Reef",
+    "location": {
+      "country": "Mozambique",
+      "region": "Inhaca Island, Mozambique",
+      "ocean": [
+        "Indian Ocean",
+        "Baia De Maputo"
+      ]
+    },
+    "coordinates": {
+      "lat": "-25.994560484865158",
+      "lng": "32.91188478469849"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1f7ca3b5-3e27-45ac-b266-4f38867a7710",
+    "name": "Manta Reef",
+    "location": {
+      "country": "Mozambique",
+      "region": "Inhambane, Mozambique",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.993153252571215",
+      "lng": "35.52626609802247"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "200c2df8-e2e8-4f5e-b9e7-ccac0aea27e4",
+    "name": "Barra Lagoon",
+    "location": {
+      "country": "Mozambique",
+      "region": "Inhambane, Mozambique",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.794612251603198",
+      "lng": "35.4684591293335"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "21e1e81a-3a8a-4a25-b236-2f045a112dfb",
+    "name": "Pointe Est Du Recif Sud",
+    "location": {
+      "country": "Mozambique",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Mayotte"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.015262066957174",
+      "lng": "45.24993896484376"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "259647ec-e384-4978-8dfd-78ac356b6a3a",
+    "name": "Two Mile Reef",
+    "location": {
+      "country": "Mozambique",
+      "region": "Bazaruto Island, Inhambane",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.793773124606464",
+      "lng": "35.48905849456788"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2abe8b6c-53d6-450e-adbc-0030aa54e6c8",
+    "name": "La Prevoyante",
+    "location": {
+      "country": "Mozambique",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Mayotte"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.690583601835767",
+      "lng": "45.16119003295899"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "35062981-1aa0-4099-a871-cc60fbe1fe17",
+    "name": "Tombant De L’Îlot Choazyl",
+    "location": {
+      "country": "Mozambique",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Mayotte"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.699459240555855",
+      "lng": "45.03931045532227"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3770985d-eb11-4313-adad-c328c7f68c43",
+    "name": "Ilot D&#039;handrema",
+    "location": {
+      "country": "Mozambique",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Mayotte"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.664122313995023",
+      "lng": "45.12737274169922"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3a970a27-eae5-4503-a34a-28f25aa3b317",
+    "name": "Coloseum",
+    "location": {
+      "country": "Mozambique",
+      "region": "Inhambane, Mozambique",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.701436540362085",
+      "lng": "35.55519104003907"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4115807b-bb4c-48c9-98df-ff761e48dd13",
+    "name": "Tombant Des Aviateurs",
+    "location": {
+      "country": "Mozambique",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Mayotte"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.81498166174335",
+      "lng": "45.29594421386719"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "43218f50-514f-4dc7-80a5-8456b3891d35",
+    "name": "Rainbow Runner",
+    "location": {
+      "country": "Mozambique",
+      "region": "Bazaruto Island, Inhambane",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.53452764476301",
+      "lng": "35.50901412963868"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "493422e6-21e3-40c3-8f4e-0823c9470be2",
+    "name": "Coral Gardens",
+    "location": {
+      "country": "Mozambique",
+      "region": "Inhambane, Mozambique",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.782517318091827",
+      "lng": "35.53828239440919"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4da36054-8af8-4255-b3cf-e42775b26c55",
+    "name": "Zenguelemo",
+    "location": {
+      "country": "Mozambique",
+      "region": "Bazaruto Island, Inhambane",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.657906826455346",
+      "lng": "35.42211055755616"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "520e2527-a245-44da-ba8d-dc66e09212e6",
+    "name": "Anchor",
+    "location": {
+      "country": "Mozambique",
+      "region": "Maputo, Mozambique",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-26.78783555971198",
+      "lng": "32.89793729782105"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5647de95-1f6b-4ff5-bd04-db81ed73fc99",
+    "name": "No Name 01",
+    "location": {
+      "country": "Mozambique",
+      "region": "Inhaca Island, Mozambique",
+      "ocean": [
+        "Indian Ocean",
+        "Baia De Maputo"
+      ]
+    },
+    "coordinates": {
+      "lat": "-26.000828566950045",
+      "lng": "32.90946006774903"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5680e5d0-7ad9-4454-86b7-7e385a4d3e2f",
+    "name": "Anchor",
+    "location": {
+      "country": "Mozambique",
+      "region": "Inhambane, Mozambique",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.773406105639978",
+      "lng": "35.49129009246827"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "58352b5b-57f2-4058-9fb9-29e20d2dc79d",
+    "name": "Manta Ray Reef",
+    "location": {
+      "country": "Mozambique",
+      "region": "Bazaruto Island, Inhambane",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.51616341971428",
+      "lng": "35.49545288085938"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5aa2b31f-fba3-4e5e-9cd1-0f93e187534a",
+    "name": "Lions Den",
+    "location": {
+      "country": "Mozambique",
+      "region": "Inhambane, Mozambique",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.79791067448196",
+      "lng": "35.55725097656251"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5add7960-74aa-47f8-bb1f-827088d725e8",
+    "name": "Brindle Bass",
+    "location": {
+      "country": "Mozambique",
+      "region": "Bazaruto Island, Inhambane",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.508258103941753",
+      "lng": "35.50058126449586"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "601c56d1-e07f-48bb-8152-0052f002c7fd",
+    "name": "Passe De Saziley Nord",
+    "location": {
+      "country": "Mozambique",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Mayotte"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.991176693830331",
+      "lng": "45.2358627319336"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6255dd73-a3f2-4019-9ccd-f5f66d8cb2b7",
+    "name": "La Cheminee",
+    "location": {
+      "country": "Mozambique",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Mayotte"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.842431391923453",
+      "lng": "45.29594421386719"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "63505017-f37f-460f-abdd-cd26c47e64a6",
+    "name": "Mikes Cupboard",
+    "location": {
+      "country": "Mozambique",
+      "region": "Inhambane, Mozambique",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.824923176051723",
+      "lng": "35.55845260620118"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "647b4241-9d92-4eef-a31f-e17a15d028a7",
+    "name": "The Ridge",
+    "location": {
+      "country": "Mozambique",
+      "region": "Maputo, Mozambique",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-26.770748131918804",
+      "lng": "32.90353775024415"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "677a6e78-764f-4dd5-a953-c90bd27b7ac5",
+    "name": "Buntings Bulge",
+    "location": {
+      "country": "Mozambique",
+      "region": "Cabo Delgado, Mozambique",
+      "ocean": [
+        "Africa",
+        "Mozambique",
+        "Cabo Delgado"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.89056",
+      "lng": "40.63222"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "69180d2d-b527-4342-880b-29271a2aebf5",
+    "name": "Steps",
+    "location": {
+      "country": "Mozambique",
+      "region": "Maputo, Mozambique",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-26.806873900498783",
+      "lng": "32.90770053863526"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6cef526e-3ebb-4a74-a0bb-2c97615b6eab",
+    "name": "Rianna&#039;s Arch",
+    "location": {
+      "country": "Mozambique",
+      "region": "Maputo, Mozambique",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-26.758179952180406",
+      "lng": "32.92096138000489"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "72e0e4c2-d022-4a74-9a86-ccfa81b784a9",
+    "name": "Santa Maria Reef",
+    "location": {
+      "country": "Mozambique",
+      "region": "Inhaca Island, Mozambique",
+      "ocean": [
+        "Indian Ocean",
+        "Baia De Maputo"
+      ]
+    },
+    "coordinates": {
+      "lat": "-26.077946786331704",
+      "lng": "32.95198917388917"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7490e335-b5fe-41a2-96f2-2446ec691f09",
+    "name": "Praia Do Roche",
+    "location": {
+      "country": "Mozambique",
+      "region": "Inhambane, Mozambique",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.947664866354",
+      "lng": "35.53072929382325"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7665c431-e0f8-44b4-b6d0-0aba9c3dc62f",
+    "name": "Aquarium",
+    "location": {
+      "country": "Mozambique",
+      "region": "Ponta Nangamba, Mozambique",
+      "ocean": [
+        "Africa",
+        "Mozambique",
+        "Ponta Nangamba"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.65833",
+      "lng": "40.63"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "79e3ec41-eef2-4a0f-9dfc-12f9eecc7179",
+    "name": "Sherwood Forrest",
+    "location": {
+      "country": "Mozambique",
+      "region": "Inhambane, Mozambique",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.809533020935245",
+      "lng": "35.56995391845704"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7ac3ea9f-cb96-4023-a57d-ebefe0f9c81e",
+    "name": "Checkers",
+    "location": {
+      "country": "Mozambique",
+      "region": "Maputo, Mozambique",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-26.817674918270853",
+      "lng": "32.90649890899659"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7b22035b-62b1-44e2-a948-ce3e89130010",
+    "name": "Tari Paradise",
+    "location": {
+      "country": "Mozambique",
+      "region": "Cabo Delgado, Mozambique",
+      "ocean": [
+        "Africa",
+        "Mozambique",
+        "Cabo Delgado"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.82361",
+      "lng": "40.57"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "80072139-fcb6-4888-a284-d2371800d48b",
+    "name": "Tari Steps",
+    "location": {
+      "country": "Mozambique",
+      "region": "Cabo Delgado, Mozambique",
+      "ocean": [
+        "Africa",
+        "Mozambique",
+        "Cabo Delgado"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.81806",
+      "lng": "40.58111"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "80768915-47da-4aea-9e99-a23f89e9da51",
+    "name": "Cloud Break",
+    "location": {
+      "country": "Mozambique",
+      "region": "Maputo, Mozambique",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-26.780326603285353",
+      "lng": "32.93046712875367"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "875895a3-2d41-4426-b6fb-47e1ed1d9f1d",
+    "name": "Bass City",
+    "location": {
+      "country": "Mozambique",
+      "region": "Maputo, Mozambique",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-26.74384746552013",
+      "lng": "32.91263580322266"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "88a57671-7578-4629-8762-2a4edd102521",
+    "name": "Baixo Danae",
+    "location": {
+      "country": "Mozambique",
+      "region": "Mozambique, Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-25.83141520824073",
+      "lng": "33.19038391113282"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8942aa06-c322-4302-b49a-e19c31173270",
+    "name": "Waynes World",
+    "location": {
+      "country": "Mozambique",
+      "region": "Maputo, Mozambique",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-26.766380080762833",
+      "lng": "32.91812896728516"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8d0e1e0c-0dbe-470c-ac03-36913e2c5413",
+    "name": "Son Spot",
+    "location": {
+      "country": "Mozambique",
+      "region": "Cabo Delgado, Mozambique",
+      "ocean": [
+        "Africa",
+        "Mozambique",
+        "Cabo Delgado"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.70333",
+      "lng": "40.61361"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "90abf571-158b-4a4d-80f1-36df1b168ad0",
+    "name": "Passe En S",
+    "location": {
+      "country": "Mozambique",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Mayotte"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.866447446973016",
+      "lng": "45.26985168457032"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "957c6307-acee-430f-832c-1d62bc672c18",
+    "name": "Malongane Ledge",
+    "location": {
+      "country": "Mozambique",
+      "region": "Maputo, Mozambique",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-26.799557733065342",
+      "lng": "32.92302131652833"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9696a332-2350-4033-b5ed-d3807f34f25a",
+    "name": "Simons Town",
+    "location": {
+      "country": "Mozambique",
+      "region": "Inhambane, Mozambique",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.897452165059875",
+      "lng": "35.56712150573731"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "984546d9-57e9-46ee-89e0-6eacbf76d443",
+    "name": "Three Sisters",
+    "location": {
+      "country": "Mozambique",
+      "region": "Maputo, Mozambique",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-26.789214701787976",
+      "lng": "32.91295766830445"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9d922561-3900-4a96-af0e-373b94cd9360",
+    "name": "The Potholes",
+    "location": {
+      "country": "Mozambique",
+      "region": "Bazaruto Island, Inhambane",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.528619408285955",
+      "lng": "35.497126579284675"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9f33f3fc-460d-405a-b7fc-59d15ec723c0",
+    "name": "Grimmers Grovel",
+    "location": {
+      "country": "Mozambique",
+      "region": "Cabo Delgado, Mozambique",
+      "ocean": [
+        "Africa",
+        "Mozambique",
+        "Cabo Delgado"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.73361",
+      "lng": "40.63222"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9fd66f91-6aab-454e-a244-21e29daa0dc3",
+    "name": "Brent&#039;s Ridge",
+    "location": {
+      "country": "Mozambique",
+      "region": "Maputo, Mozambique",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-26.813883188828562",
+      "lng": "32.9227638244629"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a0c4c19d-0e56-4a88-817a-7e3bb818303d",
+    "name": "Champ De Coraux",
+    "location": {
+      "country": "Mozambique",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Mayotte"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.6634523723075",
+      "lng": "45.01115798950195"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a524755c-3dfe-472f-9843-61644562d0bd",
+    "name": "Le Banc Du Boa",
+    "location": {
+      "country": "Mozambique",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Mayotte"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.69451906477031",
+      "lng": "45.035533905029304"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a7ed20d6-f81b-4766-b01c-0221d45223cd",
+    "name": "No Name 02",
+    "location": {
+      "country": "Mozambique",
+      "region": "Inhaca Island, Mozambique",
+      "ocean": [
+        "Indian Ocean",
+        "Baia De Maputo"
+      ]
+    },
+    "coordinates": {
+      "lat": "-25.99824422900654",
+      "lng": "32.91139125823975"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "aa380e0f-99f0-40f3-9946-25c020498297",
+    "name": "Banco De China",
+    "location": {
+      "country": "Mozambique",
+      "region": "Inhaca Island, Mozambique",
+      "ocean": [
+        "Indian Ocean",
+        "Baia De Maputo"
+      ]
+    },
+    "coordinates": {
+      "lat": "-26.00256428439886",
+      "lng": "32.907614707946784"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "aceaeab8-3a14-486c-8417-f5de53ae063f",
+    "name": "Cocaine",
+    "location": {
+      "country": "Mozambique",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Mayotte"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.693430538560259",
+      "lng": "44.98420715332032"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ad0e504a-6d97-4680-885e-8b18e6811e0c",
+    "name": "Mavericks",
+    "location": {
+      "country": "Mozambique",
+      "region": "Maputo, Mozambique",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-26.749136133550774",
+      "lng": "32.92199134826661"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b6f8e6fa-fe41-496f-b3d2-bc29cd9198b7",
+    "name": "Office",
+    "location": {
+      "country": "Mozambique",
+      "region": "Inhambane, Mozambique",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.73318347563781",
+      "lng": "35.53424835205079"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b7c77ede-61c2-4751-958a-9f1ef8e53d0c",
+    "name": "Chamber Of Secrets",
+    "location": {
+      "country": "Mozambique",
+      "region": "Inhambane, Mozambique",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.92444391847503",
+      "lng": "35.551328659057624"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c4738af3-29f0-4c94-987f-b4023f92be65",
+    "name": "Passe Aux Bateaux",
+    "location": {
+      "country": "Mozambique",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Mayotte"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.998201835817282",
+      "lng": "44.98249053955079"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c7ca21a3-7c09-42e5-a390-99803a51b165",
+    "name": "Passe De Brandele",
+    "location": {
+      "country": "Mozambique",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Mayotte"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.89046120289812",
+      "lng": "45.24959564208985"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c8566bac-cf71-4861-b36e-625b3cc1913f",
+    "name": "Skylight",
+    "location": {
+      "country": "Mozambique",
+      "region": "Inhambane, Mozambique",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.716210828036893",
+      "lng": "35.54549217224122"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c8a81919-0a71-4dcb-8f9e-ba41a2ac3ed3",
+    "name": "Amazon",
+    "location": {
+      "country": "Mozambique",
+      "region": "Inhambane, Mozambique",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.690904910032966",
+      "lng": "35.547080039978034"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c9b3c892-ad5b-4872-9296-94749d4c1fe0",
+    "name": "Annamarie Garden",
+    "location": {
+      "country": "Mozambique",
+      "region": "Cabo Delgado, Mozambique",
+      "ocean": [
+        "Africa",
+        "Mozambique",
+        "Cabo Delgado"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.76667",
+      "lng": "40.6375"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cb0976ca-1429-467e-a95a-ac863c188579",
+    "name": "Atlantis Lego Land",
+    "location": {
+      "country": "Mozambique",
+      "region": "Maputo, Mozambique",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-26.84566850863927",
+      "lng": "32.922570705413825"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cd003f77-2081-4115-a3ba-49025411435a",
+    "name": "Le Banc De La Surprise",
+    "location": {
+      "country": "Mozambique",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Mayotte"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.523060912336586",
+      "lng": "45.10231018066407"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d056e91e-1bf9-4b5e-a083-18578b67f2b4",
+    "name": "Kev&#039;s Ledge",
+    "location": {
+      "country": "Mozambique",
+      "region": "Maputo, Mozambique",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-26.777031700305983",
+      "lng": "32.914073467254646"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d40af143-6632-4286-8090-e178b0e0eeeb",
+    "name": "Pinnacles",
+    "location": {
+      "country": "Mozambique",
+      "region": "Maputo, Mozambique",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-26.745380438095406",
+      "lng": "32.93040275573731"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d4620bf9-8793-407c-a540-6d352dd3cb67",
+    "name": "Les Failles",
+    "location": {
+      "country": "Mozambique",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Mayotte"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.657087838503864",
+      "lng": "45.216293334960945"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d92c543a-44f7-48d9-8abd-f49f8fe02a1c",
+    "name": "Buraco Do Diabo",
+    "location": {
+      "country": "Mozambique",
+      "region": "Inhambane, Mozambique",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.674712836608773",
+      "lng": "35.554075241088874"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dc7eaa05-df43-4ae7-9a74-f342478799a2",
+    "name": "Turtle Ridge",
+    "location": {
+      "country": "Mozambique",
+      "region": "Bazaruto Island, Inhambane",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.54778038172751",
+      "lng": "35.50180435180665"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dd456014-be35-4b34-9dc0-37e663066caf",
+    "name": "Aquarium",
+    "location": {
+      "country": "Mozambique",
+      "region": "Maputo, Mozambique",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-26.783774655162116",
+      "lng": "32.9127860069275"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e36ba4fb-d366-4773-a012-6bc2d7a70346",
+    "name": "Coral Garden",
+    "location": {
+      "country": "Mozambique",
+      "region": "Inhaca Island, Mozambique",
+      "ocean": [
+        "Indian Ocean",
+        "Baia De Maputo"
+      ]
+    },
+    "coordinates": {
+      "lat": "-26.01178244274336",
+      "lng": "32.90692806243897"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e473435b-9cdd-43e9-8d58-7130d6d0ddb5",
+    "name": "Turtles Creek",
+    "location": {
+      "country": "Mozambique",
+      "region": "Maputo, Mozambique",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-26.797029523607662",
+      "lng": "32.90248632431031"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e7c72524-3d6a-4be3-aaf9-fc34de846ff5",
+    "name": "Doodles",
+    "location": {
+      "country": "Mozambique",
+      "region": "Maputo, Mozambique",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-26.836938008111712",
+      "lng": "32.90345191955567"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e7e6bce8-43e1-4f8e-8be4-e15dde332ab3",
+    "name": "Giants Castle",
+    "location": {
+      "country": "Mozambique",
+      "region": "Inhambane, Mozambique",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.84470783627316",
+      "lng": "35.590038299560554"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "efd747db-be23-459c-89e3-8a79e1ff745d",
+    "name": "Krakatoa",
+    "location": {
+      "country": "Mozambique",
+      "region": "Inhambane, Mozambique",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.972136476587885",
+      "lng": "35.53999900817872"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f2731be4-077d-4e70-925e-8688b9e7d1be",
+    "name": "Greek Temple Reef",
+    "location": {
+      "country": "Mozambique",
+      "region": "Bazaruto Island, Inhambane",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.599502367748602",
+      "lng": "35.50570964813233"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f5c945fb-c806-4bca-9ca1-6211269cb544",
+    "name": "Buddies",
+    "location": {
+      "country": "Mozambique",
+      "region": "Inhambane, Mozambique",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.77529123645138",
+      "lng": "35.52180290222169"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f5ddf72f-a61c-4885-b713-a53390d87a29",
+    "name": "Whale Rock Reef",
+    "location": {
+      "country": "Mozambique",
+      "region": "Bazaruto Island, Inhambane",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.743555827731704",
+      "lng": "35.48300743103028"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f6f0ec6b-42d0-4f34-bb32-417b12c5a0c3",
+    "name": "Blacks",
+    "location": {
+      "country": "Mozambique",
+      "region": "Maputo, Mozambique",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-26.82736431719221",
+      "lng": "32.90499687194825"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fd125fed-126f-4b26-99ee-37eb4e45e334",
+    "name": "Ty-Louny",
+    "location": {
+      "country": "Mozambique",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Mayotte"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.74249331771326",
+      "lng": "44.9831771850586"
+    },
+    "additionalInfo": {}
+  }
+]

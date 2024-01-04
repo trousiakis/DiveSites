@@ -1,0 +1,1810 @@
+[
+  {
+    "id": "017f7bb0-a37c-4ca8-83f3-10068963d243",
+    "name": "Aquarium Reef",
+    "location": {
+      "country": "Turkey",
+      "region": "Fethiye, Mugla Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.61442534338386",
+      "lng": "29.0269947052002"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "079a18a7-75ec-4bd6-b1b2-f14fbee96fd8",
+    "name": "Mirmircalar",
+    "location": {
+      "country": "Turkey",
+      "region": "Kara Ada Island, Mugla Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.333708245505086",
+      "lng": "26.568664312362674"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0d0511bb-368e-4f2d-bae9-e376ff26a017",
+    "name": "Aquarium",
+    "location": {
+      "country": "Turkey",
+      "region": "Fethiye, Mugla Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.6181455021117",
+      "lng": "29.05497550964356"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0da25fed-65e9-4430-a05e-dc8e9f298675",
+    "name": "Camel",
+    "location": {
+      "country": "Turkey",
+      "region": "Tsatallota Adalari, Kas",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.15894422111003",
+      "lng": "29.631114006042484"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "111acc80-38b3-4aa5-8a57-f5db14bdf4c2",
+    "name": "Pina",
+    "location": {
+      "country": "Turkey",
+      "region": "Heybeli Adasi, Kas",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.162894122724154",
+      "lng": "29.621415138244632"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "12bb01d1-8f1f-4877-8a78-34c441f77286",
+    "name": "Douglas Dc3",
+    "location": {
+      "country": "Turkey",
+      "region": "Kas, Antalya Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.18942952802744",
+      "lng": "29.629268646240238"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "12e6894b-d131-4019-847a-0cf355d031f0",
+    "name": "Melanur Kayasi",
+    "location": {
+      "country": "Turkey",
+      "region": "Alibey Island, Turkey",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.395081183483946",
+      "lng": "26.619358062744144"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1827aa4a-037c-49ef-baaa-660c6ed427a4",
+    "name": "Paris Ii Wreck",
+    "location": {
+      "country": "Turkey",
+      "region": "Kemer, Antalya Province",
+      "ocean": [
+        "Asia",
+        "Turkey",
+        "Mediterranean Region",
+        "Antalya Province",
+        "Kemer"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.60884476874846",
+      "lng": "30.59151649475098"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1abd7046-cd62-48c2-89c3-b98de4b0597a",
+    "name": "Wolf Point",
+    "location": {
+      "country": "Turkey",
+      "region": "Mugla Province, Aegean Region",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.995423643990854",
+      "lng": "27.395181655883793"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1b34d67d-9619-4505-9483-db303d558991",
+    "name": "Lighthouse",
+    "location": {
+      "country": "Turkey",
+      "region": "Kara Ada Island, Mugla Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.99843985286533",
+      "lng": "27.424879074096683"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1b991b34-ad77-46be-8f0f-82291573b4d9",
+    "name": "Cape Karagoz",
+    "location": {
+      "country": "Turkey",
+      "region": "Alibey Island, Turkey",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.39030533696812",
+      "lng": "26.67308807373047"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1bbd8403-8283-4380-a86c-b192c32107cb",
+    "name": "Hans Tașlan",
+    "location": {
+      "country": "Turkey",
+      "region": "Izmir Province, Aegean Region",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea",
+        "Gulf Of Izmir"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.645332917865794",
+      "lng": "26.526982784271244"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1f2430ea-7036-4710-8b43-9ffe03cf80ee",
+    "name": "Flat Rock",
+    "location": {
+      "country": "Turkey",
+      "region": "Kara Ada Island, Mugla Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.95716225368113",
+      "lng": "27.480840682983402"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1f4608ad-4035-420f-8cef-a25f43dd46ca",
+    "name": "Flying Fish",
+    "location": {
+      "country": "Turkey",
+      "region": "Kovan Adasi, Kas",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.15145965125832",
+      "lng": "29.61935520172119"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1fb58e4e-d35b-40dc-a9de-25fad09a97ee",
+    "name": "Aslan Kayasi",
+    "location": {
+      "country": "Turkey",
+      "region": "Izmir Province, Aegean Region",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea",
+        "Gulf Of Izmir"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.64194751729549",
+      "lng": "26.528012752532963"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "209cb8af-d44f-467e-ad94-3c42fa3d308d",
+    "name": "Small Reef",
+    "location": {
+      "country": "Turkey",
+      "region": "Fethiye, Mugla Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.591824967731625",
+      "lng": "29.0160083770752"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "221efdb8-0334-4745-aa0d-27c9982a44fa",
+    "name": "Stone Island",
+    "location": {
+      "country": "Turkey",
+      "region": "Poyraz Island, Turkey",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.35109124334557",
+      "lng": "26.5949821472168"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "22ca3c46-c896-47b4-ae24-d2614eb44d82",
+    "name": "Cavem Drop Off",
+    "location": {
+      "country": "Turkey",
+      "region": "Fethiye, Mugla Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.57569748246182",
+      "lng": "29.02218818664551"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "242bbfad-c111-4240-a574-74a6330a2125",
+    "name": "Adabanko Reef",
+    "location": {
+      "country": "Turkey",
+      "region": "Aydin Province, Aegean Region",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.872549831535984",
+      "lng": "27.247295379638675"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "245f023b-24bb-48ba-be0d-09938b230003",
+    "name": "Adakule Cave",
+    "location": {
+      "country": "Turkey",
+      "region": "Aydin Province, Aegean Region",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.89202621002104",
+      "lng": "27.264826297760013"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2a69ace7-d938-4ba2-8b2e-a1953e5b7617",
+    "name": "Izmir Burnu",
+    "location": {
+      "country": "Turkey",
+      "region": "Izmir Province, Aegean Region",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea",
+        "Gulf Of Izmir"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.65044423448546",
+      "lng": "26.526210308074955"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2de32aa0-53f4-4886-b0d0-3561e760795e",
+    "name": "Three Towers",
+    "location": {
+      "country": "Turkey",
+      "region": "Maden Island, Turkey",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.398397551226275",
+      "lng": "26.595153808593754"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2f0a261d-6bd8-4336-9d52-297f7554c221",
+    "name": "Arkeopark",
+    "location": {
+      "country": "Turkey",
+      "region": "Kas, Antalya Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.19607929145354",
+      "lng": "29.61935520172119"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "32001d31-6bf9-48dd-986c-70bc7a893194",
+    "name": "Sailing Island",
+    "location": {
+      "country": "Turkey",
+      "region": "Poyraz Island, Turkey",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.3511576140491",
+      "lng": "26.589403152465824"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "346c24d4-f5b9-41c0-bc0f-3553ecd54210",
+    "name": "Kamil Reef",
+    "location": {
+      "country": "Turkey",
+      "region": "Aydin Province, Aegean Region",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.91843810745742",
+      "lng": "27.2631311416626"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "34dadce7-bfd9-47df-ac19-84d0322b6e5b",
+    "name": "Guvercin Ada",
+    "location": {
+      "country": "Turkey",
+      "region": "Kas, Antalya Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.19164617858065",
+      "lng": "29.611115455627445"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "37be8164-902b-4940-af79-d81a28a93427",
+    "name": "Snake Nose Reef",
+    "location": {
+      "country": "Turkey",
+      "region": "Aydin Province, Aegean Region",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.86580811128725",
+      "lng": "27.241587638854984"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "38399aac-40d0-4baf-92f1-4327d4f0a8e7",
+    "name": "Neptun",
+    "location": {
+      "country": "Turkey",
+      "region": "Kas, Antalya Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.18582733706129",
+      "lng": "29.609141349792484"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "385c1048-f4f1-43cf-85bf-7ace1844b1fd",
+    "name": "Buyuk Magara",
+    "location": {
+      "country": "Turkey",
+      "region": "Turkey, Asia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.15644944387139",
+      "lng": "29.649267196655277"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3a881d73-e64f-4f7a-994f-ba691c4944d5",
+    "name": "Ephesus Reef",
+    "location": {
+      "country": "Turkey",
+      "region": "Aydin Province, Aegean Region",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.923685496384586",
+      "lng": "27.26892471313477"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3ed788a8-f0ac-4332-a822-2681b47525f3",
+    "name": "Afkule Ii",
+    "location": {
+      "country": "Turkey",
+      "region": "Fethiye, Mugla Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.555705753177286",
+      "lng": "29.03746604919434"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "418eb99f-6a19-44a4-81f5-b2a828096292",
+    "name": "Captain Frangos",
+    "location": {
+      "country": "Turkey",
+      "region": "Dardanelles, Turkey",
+      "ocean": [
+        "Aegean Region"
+      ]
+    },
+    "coordinates": {
+      "lat": "40.06995609283826",
+      "lng": "26.31586074829102"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "427a1473-77f1-4e35-ad10-3f5c124a3544",
+    "name": "Big Reef",
+    "location": {
+      "country": "Turkey",
+      "region": "Mugla Province, Aegean Region",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.019001724461155",
+      "lng": "27.419557571411136"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "46a4d553-ec64-4c52-aedd-cac6136d602c",
+    "name": "Aquarium Reef",
+    "location": {
+      "country": "Turkey",
+      "region": "Aydin Province, Aegean Region",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.91490014040029",
+      "lng": "27.26179003715515"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "47820496-90d4-4bf5-b20b-d2e34c5b757b",
+    "name": "Koca Burun Reef",
+    "location": {
+      "country": "Turkey",
+      "region": "Kemer, Antalya Province",
+      "ocean": [
+        "Asia",
+        "Turkey",
+        "Mediterranean Region",
+        "Antalya Province",
+        "Kemer"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.59906056462974",
+      "lng": "30.59031486511231"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "484b8054-2e1b-4a96-8e06-85a1c8b935af",
+    "name": "Hms Irresistible Wreck",
+    "location": {
+      "country": "Turkey",
+      "region": "Aegean Region, Turkey",
+      "ocean": [
+        "Dardanelles"
+      ]
+    },
+    "coordinates": {
+      "lat": "40.09102456622062",
+      "lng": "26.339678764343265"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4bce5ea6-7678-4cd6-a847-61a9eecb3eb3",
+    "name": "Fantasy Reef",
+    "location": {
+      "country": "Turkey",
+      "region": "Aydin Province, Aegean Region",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.911243498023225",
+      "lng": "27.261468172073368"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5097576c-1cdf-4569-8e1f-e5681623cbbe",
+    "name": "Sariot",
+    "location": {
+      "country": "Turkey",
+      "region": "Sariada, Kas",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.12900165569652",
+      "lng": "29.65591907501221"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "524b13e4-f417-49e9-ad00-7a3c690cf6a3",
+    "name": "Kiris Cave Bay",
+    "location": {
+      "country": "Turkey",
+      "region": "Kemer, Antalya Province",
+      "ocean": [
+        "Asia",
+        "Turkey",
+        "Mediterranean Region",
+        "Antalya Province",
+        "Kemer"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.58989536063727",
+      "lng": "30.590572357177738"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5433e0b7-b61f-4cb1-a469-285c99000c21",
+    "name": "Pacoz Bay",
+    "location": {
+      "country": "Turkey",
+      "region": "Kara Ada Island, Mugla Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.984180356964366",
+      "lng": "27.43294715881348"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "552d0dd3-2281-491b-bcfb-d5ada597ec28",
+    "name": "Pine Bay Reef",
+    "location": {
+      "country": "Turkey",
+      "region": "Aydin Province, Aegean Region",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.90909344288729",
+      "lng": "27.261500358581547"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "56b29f03-9e99-4ae0-89f3-3e4184a32d95",
+    "name": "Imbat Burnu",
+    "location": {
+      "country": "Turkey",
+      "region": "Izmir Province, Aegean Region",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea",
+        "Gulf Of Izmir"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.65408058857107",
+      "lng": "26.521425247192386"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "56d756fd-8534-424f-829a-2a1b793e215f",
+    "name": "Big Reef",
+    "location": {
+      "country": "Turkey",
+      "region": "Fethiye, Mugla Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.58341704111031",
+      "lng": "29.018068313598636"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5b45ce5f-0bce-45a6-befb-c1c974463e03",
+    "name": "Sariyarlar Bay",
+    "location": {
+      "country": "Turkey",
+      "region": "Fethiye, Mugla Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.60698448746186",
+      "lng": "29.02098655700684"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "61365dae-280e-442b-95bd-86fd88ebf7ce",
+    "name": "Stonehenge",
+    "location": {
+      "country": "Turkey",
+      "region": "Kas, Antalya Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.19774164407363",
+      "lng": "29.62424755096436"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "712f17be-c784-499b-a2d1-69e9279c9289",
+    "name": "Aquarium Bay",
+    "location": {
+      "country": "Turkey",
+      "region": "Fethiye, Mugla Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.6217277075339",
+      "lng": "29.03025627136231"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "725f7430-26db-4d53-83f6-fed41c09c2e7",
+    "name": "Upper Poyraz",
+    "location": {
+      "country": "Turkey",
+      "region": "Kara Ada Island, Mugla Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.961963124877656",
+      "lng": "27.458696365356445"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7272a887-654f-4826-8e7c-dc71140f77fb",
+    "name": "C-47 Dakota Airplane Wreck",
+    "location": {
+      "country": "Turkey",
+      "region": "Kara Ada Island, Mugla Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.98143783973302",
+      "lng": "27.436552047729496"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "72999f0f-bbbf-4dd5-bbb0-b5f7cce5592c",
+    "name": "Heybeli Ic",
+    "location": {
+      "country": "Turkey",
+      "region": "Heybeli Adasi, Kas",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.159810444640144",
+      "lng": "29.62721943855286"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "739b9ce3-54ba-43d3-8df4-a8c7625d7b21",
+    "name": "Adakule Reef",
+    "location": {
+      "country": "Turkey",
+      "region": "Aydin Province, Aegean Region",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.88562497735838",
+      "lng": "27.264547348022464"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7969dada-cb08-4b62-aa1c-e17f87df6fa0",
+    "name": "Ozan Reef",
+    "location": {
+      "country": "Turkey",
+      "region": "Aydin Province, Aegean Region",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.92111262988708",
+      "lng": "27.26544857025147"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "79a95cf8-be43-4164-85eb-d828eb59d985",
+    "name": "Ezer Bay",
+    "location": {
+      "country": "Turkey",
+      "region": "Maden Island, Turkey",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.364496845591646",
+      "lng": "26.582450866699222"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7c30cd5c-e960-48be-8806-088d1cdf0d62",
+    "name": "Pamucak Reef",
+    "location": {
+      "country": "Turkey",
+      "region": "Aydin Province, Aegean Region",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.92040169037732",
+      "lng": "27.262573242187504"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "80f44aa2-a0cf-4422-ae33-bc3e5a25b26d",
+    "name": "Port Of Gavur",
+    "location": {
+      "country": "Turkey",
+      "region": "Gunes Island, Turkey",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.322114412071784",
+      "lng": "26.534900665283207"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "815fbf40-1971-4c60-844b-ff6aee749f79",
+    "name": "Kovanli",
+    "location": {
+      "country": "Turkey",
+      "region": "Kovanli Adasi, Kas",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.15450900669502",
+      "lng": "29.632401466369632"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8616be6f-caa1-40a2-b498-036ab87303fb",
+    "name": "Small Reef",
+    "location": {
+      "country": "Turkey",
+      "region": "Mugla Province, Aegean Region",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.020646433887805",
+      "lng": "27.431144714355472"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "864944ef-b2fe-498d-863d-05c30a94bac8",
+    "name": "Burgazada",
+    "location": {
+      "country": "Turkey",
+      "region": "Burgaz Island, Princes&#039; Islands",
+      "ocean": [
+        "Marmara Region"
+      ]
+    },
+    "coordinates": {
+      "lat": "40.87347747139475",
+      "lng": "29.06237840652466"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "866e0bac-97fd-48e8-ae01-6a70f046fb84",
+    "name": "Pmar - 1 Ship Wreck",
+    "location": {
+      "country": "Turkey",
+      "region": "Kara Ada Island, Mugla Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.96786092367781",
+      "lng": "27.448568344116214"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "876e5021-e83f-4eee-99e8-9f079debfee5",
+    "name": "Barbaros Reef",
+    "location": {
+      "country": "Turkey",
+      "region": "Aydin Province, Aegean Region",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.84296976287283",
+      "lng": "27.222833633422855"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8c627895-e0f0-4d88-802d-aad22de66279",
+    "name": "Afkule I",
+    "location": {
+      "country": "Turkey",
+      "region": "Fethiye, Mugla Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.55873931401893",
+      "lng": "29.034032821655277"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8ef9fe1e-0331-4dc7-ae7c-e129a7109fda",
+    "name": "Wreck Airbus A300 Plane",
+    "location": {
+      "country": "Turkey",
+      "region": "Aydin Province, Aegean Region",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.882712062928036",
+      "lng": "27.26119995117188"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8fed3846-cf59-4ac2-a9b9-b89a7fa1f5e5",
+    "name": "Shrimp&#039;s Hole",
+    "location": {
+      "country": "Turkey",
+      "region": "Fethiye, Mugla Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.563289431970894",
+      "lng": "29.03145790100098"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "90b11c28-68b4-4f32-b857-0edcd08c5fed",
+    "name": "Fener",
+    "location": {
+      "country": "Turkey",
+      "region": "Kas, Antalya Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.18492676343315",
+      "lng": "29.642529487609867"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "97598474-4560-4135-8752-6c7eeacc235d",
+    "name": "Besmi",
+    "location": {
+      "country": "Turkey",
+      "region": "Bayrak Adasi, Kas",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.155895038149474",
+      "lng": "29.61669445037842"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "99f5c23b-6af5-4789-b738-15d2e1f7cc85",
+    "name": "South Point",
+    "location": {
+      "country": "Turkey",
+      "region": "Kara Ada Island, Mugla Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.96676369337966",
+      "lng": "27.493543624877933"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9bfe526d-e80a-471f-9a6d-e8642e396f13",
+    "name": "Alacasu Bay",
+    "location": {
+      "country": "Turkey",
+      "region": "Kemer, Antalya Province",
+      "ocean": [
+        "Asia",
+        "Turkey",
+        "Mediterranean Region",
+        "Antalya Province",
+        "Kemer"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.535846777808466",
+      "lng": "30.559158325195316"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9f074b45-0805-426e-be0c-130c486d5136",
+    "name": "Smugglers Bay",
+    "location": {
+      "country": "Turkey",
+      "region": "Kara Ada Island, Mugla Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.97883235679567",
+      "lng": "27.44067192077637"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a08b89b8-46a9-4ab5-9fee-4526f5451dc5",
+    "name": "Caral Cavern",
+    "location": {
+      "country": "Turkey",
+      "region": "Fethiye, Mugla Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.57087236636443",
+      "lng": "29.024076461791996"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a0aa229f-d775-4455-9ac4-9c899335b066",
+    "name": "Kocadag",
+    "location": {
+      "country": "Turkey",
+      "region": "Alibey Island, Turkey",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.39600978234354",
+      "lng": "26.632061004638675"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a7d49d8b-d840-437f-831c-2b1e9e35bd63",
+    "name": "Poyraz Bay",
+    "location": {
+      "country": "Turkey",
+      "region": "Kara Ada Island, Mugla Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.96333474676604",
+      "lng": "27.46384620666504"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "aaa09229-c82f-4ba9-90e6-837053199310",
+    "name": "Bubble Cave",
+    "location": {
+      "country": "Turkey",
+      "region": "Kara Ada Island, Mugla Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.97128966642498",
+      "lng": "27.44256019592285"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ac05b0b1-330e-4446-bc41-a3019b2e40ca",
+    "name": "Lundy",
+    "location": {
+      "country": "Turkey",
+      "region": "Gallipoli Peninsula, Turkey",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "40.29382598173064",
+      "lng": "26.212005636189136"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "acfc1f82-5088-4dae-90c5-cffcc1e804c1",
+    "name": "Hidayet",
+    "location": {
+      "country": "Turkey",
+      "region": "Kas, Antalya Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.19566369778364",
+      "lng": "29.6142053604126"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ae8541f4-e285-4e2a-a563-e28c284ddb53",
+    "name": "Hms Goliath",
+    "location": {
+      "country": "Turkey",
+      "region": "Aegean Region, Turkey",
+      "ocean": [
+        "Dardanelles"
+      ]
+    },
+    "coordinates": {
+      "lat": "40.03119282751487",
+      "lng": "26.231060028076175"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b511d65d-334f-41cb-bd7a-dce5008ff1bf",
+    "name": "Kiris Aquarium Bay",
+    "location": {
+      "country": "Turkey",
+      "region": "Kemer, Antalya Province",
+      "ocean": [
+        "Asia",
+        "Turkey",
+        "Mediterranean Region",
+        "Antalya Province",
+        "Kemer"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.58458869236354",
+      "lng": "30.586581230163578"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b5ade999-aa49-4608-8937-8b40d4384dda",
+    "name": "Kanyon",
+    "location": {
+      "country": "Turkey",
+      "region": "Kovan Adasi, Kas",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.15319225412082",
+      "lng": "29.626564979553226"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b6fe8484-f4ad-461d-bf1b-c7aa94d5fb27",
+    "name": "Fener Burnu",
+    "location": {
+      "country": "Turkey",
+      "region": "Izmir Province, Aegean Region",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea",
+        "Gulf Of Izmir"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.65180160483574",
+      "lng": "26.517434120178223"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b76149f8-3c4f-4519-a99c-6b555df7a7ef",
+    "name": "Sg-115 Coast Guard Wreck",
+    "location": {
+      "country": "Turkey",
+      "region": "Kara Ada Island, Mugla Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.98582581985002",
+      "lng": "27.427625656127933"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b7b217d4-3901-485c-8547-a7e7c32b1f92",
+    "name": "Fridge Bay",
+    "location": {
+      "country": "Turkey",
+      "region": "Kara Ada Island, Mugla Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.99076199496119",
+      "lng": "27.422132492065433"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b803c5cc-1951-44b2-a966-f5206b4e1b85",
+    "name": "S.g. Batigi",
+    "location": {
+      "country": "Turkey",
+      "region": "Kas, Antalya Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.18333341549503",
+      "lng": "29.605193138122562"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bbf6198a-952c-466e-8be3-bba0bd396219",
+    "name": "Yilmaz&#039;s Cave",
+    "location": {
+      "country": "Turkey",
+      "region": "Kizil Adasi, Mugla Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.6495530173542",
+      "lng": "29.035577774047855"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c1f4ed27-6a77-4b65-92d4-1e32b9be4eff",
+    "name": "Tunel",
+    "location": {
+      "country": "Turkey",
+      "region": "Turkey, Asia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.15035076533756",
+      "lng": "29.65115547180176"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c56b61dd-2810-4815-baad-5089f83fee5b",
+    "name": "Lighthouse",
+    "location": {
+      "country": "Turkey",
+      "region": "Kemer, Antalya Province",
+      "ocean": [
+        "Asia",
+        "Turkey",
+        "Mediterranean Region",
+        "Antalya Province",
+        "Kemer"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.61201403352298",
+      "lng": "30.579843521118168"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c5c9698f-feac-4d32-a1d2-011a2506dec9",
+    "name": "Dalyan Bay",
+    "location": {
+      "country": "Turkey",
+      "region": "Fethiye, Mugla Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.5985782126122",
+      "lng": "29.018068313598636"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cdeca245-4174-4e5d-bfcb-6ac7f12c0649",
+    "name": "Three Rocks",
+    "location": {
+      "country": "Turkey",
+      "region": "Gunes Island, Turkey",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.3279240176903",
+      "lng": "26.529192924499515"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ce069405-593b-4dfe-80a6-fef9cb7ac7df",
+    "name": "West Kara Ada",
+    "location": {
+      "country": "Turkey",
+      "region": "Kara Ada Island, Mugla Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.34511762187131",
+      "lng": "26.573610305786136"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d3c2c8e5-fd15-4c90-bb45-3e9114293932",
+    "name": "Tarzans Bay",
+    "location": {
+      "country": "Turkey",
+      "region": "Fethiye, Mugla Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.62654964428433",
+      "lng": "29.070253372192383"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d97e1942-38ba-4917-99b8-69d4b9804b1c",
+    "name": "Gaulois Wreck",
+    "location": {
+      "country": "Turkey",
+      "region": "Dardanelles, Turkey",
+      "ocean": [
+        "Aegean Region"
+      ]
+    },
+    "coordinates": {
+      "lat": "40.00868343656941",
+      "lng": "26.250114440917972"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dcac52ef-b423-457e-9f4e-9ee5c32b37be",
+    "name": "Eagles Nose Bay",
+    "location": {
+      "country": "Turkey",
+      "region": "Fethiye, Mugla Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.627513995436594",
+      "lng": "29.038152694702152"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dd7dbcbe-9358-44c4-8a96-00d87fcc3623",
+    "name": "North Face",
+    "location": {
+      "country": "Turkey",
+      "region": "Gunes Island, Turkey",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.33267093713318",
+      "lng": "26.537861824035645"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e3f98cce-5c74-4d72-8686-6ad17dff77e0",
+    "name": "Capabanko",
+    "location": {
+      "country": "Turkey",
+      "region": "Kas, Antalya Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.184649661772134",
+      "lng": "29.59789752960205"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e47944f0-2cef-4bbf-bdd2-bb83875eeadc",
+    "name": "Pati Wreck",
+    "location": {
+      "country": "Turkey",
+      "region": "Kemer, Antalya Province",
+      "ocean": [
+        "Asia",
+        "Turkey",
+        "Mediterranean Region",
+        "Antalya Province",
+        "Kemer"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.57059663633864",
+      "lng": "30.591945648193363"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e5a1f137-98ad-40c2-9be5-8513d99b4315",
+    "name": "Aksona Bay",
+    "location": {
+      "country": "Turkey",
+      "region": "Kara Ada Island, Mugla Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.96086580957587",
+      "lng": "27.488565444946293"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ec215e2b-3c59-4a58-9d96-a4d33a313eb5",
+    "name": " Hms Majestic",
+    "location": {
+      "country": "Turkey",
+      "region": "Eceabat, Canakkale Province",
+      "ocean": [
+        "Aegean Region"
+      ]
+    },
+    "coordinates": {
+      "lat": "40.03681511027442",
+      "lng": "26.153640747070312"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ed7e8224-b872-4696-b439-4cdf6870dd45",
+    "name": "Maden Bogazi ",
+    "location": {
+      "country": "Turkey",
+      "region": "Alibey Island, Turkey",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.39667305967577",
+      "lng": "26.611633300781254"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ee3b6cce-9742-4c60-8f4c-12f7ef7acecf",
+    "name": "Heybeli Dis",
+    "location": {
+      "country": "Turkey",
+      "region": "Tsatallota Adalari, Kas",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.16330989026461",
+      "lng": "29.630266427993774"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eec49035-7072-4ec4-b3f4-0cc13306279f",
+    "name": "Orta Parkur",
+    "location": {
+      "country": "Turkey",
+      "region": "Izmir Province, Aegean Region",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea",
+        "Gulf Of Izmir"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.65250541637404",
+      "lng": "26.524472236633304"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f13398aa-65d5-4652-a194-f491e6dcc880",
+    "name": "Adakule Cavern",
+    "location": {
+      "country": "Turkey",
+      "region": "Aydin Province, Aegean Region",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.88863938376099",
+      "lng": "27.262616157531742"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fab35a38-efda-459d-837a-6e3d88f02d04",
+    "name": "Oasis",
+    "location": {
+      "country": "Turkey",
+      "region": "Kovan Adasi, Kas",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.155756436106515",
+      "lng": "29.623646736145023"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fd7876d7-d587-481d-b157-cd97500a1347",
+    "name": "Amphora Wreck",
+    "location": {
+      "country": "Turkey",
+      "region": "Ayvalık, Balikesir Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Aegean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.452100741148676",
+      "lng": "26.19552612304688"
+    },
+    "additionalInfo": {}
+  }
+]

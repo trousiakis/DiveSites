@@ -1,0 +1,87 @@
+[
+  {
+    "id": "1a8e974f-b28a-430d-8859-637f7631ba58",
+    "name": "Two Fantom Bank",
+    "location": {
+      "country": "Eritrea",
+      "region": "Semenawi Keyih Bahri, Eritrea",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.611847891605784",
+      "lng": "39.46701049804688"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "80ebdd97-ef23-4a39-8f23-7cdf64ca5ff2",
+    "name": "Dissei",
+    "location": {
+      "country": "Eritrea",
+      "region": "Massawa, Semenawi Keyih Bahri",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.43514841795241",
+      "lng": "39.98062133789063"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "96b477e3-6dc5-47ed-b961-493f93f50ec7",
+    "name": "Norah",
+    "location": {
+      "country": "Eritrea",
+      "region": "Norah, Dahlak Archipelago",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.076166285783778",
+      "lng": "40.01495361328126"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "af779da2-bb35-4ff0-ada3-c74e2cc36b2d",
+    "name": "Dry Dock",
+    "location": {
+      "country": "Eritrea",
+      "region": "Muzahdorf, Dahlak Archipelago",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.697747481750769",
+      "lng": "39.96345520019531"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f7511eb9-7117-47ea-81e1-7275e35cb4af",
+    "name": "Difnein",
+    "location": {
+      "country": "Eritrea",
+      "region": "Semenawi Keyih Bahri, Eritrea",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.536164463838773",
+      "lng": "39.19372558593751"
+    },
+    "additionalInfo": {}
+  }
+]

@@ -1,0 +1,1518 @@
+[
+  {
+    "id": "05771222-bbbb-4ae9-a635-558be20a2ab5",
+    "name": "Roches A Gaby",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Iranja, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.615123891746055",
+      "lng": "47.7927589416504"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "14b1a871-52a6-4b3e-b765-ba5bdff49f0f",
+    "name": "Pain De Sucre",
+    "location": {
+      "country": "Madagascar",
+      "region": "Anorotsangana, Madagascar",
+      "ocean": [
+        "Africa",
+        "Madagascar",
+        "Anorotsangana"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.499143484036322",
+      "lng": "47.94708251953126"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "15461f62-ad6e-4f00-b7bf-46ef0d74f9d8",
+    "name": "Arches",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Be, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.297921775250597",
+      "lng": "48.10226440429688"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1668498d-5dae-4e32-b57a-9ff781589379",
+    "name": "Manta Point",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Be, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.342355301036774",
+      "lng": "48.066730499267585"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "17ca57ba-5d0a-4c61-a1b8-e9dc137ca836",
+    "name": "Epave Mitsio",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Be, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.457076203381147",
+      "lng": "48.209037780761726"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "18320118-3dfc-4819-8d6b-b98422f8afb2",
+    "name": "Les Tetons",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Mitsio, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.030789828943393",
+      "lng": "48.53445947170258"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1f4b13f0-e0b7-48db-820a-9ecaceb01878",
+    "name": "Cathedrale",
+    "location": {
+      "country": "Madagascar",
+      "region": "Toliara, Madagascar",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.116680345997647",
+      "lng": "43.5252571105957"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "23008910-1096-43fa-a4c3-f156a665aa37",
+    "name": "Nord Castor",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Mitsio, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.889791861096619",
+      "lng": "48.44970703125001"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "238e2bd4-ba7a-4b01-829b-1bd3e0afbe3d",
+    "name": "Tombant Lava",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Valiha, Madagascar",
+      "ocean": [
+        "Africa",
+        "Madagascar",
+        "Nosy Valiha"
+      ]
+    },
+    "coordinates": {
+      "lat": "-14.530415228007362",
+      "lng": "47.43347167968751"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "25ee9eee-007f-4f6a-8a78-ae4f16e29d66",
+    "name": "Baramamay",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Iranja, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.705365726644388",
+      "lng": "47.67860412597657"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "29d7700a-079e-4aea-a6c9-515779ce0308",
+    "name": "Vato Soa",
+    "location": {
+      "country": "Madagascar",
+      "region": "Toliara, Madagascar",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.103102133216655",
+      "lng": "43.57589721679688"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2f2faa84-4ae8-4c9d-9a5f-4ec2adf5ad8d",
+    "name": "Sakatia Reef",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Be, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.301324449906895",
+      "lng": "48.07373412942981"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "39d28401-cb81-49de-9e6a-0a67f1519ffe",
+    "name": "Grand Castor",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Mitsio, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.736800512460297",
+      "lng": "47.757568359375"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3b26e2ae-8564-41ef-a1e3-cd75ba006e37",
+    "name": "Bobosse",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Be, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.314961159203603",
+      "lng": "48.102436065673835"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3b32a498-bd43-4724-8fcd-b02e193dfb08",
+    "name": "Banc Ankarea",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Mitsio, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.827870017757295",
+      "lng": "48.52661132812501"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3dbc161a-ca3c-4b42-a58d-cb142aefd61a",
+    "name": "Pilou",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Iranja, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.58993008809752",
+      "lng": "47.79773712158204"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "45e16388-be98-4a23-85fe-7402784d0ed7",
+    "name": "Betaniazo",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Mitsio, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.027774247532093",
+      "lng": "48.53489398956299"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "467de908-b02c-4d88-b7c2-89b59bd2f29a",
+    "name": "Gg Point",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Ambariovato, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.497098718036263",
+      "lng": "48.37499141693116"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4760df4e-d645-4944-8a1b-129f95a08a4f",
+    "name": "Bank Des Freres",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Mitsio, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.028526839746371",
+      "lng": "48.53494763374329"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4c78d1f8-a3fb-4361-a342-d1dcc0cdf0a5",
+    "name": "Epave Requin",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Ambariovato, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.515500981180539",
+      "lng": "48.350915908813484"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4da0e157-556f-4541-8ba7-ebe5cd7ed270",
+    "name": "Vato Be",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Ambariovato, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.500729208873928",
+      "lng": "48.37125778198243"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4ea4d38f-0470-4825-a15a-93c273c5535c",
+    "name": "Nosy Satrana",
+    "location": {
+      "country": "Madagascar",
+      "region": "Toliara, Madagascar",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.665594086876176",
+      "lng": "43.62842559814454"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4fc98dd5-75c3-47ac-8b69-eba2e6793fa0",
+    "name": "Janjac",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Iranja, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.882079025203508",
+      "lng": "47.625045776367195"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "508dd63f-1aa0-42bc-9d0b-b4c30770fb62",
+    "name": "Roland Point",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Be, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.360560665265373",
+      "lng": "48.028793334960945"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "50f1406b-2c7f-4336-bc7b-7dbbd2563331",
+    "name": "Bevata",
+    "location": {
+      "country": "Madagascar",
+      "region": "Toliara, Madagascar",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.14809443160031",
+      "lng": "43.55426788330079"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "543987b3-1bf7-4ffd-b5fc-cfb29a9e2a1d",
+    "name": "Alimadi",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Valiha, Madagascar",
+      "ocean": [
+        "Africa",
+        "Madagascar",
+        "Nosy Valiha"
+      ]
+    },
+    "coordinates": {
+      "lat": "-14.211804390102667",
+      "lng": "47.56050109863282"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "57212500-3001-4215-9be3-65b362382a4e",
+    "name": "Shark Point",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Be, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.300260585174197",
+      "lng": "48.03016662597657"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5c1ef9f5-d2f4-413a-847c-928b9e7ab425",
+    "name": "Zebra 40",
+    "location": {
+      "country": "Madagascar",
+      "region": "Toliara, Madagascar",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.16892785478574",
+      "lng": "43.5630226135254"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5e27b15e-d904-48e4-92b6-1935dd40cd1b",
+    "name": "Cyclone",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Valiha, Madagascar",
+      "ocean": [
+        "Africa",
+        "Madagascar",
+        "Nosy Valiha"
+      ]
+    },
+    "coordinates": {
+      "lat": "-14.223119826861737",
+      "lng": "47.533721923828125"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "68eef9f7-2455-45c2-b4a2-f76d1646adf1",
+    "name": "Ankaranjelita",
+    "location": {
+      "country": "Madagascar",
+      "region": "Toliara, Madagascar",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.082021606723647",
+      "lng": "43.589630126953125"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "697cabc1-41b3-4736-816a-b719d7d04472",
+    "name": "Greg&#039;s Wall",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Valiha, Madagascar",
+      "ocean": [
+        "Africa",
+        "Madagascar",
+        "Nosy Valiha"
+      ]
+    },
+    "coordinates": {
+      "lat": "-14.169865780716009",
+      "lng": "47.59689331054688"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6aef860c-82a3-4d50-b86c-8a5533a927ad",
+    "name": "Recif Vanile",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Ambariovato, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.499393862342727",
+      "lng": "48.36593627929688"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6de2679b-f2d6-498f-9a90-f9ec89cfbe9a",
+    "name": "Napoleon",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Berafia, Radama Archipelago",
+      "ocean": [
+        "Africa",
+        "Madagascar",
+        "Antsiranana",
+        "Radama Archipelago",
+        "Nosy Berafia"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.924736835233936",
+      "lng": "47.67791748046876"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "72982715-13c8-44d3-9a7e-665d72ac801e",
+    "name": "Chameau ",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Be, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.336175186494927",
+      "lng": "48.09539794921876"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "733c4efa-381b-42c9-ada2-6a170e75b1f8",
+    "name": "Akio Reef",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Mitsio, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.035854041597823",
+      "lng": "48.543412685394294"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7855cb67-0bd4-41ae-98b3-b33ca2b1d3a6",
+    "name": "Colors",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Ambariovato, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.495512969079277",
+      "lng": "48.36945533752442"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "85235c74-dda7-48db-aa26-b1242d15c7bf",
+    "name": "Vato Animo",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Ambariovato, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.51182898764294",
+      "lng": "48.19049835205079"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "85e07812-d5db-47d9-9822-4814a80149f4",
+    "name": "Piton Gabriel",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Iranja, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.62079629883316",
+      "lng": "47.799625396728516"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "86e10f44-c9e8-4835-a75a-6ec41b59f247",
+    "name": "Ankazo Reef",
+    "location": {
+      "country": "Madagascar",
+      "region": "Anorotsangana, Madagascar",
+      "ocean": [
+        "Africa",
+        "Madagascar",
+        "Anorotsangana"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.474438200382698",
+      "lng": "47.99926757812501"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9112f335-4449-40d1-aeba-df77b78274ff",
+    "name": "Banc Du Castor Sud",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Mitsio, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.8938078850613",
+      "lng": "48.45417022705079"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9655d29f-ed90-4b78-937b-f38e25815a56",
+    "name": "Banc Dive",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Mitsio, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.716707237037012",
+      "lng": "48.50257873535157"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9945786e-899f-4568-a241-b3a7964dbd16",
+    "name": "Sud Canyon",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Iranja, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.622965124408795",
+      "lng": "47.78846740722656"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9a369ee2-a34f-46ee-9e5f-89eb087ef7a4",
+    "name": "Nurserie",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Valiha, Madagascar",
+      "ocean": [
+        "Africa",
+        "Madagascar",
+        "Nosy Valiha"
+      ]
+    },
+    "coordinates": {
+      "lat": "-14.123258234950852",
+      "lng": "47.53646850585938"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9d239c0f-71aa-4db7-bddb-85fba561bc40",
+    "name": "Sinseb",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Mitsio, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.266876445665366",
+      "lng": "48.632011413574226"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9d52bd61-2f57-4809-8944-72ddb86a8a6a",
+    "name": "Nosy Komba Plongee",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Ambariovato, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.442300820117717",
+      "lng": "48.35718154907227"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9d8d2964-a9bd-43bb-afce-8a4501395e39",
+    "name": "Tombant Kalakajoro",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Berafia, Radama Archipelago",
+      "ocean": [
+        "Africa",
+        "Madagascar",
+        "Antsiranana",
+        "Radama Archipelago",
+        "Nosy Berafia"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.95739140096076",
+      "lng": "47.69783020019532"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9de3e9ed-9d10-423f-861e-bde7f363dc9b",
+    "name": "Vato Be",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Mitsio, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.032153884033246",
+      "lng": "48.55111598968506"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a0c9984c-b31d-444f-bf79-f807412531ed",
+    "name": "Beangovo",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Mitsio, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.028798608594949",
+      "lng": "48.53585958480836"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a1294df5-748f-4de9-b8be-ca2a4e5dd985",
+    "name": "Tanikely South",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Ambariovato, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.488335236818244",
+      "lng": "48.2411813735962"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a1b113ed-1865-427e-87db-1306b66e412a",
+    "name": "Plateau Kalakajoro",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Berafia, Radama Archipelago",
+      "ocean": [
+        "Africa",
+        "Madagascar",
+        "Antsiranana",
+        "Radama Archipelago",
+        "Nosy Berafia"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.97938064578949",
+      "lng": "47.63946533203126"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a4a9556c-fb29-4a7f-b283-d34355d6ab74",
+    "name": "Dos De Baleine",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Mitsio, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.936306851970128",
+      "lng": "48.49433898925782"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a9ae7af7-4163-40e6-9267-697b0bb33836",
+    "name": "Rock Sebastien",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Mitsio, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.434564930487374",
+      "lng": "48.63544464111329"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "aa58ec23-a948-46c9-a606-ca886d902bf2",
+    "name": "Jardin De Corail",
+    "location": {
+      "country": "Madagascar",
+      "region": "Toliara, Madagascar",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.136176888518005",
+      "lng": "43.58619689941407"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "aa6a0174-f72f-4043-9dda-e0004e8308da",
+    "name": "Abyss",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Be, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.373921526424207",
+      "lng": "48.039779663085945"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "acfbeb3f-9b2b-4e2b-beac-1cfda50dbdf6",
+    "name": "Tortuga",
+    "location": {
+      "country": "Madagascar",
+      "region": "Toliara, Madagascar",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.16229938980886",
+      "lng": "43.562850952148445"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "add89e9a-158b-4931-98bf-be1a55488648",
+    "name": "Massif De Roses",
+    "location": {
+      "country": "Madagascar",
+      "region": "Toliara, Madagascar",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.132546168188956",
+      "lng": "43.59512329101563"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ae77dfe6-9850-4e15-9784-3f807be226df",
+    "name": "Tombant Ouest Iranja",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Iranja, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.57457890766894",
+      "lng": "47.798080444335945"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "af9f18eb-acb8-471c-b364-b2e60fc69ad5",
+    "name": "Betalinjona",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Mitsio, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.028160996594577",
+      "lng": "48.535387516021736"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b86ad110-312f-4d67-a87f-69b6a961fa51",
+    "name": "Riban&#039;ny Gege",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Valiha, Madagascar",
+      "ocean": [
+        "Africa",
+        "Madagascar",
+        "Nosy Valiha"
+      ]
+    },
+    "coordinates": {
+      "lat": "-14.281019363254686",
+      "lng": "47.48908996582032"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b88527df-53aa-42e9-9a56-12a83d6041f8",
+    "name": "Tombant Saba",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Valiha, Madagascar",
+      "ocean": [
+        "Africa",
+        "Madagascar",
+        "Nosy Valiha"
+      ]
+    },
+    "coordinates": {
+      "lat": "-14.36817331711789",
+      "lng": "47.48016357421876"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b9fa52c4-8db4-40d6-9709-e78850771379",
+    "name": "Rock Lava",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Mitsio, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.749525429957345",
+      "lng": "48.663253784179695"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c56e4b1d-35da-4145-a530-a3a4264576f2",
+    "name": "Deux Soeurs",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Mitsio, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.035017852635969",
+      "lng": "48.55034351348878"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ca786806-b681-4aa4-b8a5-437d1883ad0f",
+    "name": "Banc Des Gorgones",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Be, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.435705863511187",
+      "lng": "48.21298599243164"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cd9484f4-985d-484a-b6c7-ceb9ef447795",
+    "name": "Les Tetons",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Mitsio, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.004725003918074",
+      "lng": "48.48541259765626"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cf2bdce4-f806-4207-86d4-536d5b2e439d",
+    "name": "Tombant Black",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Iranja, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.776067096663065",
+      "lng": "47.64907836914063"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cfb8afdf-ad4c-41b3-a5f2-fc8864fac8a6",
+    "name": "Leopard",
+    "location": {
+      "country": "Madagascar",
+      "region": "Toliara, Madagascar",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.11083872508472",
+      "lng": "43.52096557617188"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d036479e-efe3-423c-b96d-0a1b8790096d",
+    "name": "Mozambique",
+    "location": {
+      "country": "Madagascar",
+      "region": "Toliara, Madagascar",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.40276490540795",
+      "lng": "43.59375000000001"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d1856be1-6025-4118-8d23-f8c80021b462",
+    "name": "Frere",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Mitsio, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.974783923203109",
+      "lng": "48.485240936279304"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d4e5b515-19d7-4ccb-9d78-8d5e75b07090",
+    "name": "Passe Sud",
+    "location": {
+      "country": "Madagascar",
+      "region": "Toliara, Madagascar",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.1556705967459",
+      "lng": "43.55993270874024"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d8ae5fb3-e46b-4057-b800-0747842d64d3",
+    "name": "Antsoha",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Mitsio, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.002885153354834",
+      "lng": "48.49691390991212"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d9f79b74-17fd-427c-b84b-b00d889fd16b",
+    "name": "Tombant Est Nosy Iranja",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Iranja, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.580919733080059",
+      "lng": "47.81318664550782"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "da14886a-02c7-40a8-8615-e66e70d38bf1",
+    "name": "Tanikely West",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Ambariovato, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.49058873413353",
+      "lng": "48.23345661163331"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "df21a7d9-9ad9-45ca-8983-9d0df275a2a4",
+    "name": "Tanikely 3",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Ambariovato, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.479279301785175",
+      "lng": "48.23980808258057"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e41c228a-fbaa-4a11-ae3d-c97525c0ee6f",
+    "name": "Nosy Toloho",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Mitsio, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.02640494194227",
+      "lng": "48.537409901618965"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e47f18ab-11bf-45d0-9002-364261a76fec",
+    "name": "La Casquette",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Mitsio, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.994522024329195",
+      "lng": "48.488502502441406"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e5e91fa4-9195-4e52-80f2-1ee197a2836f",
+    "name": "Banc Des Pirogues",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Ambariovato, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.511995897667031",
+      "lng": "48.27838897705078"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e9598df1-890b-4c3e-9342-6944f273c3ca",
+    "name": "L&#039;arche",
+    "location": {
+      "country": "Madagascar",
+      "region": "Toliara, Madagascar",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.141149237282395",
+      "lng": "43.548431396484375"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eb8c0d57-5b10-4ee0-b484-aa57ad341ab9",
+    "name": "3 Roches",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Valiha, Madagascar",
+      "ocean": [
+        "Africa",
+        "Madagascar",
+        "Nosy Valiha"
+      ]
+    },
+    "coordinates": {
+      "lat": "-14.144565727245109",
+      "lng": "47.566680908203125"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eef855a4-3b19-4311-8c27-313e59e284a7",
+    "name": "Fusillers",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Be, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.319972514562327",
+      "lng": "48.05282592773438"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f1915c19-fbe1-44f3-a07d-6e408a9d5c44",
+    "name": "Antsoha",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Mitsio, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.027220254579476",
+      "lng": "48.53550553321839"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f1b59375-8d2a-4248-aacb-81d5be20d1a0",
+    "name": "Epave Zaida / Zaida Wreck",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Be, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.447893868981309",
+      "lng": "48.22689056396485"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f1bb22f8-48fe-4735-b97b-7f1cf5b4f225",
+    "name": "Sniper",
+    "location": {
+      "country": "Madagascar",
+      "region": "Toliara, Madagascar",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.134835112021317",
+      "lng": "43.542594909667976"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f64f5b18-2ec8-4396-99b4-fe4d04951bac",
+    "name": "Banc Des Lutjans",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Ambariovato, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.511161346378204",
+      "lng": "48.35675239562988"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f7b77f40-39d3-4618-9649-949a32d56275",
+    "name": "Rosario",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Be, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.36039364981649",
+      "lng": "48.085784912109375"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fa5c06be-39e2-4dae-b989-66a130e875e1",
+    "name": "Atman",
+    "location": {
+      "country": "Madagascar",
+      "region": "Anorotsangana, Madagascar",
+      "ocean": [
+        "Africa",
+        "Madagascar",
+        "Anorotsangana"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.425687860984777",
+      "lng": "48.01437377929688"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fdede812-607f-4154-8d78-fa96905fb623",
+    "name": "Licorne",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Be, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.278709268693333",
+      "lng": "48.088188171386726"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fe964995-f551-4444-a3c5-2b4552f0b803",
+    "name": "Banc Intermediaire",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Mitsio, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.977794921312826",
+      "lng": "48.30688476562501"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ffffbd1b-68e0-40f5-8e20-1f5569888d1f",
+    "name": "Kassimo",
+    "location": {
+      "country": "Madagascar",
+      "region": "Nosy Mitsio, Diana",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.022370150155346",
+      "lng": "48.55244636535645"
+    },
+    "additionalInfo": {}
+  }
+]

@@ -1,0 +1,271 @@
+[
+  {
+    "id": "004be366-ea26-4b12-b196-ebed8afcd9c5",
+    "name": "Scire",
+    "location": {
+      "country": "Israel",
+      "region": "Haifa, Israel",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.905652586101695",
+      "lng": "34.96244537248105"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1b6c1e58-886e-4d02-90ae-ebe5c7d09131",
+    "name": "Dolphin Reef",
+    "location": {
+      "country": "Israel",
+      "region": "Eilat, Israel",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.525110292488055",
+      "lng": "34.93643760681153"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "29bde45c-1dea-4a52-8c84-704630a6c500",
+    "name": "Amphibious Vehicles",
+    "location": {
+      "country": "Israel",
+      "region": "Eilat, Israel",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.54486516438045",
+      "lng": "34.96955157257617"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "32c201c4-2513-4f31-8cc8-645ec1d8978a",
+    "name": "Veronica Beach (Rock)",
+    "location": {
+      "country": "Israel",
+      "region": "Eilat, Israel",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.497491988958544",
+      "lng": "34.91253376007081"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5bf95936-d8cb-49d2-a89f-21cae7f63443",
+    "name": "The Caves",
+    "location": {
+      "country": "Israel",
+      "region": "Eilat, Israel",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.49444757936531",
+      "lng": "34.91444349288941"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "65937080-346c-4996-9542-838fa69a73b0",
+    "name": "The University",
+    "location": {
+      "country": "Israel",
+      "region": "Eilat, Israel",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.496726127121022",
+      "lng": "34.91776943206788"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7d6baf07-869a-4ef3-be29-9a6dcc56644a",
+    "name": "Katza",
+    "location": {
+      "country": "Israel",
+      "region": "Eilat, Israel",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.52113325412792",
+      "lng": "34.93369102478028"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7e3bb41c-fc42-4de5-a703-7bffe1950ac0",
+    "name": "The Paradise",
+    "location": {
+      "country": "Israel",
+      "region": "Eilat, Israel",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.513737011678426",
+      "lng": "34.93043918162584"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "808ce9c2-eab7-451b-bfbd-5d5e650e7251",
+    "name": "Neptune&#039;s Tables",
+    "location": {
+      "country": "Israel",
+      "region": "Eilat, Israel",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.490263882823708",
+      "lng": "34.90697622299195"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8d1f8197-77ac-4191-a8c4-9f78d48a105c",
+    "name": "The Japanese Gardens",
+    "location": {
+      "country": "Israel",
+      "region": "Eilat, Israel",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.499901067204522",
+      "lng": "34.9211597442627"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9288f2a9-f821-401d-a5b6-bb3f24a2ec76",
+    "name": "The Pyramid",
+    "location": {
+      "country": "Israel",
+      "region": "Eilat, Israel",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.5480212398279",
+      "lng": "34.957635439932346"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9a1f6cef-57c5-45ad-859d-0289954c4a6a",
+    "name": "Sunboat",
+    "location": {
+      "country": "Israel",
+      "region": "Eilat, Israel",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.544395777060366",
+      "lng": "34.96984720230103"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b0f67455-c462-4470-89c6-4acacef76be8",
+    "name": "Yatush",
+    "location": {
+      "country": "Israel",
+      "region": "Eilat, Israel",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.505279562078773",
+      "lng": "34.925622940063484"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c5abb68d-fc6a-4b41-b279-08792adb857b",
+    "name": "Princess Beach",
+    "location": {
+      "country": "Israel",
+      "region": "Eilat, Israel",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.497379799392256",
+      "lng": "34.91103172302247"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f0c261e0-25bf-43ad-a67f-2ba06a6af394",
+    "name": "Satil Wreck",
+    "location": {
+      "country": "Israel",
+      "region": "Eilat, Israel",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.515496061800057",
+      "lng": "34.92742538452149"
+    },
+    "additionalInfo": {}
+  }
+]

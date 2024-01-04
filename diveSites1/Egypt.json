@@ -1,0 +1,6499 @@
+[
+  {
+    "id": "000d8da4-088c-4756-9482-9453c6e38f97",
+    "name": "Sharm El Rashed South",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.93263037366474",
+      "lng": "33.94170284271241"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "00267e32-cd4e-411a-a756-460d90b480fb",
+    "name": "White Knight",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Africa",
+        "Egypt",
+        "Sinai",
+        "Sharm El Sheikh"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.958471944144936",
+      "lng": "34.400210380554206"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0085062e-fbf5-48dc-abd0-df3368f99b30",
+    "name": "Naama Bay",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.910456240332447",
+      "lng": "34.32944297790528"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "011bfe97-fae2-49b4-9d98-4d6ddf3ff831",
+    "name": "Caves",
+    "location": {
+      "country": "Egypt",
+      "region": "Dahab, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.43363810403696",
+      "lng": "34.4577169418335"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "011fd27f-273d-46fa-8f89-093a06833c8d",
+    "name": "Marsa Breka",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.788914853536284",
+      "lng": "34.20655488967896"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "01867192-cb87-439e-90f4-b11da106bc67",
+    "name": "Shaab Abu Nugar",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Red Sea Governorate"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.356506424745195",
+      "lng": "33.83883476257325"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "01eb853e-61f2-487b-9b69-1c5ec3d4c00b",
+    "name": "Kilo 10",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.049380400629538",
+      "lng": "34.34051513671876"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0256d6d8-647f-4018-8130-35e3dca4b184",
+    "name": "El Sayej",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.1556049159234",
+      "lng": "33.889882564544685"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "03a298af-e64b-4ed2-914a-900bc727600e",
+    "name": "Turft El Shahed / Torfet El Shahid",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.206930747364563",
+      "lng": "33.952817916870124"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "06604e1b-594a-4ac1-8ff0-1230954a451f",
+    "name": "Rock Sea",
+    "location": {
+      "country": "Egypt",
+      "region": "Nuweibaa, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.130570984840702",
+      "lng": "34.71143245697022"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0771a3af-6c4f-4ab6-bf5d-68a7a3bced4d",
+    "name": "Shab El Fanadir",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.308905037441363",
+      "lng": "33.81729125976563"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "07d92d13-0db6-405f-8b2b-eeae242a91e7",
+    "name": "Million Hope (Wreck)",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.056910765227393",
+      "lng": "34.44838285446168"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "082de283-1be0-4d1f-870b-0e04e027fe81",
+    "name": "Ras Bob",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Africa",
+        "Egypt",
+        "Sinai",
+        "Sharm El Sheikh"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.963248069180533",
+      "lng": "34.41814899444581"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "084c088d-cd07-4162-9902-15bcde2ccaba",
+    "name": "Bawaki",
+    "location": {
+      "country": "Egypt",
+      "region": "Nuweibaa, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.288794393648296",
+      "lng": "34.76786613464356"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "09bbbade-e222-4f6f-aaa4-9a6708ff0577",
+    "name": "Rocky Island",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Shlatin, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "23.56524590044569",
+      "lng": "36.25848770141602"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0a2f61ed-d911-44fa-a2d1-cf043eebdafb",
+    "name": "Ras Umm Sid",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.84605838261865",
+      "lng": "34.31643962860108"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0b38e4eb-35c1-40dd-9a83-c0217b4a4c4c",
+    "name": "Serib Kebir North",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.025087712979673",
+      "lng": "34.3266736670628"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0bf26600-9107-4992-97c3-f98a1b9b3afa",
+    "name": "The Nursery",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Shlatin, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "23.180763583129444",
+      "lng": "35.80307006835938"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0dbf322a-def9-48b4-99b7-3eb522d3b3a1",
+    "name": "Canyon",
+    "location": {
+      "country": "Egypt",
+      "region": "Nuweibaa, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.46829664171322",
+      "lng": "34.8757553100586"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0f62cbb5-13f9-4a96-9313-6251f30ec4e4",
+    "name": "Green Hole",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.569490680213978",
+      "lng": "34.09727096557618"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0fc810fe-e169-4602-b22d-1107da916665",
+    "name": "Jackson Reef",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Africa",
+        "Egypt",
+        "Sinai",
+        "Sharm El Sheikh"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.012588980895192",
+      "lng": "34.4712781906128"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "105650a7-c7c4-4de5-b0bf-13bedceaaf79",
+    "name": "Sha&#039;ab Elaria",
+    "location": {
+      "country": "Egypt",
+      "region": "Nuweibaa, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.961891028622578",
+      "lng": "34.694652557373054"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "10a52911-9d6a-496b-9e09-29d08c190698",
+    "name": "Bluff Point",
+    "location": {
+      "country": "Egypt",
+      "region": "Jubal Island, Qesm Hurghada",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.672582756144017",
+      "lng": "33.81437301635743"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "11cbee3b-57bd-4953-9de6-310e324b4e84",
+    "name": "Umm Dom/stoney Beach",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.252798320062606",
+      "lng": "33.93590927124024"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "11f9a06d-2610-4c14-86f0-641821c38707",
+    "name": "Marsa Sharm",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.759925963409984",
+      "lng": "35.07050514221192"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "124c03e2-e3fc-462c-ace1-a8826978f41b",
+    "name": "Habili St John&#039;s Wood",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Shlatin, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "23.388900683144275",
+      "lng": "35.81542968750001"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1283f783-5f06-4d70-8183-7b4970b55a62",
+    "name": "Myserique North",
+    "location": {
+      "country": "Egypt",
+      "region": "Dahab, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.815198263947067",
+      "lng": "34.65963363647462"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "128bd995-f372-451d-9500-fb977f33366e",
+    "name": "Sharm Trombi",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "25.374878274488918",
+      "lng": "34.74288940429688"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "12d8162e-b165-4077-aa80-c98ee30b465f",
+    "name": "Shaab Quais",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.668819337327523",
+      "lng": "35.12175679206849"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "12f562c0-191c-413a-a893-bfddbd94da53",
+    "name": "Nabq",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Africa",
+        "Egypt",
+        "Sinai",
+        "Sharm El Sheikh"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.042591756889042",
+      "lng": "34.44754600524903"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "13f381d3-0de1-444d-92f6-951ce3c0e0c0",
+    "name": "Shaab Eschta",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.669550560708018",
+      "lng": "35.125586986541755"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "14507ccf-b1bb-4d9b-a90b-847eb587aa17",
+    "name": "Pipeline Coral Garden",
+    "location": {
+      "country": "Egypt",
+      "region": "Nuweibaa, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.936655405241098",
+      "lng": "34.70701217651368"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "174924e3-950a-4e85-ad65-ed4e4539d0f2",
+    "name": "Ras Mumlah Coral Garden",
+    "location": {
+      "country": "Egypt",
+      "region": "Dahab, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.696610907306912",
+      "lng": "34.634227752685554"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "176e0263-daa3-4f86-aa03-dadaaf72951c",
+    "name": "Grand Coral",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.00033152806982",
+      "lng": "33.91451597213746"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "178fb510-e277-4b87-885c-9dfc0aa5e906",
+    "name": "St John Reef",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Shlatin, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "23.279196216873363",
+      "lng": "35.81405639648438"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "17e98226-b3b2-460c-9ef7-d7ddf67a3985",
+    "name": "Dahara Malafat",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.72048190011734",
+      "lng": "35.13698101043702"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "185930c4-f5ef-46f4-9741-a8b123ca736d",
+    "name": "Eel Garden",
+    "location": {
+      "country": "Egypt",
+      "region": "Dahab, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.505241391229923",
+      "lng": "34.52277660369874"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "18cdec43-53ea-4e5b-8e48-653ee2e1ab3e",
+    "name": "Ras Abu Soma",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.849191151547622",
+      "lng": "34.01015281677247"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1ad71cc8-1744-484c-b119-175a762104fa",
+    "name": "Arug Kebir",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.72975939594471",
+      "lng": "35.12865543365479"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1c0477d2-8281-4fcb-9ea9-f288f25cfafa",
+    "name": "Moray Garden",
+    "location": {
+      "country": "Egypt",
+      "region": "Dahab, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.4320153390502",
+      "lng": "34.460656642913825"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1d85c2a2-8593-4cba-98a8-ce126a074d7e",
+    "name": "Tobia Hamra",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.824989916628194",
+      "lng": "33.98543357849122"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1da08759-8b0c-4587-b7d2-c9c20b8ff6f7",
+    "name": "Golden Blocks",
+    "location": {
+      "country": "Egypt",
+      "region": "Dahab, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.44167608456863",
+      "lng": "34.473617076873786"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1db21f58-56b2-41ab-a5a4-4f0517a6d0a0",
+    "name": "El Fanadir Dacht",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.295081234226323",
+      "lng": "33.830487728118904"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1e0891e5-49df-407e-9485-c88efed505a4",
+    "name": "The Valley",
+    "location": {
+      "country": "Egypt",
+      "region": "Nuweibaa, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.14886305907201",
+      "lng": "34.7314739227295"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1ef67946-9ecd-4058-8dbb-6323ef8c98cb",
+    "name": "Orabi",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Shlatin, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "23.747639913652666",
+      "lng": "35.72238922119141"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1f3fc35f-0761-47a2-846a-dc4303d5e11f",
+    "name": "Beacon Reef",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.703344696295424",
+      "lng": "34.12799835205079"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "20cde8ff-3492-4c2d-b0ed-ea1c21f85a32",
+    "name": "Angelfish",
+    "location": {
+      "country": "Egypt",
+      "region": "Nuweibaa, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.182140281833586",
+      "lng": "34.747953414917"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "21426ea7-e586-4061-b280-08855b42b213",
+    "name": "Shaab Saiman",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.008055286042925",
+      "lng": "33.9135503768921"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "21a1dbe1-7041-46f4-b53a-a4ab405015a8",
+    "name": "Marsa Kharita",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.836590057455755",
+      "lng": "34.275670051574714"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "22155750-932d-4ad0-ad44-c3601e540dc5",
+    "name": "Thistlegorm",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.807194725281807",
+      "lng": "33.9184856414795"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "224a0bcf-fe40-42bc-941c-b1c3706e23d4",
+    "name": "Ricks Reef",
+    "location": {
+      "country": "Egypt",
+      "region": "Dahab, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.584823194857794",
+      "lng": "34.547538757324226"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "229c0e97-c182-48d5-ab03-b3973be1478f",
+    "name": "The Simkers",
+    "location": {
+      "country": "Egypt",
+      "region": "Nuweibaa, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.909009336798892",
+      "lng": "34.711132049560554"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2381b293-db7c-459f-aad8-8b9412e4eb09",
+    "name": "House Reef",
+    "location": {
+      "country": "Egypt",
+      "region": "Nuweibaa, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.917424137873535",
+      "lng": "34.70649719238282"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "23dced33-3720-4f1f-a6c6-bce5f1e04875",
+    "name": "Habili Soraya",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.666635391314273",
+      "lng": "35.13019502162934"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "24909528-1145-4644-98d0-9d33f54e7dc0",
+    "name": "Manta Point",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.428766110076534",
+      "lng": "33.870162963867195"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "24cc8b8a-1c7c-489a-aa9d-44cbff030018",
+    "name": "Aschra Arug",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.73053898593351",
+      "lng": "35.131573677062995"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2555372c-69e2-407f-96d4-23d67f476589",
+    "name": "Cave Reef",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Shlatin, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "23.613617643866345",
+      "lng": "35.85697174072266"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "25f3fa0b-fe49-4d7a-91dc-69b7aa471812",
+    "name": "Rosalie Moller",
+    "location": {
+      "country": "Egypt",
+      "region": "Jubal Island, Qesm Hurghada",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.636698718024398",
+      "lng": "33.777294158935554"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "25fcd212-7344-463e-a161-b5fd763a1923",
+    "name": "Shab Tiffany",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.161044289197935",
+      "lng": "33.900478364084854"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "27a36095-90d7-4a7e-9f48-350e7cf237bf",
+    "name": "Tobia Kebir",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.811125487750815",
+      "lng": "33.976743221282966"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "28b5e1e2-73a6-46b7-8c0a-b7c3b8f0ac23",
+    "name": "Kingston",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.77591152683427",
+      "lng": "33.872909545898445"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "28cb38e6-1d54-41a7-b2cf-377df84a387e",
+    "name": "Habili Etnin Arug",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.737087348941245",
+      "lng": "35.12775421142579"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2a9bc181-8dc6-42b8-9f5e-b8ba04830e46",
+    "name": "Sug Bohar",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "25.983971488262128",
+      "lng": "34.39304351806641"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2b11f9a9-5a27-4b7b-a66c-03bc4e74ee07",
+    "name": "Fanadira",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.215632537568336",
+      "lng": "33.97590637207032"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2c8640aa-4bde-4b6d-b378-56ef899a9bf7",
+    "name": "Abu Hashish South Ergs",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.010502306586133",
+      "lng": "33.92438650131226"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2d56b3f3-7cf9-44bd-ac7d-cc1c7f15d1e1",
+    "name": "The Alternatives",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.729425699914003",
+      "lng": "34.206962585449226"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2dc7f524-0cab-4433-a993-e30ccff2db7b",
+    "name": "Ras Ghazali",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.787757680353074",
+      "lng": "34.261164665222175"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2eb854a8-d228-4611-975e-5d4520b86ced",
+    "name": "Middle Reef",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.700532454155333",
+      "lng": "34.055814743042"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2f1872a5-08a8-4ecf-89db-4c31234e8d12",
+    "name": "Casus Soraya",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.544308558627424",
+      "lng": "34.11598205566407"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2fb3b4a1-c340-4813-a0db-7e3456123f9a",
+    "name": "Erg Somaya",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.22563112396671",
+      "lng": "33.95496368408204"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "302cf496-9f25-4ef0-8015-60158252c9d8",
+    "name": "Ras Za&#039;atar",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.75851964404838",
+      "lng": "34.25406217575074"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3087feb5-d1fd-4ce5-98ab-c1f2024dd7db",
+    "name": "Shaab Shehr",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.6339562379738",
+      "lng": "34.09881591796876"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "31fbcf6b-7b7b-4e96-82c6-ed0a3348fa11",
+    "name": "Ashelaniat",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.673460095656566",
+      "lng": "35.13377845287324"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "328d552f-8bdc-4253-b471-c71acffff5f5",
+    "name": "Mersa Shouna",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.14175023531847",
+      "lng": "34.21417236328126"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "32c72fdf-24c4-4329-80df-ef2d3b11e239",
+    "name": "Um Um Raicher",
+    "location": {
+      "country": "Egypt",
+      "region": "Nuweibaa, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.08107611660672",
+      "lng": "34.69817161560059"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "32c756e1-91b6-45d5-b27d-9a2af41a78f6",
+    "name": "Habili Wadi Gimal",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.701612926589725",
+      "lng": "35.317611694335945"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3355eea0-a202-4402-baf4-c5ba6b95c347",
+    "name": "Quseir El-Qadim",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.15667063025148",
+      "lng": "34.27871704101563"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "336760ca-0f9b-40f4-b7fe-2ec12c9148ee",
+    "name": "Outside Rock Sea",
+    "location": {
+      "country": "Egypt",
+      "region": "Nuweibaa, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.13791819275266",
+      "lng": "34.718813896179206"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3378e683-9525-4637-9fdf-c86cc7ccb36f",
+    "name": "Fayoum",
+    "location": {
+      "country": "Egypt",
+      "region": "Faiyum, Faiyum Governorate",
+      "ocean": [
+        "Africa",
+        "Egypt",
+        "Faiyum Governorate",
+        "Faiyum"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.391747742992806",
+      "lng": "30.745239257812504"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "34c5319a-e66f-445c-a3c6-904c073cba30",
+    "name": "Shab Rahma",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.326251092131383",
+      "lng": "34.1796834988479"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3530b63c-a79a-4e5b-8921-f6aa2113a28c",
+    "name": "Turtle Paradise",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.005264088203244",
+      "lng": "33.91447305679322"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "35544986-153d-41d2-b78c-c5c132b11dc8",
+    "name": "Shab James",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.24867787992345",
+      "lng": "33.93178939819337"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3575ca53-cc55-4d51-84b3-981824e6d18b",
+    "name": "Abu Read",
+    "location": {
+      "country": "Egypt",
+      "region": "Red Sea Governorate, Egypt",
+      "ocean": [
+        "Qesm Shlatin"
+      ]
+    },
+    "coordinates": {
+      "lat": "23.961786304086395",
+      "lng": "35.943249017000205"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "35bb3cf0-eb64-451d-840d-960d93fe1191",
+    "name": "Shark Reef",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.73124904731783",
+      "lng": "34.26185131072999"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "36174625-fbb3-449d-a3cd-cbcf848429bc",
+    "name": "El Kaf",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "25.78752652911788",
+      "lng": "34.567794799804695"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "362e8414-a910-4bb6-94e5-03f9ca23797f",
+    "name": "Woodhouse Reef",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Africa",
+        "Egypt",
+        "Sinai",
+        "Sharm El Sheikh"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.00182837293748",
+      "lng": "34.46323156356812"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "366c7e45-310d-48c6-bc52-2bf5a9acc0a6",
+    "name": "Akassia Swiss Housereef",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "25.916712005998036",
+      "lng": "34.40742015838624"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3686cb8c-e66d-4598-9b93-249f8377287c",
+    "name": "Zabargad",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Shlatin, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "23.633201663141445",
+      "lng": "36.18930816650391"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "37a0f82e-7ce1-4a1c-80b5-da056cf1cfac",
+    "name": "Poseidon&#039;s Garden",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.40263260432913",
+      "lng": "33.88243675231934"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "385787db-6a22-4b2e-b12f-66d6318caeec",
+    "name": "Ras Mumlah South",
+    "location": {
+      "country": "Egypt",
+      "region": "Dahab, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.69058765425071",
+      "lng": "34.625988006591804"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "385dc4a2-65c2-4e3c-8037-2b7a63930974",
+    "name": "El Malek",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Africa",
+        "Egypt",
+        "Red Sea Governorate",
+        "Qesm Hurghada"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.070743371266484",
+      "lng": "33.89419555664063"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3bd24444-3808-4677-b22b-98634a55e8f2",
+    "name": "El Hibeq South",
+    "location": {
+      "country": "Egypt",
+      "region": "Dahab, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.747192544786",
+      "lng": "34.63766098022462"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3de6fa1c-dd30-4b26-9b8d-bef771b89496",
+    "name": "Umm Hal Hal",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.73279976927202",
+      "lng": "35.12745380401612"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3e097205-0870-4b36-a63f-4dc8db578c6e",
+    "name": "Jackfish Alley",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.74401162496463",
+      "lng": "34.256701469421394"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3fe403cc-6ebb-4fa2-98be-291b97414693",
+    "name": "Sadana Amphores",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.901558379538677",
+      "lng": "33.96964073181153"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "40b414fd-d217-48be-be8f-bba6e094c09a",
+    "name": "Shab Nugar",
+    "location": {
+      "country": "Egypt",
+      "region": "Red Sea Governorate, Egypt",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.347831237458",
+      "lng": "33.8225269317627"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "40d1b14b-8f29-4c19-b048-84fffbdc635d",
+    "name": "Gorgonia",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.169887107795308",
+      "lng": "33.98641205043532"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "421db715-874a-4d8e-83e8-4fd0297483d4",
+    "name": "Siyal Island",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Shlatin, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.897683210648072",
+      "lng": "36.28646850585938"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "42cc499b-01f9-4421-8e5c-b29ace3173dd",
+    "name": "Tablecoral Valley",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.003772871914517",
+      "lng": "33.9154601097107"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "435df79e-70cf-4cb1-a2a2-294388a913ca",
+    "name": "Ras Burg",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.753620555330844",
+      "lng": "34.2525601387024"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "436af5e6-c3e0-4385-a37d-5dc299024736",
+    "name": "Shaab Sabrina",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.219906852270004",
+      "lng": "33.96260261535645"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "43e17b9e-98f4-4eae-b631-f8a21b2ecca1",
+    "name": "Abu Kefan",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.72679971144327",
+      "lng": "34.11615371704102"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "44082b0e-1a74-4d47-9beb-e06554cbda74",
+    "name": "Carless Reef",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.307570400498005",
+      "lng": "33.94397735595704"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "442851b8-c729-48b8-975f-c8bdf0f226c3",
+    "name": "Ras El-Gazira",
+    "location": {
+      "country": "Egypt",
+      "region": "Lake Timsah, Egypt",
+      "ocean": [
+        "Africa",
+        "Egypt",
+        "Lake Timsah"
+      ]
+    },
+    "coordinates": {
+      "lat": "30.55581236418197",
+      "lng": "32.30418205261231"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "445430bb-5fb7-44ee-98a2-0a979d8c9519",
+    "name": "Abu Hashish",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.02334829035376",
+      "lng": "33.924365043640144"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4568c762-52aa-4a3a-8e92-122b8ce9beaa",
+    "name": "Abu Makadi Middle",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.99478691923475",
+      "lng": "33.905825614929206"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "45a3a8de-5e60-47c8-a3dc-795f44883398",
+    "name": "Rasif El Robat",
+    "location": {
+      "country": "Egypt",
+      "region": "Port Fouad, Port Said Governorate",
+      "ocean": [
+        "Africa",
+        "Egypt",
+        "Port Said Governorate",
+        "Port Fouad"
+      ]
+    },
+    "coordinates": {
+      "lat": "31.24148072330657",
+      "lng": "32.31328010559083"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "46a4f03f-b1a8-4560-b480-26ea64a6bc02",
+    "name": "Mfo North",
+    "location": {
+      "country": "Egypt",
+      "region": "Nuweibaa, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.94386621069577",
+      "lng": "34.70769882202149"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "47584189-d07e-45d1-a8b5-19cbda9694b8",
+    "name": "Ulysses",
+    "location": {
+      "country": "Egypt",
+      "region": "Jubal Island, Qesm Hurghada",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.68808831325894",
+      "lng": "33.79866600036622"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4919e9b6-959b-4e8b-b125-54ff3dc3b712",
+    "name": "Habili Aija",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.73817870925531",
+      "lng": "35.133376121521"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4a6705a4-5dee-4a8b-91a5-c5a6b16d945a",
+    "name": "Abu Telha",
+    "location": {
+      "country": "Egypt",
+      "region": "Dahab, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.53642531994957",
+      "lng": "34.518356323242195"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4c2f0002-f7e7-40ac-a2a3-40d525d22ac3",
+    "name": "Marsa Shouni",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "25.425158011545957",
+      "lng": "34.70443725585938"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4d684b2b-15eb-47ad-80ac-377095a9054d",
+    "name": "Abu Nuhas",
+    "location": {
+      "country": "Egypt",
+      "region": "Shadwan, Qesm Hurghada",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.577677346218785",
+      "lng": "33.933849334716804"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4e08176b-8e55-42a8-8696-89ca2425f73e",
+    "name": "Coral Beach House Reef",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Africa",
+        "Egypt",
+        "Red Sea Governorate",
+        "Qesm Hurghada"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.085894105684226",
+      "lng": "33.87177228927613"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4e12d858-6c23-4c9f-8b13-40fe7fcddf17",
+    "name": "Gamul Kebir",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.7837746551621",
+      "lng": "33.988738059997566"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4e9df46e-3a78-448c-ba39-2da740dd7527",
+    "name": "Ras Abu Soma Garden",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.83816338212942",
+      "lng": "33.98886680603028"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4eba0a08-a723-43d6-9dc2-8c118d030c16",
+    "name": "Satellite Reef",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.724202400497486",
+      "lng": "34.257409572601325"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "501ef6ee-ec39-41cd-ac52-43d90502fa21",
+    "name": "Susanna",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.20212157179689",
+      "lng": "33.85437011718751"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "50337131-2034-4909-83fe-66fdd47602cd",
+    "name": "P-Ghalib Fischmarket",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "25.5337215941957",
+      "lng": "34.64074230272672"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "505c2e2a-91a4-4ba0-855b-2f473fd7d11a",
+    "name": "Mashraba",
+    "location": {
+      "country": "Egypt",
+      "region": "Dahab, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.490419194161678",
+      "lng": "34.522089958190925"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "521da6fb-ad8e-4c1a-8fbb-8b88c35538ef",
+    "name": "Erg Gubar",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.656144117793332",
+      "lng": "35.13227105140687"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "53a8d7a1-0e99-42f1-9c70-7c4093e65c77",
+    "name": "Shab Abu Gate",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.388610916794864",
+      "lng": "33.878660202026374"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "540647e6-eae3-4fc7-bc9a-dc898ad8799e",
+    "name": "Ras Abu Galum",
+    "location": {
+      "country": "Egypt",
+      "region": "Dahab, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.61006869894749",
+      "lng": "34.55987691879273"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "540a08f9-624f-42c6-86de-316baf6e7e0e",
+    "name": "Far Garden",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.91496536791039",
+      "lng": "34.35849130153657"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "564a60ac-53f5-4437-9612-5c96c82dee37",
+    "name": "Bannerfish Bay",
+    "location": {
+      "country": "Egypt",
+      "region": "Dahab, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.495247008566704",
+      "lng": "34.52193975448609"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "574eb660-f0a0-40c6-a25e-43236a62d8a3",
+    "name": "Swisscare Reef",
+    "location": {
+      "country": "Egypt",
+      "region": "Nuweibaa, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.97931203672246",
+      "lng": "34.69396591186524"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "590c8ec5-e14a-4c12-900a-2c0274286ba6",
+    "name": "Shabrur Umm Gamar",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.33212515018013",
+      "lng": "33.91797065734864"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5c0c81c8-7351-4302-a1a8-e12c94d702c9",
+    "name": "Palm Royale House Reef",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.837206728868942",
+      "lng": "33.95375652238727"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5c558175-c5d8-4e98-adf4-589eba0df8aa",
+    "name": "Wadi Gimal Garden",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.677203774860473",
+      "lng": "35.13638019561768"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5d178ff7-bed7-4972-824e-484dffcaa372",
+    "name": "Shaab Petra ",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.14279135455761",
+      "lng": "33.87831687927247"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5d87dde7-727c-4c1e-9540-a2153b4c8eaf",
+    "name": "Golden Dolphin",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.33761490945199",
+      "lng": "34.05761718750001"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5e408f8b-e1b2-495b-a299-9879add6d0d3",
+    "name": "Sharm El Arab South",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.9586446710571",
+      "lng": "33.93024444580079"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5e910033-8255-4a12-a9dd-1ffd92cdd24f",
+    "name": "Shab Abu Ramada",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.13782665122083",
+      "lng": "33.954277038574226"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6038755c-fec4-4797-b0c1-e16f010b60ca",
+    "name": "Wadi Gimal House Reef 3",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.690840753184307",
+      "lng": "35.08914756879676"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "606d8bcf-2bbb-4c06-8750-bb903e0e77e5",
+    "name": "Hamrawein",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.350036674507894",
+      "lng": "34.16473388671876"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "60c17dd2-e77e-4f4a-9401-ddc1ae5f6d27",
+    "name": "Abu Lou Lou",
+    "location": {
+      "country": "Egypt",
+      "region": "Nuweibaa, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.90420057259017",
+      "lng": "34.70151901245118"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "60d3208d-3c2a-4afc-950d-cbb7d8ca72c3",
+    "name": "Gamul Soraya",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.79557386229882",
+      "lng": "33.992031812667854"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "60f52b8a-ea7e-400c-a365-d1cb0284189a",
+    "name": "Sharm El Naga Housereef",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.89821708311131",
+      "lng": "33.96393299102784"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "61fcfc42-cb91-4d1b-84fd-301acb1af158",
+    "name": "Shaab Tag",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.9897009342309",
+      "lng": "33.90816450119019"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "63477f6e-c6f0-43f7-9636-a1d5f60101d2",
+    "name": "Pharaon&#039;s Island",
+    "location": {
+      "country": "Egypt",
+      "region": "Nuweibaa, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.476964557202727",
+      "lng": "34.90244865417481"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "63606dbb-3b47-48a6-804f-6e2396a43812",
+    "name": "Shaab Quais",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.705746460781043",
+      "lng": "34.11246299743653"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6395fa26-1569-4a30-bdab-b6b5e5b28d02",
+    "name": "Alkerf",
+    "location": {
+      "country": "Egypt",
+      "region": "Shadwan, Qesm Hurghada",
+      "ocean": [
+        "Africa",
+        "Egypt",
+        "Red Sea Governorate",
+        "Qesm Hurghada",
+        "Shadwan"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.452227661315074",
+      "lng": "34.00817871093751"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "63d9ea34-9995-4d3c-a91d-d11f7d440fec",
+    "name": "Shaab Abu Ali",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.020901549529775",
+      "lng": "33.91477346420289"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6439692d-97b2-4af7-b281-4b994239a408",
+    "name": "Marsa Nakari Housereef",
+    "location": {
+      "country": "Egypt",
+      "region": "Red Sea Governorate, Egypt",
+      "ocean": [
+        "Qesm Marsa Alam"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.92623896120862",
+      "lng": "34.96211171150208"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6532e262-c86d-430d-a5f3-ee3f475cc1d4",
+    "name": "Umm Halhala South",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "25.34080683879085",
+      "lng": "34.794001579284675"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "663c854a-267d-4cef-acc5-5db8e33c4e7e",
+    "name": "Blue Hole",
+    "location": {
+      "country": "Egypt",
+      "region": "Dahab, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.570652912719336",
+      "lng": "34.538333415985115"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "666d4d26-3ca6-4757-a7dd-8b418c72b24a",
+    "name": "Umm Gamar Nord",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.369937975166774",
+      "lng": "33.90844345092774"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "66b02263-4cd5-4828-9f2d-ca89c51cd632",
+    "name": "Siyul Ketira",
+    "location": {
+      "country": "Egypt",
+      "region": "Shadwan, Qesm Hurghada",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.561243062320802",
+      "lng": "33.86381149291993"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "67fc704c-6905-4188-9f0c-70baadeff79b",
+    "name": "Cleopatra&#039;s Palace",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.998018121066085",
+      "lng": "33.909881114959724"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6815e247-99b9-4623-936e-1ec1ed6dfdc0",
+    "name": "Lonely Mushroom",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.73428789187072",
+      "lng": "34.16533470153809"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "69290a9f-dc15-48c0-8cee-2356a41378df",
+    "name": "Shaab Sabina",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.221051730145227",
+      "lng": "33.95170211791993"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "69700967-2636-40dc-83ad-b5149457d10f",
+    "name": "Adjasent To Blue Hole",
+    "location": {
+      "country": "Egypt",
+      "region": "Dahab, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.572933100279833",
+      "lng": "34.53878402709962"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6a068bf2-f2f0-4ffa-ba26-0bd5ccea788b",
+    "name": "Paradise Reef",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Shlatin, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "23.587855751839946",
+      "lng": "35.84945350885392"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6b7a3c10-6b16-468c-9c8f-b3c8be967082",
+    "name": "Ras Mohammed",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.718258633941126",
+      "lng": "34.2564868927002"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6bc0ace6-162f-4fce-b30b-9253be611377",
+    "name": "Duna",
+    "location": {
+      "country": "Egypt",
+      "region": "Nuweibaa, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.99237586798493",
+      "lng": "34.703364372253425"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6bcacd89-5906-49da-9aeb-f99c6f3d3498",
+    "name": "Disha Malag",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.041200238967015",
+      "lng": "33.90393733978272"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6bdd7b7c-0b79-4ba7-8517-5ec9f0277d7e",
+    "name": "Sha&#039;ab Marsa Alam",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "25.03459428825369",
+      "lng": "34.9251937866211"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6bfe23b0-7180-4ace-be98-8eae6f47eb60",
+    "name": "Chrisoula K. (Marcus) Wreck Of The Tiles",
+    "location": {
+      "country": "Egypt",
+      "region": "Shadwan, Qesm Hurghada",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.580397134970024",
+      "lng": "33.928570747375495"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6c09bfb2-b8f2-4535-98e6-c85f4afbedc5",
+    "name": "Ray Hole",
+    "location": {
+      "country": "Egypt",
+      "region": "Nuweibaa, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.027504878982143",
+      "lng": "34.70696926116944"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6d5b6576-9edc-41a1-8a35-9943c8f60ee9",
+    "name": "La Sirene",
+    "location": {
+      "country": "Egypt",
+      "region": "Nuweibaa, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.98712050207599",
+      "lng": "34.70628261566163"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6da22c7f-7fab-48a0-b154-5f5d47069daa",
+    "name": "Abu Ramada Plateau",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.179446949877068",
+      "lng": "33.98380279541016"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6e01df8c-3445-4747-bc57-961ce05bf4a4",
+    "name": "Blue Hole",
+    "location": {
+      "country": "Egypt",
+      "region": "Dahab, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.57225470253345",
+      "lng": "34.53741073608399"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6f138719-2fdb-4025-8d84-34a4b9a60671",
+    "name": "Shab Manta",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.26012317010544",
+      "lng": "33.92698287963868"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6fb83436-d058-4628-99e9-2c26df1f3a6c",
+    "name": "Turtle Bay",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.864119172125463",
+      "lng": "34.32315587997437"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7021f322-c8d5-4987-b5b7-5d9961097a6b",
+    "name": "Beit Goha",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "25.861695091343652",
+      "lng": "34.51904296875001"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "710f4ac5-c86f-4e37-9ea9-50b8a3f9dfd4",
+    "name": "Ras Ghamila",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Africa",
+        "Egypt",
+        "Sinai",
+        "Sharm El Sheikh"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.971927945754043",
+      "lng": "34.42556262016297"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7273c952-3de4-456b-877a-1eeb03e6252e",
+    "name": "Shab Heluwa",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.405909155361044",
+      "lng": "33.852910995483406"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "72d92698-3e30-4187-bd8b-c8b4e4b38a37",
+    "name": "Sharm El Arab",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.978266188598994",
+      "lng": "33.92170429229737"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "73784540-db0d-4ccc-9fe0-822ec8244363",
+    "name": "Castle Beach",
+    "location": {
+      "country": "Egypt",
+      "region": "Nuweibaa, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.212410180890057",
+      "lng": "34.75001335144044"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "74dad468-a65c-4ec5-9ea9-b132f9723f55",
+    "name": "Anemone City",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.728476027727297",
+      "lng": "34.260435104370124"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "75198106-64c7-413d-b896-16912cc47848",
+    "name": "Tobia Arbaa",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.841418217473805",
+      "lng": "33.98672103881837"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "76e844db-66c0-43a8-a33a-4b66d2f115bf",
+    "name": "Horseshoe Reef",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Shlatin, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "23.704894502324912",
+      "lng": "35.711145401000984"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "777fe255-7c38-433f-bf31-78113487eea6",
+    "name": "Lighthouse",
+    "location": {
+      "country": "Egypt",
+      "region": "Dahab, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.498867724459092",
+      "lng": "34.52202558517457"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "778bef98-2065-460b-870f-bfeaaf4571b6",
+    "name": "Siyul Kebir",
+    "location": {
+      "country": "Egypt",
+      "region": "Shadwan, Qesm Hurghada",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.55652535960256",
+      "lng": "33.87702941894532"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7993f65e-e339-4c5c-8ee2-b24e02f2ccde",
+    "name": "Wadi Gimal North",
+    "location": {
+      "country": "Egypt",
+      "region": "Jazirat Wadi Jimal, Qesm Marsa Alam",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.677905702199762",
+      "lng": "35.145821571350105"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "79e606b2-2a55-48c2-9a79-d65cfb34924e",
+    "name": "Laguna Reef",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Africa",
+        "Egypt",
+        "Sinai",
+        "Sharm El Sheikh"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.018347737890533",
+      "lng": "34.48694229125977"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7b31ce60-6631-49b4-8bff-be6f19df83fc",
+    "name": "Bet Goha",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.204734267107604",
+      "lng": "34.27047729492188"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7b3354c1-31bc-4d8e-be56-3b99e740a70b",
+    "name": "Gorgonia Beach Northside",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.704770949897817",
+      "lng": "35.09127616882325"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7b3d2037-b71b-4236-ab16-3764b35b8d20",
+    "name": "Nuwelba Village",
+    "location": {
+      "country": "Egypt",
+      "region": "Nuweibaa, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.998681954498533",
+      "lng": "34.700102806091316"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7c00d641-96de-4e6d-8159-faf69b135d91",
+    "name": "Elphinstone Reef",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "25.351472502592568",
+      "lng": "34.977035522460945"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7d1308ae-0a4b-459b-b34f-70cd3cf3886c",
+    "name": "Three Pools",
+    "location": {
+      "country": "Egypt",
+      "region": "Dahab, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.423410494987063",
+      "lng": "34.45962667465211"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7da947d1-92d5-4a9d-8803-d83762a38d5e",
+    "name": "White Rock",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Shlatin, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "23.7212399910099",
+      "lng": "35.65423965454102"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7f8689a8-2269-454e-aff1-de59236061a5",
+    "name": "Malag Gubal",
+    "location": {
+      "country": "Egypt",
+      "region": "Jubal Island, Qesm Hurghada",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.644606381943326",
+      "lng": "33.81866455078126"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7fe6f142-a432-4741-a167-75be20a04667",
+    "name": "Dolphin Bay",
+    "location": {
+      "country": "Egypt",
+      "region": "Nuweibaa, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.2738215926495",
+      "lng": "34.77061271667481"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "80c34293-85ae-4db6-a6fc-3cb62a64414f",
+    "name": "Gordon Reef",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Africa",
+        "Egypt",
+        "Sinai",
+        "Sharm El Sheikh"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.985022245849624",
+      "lng": "34.45033013820649"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "80c6f56e-fc61-4d4f-9c58-66d9ef633f2e",
+    "name": "Om Sid",
+    "location": {
+      "country": "Egypt",
+      "region": "Dahab, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.38415145897281",
+      "lng": "34.45136547088624"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "832b1e97-fc74-4962-bdc1-0389307a2b15",
+    "name": "Timsah Lake - El Faransawy",
+    "location": {
+      "country": "Egypt",
+      "region": "Lake Timsah, Egypt",
+      "ocean": [
+        "Africa",
+        "Egypt",
+        "Lake Timsah"
+      ]
+    },
+    "coordinates": {
+      "lat": "30.581400934419683",
+      "lng": "32.2721028327942"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "85c7486b-81bf-43e5-8d59-d7c8c3bb76ca",
+    "name": "Torfa Abu Makadi",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.99941381858981",
+      "lng": "33.91367912292481"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "88b8560a-758e-4818-a74d-beb69c0bcd2d",
+    "name": "Shaab Claude",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.652675136457972",
+      "lng": "34.06886100769044"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8af47eef-edba-4f81-8d06-c738b42e1458",
+    "name": "Masa Mubarak",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "25.512250782482333",
+      "lng": "34.65349674224854"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8deb6d63-fb26-4db1-8c82-2e6ec2d6917a",
+    "name": "Sachwa Abu Galawa",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.304862944820176",
+      "lng": "33.81840705871583"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8e363f40-156e-423d-9b9f-adc580cc1d15",
+    "name": "The Pools",
+    "location": {
+      "country": "Egypt",
+      "region": "Dahab, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.43631749873258",
+      "lng": "34.45853233337403"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8e72b75a-9073-4c3d-8e29-e15b220af2f2",
+    "name": "The Barge",
+    "location": {
+      "country": "Egypt",
+      "region": "Jubal Island, Qesm Hurghada",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.67708643520531",
+      "lng": "33.80441665649415"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8ed0bc3c-f55f-415c-8a1f-828452298177",
+    "name": "Paradise",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.859035136500882",
+      "lng": "34.320838451385505"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8f8781f1-cbbe-4215-81d6-5ef21871081d",
+    "name": "Blind Reef",
+    "location": {
+      "country": "Egypt",
+      "region": "Shadwan, Qesm Hurghada",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.52714929684864",
+      "lng": "33.889904022216804"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "915b64d7-cc2b-4b23-9317-7f1a90e633ba",
+    "name": "Salem Express Wreck",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.60633258984547",
+      "lng": "34.07873153686524"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "920562fd-8124-4af4-b948-9ecf3a8397fc",
+    "name": "Utopia Housereef Northcave",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "25.947973343084083",
+      "lng": "34.386559640676616"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "928bf606-50de-49e7-8b8e-7bf6d95566ac",
+    "name": "Siyul Saghira",
+    "location": {
+      "country": "Egypt",
+      "region": "Shadwan, Qesm Hurghada",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.53323824520593",
+      "lng": "33.85557174682618"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9367380b-df7f-4695-a368-bb077a11eb88",
+    "name": "Shark&#039;s Bay",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Africa",
+        "Egypt",
+        "Sinai",
+        "Sharm El Sheikh"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.94467306257741",
+      "lng": "34.387539625167854"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "93bb600c-6ff2-47ad-a151-d2b6f0784f2a",
+    "name": "Shab Dorfa",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.2299126884793",
+      "lng": "33.95254325761926"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "944427e7-d8ef-4195-addd-2918628cc30c",
+    "name": "Gotha Ashelaniat ",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.671705207345415",
+      "lng": "35.132592916488655"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9480597b-079d-4791-a0a1-c6f8906ac0f2",
+    "name": "Giftun Stone Beach",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.241504897860334",
+      "lng": "33.93316268920899"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "94d4ec48-abdd-4fca-b57a-1d381ba2004c",
+    "name": "Giftun Soraya",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.184073863680755",
+      "lng": "33.97583770594793"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "95363f21-791d-40a2-8834-cfaa812878fe",
+    "name": "Marsa Abu Galawa",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.30360452744368",
+      "lng": "33.81909370422364"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9627b3c7-cfba-41fc-8f54-057fa425be59",
+    "name": "Myserique South",
+    "location": {
+      "country": "Egypt",
+      "region": "Dahab, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.80557183071817",
+      "lng": "34.65980529785157"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "96b15c75-f7f7-42c1-a1d0-57b65d3a8ffe",
+    "name": "El Fanadir South",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Red Sea Governorate"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.271474511981786",
+      "lng": "33.83625984191895"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "96c47f78-0149-414a-bd03-46737abfb798",
+    "name": "The Fjord",
+    "location": {
+      "country": "Egypt",
+      "region": "Nuweibaa, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.42225460909305",
+      "lng": "34.84305381774903"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "97b1e0a7-8240-4276-9386-e71139ffeabf",
+    "name": "Shaab Gubar",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.657938227081537",
+      "lng": "35.13923406600953"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "980fe9cf-e600-4f0b-afc0-7e64ce864f28",
+    "name": "Dorla El Fanus West",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.266989778841367",
+      "lng": "33.87823104858399"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9833c6a5-5b58-411c-8d93-8f1ebfadc9c7",
+    "name": "House Reef",
+    "location": {
+      "country": "Egypt",
+      "region": "Nuweibaa, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.47472292596778",
+      "lng": "34.882621765136726"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "987ec547-5bb1-46a3-a399-7d06016675da",
+    "name": "Shark Reef",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.726538670810182",
+      "lng": "34.25848245620728"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "99a0bbf1-a20e-44f9-8ceb-0c736344b25a",
+    "name": "Dolphin House",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.996015742094006",
+      "lng": "35.15487670898438"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "99a2a5b0-7c01-47bd-979c-0c53681a6171",
+    "name": "Dahara",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.715336100035817",
+      "lng": "35.138096809387214"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "99b65390-fd6d-41b8-b695-67ed3ec67cde",
+    "name": "Abu Dabbab",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "25.24469595130604",
+      "lng": "34.905624389648445"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9a354cad-209b-4539-8a3d-6cc6ff6dc60d",
+    "name": "Yellowfish Reef",
+    "location": {
+      "country": "Egypt",
+      "region": "Shadwan, Qesm Hurghada",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.557590665032816",
+      "lng": "33.93247604370118"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9a535e8c-5f2e-4622-95ae-de7c500ecf73",
+    "name": "Elhawiat Tirminal",
+    "location": {
+      "country": "Egypt",
+      "region": "Port Said, Port Said Governorate",
+      "ocean": [
+        "Africa",
+        "Egypt",
+        "Port Said Governorate",
+        "Port Said"
+      ]
+    },
+    "coordinates": {
+      "lat": "31.23803159850293",
+      "lng": "32.30214357376099"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9a9414b0-c23b-4293-9e1e-c6d362994501",
+    "name": "Erg Camel",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.167993368910928",
+      "lng": "33.98560523986817"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9ba2763e-c7ef-4613-bf3d-a41c7276d5a8",
+    "name": "Turtle Bay",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.277822899006246",
+      "lng": "33.894882202148445"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9da800f3-0983-4083-83e5-ad3832855b39",
+    "name": "Kormoran",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Africa",
+        "Egypt",
+        "Sinai",
+        "Sharm El Sheikh"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.004253392491755",
+      "lng": "34.497156143188484"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9e50e902-aa38-4e88-9ce5-8fea4658cf5c",
+    "name": "Sheikh Malek",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "25.60190226111573",
+      "lng": "34.71954345703126"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9e56ea27-795f-4b58-ad94-3fd84f60a26f",
+    "name": "Ras Umm Gerifat",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "25.60321980405228",
+      "lng": "34.60817813873292"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9e65f2cc-d49c-474a-9a5e-8ef102830c3c",
+    "name": "Small Crack (Small Passage)",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.727906220443653",
+      "lng": "34.094610214233406"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9f62de23-6545-428e-b15b-de5e588fba0d",
+    "name": "Abu Ramada",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.15508759312419",
+      "lng": "33.98466110229493"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a0b0f1de-78ab-4e04-ac67-680e4a872a82",
+    "name": "Daedalus Reef",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.932054467667392",
+      "lng": "35.864181518554695"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a0f415b3-fd6d-4ec6-97bc-ff90f6a185ba",
+    "name": "T-Reef",
+    "location": {
+      "country": "Egypt",
+      "region": "Nuweibaa, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.04296386218877",
+      "lng": "34.703364372253425"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a132b762-79b4-4f5e-bf63-7d84d95ccd38",
+    "name": "Habili Radir Soraya",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.824443781379227",
+      "lng": "35.08728504180909"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a13395ee-b55e-4715-ac0e-be9216cd9f3b",
+    "name": "Panorama Reef",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.75296834795026",
+      "lng": "34.086370468139656"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a1a3a5be-010c-496c-b114-e30d19006b13",
+    "name": "Ss Hamada Wreck",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Africa",
+        "Egypt",
+        "Red Sea Governorate",
+        "Qesm Marsa Alam"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.438577976649647",
+      "lng": "35.21303558401997"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a1c99fa6-9d4f-413f-8621-15796c632990",
+    "name": "Abu Ramada Cave",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.163411607449703",
+      "lng": "33.98517608642579"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a30fd6f5-a3dd-414f-a95d-d5cc590144a5",
+    "name": "Sernara Island",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Shlatin, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "23.84439381762309",
+      "lng": "35.81989288330079"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a3273fff-5619-44e0-92bb-542f6543a9cd",
+    "name": "House Reef",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.99542066397194",
+      "lng": "33.901641368865974"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a4150209-e7da-4c31-be44-c2af7d521142",
+    "name": "Emperor Frazer",
+    "location": {
+      "country": "Egypt",
+      "region": "Jubal Island, Qesm Hurghada",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.677675510296844",
+      "lng": "33.805704116821296"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a444937e-25c4-4193-bd9c-d624e0322cbc",
+    "name": "Shab Itar",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.315776262109125",
+      "lng": "33.93951414967888"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a60d7291-fdfd-4583-ad3c-b78b32d89282",
+    "name": "Habili Ashelaniat",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.669111827194044",
+      "lng": "35.13469576835633"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a62feb49-f800-49dc-9e7c-92b5131879ac",
+    "name": "El Mina / El Minya",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.223417773796726",
+      "lng": "33.84508967399598"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a6f59876-3d77-4d09-b5d7-28da9399120d",
+    "name": "Wadi Gimal East",
+    "location": {
+      "country": "Egypt",
+      "region": "Jazirat Wadi Jimal, Qesm Marsa Alam",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.668936333356413",
+      "lng": "35.16882419586182"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a82ae23b-2535-495b-ae06-81b1c60458da",
+    "name": "Tower",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.882101085612906",
+      "lng": "34.32676076889039"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ac1ebdab-cef0-41fc-99de-1ab71f8ec8fe",
+    "name": "Umm Usk",
+    "location": {
+      "country": "Egypt",
+      "region": "Jubal Island, Qesm Hurghada",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.594717707186067",
+      "lng": "33.86861801147462"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ad498a21-61a2-4aa4-8dd4-6a295765f5c3",
+    "name": "The Brothers Island",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.310650616574282",
+      "lng": "34.86047744750977"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "adf378b1-7dd3-4774-8f5a-e521fc7d265d",
+    "name": "Eel Garden",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.738845999812852",
+      "lng": "34.25910472869874"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ae944a88-cdeb-4a1a-bd6f-052e0b82a559",
+    "name": "Shaab Eman",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.71510219497748",
+      "lng": "35.128569602966316"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b0fe42fa-59ca-457d-a147-d75f4fb3889e",
+    "name": "Sharm El Bahair",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "25.720735134412106",
+      "lng": "34.669418334960945"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b16a211f-6aec-4492-9d2c-d5fb5bcbdf58",
+    "name": "Topaz&#039;s Garden",
+    "location": {
+      "country": "Egypt",
+      "region": "Nuweibaa, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.37230231815704",
+      "lng": "34.811210632324226"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b1ab83c8-5209-4f5e-9ec8-13da0855ed8d",
+    "name": "Giannis D",
+    "location": {
+      "country": "Egypt",
+      "region": "Shadwan, Qesm Hurghada",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.5772779310033",
+      "lng": "33.92329216003419"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b2389477-38cc-48bb-9f86-ed06e9c15225",
+    "name": "Gorgonia Beach South Side",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.704342087233666",
+      "lng": "35.09084701538087"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b2eea959-c2a6-463f-bc54-3c2b66c5d8db",
+    "name": "Dunraven",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.69690421685162",
+      "lng": "34.12267684936524"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b3d48c3b-0406-4422-ba29-2dbb03ccb6c9",
+    "name": "Tobia Soraya",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.808137902550836",
+      "lng": "33.975284099578865"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b47812d0-f30d-49ee-b0b4-f6fde8c00a89",
+    "name": "Ras Um Hesiwa",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.892372901264668",
+      "lng": "33.99813652038575"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b4a0e5e1-51ee-426c-8eb4-3cf1baf140a2",
+    "name": "Shaab Talata",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Africa",
+        "Egypt",
+        "Red Sea Governorate",
+        "Qesm Hurghada"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.133701960755975",
+      "lng": "33.87153625488282"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b4c673c2-f56f-4960-952a-4f5c982149b5",
+    "name": "Farrah Shore",
+    "location": {
+      "country": "Egypt",
+      "region": "Sinai, Egypt",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.846478026947647",
+      "lng": "34.653453826904304"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b53a852f-8233-498b-856e-88dd63f1b08f",
+    "name": "Farus",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.350423290254746",
+      "lng": "33.82055282592774"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b53edd7a-8027-43dc-96d2-46e77c2fc05b",
+    "name": "Zak&#039;s Table",
+    "location": {
+      "country": "Egypt",
+      "region": "Nuweibaa, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.43705611150339",
+      "lng": "34.86030578613282"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b5899ad1-a12a-4897-8012-959ace29bf45",
+    "name": "Utopia House Reef",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "25.942545015387473",
+      "lng": "34.38917557345397"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b6412da4-797d-4d3a-8124-4da29eb5139f",
+    "name": "Sharm Tachtani",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "25.870218493173926",
+      "lng": "34.422658485922724"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b71d6470-c693-47ff-bcbc-57bc069f3d8a",
+    "name": "Umm Gamar East",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.357665469201795",
+      "lng": "33.910074234008796"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b732207c-3b54-4634-ba13-c837a12fe0a2",
+    "name": "Shaab Ishta / Shab Estha",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.149016017121962",
+      "lng": "33.89568686485291"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b93789d9-c023-474f-8b68-d282fc92d4c4",
+    "name": "Serib Soraya",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.10858718364705",
+      "lng": "34.30755615234376"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b9860f1a-8a73-4aa4-aff2-7cf238490941",
+    "name": "Ras Abdella",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.032064371429545",
+      "lng": "33.91846418380738"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b9912e33-3602-42a8-9e95-f1bbdf956f2d",
+    "name": "Ras El Arab",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.96790125155597",
+      "lng": "33.92602801322938"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bacb54e7-a3cf-4794-86bb-131fedace9ac",
+    "name": "Caves",
+    "location": {
+      "country": "Egypt",
+      "region": "Dahab, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.376599976934674",
+      "lng": "34.45050716400147"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bad6d6d7-4daf-4c77-8f5a-a8019f7d785e",
+    "name": "Ras Henrik Gemil",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.914722928870564",
+      "lng": "33.96539211273194"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bc0f0baa-cef8-4919-bc78-24ca8bb94d84",
+    "name": "Carlsson&#039;s Corner",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.158982392655975",
+      "lng": "33.979768753051765"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bc59de59-6e80-471d-818b-343001cbf918",
+    "name": "Royal Azur",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.983295325219505",
+      "lng": "33.9190435409546"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bc9e40f8-aa18-420d-84a3-d5e25fbefa08",
+    "name": "Shaab El Erg",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.40240400412041",
+      "lng": "33.87205123901368"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bd516145-eda4-4614-9c38-69cf5f8f1c45",
+    "name": "Ras El Muqabillia",
+    "location": {
+      "country": "Egypt",
+      "region": "Nuweibaa, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.355396738344187",
+      "lng": "34.800224304199226"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "beb45612-80de-4218-92a8-61894826aa32",
+    "name": "Giftun Ham Ham / Pierre&#039;s Hill",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.19280797523274",
+      "lng": "33.9884376525879"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bec06cfb-dbe8-4e90-95c9-10e1491cfeed",
+    "name": "Um Magawish",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.156309505637104",
+      "lng": "33.873167037963874"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "beca4e15-ffb0-42dd-ad60-2133b04d7ba8",
+    "name": "Ras Katy",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.846361950155508",
+      "lng": "34.30305004119874"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "befd9d85-c7e9-4e2f-8479-3622c7f27719",
+    "name": "Big Giftun",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.17875976816588",
+      "lng": "33.95359039306641"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bfe7ec4e-6f8d-45ff-ba6a-ca5a7857cf23",
+    "name": "Umm Eschara",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.724613979493732",
+      "lng": "35.14024257659913"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c04538ab-c635-4624-88aa-2e0376d4c92f",
+    "name": "St John&#039;s Wood",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Shlatin, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "23.381337768412614",
+      "lng": "35.75225830078126"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c0fa0e1f-e0dd-47a4-bf05-fad1a798f27c",
+    "name": "Gota Abu Ramada",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.137903032942372",
+      "lng": "33.952077627182014"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c1c09c02-5dc3-4d6d-9f9c-9255ae647c4e",
+    "name": "Abu Hashish Lagoon",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.017613657636932",
+      "lng": "33.91966581344605"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c1dd2f92-bf89-4c22-ae98-e6a26bd9a4fb",
+    "name": "Mangrove Bay",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "25.935817142040126",
+      "lng": "34.482650756835945"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c2b63b7e-33b0-4691-940e-7df904f9af87",
+    "name": "Jasmine",
+    "location": {
+      "country": "Egypt",
+      "region": "Tur Sina, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.89370807705128",
+      "lng": "33.815746307373054"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c4027b47-a1ab-458b-ba94-cd507a41a753",
+    "name": "Tiger House ",
+    "location": {
+      "country": "Egypt",
+      "region": "Dahab, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.56641276315121",
+      "lng": "34.53277587890626"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c49bd7d8-bd9d-4cae-8b5e-0ff7be3f433c",
+    "name": "Near Garden",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.90793063414355",
+      "lng": "34.34642672538758"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c4f630c4-8f7b-422f-98d3-ecc130320193",
+    "name": "Plaza Beach",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.916216782043023",
+      "lng": "34.35688734054566"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c5b73c6c-be5c-4c9c-a6eb-b274c26cfeea",
+    "name": "Sudexpress",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.976468647992423",
+      "lng": "33.921811580657966"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c5db73cd-84bd-46cc-bb9e-d3e10f4ac08a",
+    "name": "Umm Gamar Dacht",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.35377762148423",
+      "lng": "33.910374641418464"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c6520e14-d393-4868-9561-2cfa02dbb577",
+    "name": "Steamship 1926",
+    "location": {
+      "country": "Egypt",
+      "region": "Tur Sina, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.79383213029828",
+      "lng": "33.852910995483406"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c6867efc-4fef-49f8-820e-9d803e5f2321",
+    "name": "Marsa Moren",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "25.397312087725147",
+      "lng": "34.71130371093751"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c74f18ac-22a1-4157-86d8-c9dc276dd6f4",
+    "name": "Shab Shirap",
+    "location": {
+      "country": "Egypt",
+      "region": "Red Sea Governorate, Egypt",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.34196077603722",
+      "lng": "33.83299827575684"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c7b337c4-ac20-463a-b2e1-2de228b6df36",
+    "name": "Amphoras",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.8686718374383",
+      "lng": "34.324872493743904"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c8094137-d7f2-46de-b6ba-2796073d1980",
+    "name": "Carina",
+    "location": {
+      "country": "Egypt",
+      "region": "Tur Sina, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.819948396533466",
+      "lng": "33.84123802185059"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c80d8a1f-489d-43d6-967d-964c1d8dcc5e",
+    "name": "Black Coral ",
+    "location": {
+      "country": "Egypt",
+      "region": "Nuweibaa, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.480252193344267",
+      "lng": "34.886913299560554"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c867eed0-125d-4f48-8db3-52863b8c9e28",
+    "name": "Canyon Table",
+    "location": {
+      "country": "Egypt",
+      "region": "Dahab, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.55150492577489",
+      "lng": "34.52114582061768"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c88e1e5f-1da4-4b3c-abad-627369685bf7",
+    "name": "El Aruk",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.165015245348417",
+      "lng": "33.9465093612671"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c9b139df-f111-4142-8247-dbe140e0e2f5",
+    "name": "Sodfa",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.88756335423466",
+      "lng": "34.3300223350525"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c9fd252f-f101-44c7-9e8e-652196224ba9",
+    "name": "Erg Soraya",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.207159750549202",
+      "lng": "33.98097038269044"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cb46d658-ca70-404b-97fd-2b1b07c1f87a",
+    "name": "Shab Abu Galawa",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.30982783463552",
+      "lng": "33.81434726557928"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cb74b69e-0522-497c-a4a3-ff0c494227c9",
+    "name": "Small Giftun Drift",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.18196657994435",
+      "lng": "33.99307250976563"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cb79bf7f-ed78-479d-932f-1abf4c16d862",
+    "name": "El Fanadir Foc",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.301659672524803",
+      "lng": "33.83057355880738"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cc909709-0780-4552-9dad-e02875d6086c",
+    "name": "Ras Shaitan",
+    "location": {
+      "country": "Egypt",
+      "region": "Nuweibaa, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.199524088591694",
+      "lng": "34.75584983825684"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cd6896d4-27f8-4a20-867b-9a2dbd0ba1f9",
+    "name": "Ben El Gebel",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.224257325591118",
+      "lng": "33.95075798034669"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ce36d297-da05-4fff-8884-3664a247c351",
+    "name": "Yolanda Reef",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.723803520074487",
+      "lng": "34.25588607788087"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cf23b1b6-b03c-4b4d-ad95-113d63603697",
+    "name": "Ras Mumlah North",
+    "location": {
+      "country": "Egypt",
+      "region": "Dahab, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.70504287929188",
+      "lng": "34.63560104370118"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cf2807a3-4dca-4092-88bc-9d5d4853417a",
+    "name": "Ras Abu Helal",
+    "location": {
+      "country": "Egypt",
+      "region": "Dahab, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.52632077645633",
+      "lng": "34.51852798461915"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cf998f74-0a84-4f34-bea8-99b018da278f",
+    "name": "El Aoui",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.522192867724723",
+      "lng": "34.12628173828126"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d0d9e6d6-b843-4db1-ac17-97249eaa2e2c",
+    "name": "Pipeline",
+    "location": {
+      "country": "Egypt",
+      "region": "Nuweibaa, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.927641192835395",
+      "lng": "34.70701217651368"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d16abd92-0d43-49ab-ab25-44e2362a2a78",
+    "name": "Shab Walter",
+    "location": {
+      "country": "Egypt",
+      "region": "Red Sea Governorate, Egypt",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.36612678356219",
+      "lng": "33.8265609741211"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d1ecb012-0529-40f3-95ee-653fba9a2060",
+    "name": "Gabr El Bint",
+    "location": {
+      "country": "Egypt",
+      "region": "Dahab, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.351071988364673",
+      "lng": "34.43728923797608"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d226e996-5e4a-4445-93f5-a0d2ef6c370c",
+    "name": "Coral City",
+    "location": {
+      "country": "Egypt",
+      "region": "Nuweibaa, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.410292223379173",
+      "lng": "34.83266830444337"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d24b1b4a-6148-4432-bc49-fe5b48382e84",
+    "name": "Abu Kafan",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.655743515585122",
+      "lng": "34.11314964294434"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d2707303-0835-4252-854d-82f1aa3d4340",
+    "name": "The Cave",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "25.63576011290843",
+      "lng": "34.58890914916993"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d284d21c-d177-4630-9366-08623b5684cb",
+    "name": "Stingray Station",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.732464595307246",
+      "lng": "34.19657707214356"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d2ca7c38-f04b-4a16-a470-f602fc25c652",
+    "name": "Gotha Wadi Gimal",
+    "location": {
+      "country": "Egypt",
+      "region": "Jazirat Wadi Jimal, Qesm Marsa Alam",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.637948052859212",
+      "lng": "35.18334031105042"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d342e1bf-3e24-4c6a-98c8-22a69390ff89",
+    "name": "Umm Gamar West",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.3617056369059",
+      "lng": "33.903079032897956"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d3fc9b03-eaf0-43ee-a21d-fe62dd1e8f10",
+    "name": "Utopia Housereef South",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "25.941548078855828",
+      "lng": "34.39458678541504"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d478ac65-87a1-4cb6-967a-dfea1caaea9b",
+    "name": "El Arish El Tor Wreck",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.670470587100695",
+      "lng": "33.95384788513184"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d48eda33-1444-4cac-82aa-d62a036fb7bf",
+    "name": "El Makluf",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.496385842983383",
+      "lng": "34.14070129394532"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d6cdb864-5442-47b6-ab4a-11bc2179cbcd",
+    "name": "Abu Haschisch Nordexpress",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.033975702281783",
+      "lng": "33.92292737960816"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d74b2245-c519-497f-b0c4-ed0545598902",
+    "name": "Ras Abu Dalaf",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.708006866023915",
+      "lng": "35.09131908416749"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d7c951ce-33a9-48b4-8595-506fcce8c2f7",
+    "name": "Sharm El Rashed North",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.946250372330677",
+      "lng": "33.93638134002686"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d85b1c90-6239-43f2-a4ae-bc36ae27f928",
+    "name": "Carnatic Wreck",
+    "location": {
+      "country": "Egypt",
+      "region": "Shadwan, Qesm Hurghada",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.579674400482237",
+      "lng": "33.92724037170411"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "db3fb551-9e83-45a6-9626-674bbdc9f5a1",
+    "name": "Wadi Gimal South",
+    "location": {
+      "country": "Egypt",
+      "region": "Jazirat Wadi Jimal, Qesm Marsa Alam",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.64202435786401",
+      "lng": "35.180497169494636"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "db9f8f20-d978-4b0d-98cd-6448b69dde10",
+    "name": "Sharm Fugani",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "25.844204423052222",
+      "lng": "34.44136137527376"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dbe31a92-be48-4229-9fb5-f0e2b097282c",
+    "name": "Shab Quais / El Aruk",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.16638977378703",
+      "lng": "33.90277862548829"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dbfbf117-8b6f-4961-be4a-ee5f27fbcf41",
+    "name": "Ras Disha",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.04653233685865",
+      "lng": "33.90880823135377"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dc288928-25e3-465f-ad4e-8a3deed007ce",
+    "name": "Shaab Sharm",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.79203322678493",
+      "lng": "35.17736434936524"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dd087f4e-18dc-4e3e-b87e-4760b3458f09",
+    "name": "Marsa Bareika",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.750772146598866",
+      "lng": "34.212005138397224"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dd266792-5fbe-477b-9076-0d02f06cbd44",
+    "name": "Pinky Wall",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.87891463500899",
+      "lng": "34.32178258895875"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "de114ced-9320-4a6e-8a45-6dea0e88db74",
+    "name": "Gotha Eschta",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.66957980955407",
+      "lng": "35.13176143169404"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "df13b9cf-113a-4679-a14b-1d7d5203a6ab",
+    "name": "Shaab Ali",
+    "location": {
+      "country": "Egypt",
+      "region": "Tur Sina, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.84362981173656",
+      "lng": "33.869390487670906"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "df26d7a3-71c7-4532-8345-13f3c3b7f068",
+    "name": "Habili Dahara",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.75065071823862",
+      "lng": "35.18671989440919"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dfa7223d-4935-4283-a7a0-00cf1e564a8d",
+    "name": "Habili Nos",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.672719145825766",
+      "lng": "35.13069927692414"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e011f370-6a91-4220-8096-2a0449164a3c",
+    "name": "El Hibeq North",
+    "location": {
+      "country": "Egypt",
+      "region": "Dahab, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.767659105691255",
+      "lng": "34.636974334716804"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e0ae3756-8ebc-4c8d-843b-0308fe2839a6",
+    "name": "Satircha",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.734592775115328",
+      "lng": "35.13689517974854"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e1659730-2380-4ef9-8ef4-3cb45206ee38",
+    "name": "Ras Abu Fatma",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Shlatin, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.465609299664514",
+      "lng": "36.37470245361329"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e1969b60-29a1-404b-8be9-b92090b546da",
+    "name": "Labyrinth",
+    "location": {
+      "country": "Egypt",
+      "region": "Nuweibaa, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.055569473942022",
+      "lng": "34.69752788543702"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e41ecd54-33df-4890-860c-d8c88253e125",
+    "name": "Max&#039;s Reef",
+    "location": {
+      "country": "Egypt",
+      "region": "Nuweibaa, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.39728153068035",
+      "lng": "34.82563018798829"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e4a78284-813e-4bf1-8996-05725f3e68ba",
+    "name": "Shab Pinky",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.268057879861583",
+      "lng": "33.91565322875977"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e52e99f4-45d0-4b38-a66d-2215e5e7673d",
+    "name": "Umm Halhala",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "25.345034432585596",
+      "lng": "34.79211330413819"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e57b3d73-46b0-4bb9-9c66-a129d34d0065",
+    "name": "Tobia Island",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.821619714264695",
+      "lng": "33.97307395935059"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e6110b82-134e-4b6c-8e25-7ab89fc9bacf",
+    "name": "Temple",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.846210166493282",
+      "lng": "34.3090581893921"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e6407642-ca53-4005-bdeb-e5e6c4ba1a6e",
+    "name": "Banana Reef",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.222501891894073",
+      "lng": "33.951787948608406"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e7e7dfbc-cf20-49cc-bbb9-f596516b8938",
+    "name": "The 7 Pinnacles",
+    "location": {
+      "country": "Egypt",
+      "region": "Dahab, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.47450092975546",
+      "lng": "34.49701666831971"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e7e7e489-dde5-4157-8281-7523401b7be9",
+    "name": "Aquarium",
+    "location": {
+      "country": "Egypt",
+      "region": "Nuweibaa, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.376191700384762",
+      "lng": "34.83163833618165"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e8614902-1e95-4e2b-a0c0-97c5f3fc32ab",
+    "name": "Torfa El Mesheich",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.663788404289424",
+      "lng": "35.11406421661378"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e87c4ece-6a64-4b75-a3d2-47cd1bc91001",
+    "name": "Habili Radir",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.839010187152574",
+      "lng": "35.0899887084961"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e8de8c4c-2fca-4650-9019-edf200e85315",
+    "name": "Gota Abu Makadi",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.994653080470325",
+      "lng": "33.909323215484626"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e96c80a5-48e5-4637-87fb-e441b2bcce33",
+    "name": "Shaab Disha",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.039709499625285",
+      "lng": "33.90273571014405"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e991b855-3eb7-421a-bad8-c63b7a0d23a5",
+    "name": "Thomas Reef",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Africa",
+        "Egypt",
+        "Sinai",
+        "Sharm El Sheikh"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.98955087395581",
+      "lng": "34.46033477783204"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e9b85ad9-b1a8-425c-9f36-97ab98781583",
+    "name": "Shona Marsal",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "25.4696970368472",
+      "lng": "34.68279032036662"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ea5e4822-8bf3-4894-9f8f-468f30b3d42a",
+    "name": "The Bells",
+    "location": {
+      "country": "Egypt",
+      "region": "Dahab, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.59220907429087",
+      "lng": "34.54768896102906"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ebba8005-ea25-490f-8dd6-7f2dcd8f29ce",
+    "name": "Abu Saaf",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.459508611702415",
+      "lng": "34.15512084960938"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ec0f98b6-3df3-4b61-b020-44d14911ff16",
+    "name": "Dorla El Fanus East",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.264395776495363",
+      "lng": "33.88784408569337"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ec35aa57-c382-41fb-b00a-7bba928a48ed",
+    "name": "Ras Qubbat",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Shlatin, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.31831903309799",
+      "lng": "36.56335830688477"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ec7e54b5-ec05-4e09-a95e-8e279f64c916",
+    "name": "Shark Observatory",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.731400991557916",
+      "lng": "34.26135778427125"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ec95cb2f-9c48-433e-8d0d-b3a6685d4516",
+    "name": "Eldorado",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.028318068589133",
+      "lng": "33.91571760177613"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ed1118cc-741d-4550-ae22-95d9e45a588f",
+    "name": "Al Ma&#039;agana",
+    "location": {
+      "country": "Egypt",
+      "region": "Nuweibaa, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.09757705068449",
+      "lng": "34.70675468444825"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ee4f853c-5e37-4a99-a4ce-ce5ae318bfd0",
+    "name": "Islands",
+    "location": {
+      "country": "Egypt",
+      "region": "Dahab, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.475179956846244",
+      "lng": "34.51642513275147"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eeebc671-c02e-430c-9719-8ae4aaa4f713",
+    "name": "Little Reef",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Shlatin, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "23.338473101618522",
+      "lng": "35.85662841796876"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ef8a567b-dff8-4429-8ada-e7a948d79825",
+    "name": "Habili Quais",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.670028291001646",
+      "lng": "35.12022793293"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eff6959b-b85e-4e67-92ee-1da507695e5b",
+    "name": "Shab Samir",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.30711280699373",
+      "lng": "33.81750583648682"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f0a5ba6b-bf92-421e-afa4-cf6097fd73a7",
+    "name": "Umm Gamar Foc",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.368908966366234",
+      "lng": "33.90681266784669"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f108e9fc-c3d9-485e-a733-3da2d48fd245",
+    "name": "El Mohgar",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.014829289931015",
+      "lng": "34.37381744384766"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f158f335-2225-4145-812c-d8c42eac557a",
+    "name": "Shaab Iris",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Red Sea Governorate"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.3455235696241",
+      "lng": "33.848705291748054"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f199a0d4-8e16-4dac-8098-bd24fd9a874d",
+    "name": "Bir Abu Ramad",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Shlatin, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.35261603551215",
+      "lng": "36.51615142822266"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f19dc8ba-09f8-466c-bda2-99ec6614989f",
+    "name": "El Fanadir",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.29708340888697",
+      "lng": "33.83074522018433"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f1bce17b-f252-41de-9d2b-4adb1e06d019",
+    "name": "Shab Umm Gamar",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.33860608700849",
+      "lng": "33.91393661499024"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f2aeeea7-c51c-43a4-a5dc-720c8a87c3b8",
+    "name": "Napoleon Reef",
+    "location": {
+      "country": "Egypt",
+      "region": "Dahab, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.468238585302736",
+      "lng": "34.507606029510505"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f3c84eb2-f5c9-4701-8570-f5789a276112",
+    "name": "Shab Samir Anoor",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.306235747503152",
+      "lng": "33.81866455078126"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f4e6a0be-6488-48cd-a955-b36408134ae1",
+    "name": "Small Wreck House Reef",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.99532227269987",
+      "lng": "33.90217781066895"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f5adb5be-fea8-4012-973d-3c35485909d2",
+    "name": "Shag Rock",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.781986638544357",
+      "lng": "33.89925956726075"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f5d96395-b4bd-4958-817a-696a286df1d5",
+    "name": "Ras Nasrani",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Africa",
+        "Egypt",
+        "Sinai",
+        "Sharm El Sheikh"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.966394131316",
+      "lng": "34.42028403282166"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f7f9a812-a1c5-479c-9aaa-34c01c28d1c1",
+    "name": "Middle Garden",
+    "location": {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh, Sinai",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.91278483898988",
+      "lng": "34.35072362422944"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f85682f8-8513-4178-af41-9a4c23434253",
+    "name": "Umm Gamar",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.35103317621585",
+      "lng": "33.90475273132325"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f8a244ba-0607-4c16-8344-8d580aec1cfc",
+    "name": "Royal Garden",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.9940986038925",
+      "lng": "33.91200542449952"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f9b4425b-0f29-4890-ac82-f438f105cd72",
+    "name": "El Fanadir North",
+    "location": {
+      "country": "Egypt",
+      "region": "Red Sea Governorate, Egypt",
+      "ocean": [
+        "Qesm Hurghada"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.29901955245499",
+      "lng": "33.830938339233406"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f9d33df0-2b3a-43de-b736-55ac9651aa3c",
+    "name": "Hassan&#039;s Paradise",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.01784304856551",
+      "lng": "33.903615474700935"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fa71d8f1-7231-440b-b7a9-23b7712eb830",
+    "name": "Shaab Saiman",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Safaga, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.904313877349125",
+      "lng": "33.99916648864747"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fb905d4a-deea-4cbe-b3cc-694064d8d1fe",
+    "name": "Shaab Ruhr",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Hurghada, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.418709632741976",
+      "lng": "33.87823104858399"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fc552370-a28f-42e9-97bc-739cd822fa66",
+    "name": "Shaab El Mathaf",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.66507540646958",
+      "lng": "35.13240516185761"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fd5c9581-dcb5-4cc7-ae48-27d6fc180aa8",
+    "name": "Shaab Nos",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Marsa Alam, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.670467021292346",
+      "lng": "35.12343049049378"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "feaa1b55-e366-4405-82b1-e5a071daef51",
+    "name": "Serib Kebir South",
+    "location": {
+      "country": "Egypt",
+      "region": "Qesm Al Qoseir, Red Sea Governorate",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.022735297289866",
+      "lng": "34.32554372472502"
+    },
+    "additionalInfo": {}
+  }
+]

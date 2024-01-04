@@ -1,0 +1,21 @@
+[
+  {
+    "id": "8a299e73-7f0b-4a2c-b796-4c129f151076",
+    "name": "Piran Marine Park",
+    "location": {
+      "country": "Slovenia",
+      "region": "Piran, Slovene Littoral",
+      "ocean": [
+        "Europe",
+        "Slovenia",
+        "Slovene Littoral",
+        "Piran"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.530267570007794",
+      "lng": "13.56790065765381"
+    },
+    "additionalInfo": {}
+  }
+]

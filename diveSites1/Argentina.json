@@ -1,0 +1,507 @@
+[
+  {
+    "id": "0285d2b9-2b98-4b59-a285-6af411abd4da",
+    "name": "Bahia Lapataia",
+    "location": {
+      "country": "Argentina",
+      "region": "Ushuaia, Tierra Del Fuego",
+      "ocean": [
+        "Atlantic Ocean",
+        "Beagle Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-54.85724435360792",
+      "lng": "-68.54919433593751"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "04eb3719-f190-4508-b745-d90b6bc22390",
+    "name": "Isla Los Conejos",
+    "location": {
+      "country": "Argentina",
+      "region": "Lago Moreno, Argentina",
+      "ocean": [
+        "South America",
+        "Argentina",
+        "Lago Moreno"
+      ]
+    },
+    "coordinates": {
+      "lat": "-41.09812849928664",
+      "lng": "-71.48327350616456"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1ae9bb81-4925-466b-aba0-50a5982d7a8f",
+    "name": "Banco De Afuera",
+    "location": {
+      "country": "Argentina",
+      "region": "Mar Del Plata, Buenos Aires",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-38.26783678022628",
+      "lng": "-57.485275268554695"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1e5ff898-0836-4ec0-be90-59b5bec255ba",
+    "name": "El Arca De Madryn",
+    "location": {
+      "country": "Argentina",
+      "region": "Puerto Madryn, Chubut Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Argentine Sea",
+        "Golfo Nuevo"
+      ]
+    },
+    "coordinates": {
+      "lat": "-42.76818678478588",
+      "lng": "-64.99837875366212"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "23ef7162-d32d-4fb6-8e3c-99be247f8a2b",
+    "name": "Bahia Del Luchi",
+    "location": {
+      "country": "Argentina",
+      "region": "Cordoba, Argentina",
+      "ocean": [
+        "South America",
+        "Argentina",
+        "Cordoba"
+      ]
+    },
+    "coordinates": {
+      "lat": "-32.200894801008374",
+      "lng": "-64.65338659312692"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2ac1017a-333c-466d-a2a6-78ba1496b204",
+    "name": "La Cueva De Los Fosiles",
+    "location": {
+      "country": "Argentina",
+      "region": "Valdes Peninsula, Puerto Madryn",
+      "ocean": [
+        "Atlantic Ocean",
+        "Argentine Sea",
+        "Golfo Nuevo"
+      ]
+    },
+    "coordinates": {
+      "lat": "-42.586455360816466",
+      "lng": "-64.28237915039064"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "35d720ff-9ee7-48c3-9788-200b7c4ca8c9",
+    "name": "Restinga Del Faro",
+    "location": {
+      "country": "Argentina",
+      "region": "Mar Del Plata, Buenos Aires",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-38.10619635669513",
+      "lng": "-57.54261016845704"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "387f6983-8683-4adb-8f74-0332f3820734",
+    "name": "Banco De Pescadores",
+    "location": {
+      "country": "Argentina",
+      "region": "Mar Del Plata, Buenos Aires",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-38.11700154897861",
+      "lng": "-57.50415802001953"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "42fc0736-1f89-4382-9041-d1ef1a3ea25b",
+    "name": "Naufragio Folias",
+    "location": {
+      "country": "Argentina",
+      "region": "Puerto Madryn, Chubut Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Argentine Sea",
+        "Golfo Nuevo"
+      ]
+    },
+    "coordinates": {
+      "lat": "-42.79451890966804",
+      "lng": "-64.9259376525879"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "42fdbf65-8dd5-454d-b44f-dc66a8192492",
+    "name": "Parque Nuevo",
+    "location": {
+      "country": "Argentina",
+      "region": "Puerto Madryn, Chubut Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Argentine Sea",
+        "Golfo Nuevo"
+      ]
+    },
+    "coordinates": {
+      "lat": "-42.7744873553083",
+      "lng": "-65.01417160034181"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4b7a937f-f5f4-4bc3-87bd-3805bb9ec232",
+    "name": "Embalse Los Reyunos",
+    "location": {
+      "country": "Argentina",
+      "region": "San Rafael, Mendoza",
+      "ocean": [
+        "South America",
+        "Argentina",
+        "Mendoza",
+        "San Rafael"
+      ]
+    },
+    "coordinates": {
+      "lat": "-34.59374431497469",
+      "lng": "-68.66950034484036"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4f6c4e84-6c96-4b58-97b2-5f32479bda63",
+    "name": "Naufragio Rio De Oro",
+    "location": {
+      "country": "Argentina",
+      "region": "Puerto Madryn, Chubut Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Argentine Sea",
+        "Golfo Nuevo"
+      ]
+    },
+    "coordinates": {
+      "lat": "-42.76377600406379",
+      "lng": "-65.02052307128908"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5260c3b5-8571-4f58-8c7e-2e489d239ee8",
+    "name": "Estancia Tunnel",
+    "location": {
+      "country": "Argentina",
+      "region": "Ushuaia, Tierra Del Fuego",
+      "ocean": [
+        "Atlantic Ocean",
+        "Beagle Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-54.82126112097625",
+      "lng": "-68.21273803710939"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5783848a-d296-448b-a35f-3f968c7d79d1",
+    "name": "Parque Viejo",
+    "location": {
+      "country": "Argentina",
+      "region": "Puerto Madryn, Chubut Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Argentine Sea",
+        "Golfo Nuevo"
+      ]
+    },
+    "coordinates": {
+      "lat": "-42.76528830711927",
+      "lng": "-65.01520156860353"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "607fe86b-d981-4390-8c97-508698357a70",
+    "name": "Pta. Este Off Shore",
+    "location": {
+      "country": "Argentina",
+      "region": "Puerto Madryn, Chubut Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Argentine Sea",
+        "Golfo Nuevo"
+      ]
+    },
+    "coordinates": {
+      "lat": "-42.77234523324416",
+      "lng": "-64.93984222412111"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6994b3ee-eb78-4136-ab1e-1aa11c52c616",
+    "name": "Parque Natural Las Piedras",
+    "location": {
+      "country": "Argentina",
+      "region": "Puerto Madryn, Chubut Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Argentine Sea",
+        "Golfo Nuevo"
+      ]
+    },
+    "coordinates": {
+      "lat": "-42.718263627309774",
+      "lng": "-65.0164031982422"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6b6be8e0-fead-4a2c-8090-31d873897f10",
+    "name": "Lago Caviahue (Lago Agrio)",
+    "location": {
+      "country": "Argentina",
+      "region": "Neuquen, Argentina",
+      "ocean": [
+        "South America",
+        "Argentina",
+        "Neuquen"
+      ]
+    },
+    "coordinates": {
+      "lat": "-37.86809696027188",
+      "lng": "-71.04927062988283"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6f4d7bb7-1b6e-4204-b614-19a4fb9d2871",
+    "name": "Punta Este Costa",
+    "location": {
+      "country": "Argentina",
+      "region": "Puerto Madryn, Chubut Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Argentine Sea",
+        "Golfo Nuevo"
+      ]
+    },
+    "coordinates": {
+      "lat": "-42.7824251615877",
+      "lng": "-64.9504852294922"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8ac1b84a-064d-4c48-9ada-e1401b3385c7",
+    "name": "Restinga Punta Cuevas",
+    "location": {
+      "country": "Argentina",
+      "region": "Puerto Madryn, Chubut Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Argentine Sea",
+        "Golfo Nuevo"
+      ]
+    },
+    "coordinates": {
+      "lat": "-42.77549538711248",
+      "lng": "-64.99271392822267"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "98ccf9f8-7465-4589-af87-78f185ad8e5c",
+    "name": "Escollera Norte",
+    "location": {
+      "country": "Argentina",
+      "region": "Mar Del Plata, Buenos Aires",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-38.04700960141591",
+      "lng": "-57.51926422119141"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a0936092-f86f-420e-a7c6-1737b8dd6b3d",
+    "name": "Punto Piramide",
+    "location": {
+      "country": "Argentina",
+      "region": "Valdes Peninsula, Puerto Madryn",
+      "ocean": [
+        "Atlantic Ocean",
+        "Argentine Sea",
+        "Golfo Nuevo"
+      ]
+    },
+    "coordinates": {
+      "lat": "-42.61172761665584",
+      "lng": "-64.28237915039064"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a91e0ea0-d0a7-4642-97c5-da26aa0bb0ca",
+    "name": "Naufragio Albatros",
+    "location": {
+      "country": "Argentina",
+      "region": "Puerto Madryn, Chubut Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Argentine Sea",
+        "Golfo Nuevo"
+      ]
+    },
+    "coordinates": {
+      "lat": "-42.77549538711248",
+      "lng": "-65.00404357910158"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ab4dfdb6-a9fb-428f-9abe-79b6a4503805",
+    "name": "Piedra Grande",
+    "location": {
+      "country": "Argentina",
+      "region": "Puerto Madryn, Chubut Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Argentine Sea",
+        "Golfo Nuevo"
+      ]
+    },
+    "coordinates": {
+      "lat": "-42.728352353964816",
+      "lng": "-65.02687454223634"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bba2eab0-54c6-4235-818a-2b0dbee14389",
+    "name": "Punta Pardelas",
+    "location": {
+      "country": "Argentina",
+      "region": "Valdes Peninsula, Puerto Madryn",
+      "ocean": [
+        "Atlantic Ocean",
+        "Argentine Sea",
+        "Golfo Nuevo"
+      ]
+    },
+    "coordinates": {
+      "lat": "-42.63193804106212",
+      "lng": "-64.25765991210939"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d6cbd253-6499-4331-92d6-017eb8ba4865",
+    "name": "Aquarium",
+    "location": {
+      "country": "Argentina",
+      "region": "Mar Del Plata, Buenos Aires",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-38.08944514994845",
+      "lng": "-57.53608703613281"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dded6524-42e9-4369-a24d-2f44e7691ef1",
+    "name": "Pozo Del Tio",
+    "location": {
+      "country": "Argentina",
+      "region": "Mar Del Plata, Buenos Aires",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-38.077554867464535",
+      "lng": "-57.375411987304695"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eb5114a7-99b7-4ef6-bc7f-9cf4c0297c24",
+    "name": "Paredon Cachetes",
+    "location": {
+      "country": "Argentina",
+      "region": "Lago Moreno, Argentina",
+      "ocean": [
+        "South America",
+        "Argentina",
+        "Lago Moreno"
+      ]
+    },
+    "coordinates": {
+      "lat": "-41.104226989236864",
+      "lng": "-71.48305892944337"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f03c458a-3af7-41ee-8f9b-370bbdb1271e",
+    "name": "Banco Del Medio",
+    "location": {
+      "country": "Argentina",
+      "region": "Mar Del Plata, Buenos Aires",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-38.095389566050656",
+      "lng": "-57.51136779785157"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fc97a078-b769-483f-a9ac-517535579be7",
+    "name": "Banco Patria",
+    "location": {
+      "country": "Argentina",
+      "region": "Mar Del Plata, Buenos Aires",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-38.16317572048942",
+      "lng": "-57.268295288085945"
+    },
+    "additionalInfo": {}
+  }
+]

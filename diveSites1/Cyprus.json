@@ -1,0 +1,1208 @@
+[
+  {
+    "id": "04f649d7-2668-4679-b092-dd446bd9ed10",
+    "name": "Nisi Koppos",
+    "location": {
+      "country": "Cyprus",
+      "region": "Paphos District, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.04967312791719",
+      "lng": "32.262725830078125"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "060b166e-5b7e-4bd7-b5f0-feb17bb8ecc1",
+    "name": "Lighthouse Wreck",
+    "location": {
+      "country": "Cyprus",
+      "region": "Paphos District, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.76516605433812",
+      "lng": "32.400741577148445"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "063c2c70-046c-4902-bea5-64cda7bfc6a7",
+    "name": "Zenobia",
+    "location": {
+      "country": "Cyprus",
+      "region": "Larnaca, Larnaca District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.920282010051125",
+      "lng": "33.70399475097657"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "06b93979-abbd-4ea2-a01e-a5f9ed11ca8a",
+    "name": "Canyon",
+    "location": {
+      "country": "Cyprus",
+      "region": "Ayia Napa, Famagusta District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.959141697670496",
+      "lng": "34.07069496810436"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "07381d36-f395-4c31-baec-ba886ac81ed1",
+    "name": "Achileas",
+    "location": {
+      "country": "Cyprus",
+      "region": "Paphos District, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.77545980961412",
+      "lng": "32.3653793334961"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "07c3d82d-566b-4757-a65a-8cf5a60a6a13",
+    "name": "Fish Reserve",
+    "location": {
+      "country": "Cyprus",
+      "region": "Akrotiri, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.57273337081576",
+      "lng": "33.038463592529304"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0917ec4d-6035-4b4f-ad57-9c2a86631bae",
+    "name": "The Wall",
+    "location": {
+      "country": "Cyprus",
+      "region": "Karavas, Kyrenia District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.37785359299686",
+      "lng": "33.20926666259766"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0ac4b647-5637-4182-9fbc-1b3201aa65c9",
+    "name": "Pistol Bay",
+    "location": {
+      "country": "Cyprus",
+      "region": "Paphos District, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.85878484706504",
+      "lng": "32.34750509262086"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0c954679-ca9d-4217-85b1-01338c6f148e",
+    "name": "Cathedral Reef",
+    "location": {
+      "country": "Cyprus",
+      "region": "Paphos District, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.933511784186756",
+      "lng": "32.31697082519532"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "11809df5-587f-4b92-b3dd-6f03cb8fdb21",
+    "name": "Paradise",
+    "location": {
+      "country": "Cyprus",
+      "region": "Karavas, Kyrenia District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.37785359299686",
+      "lng": "33.21956634521485"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1423f60e-0065-4d86-b529-4369caf3b51f",
+    "name": "Cape Greco Caves",
+    "location": {
+      "country": "Cyprus",
+      "region": "Cape Greco, Ayia Napa",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.96137177524017",
+      "lng": "34.07684326171876"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1a4a34f1-aae6-491b-904d-10507e392bda",
+    "name": "Amphora Caves",
+    "location": {
+      "country": "Cyprus",
+      "region": "Paphos District, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.734784061693794",
+      "lng": "32.42963165044785"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1d71d976-3d0e-4d78-929f-7ba4fd634eee",
+    "name": "Cyclops Cave",
+    "location": {
+      "country": "Cyprus",
+      "region": "Protaras, Famagusta District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.98493280887352",
+      "lng": "34.07675743103028"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1fff9b26-3aae-422f-87e0-1722a4aa8bb5",
+    "name": "Amphi Theatre",
+    "location": {
+      "country": "Cyprus",
+      "region": "Paphos District, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.8573586371832",
+      "lng": "32.34874963760377"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "23e8379a-8d36-4721-adb8-2e65f9355212",
+    "name": "Akro Geranisou",
+    "location": {
+      "country": "Cyprus",
+      "region": "Paphos District, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.04011643687423",
+      "lng": "32.263412475585945"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2bba05bc-026a-4a5c-945d-ddfb800b060a",
+    "name": "Three Stars Wreck",
+    "location": {
+      "country": "Cyprus",
+      "region": "Akrotiri, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.56085936708384",
+      "lng": "32.936325073242195"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2d98d1cc-85f3-4693-ac73-0da288fbb263",
+    "name": "Green Bay",
+    "location": {
+      "country": "Cyprus",
+      "region": "Paralimni, Protaras",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.0628820068142",
+      "lng": "34.01126861572266"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2f7f5bd7-6b1a-40fd-a8bb-1cc8300f0a38",
+    "name": "Black Rocks",
+    "location": {
+      "country": "Cyprus",
+      "region": "Paphos District, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.089622563458654",
+      "lng": "32.2732561826706"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "30308732-834c-49fa-af6c-fe7757168953",
+    "name": "St. George Reef",
+    "location": {
+      "country": "Cyprus",
+      "region": "Paphos District, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.07187406335313",
+      "lng": "32.33963012695313"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3067f978-0ed5-43d6-8e54-ec7b8ad5bb17",
+    "name": "Jubilee Schoals",
+    "location": {
+      "country": "Cyprus",
+      "region": "Akrotiri, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.57499489357512",
+      "lng": "32.83607482910157"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "35846b69-b984-47a3-b31f-ca7e5df91041",
+    "name": "Wrecks",
+    "location": {
+      "country": "Cyprus",
+      "region": "Paphos District, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.080584173400815",
+      "lng": "32.48142242431641"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3ed01415-7908-43c9-8d08-5ccc13102ce9",
+    "name": "Big Country",
+    "location": {
+      "country": "Cyprus",
+      "region": "Akrotiri, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.56319189448216",
+      "lng": "33.03657531738282"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3ffa7f7f-5563-43ff-b168-492502bc9609",
+    "name": "White Star",
+    "location": {
+      "country": "Cyprus",
+      "region": "Paphos District, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.75656343858518",
+      "lng": "32.37533569335938"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4b2f7687-8c92-4423-9043-81a205e61c66",
+    "name": "Hollow Isle",
+    "location": {
+      "country": "Cyprus",
+      "region": "Dhekelia, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.9495535413299",
+      "lng": "33.83239746093751"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5798b6cf-c10f-4e18-b9f0-efb221fc8aab",
+    "name": "Kermia Reef",
+    "location": {
+      "country": "Cyprus",
+      "region": "Ayia Napa, Famagusta District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.962919274917276",
+      "lng": "34.01865005493165"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5befe602-a8ec-40a6-a649-c6a45251afc9",
+    "name": "Alexandria",
+    "location": {
+      "country": "Cyprus",
+      "region": "Larnaca, Larnaca District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.91014712340907",
+      "lng": "33.683395385742195"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5dbe173a-4d1d-4ec4-a565-9e60bfd24c81",
+    "name": "Fisherman&#039;s Cove",
+    "location": {
+      "country": "Cyprus",
+      "region": "Akrotiri, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.561424834278114",
+      "lng": "33.01666259765626"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5fe73d35-48ef-48a7-b634-0d95c25d69a6",
+    "name": "Pistol Bay",
+    "location": {
+      "country": "Cyprus",
+      "region": "Paphos District, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.84874803007872",
+      "lng": "32.35198974609376"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6090eb63-9850-4bbe-b4ac-2f12fe7c3d1f",
+    "name": "Aphrodities Bay",
+    "location": {
+      "country": "Cyprus",
+      "region": "Limassol District, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.69363839631074",
+      "lng": "33.08670043945313"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "61204943-11b6-4150-bf7e-8b6765ae1cba",
+    "name": "St. George Isle",
+    "location": {
+      "country": "Cyprus",
+      "region": "Paphos District, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.082269893755196",
+      "lng": "32.34512329101563"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "677660f3-3f92-4590-b182-6e732ac40cc6",
+    "name": "Konnos Bay",
+    "location": {
+      "country": "Cyprus",
+      "region": "Protaras, Famagusta District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.996816250678464",
+      "lng": "34.07993316650391"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "67bd99f7-0ab6-4f28-8224-198cf1590a44",
+    "name": "Chapel",
+    "location": {
+      "country": "Cyprus",
+      "region": "Ayia Napa, Famagusta District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.97276631537002",
+      "lng": "34.08130645751954"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6ab891a1-fbc8-4c8c-9b03-ff2816b8fbc2",
+    "name": "M.v. Habe",
+    "location": {
+      "country": "Cyprus",
+      "region": "Limassol District, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.65608631601126",
+      "lng": "33.03279876708985"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "72b8b71e-abfc-4a18-a36b-eac6c5c63fb2",
+    "name": "Vera K",
+    "location": {
+      "country": "Cyprus",
+      "region": "Paphos District, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.66484057821928",
+      "lng": "32.40829467773438"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "74b450af-40ad-4904-b467-b06b5e74b07e",
+    "name": "Aphrodites Rock",
+    "location": {
+      "country": "Cyprus",
+      "region": "Paphos District, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.664308858278396",
+      "lng": "32.62800836680981"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "74becc7a-75c3-4c63-ba70-aba6136ef31f",
+    "name": "Liberty",
+    "location": {
+      "country": "Cyprus",
+      "region": "Paralimni, Protaras",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.08283179279934",
+      "lng": "33.99032592773438"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "81ffb145-9daf-400b-bf6e-487049dd3fa3",
+    "name": "Cynthiana",
+    "location": {
+      "country": "Cyprus",
+      "region": "Paphos District, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.8247779769158",
+      "lng": "32.387759685516365"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "82e84740-688a-49e0-8eac-1b9a56863dcd",
+    "name": "White River",
+    "location": {
+      "country": "Cyprus",
+      "region": "Paphos District, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.912821728919624",
+      "lng": "32.32366561889649"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "84ce87a8-9ac9-4880-87e1-86d995b22e7c",
+    "name": "Roman Wall",
+    "location": {
+      "country": "Cyprus",
+      "region": "Paphos District, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.75395427141323",
+      "lng": "32.41567611694337"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8f26a308-4852-417f-87e3-87491d648160",
+    "name": "Khamalis",
+    "location": {
+      "country": "Cyprus",
+      "region": "Paphos District, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.09322622696765",
+      "lng": "32.30598449707032"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9849a068-95c6-4564-9ae8-d6b0be34d24f",
+    "name": "Tombs",
+    "location": {
+      "country": "Cyprus",
+      "region": "Akrotiri, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.561424834278114",
+      "lng": "32.994003295898445"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9a72e400-a010-4b72-b8aa-ecdc11cded22",
+    "name": "Turtle Rock",
+    "location": {
+      "country": "Cyprus",
+      "region": "Paphos District, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.956025642407134",
+      "lng": "32.29602813720704"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a3b1cb57-b663-4a13-86c0-6247ab4dfc63",
+    "name": "De Costa Bay",
+    "location": {
+      "country": "Cyprus",
+      "region": "Paralimni, Protaras",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.05545463074885",
+      "lng": "34.01577472686768"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a52e30a4-09e8-4661-8e98-4c9b501ca33e",
+    "name": "Bubbles",
+    "location": {
+      "country": "Cyprus",
+      "region": "Paphos District, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.73484137177769",
+      "lng": "32.421984672546394"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a5446e4b-66c4-42a6-aac3-a146a6b2bc56",
+    "name": "Fraggle",
+    "location": {
+      "country": "Cyprus",
+      "region": "Larnaca, Larnaca District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.85720016789216",
+      "lng": "33.66004943847657"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a6a76cd0-2c88-450e-8d03-b68c8a6262d5",
+    "name": "Nisi Mazaki",
+    "location": {
+      "country": "Cyprus",
+      "region": "Paphos District, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.10979839484955",
+      "lng": "32.29019165039063"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a9610e4b-1bf1-4816-adad-b09bd9d51bee",
+    "name": "Zeyko",
+    "location": {
+      "country": "Cyprus",
+      "region": "Karavas, Kyrenia District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.375334194722704",
+      "lng": "33.2662582397461"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "aaa7924d-aa9e-4073-9ce7-00a2c16b266c",
+    "name": "Valley",
+    "location": {
+      "country": "Cyprus",
+      "region": "Paphos District, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.74388704981156",
+      "lng": "32.41503238677979"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ac2c05d0-5c30-492f-a735-23b0113fa5f2",
+    "name": "Champagne",
+    "location": {
+      "country": "Cyprus",
+      "region": "Larnaca, Larnaca District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.86903170200865",
+      "lng": "33.70124816894532"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b507d01b-3126-4f91-96b5-3825d92207e5",
+    "name": "Bay Of Caves",
+    "location": {
+      "country": "Cyprus",
+      "region": "Paphos District, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.840435914574364",
+      "lng": "32.3763656616211"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b768faf9-1ba6-43cf-86f0-eb4a9b0a1a20",
+    "name": "Sg 70 Wreck ",
+    "location": {
+      "country": "Cyprus",
+      "region": "Karavas, Kyrenia District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.36424090847238",
+      "lng": "33.21926593780518"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b82fcd33-a80a-4651-8e54-96076dfd68df",
+    "name": "Archways And Pinnacles",
+    "location": {
+      "country": "Cyprus",
+      "region": "Akrotiri, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.55902157215297",
+      "lng": "32.9751205444336"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b932b0df-4dd7-4d47-852a-1bf900cd7c89",
+    "name": "Sparx Grotto",
+    "location": {
+      "country": "Cyprus",
+      "region": "Paphos District, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.84438075202146",
+      "lng": "32.365036010742195"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bf857f37-5715-4618-b76c-684844d7790b",
+    "name": "Agia Thekla",
+    "location": {
+      "country": "Cyprus",
+      "region": "Dhekelia, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.94842790637081",
+      "lng": "33.92303466796876"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c82ee3c8-71fd-46df-8139-0baaf79740c9",
+    "name": "Hms Cricket",
+    "location": {
+      "country": "Cyprus",
+      "region": "Dhekelia, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.95686979182949",
+      "lng": "33.7881088256836"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d8f70b3c-6e81-4090-86c9-214f065852ab",
+    "name": "Manidjin Isle",
+    "location": {
+      "country": "Cyprus",
+      "region": "Paphos District, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.896491200559986",
+      "lng": "32.31422424316407"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dca844e9-822e-403d-9572-782558f90ffd",
+    "name": "Sea Caves ",
+    "location": {
+      "country": "Cyprus",
+      "region": "Paphos District, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.88415738736038",
+      "lng": "32.33278642517353"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dcc7aa47-c3f6-461d-b296-5a05b4ae3136",
+    "name": "Yeronissos Caves",
+    "location": {
+      "country": "Cyprus",
+      "region": "Paphos District, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.903671401859576",
+      "lng": "32.31525421142579"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dcc82ced-7d67-4902-8f0b-332f9ce69199",
+    "name": "Zephyros",
+    "location": {
+      "country": "Cyprus",
+      "region": "Karavas, Kyrenia District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.37477431775729",
+      "lng": "33.19587707519532"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e1b58446-eccf-4308-a67c-1a7dccd3a00d",
+    "name": "Pernera Reef",
+    "location": {
+      "country": "Cyprus",
+      "region": "Ayia Napa, Famagusta District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.96137177524017",
+      "lng": "33.96217346191407"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e31fe85e-93b2-4ef0-9b4c-95fb601aa133",
+    "name": "St. George Drop Off",
+    "location": {
+      "country": "Cyprus",
+      "region": "Paphos District, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.080303216621914",
+      "lng": "32.337570190429695"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e3970935-d485-4c91-b7d3-a2da25f6bb65",
+    "name": "Twin Rocks",
+    "location": {
+      "country": "Cyprus",
+      "region": "Akrotiri, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.55435621804803",
+      "lng": "32.95469284057618"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ef8a85a7-0b8f-4e18-b339-ff8e19ef4204",
+    "name": "Pissouri Bay",
+    "location": {
+      "country": "Cyprus",
+      "region": "Pissouri, Limassol District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.64931236556757",
+      "lng": "32.72698402404786"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f05865be-bd3d-48c2-ab57-6c0bd43fbb45",
+    "name": "Amphora Bay",
+    "location": {
+      "country": "Cyprus",
+      "region": "Cape Greco, Ayia Napa",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.962778594336115",
+      "lng": "34.08903121948243"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f09e4523-e86b-4781-9166-011a50bb3cf8",
+    "name": "Red Cliff",
+    "location": {
+      "country": "Cyprus",
+      "region": "Dhekelia, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.92703790592493",
+      "lng": "33.85505676269532"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fa17f72b-91ba-4a66-8a54-6443eb7e0f47",
+    "name": "Agios Konon",
+    "location": {
+      "country": "Cyprus",
+      "region": "Paphos District, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.06372505419625",
+      "lng": "32.25997924804688"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ff76cbf2-1bb8-42c1-9202-827a7f046d66",
+    "name": "Farsa Ii",
+    "location": {
+      "country": "Cyprus",
+      "region": "Limassol District, Cyprus",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Levantine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.64365932383687",
+      "lng": "33.045158386230476"
+    },
+    "additionalInfo": {}
+  }
+]

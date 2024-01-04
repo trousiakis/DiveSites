@@ -1,0 +1,801 @@
+[
+  {
+    "id": "07f15ac5-788b-458d-b72c-8b6653cf4ba6",
+    "name": "Mergelbanke",
+    "location": {
+      "country": "Germany",
+      "region": "Rerik, Rostock",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.136344465954146",
+      "lng": "11.640143394470215"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0a42e65f-a1cf-40c5-ab42-8ff68fa0cefa",
+    "name": "Sturmvogel",
+    "location": {
+      "country": "Germany",
+      "region": "Rerik, Rostock",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.10732007108642",
+      "lng": "11.562080383300783"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0a87a111-d4b9-43aa-9e64-3e816fe8a539",
+    "name": "Hans Waldau",
+    "location": {
+      "country": "Germany",
+      "region": "Steinberg, Schleswig Flensburg",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea",
+        "Flensborg Fjord"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.83569780943618",
+      "lng": "9.799804687500002"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0b7bcfb1-110d-4c67-96d1-0596c3c2f340",
+    "name": "Gisela",
+    "location": {
+      "country": "Germany",
+      "region": "Lower Saxony, Germany",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Wadden Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.94679190307103",
+      "lng": "8.65653991699219"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0dae0f18-5e21-450e-bd32-8c081da3681c",
+    "name": "Sms Undine",
+    "location": {
+      "country": "Germany",
+      "region": "Vorpommern-Rugen, Mecklenburg-Vorpommern",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.87581653814485",
+      "lng": "13.690338134765627"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0f7de874-8b9d-4e1e-8bcc-1e1a867bb221",
+    "name": "Niendorf Seebrucke",
+    "location": {
+      "country": "Germany",
+      "region": "Timmendorfer Strand, Ostholstein",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.99566125779008",
+      "lng": "10.831146240234375"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "119265b1-d473-4c24-8f3d-07977a4dbf75",
+    "name": "Sten Trans",
+    "location": {
+      "country": "Germany",
+      "region": "Plon, Schleswig Holstein",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.63251788559967",
+      "lng": "10.409545898437502"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "16cfca1f-c0e1-4af4-b7dc-a437b5d9600e",
+    "name": "Helke",
+    "location": {
+      "country": "Germany",
+      "region": "Borkum, Frisian Islands",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Wadden Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.52071674896369",
+      "lng": "6.756591796875001"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1daf603c-2313-4b29-aeed-bceba7956d5b",
+    "name": "Albertus Wreck",
+    "location": {
+      "country": "Germany",
+      "region": "Otterndorf, Lower Saxony",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Wadden Sea",
+        "Elbe"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.851716535441774",
+      "lng": "8.973426818847658"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "228d8b2e-9c87-4367-84a2-1ee315f12582",
+    "name": "Sparmann",
+    "location": {
+      "country": "Germany",
+      "region": "Lower Saxony, Germany",
+      "ocean": [
+        "Europe",
+        "Germany",
+        "Lower Saxony"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.28118989695694",
+      "lng": "14.108054637908937"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "25d4aa36-67ca-4f8a-a6bf-c5bf76dfb30f",
+    "name": "&quot;hausriff&quot; Ostseebasis",
+    "location": {
+      "country": "Germany",
+      "region": "Rerik, Rostock",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.130347589731926",
+      "lng": "11.643211841583254"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3a8bc730-764d-47a0-a71a-4718ca8fa25a",
+    "name": "Fehmarnsund",
+    "location": {
+      "country": "Germany",
+      "region": "Fehmarn, Schleswig Holstein",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.40394494398496",
+      "lng": "11.11241340637207"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3b0a1fd9-4103-4632-9bd4-ee211adecdc9",
+    "name": "Torfcanyon",
+    "location": {
+      "country": "Germany",
+      "region": "Rerik, Rostock",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.13677188310569",
+      "lng": "11.633963584899904"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "44b95191-7df4-434d-8cdf-f1e02454e7b1",
+    "name": "Prahm",
+    "location": {
+      "country": "Germany",
+      "region": "Fehmarn, Schleswig Holstein",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.37595824312061",
+      "lng": "11.264076232910158"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4b663935-fb28-4495-a31a-5f591e98b191",
+    "name": "Varnkevitz",
+    "location": {
+      "country": "Germany",
+      "region": "Vorpommern-Rugen, Mecklenburg-Vorpommern",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.68454961082757",
+      "lng": "13.29826354980469"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "52f22d9c-7980-4135-b357-4b02733e20f0",
+    "name": "Jan Heweliusz",
+    "location": {
+      "country": "Germany",
+      "region": "Vorpommern-Rugen, Mecklenburg-Vorpommern",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.68018309710001",
+      "lng": "13.970489501953125"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5aa1adf5-8e1a-4684-b185-775ac3e528a2",
+    "name": "Anne Mildred Brovig",
+    "location": {
+      "country": "Germany",
+      "region": "Frisian Islands, Lower Saxony",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Wadden Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.482804559582554",
+      "lng": "6.833496093750001"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5c8c19f9-b28b-4434-9f54-ebd900a41e4f",
+    "name": "Steinbeck",
+    "location": {
+      "country": "Germany",
+      "region": "Baltenhagen, Mecklenburg-Vorpommern",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.02552006488194",
+      "lng": "11.14219665527344"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6040e448-ce21-4f87-9f82-cf474b5c6962",
+    "name": "Teufelsschlucht",
+    "location": {
+      "country": "Germany",
+      "region": "Rerik, Rostock",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.08174970182256",
+      "lng": "11.518135070800781"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7c4b93ca-9c86-4272-8a7d-028d454389cb",
+    "name": "Sma Wacht",
+    "location": {
+      "country": "Germany",
+      "region": "Vorpommern-Rugen, Mecklenburg-Vorpommern",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.72382710216374",
+      "lng": "13.659439086914064"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7e6620fa-e103-49b6-8b4e-8c286bd53106",
+    "name": "Bergum",
+    "location": {
+      "country": "Germany",
+      "region": "Frisian Islands, Lower Saxony",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Wadden Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.849286246347326",
+      "lng": "7.278442382812501"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "84493046-3003-467c-96bd-afc7ecf14f6b",
+    "name": "Gitterboxen",
+    "location": {
+      "country": "Germany",
+      "region": "Rerik, Rostock",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.13068705873552",
+      "lng": "11.640679836273195"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8880ee34-19f3-4519-8637-8b6f524ffe6c",
+    "name": "Doctor Wreck",
+    "location": {
+      "country": "Germany",
+      "region": "Fehmarn, Schleswig Holstein",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.469239546320914",
+      "lng": "11.40861511230469"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9220a365-9b61-4e8c-94a5-dc1280e93573",
+    "name": "Travemunde",
+    "location": {
+      "country": "Germany",
+      "region": "Travemunde, Lubeck",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.96719475893291",
+      "lng": "10.887794494628908"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9439c257-a46e-4b46-ac51-585012fbc74d",
+    "name": "Birk",
+    "location": {
+      "country": "Germany",
+      "region": "Lower Saxony, Germany",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Wadden Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.99142279930436",
+      "lng": "8.425483703613283"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9490a37a-a15c-4243-a6ae-88b0a0ae3dc8",
+    "name": "Amazone",
+    "location": {
+      "country": "Germany",
+      "region": "Vorpommern-Rugen, Mecklenburg-Vorpommern",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.60468735199844",
+      "lng": "13.637466430664064"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "94adb64e-5802-4ced-848b-ac7f58f277a2",
+    "name": "Blausteinsee",
+    "location": {
+      "country": "Germany",
+      "region": "Blausteinsee, Eschweiler",
+      "ocean": [
+        "Europe",
+        "Germany",
+        "Eschweiler",
+        "Blausteinsee"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.85415684913949",
+      "lng": "6.267271041870118"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9533f9a2-e4bf-493d-ab48-d16a76a93be2",
+    "name": "Gnome Wreck",
+    "location": {
+      "country": "Germany",
+      "region": "Lower Saxony, Germany",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Wadden Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.915258958120475",
+      "lng": "8.68125915527344"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9624bab2-c6fc-498d-b0d3-c2ddc863a230",
+    "name": "Kreidesee Hemmoor",
+    "location": {
+      "country": "Germany",
+      "region": "Hemmoor, Germany",
+      "ocean": [
+        "Europe",
+        "Germany",
+        "Hemmoor"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.70011735990067",
+      "lng": "9.129585027694704"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a0d7f4bf-5eaf-466a-aaf0-fcadcee692c8",
+    "name": "Flipper Ii",
+    "location": {
+      "country": "Germany",
+      "region": "Frisian Islands, Lower Saxony",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Wadden Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.322931143263496",
+      "lng": "7.388305664062501"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a3c62470-8adf-4674-8bc0-eccde4930bc0",
+    "name": "Naturagart Tauchpark",
+    "location": {
+      "country": "Germany",
+      "region": "Naturagart Tauchpark, Ibbenburen",
+      "ocean": [
+        "Europe",
+        "Germany",
+        "Ibbenburen",
+        "Naturagart Tauchpark"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.23996847500275",
+      "lng": "7.6781558990478525"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a9767c10-01b0-43ec-a548-e6694a65fe6b",
+    "name": "Johann Wesseles",
+    "location": {
+      "country": "Germany",
+      "region": "Frisian Islands, Lower Saxony",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Wadden Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.92698552779884",
+      "lng": "6.751098632812501"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "aa887787-9744-4804-bc01-b8cface51cdd",
+    "name": "Speicherbecken Geeste",
+    "location": {
+      "country": "Germany",
+      "region": "Speicherbecken Geeste, Geeste",
+      "ocean": [
+        "Europe",
+        "Germany",
+        "Geeste",
+        "Speicherbecken Geeste"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.59391117362583",
+      "lng": "7.279837131500245"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b90b65dc-f4c7-4506-be4f-9205ebd51a41",
+    "name": "Putgarten Historic Wreck",
+    "location": {
+      "country": "Germany",
+      "region": "Vorpommern-Rugen, Mecklenburg-Vorpommern",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.67025745541783",
+      "lng": "13.447952270507812"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ba3e41d0-8d6a-4d6c-a15d-1c9e3f9e7ba2",
+    "name": "Zielplattformen",
+    "location": {
+      "country": "Germany",
+      "region": "Baltenhagen, Mecklenburg-Vorpommern",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.987183909359494",
+      "lng": "11.274032592773438"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c0049395-1cb2-4a5f-8a6b-6f802158f1d3",
+    "name": "Hafen",
+    "location": {
+      "country": "Germany",
+      "region": "Friedrichshafen, Baden-Wurttemberg",
+      "ocean": [
+        "Europe",
+        "Germany",
+        "Baden-wurttemberg",
+        "Friedrichshafen"
+      ]
+    },
+    "coordinates": {
+      "lat": "47.74882079532711",
+      "lng": "9.13342595100403"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cac0aac1-df93-46dc-bc09-b75fce351104",
+    "name": "Amalie C. Ertel",
+    "location": {
+      "country": "Germany",
+      "region": "Lower Saxony, Germany",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Wadden Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.002119031589835",
+      "lng": "8.34068298339844"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d5a3bbd3-ab23-456f-a8ff-e93c97ae7100",
+    "name": "Lake Constance",
+    "location": {
+      "country": "Germany",
+      "region": "Friedrichshafen, Baden-Wurttemberg",
+      "ocean": [
+        "Europe",
+        "Germany",
+        "Baden-wurttemberg",
+        "Friedrichshafen"
+      ]
+    },
+    "coordinates": {
+      "lat": "47.64457396015473",
+      "lng": "9.42352294921875"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d63b8ca2-3ca2-4878-a276-137aa11e7776",
+    "name": "Inger Kitt",
+    "location": {
+      "country": "Germany",
+      "region": "Quern, Schleswig Flensburg",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea",
+        "Flensborg Fjord"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.82046992037362",
+      "lng": "9.747962951660158"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e0a2fd57-f3dd-4364-be4f-569f5436abf2",
+    "name": "Guliford Castle Wreck",
+    "location": {
+      "country": "Germany",
+      "region": "Otterndorf, Lower Saxony",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Wadden Sea",
+        "Elbe"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.841791966650455",
+      "lng": "8.93016815185547"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ed461ddd-4a49-46ab-aa0f-22e1a6d5f082",
+    "name": "Cimbria",
+    "location": {
+      "country": "Germany",
+      "region": "Frisian Islands, Lower Saxony",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Wadden Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.85252660044951",
+      "lng": "6.39404296875"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ed7c33ff-7fc8-4bae-9656-2ae3ddf10e1e",
+    "name": "Bremen Wreck",
+    "location": {
+      "country": "Germany",
+      "region": "Bremerhaven, Free Hanseatic City Of Bremen",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Wadden Sea",
+        "Wesser"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.510101366724975",
+      "lng": "8.53843688964844"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f6899791-2728-4af2-bd1e-96c59fb454b6",
+    "name": "Holnis",
+    "location": {
+      "country": "Germany",
+      "region": "Glucksburg, Schleswig Flensburg",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea",
+        "Flensborg Fjord"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.88139640054477",
+      "lng": "9.62282180786133"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f8c3fa22-99a0-4461-b016-3eeb01b1cf78",
+    "name": "Wulfener Hals",
+    "location": {
+      "country": "Germany",
+      "region": "Fehmarn, Schleswig Holstein",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.398449062693544",
+      "lng": "11.179447174072267"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ffdd6f90-b232-4415-a647-54ae8f0f86f9",
+    "name": "Starnberger See Kapelle",
+    "location": {
+      "country": "Germany",
+      "region": "Starnberger See, Starnberg",
+      "ocean": [
+        "Europe",
+        "Germany",
+        "Bavaria",
+        "Starnberg",
+        "Starnberger See"
+      ]
+    },
+    "coordinates": {
+      "lat": "47.93417172080382",
+      "lng": "11.334307193756105"
+    },
+    "additionalInfo": {}
+  }
+]

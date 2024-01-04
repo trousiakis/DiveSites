@@ -1,0 +1,794 @@
+[
+  {
+    "id": "059a3ed7-4c32-4719-9933-f1a5a3577bb2",
+    "name": "Dili Rock",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.469655664676889",
+      "lng": "127.29875564575197"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0ffe65fb-9b27-499c-ace2-374a791f6f73",
+    "name": "K41",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.47564068879108",
+      "lng": "125.88294625282288"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "13811ab8-428f-471f-b1e8-eaa1a7a5318e",
+    "name": "Bob&#039;s Rock",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.534849194695267",
+      "lng": "127.22322463989259"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1514c079-5987-480c-b674-cdf03fb09bef",
+    "name": "K 57",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.487477815801682",
+      "lng": "125.97457855939867"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "17b612b5-c1fc-4cb0-a114-ece12174edcf",
+    "name": "Manta Cove",
+    "location": {
+      "country": "East Timor",
+      "region": "Atauro, East Timor",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.30524356649456",
+      "lng": "125.58482408523561"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1eca3d02-c000-40c3-b52b-624cd431feda",
+    "name": "Dan&#039;s Sandy Bottom",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.562816188631501",
+      "lng": "125.40168285369874"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "205a54ee-01b7-4916-848b-22986d919fdf",
+    "name": "Dili",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.353502376213724",
+      "lng": "126.88076019287111"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "226dd1fb-097d-4f5b-b016-f0bdc513b564",
+    "name": "Metinaro",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.320212289522944",
+      "lng": "126.94736480712892"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2b739ac2-5376-4e5a-812a-e5b74d4fe405",
+    "name": "Roda Reef",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.557235685341913",
+      "lng": "125.50395011901857"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "320d5895-1dfa-4f31-b468-3e0b86191e9f",
+    "name": "Maubara Fort",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Sulu Sea",
+        "Ombai Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.607626992288662",
+      "lng": "125.2055597305298"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4d6e5d2f-8cd0-4fa6-803e-49fd655b3d5b",
+    "name": "Big Fish",
+    "location": {
+      "country": "East Timor",
+      "region": "Atauro, East Timor",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.267044197763314",
+      "lng": "125.49837112426759"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4e735f11-0bda-4e14-9a8d-e0540d19f17e",
+    "name": "Shark Fin",
+    "location": {
+      "country": "East Timor",
+      "region": "Atauro, East Timor",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.2056286805806",
+      "lng": "125.63162326812746"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "552481f8-dc4d-4583-b20a-1685dfdb54a0",
+    "name": "Table Top",
+    "location": {
+      "country": "East Timor",
+      "region": "Atauro, East Timor",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.246148701706169",
+      "lng": "125.51794052124025"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5de88988-8564-490e-90e6-2bb9c53bb2b1",
+    "name": "Tasi Tolu",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.55615352504456",
+      "lng": "125.50785541534425"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "63358b5c-d110-49b2-ac4b-dacb8a16e1fe",
+    "name": "Outer Reef",
+    "location": {
+      "country": "East Timor",
+      "region": "Atauro, East Timor",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.216544858996023",
+      "lng": "125.62527179718019"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "635e3eb8-086e-4d38-a35a-7983b8780917",
+    "name": "Liquica",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.374561985472765",
+      "lng": "126.82994842529298"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "649d39ab-2707-49ab-aa81-167b4033a3b7",
+    "name": "Maubara Church",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Sulu Sea",
+        "Ombai Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.609504602119316",
+      "lng": "125.20183682441713"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6ce943e5-82cb-4534-b77f-faafab470c0d",
+    "name": "Inner Reef",
+    "location": {
+      "country": "East Timor",
+      "region": "Atauro, East Timor",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.23527581145469",
+      "lng": "125.61029434204103"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6f2f541e-d3fb-4c9d-8f92-e7ee72125b88",
+    "name": "Manatutu",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.333800422320415",
+      "lng": "127.0833206176758"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "738c6c75-c91b-4dcb-ad77-8545bfaeaa8b",
+    "name": "Bob&#039;s Rock",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.478091974970505",
+      "lng": "125.90917557477954"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "782dca47-dbb0-4092-9f6a-9aa592679468",
+    "name": "Pertimener Pier",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.542191259678768",
+      "lng": "125.54836750030519"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7ba3cdf7-ae30-4a87-a938-82cd19b5e2f3",
+    "name": "Pinnacle",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.544355656495222",
+      "lng": "125.5924415588379"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "80dd1ce4-42f7-4583-acda-f14eef1f09ff",
+    "name": "Seal Rock",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Sulu Sea",
+        "Ombai Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.615561686704977",
+      "lng": "125.18174171447755"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8acc12b0-20e2-4fe5-88d1-0f1f20c88599",
+    "name": "Secret Garden",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.487313340067876",
+      "lng": "127.2788429260254"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "93184cab-3465-4073-a403-56fb606312bf",
+    "name": "Back Side Of Christo Rei",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.520992253923115",
+      "lng": "125.61341643333436"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "952e4826-a5cd-4b5b-956e-c0e88388fc52",
+    "name": "Bubble Beach",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.57556828621278",
+      "lng": "125.36689996719362"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "95d11c75-4ae8-4465-9277-82036721aad8",
+    "name": "K41 East",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.47566191211512",
+      "lng": "125.88499546051027"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a7d58565-e961-4142-847d-8c9f44057691",
+    "name": "Lone Tree",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.478330735775952",
+      "lng": "125.9314674139023"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "aa3e575f-4806-4e21-b966-d416d37398f0",
+    "name": "One Tree",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.478776422215976",
+      "lng": "125.93074321746828"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "af01e94f-7ce8-4cf3-810c-ac5bcaf11e29",
+    "name": "Dirt Track",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.477009590792395",
+      "lng": "125.93941211700441"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "af21b10e-cd6f-48c1-8592-db6aa2d89542",
+    "name": "Black Rock",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.478282983626732",
+      "lng": "125.8418118953705"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bef3db47-07d3-4849-9d73-270cd28846c6",
+    "name": "Dili Rock East",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.556217181617768",
+      "lng": "125.49937963485719"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c05568ab-f38d-41bc-98d7-bfb57bc82afb",
+    "name": "Franks Crack",
+    "location": {
+      "country": "East Timor",
+      "region": "Atauro, East Timor",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.20571363254381",
+      "lng": "125.5562210083008"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c799b506-5c16-42c9-9e5e-b08c10b1ec9f",
+    "name": "Dili Rock West",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.556026211866225",
+      "lng": "125.49828529357912"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cb8c9417-0783-4b1c-9e52-6cf0510c73c9",
+    "name": "Baucau",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.333121026885308",
+      "lng": "127.15370178222658"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d65f761a-a00a-401e-8f5d-cb08092e387e",
+    "name": "K-41",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.519570456698501",
+      "lng": "127.23970413208009"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e0db93d0-41c4-4bcc-8be8-d5dd1be7b61f",
+    "name": "Secret Garden",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.485700413009809",
+      "lng": "125.83429098129274"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e2cff676-d493-48be-ba4c-18484ff7be4b",
+    "name": "La Casa Dive Timor Artificial Reef",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.554625764095587",
+      "lng": "125.50957202911378"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e2f29518-0192-4a57-b065-b4121e08c070",
+    "name": "Roda Reef",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.547581009350022",
+      "lng": "125.51231861114503"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ebe955b7-248a-46cc-b44c-0bc21fc90e28",
+    "name": "Lautem",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.339235543309647",
+      "lng": "127.20863342285158"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ef242d42-a61e-42e0-9fec-2a23e1b7f949",
+    "name": "Front Side Of Cristo Rei",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.522955174240261",
+      "lng": "125.60823440551759"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f695dee2-2869-4c0e-9fca-0114ec5c2592",
+    "name": "Black Rock",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.501574715933389",
+      "lng": "127.25927352905275"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fc3d183f-f02c-4fdd-84d5-37b59c2b2bb2",
+    "name": "Tutuala",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.400375435618203",
+      "lng": "127.31506347656251"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fdc07f71-8e11-40ff-8e34-036233c04cd3",
+    "name": "Behau Village",
+    "location": {
+      "country": "East Timor",
+      "region": "East Timor, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "Banda Sea",
+        "Wetar Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.477121012833802",
+      "lng": "125.8907997608185"
+    },
+    "additionalInfo": {}
+  }
+]

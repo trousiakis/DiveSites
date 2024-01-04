@@ -1,0 +1,259 @@
+[
+  {
+    "id": "06b0e0b8-9244-4768-8206-2835fd0fcfab",
+    "name": "Svobodné Heřmanice",
+    "location": {
+      "country": "Czech Republic",
+      "region": "Bruntál District, Moravian-Silesian Region",
+      "ocean": [
+        "Europe",
+        "Czech Republic",
+        "Moravian-silesian Region",
+        "Bruntál District"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.94609734490106",
+      "lng": "17.658677101135257"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0894e3c7-5738-4551-9d4e-3e650fc4d799",
+    "name": "Milada - Ocelárna",
+    "location": {
+      "country": "Czech Republic",
+      "region": " Ústí Nad Labem Region, Czech Republic",
+      "ocean": [
+        "Europe",
+        "Czech Republic",
+        " ústí Nad Labem Region"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.6580573669834",
+      "lng": "13.946456909179688"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "15ee443d-bc33-4059-8e2a-cf3b4f7409b8",
+    "name": "Popelíky",
+    "location": {
+      "country": "Czech Republic",
+      "region": "Milešov, Central Bohemian Region",
+      "ocean": [
+        "Europe",
+        "Czech Republic",
+        "Central Bohemian Region",
+        "Milešov"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.599543675412384",
+      "lng": "14.188284873962404"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4af11c3a-82f7-4ee0-993e-6acc1ec2e474",
+    "name": "Lom Borek",
+    "location": {
+      "country": "Czech Republic",
+      "region": "Borek, Southern Bohemian Region",
+      "ocean": [
+        "Europe",
+        "Czech Republic",
+        "Southern Bohemian Region",
+        "Borek"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.792554875423384",
+      "lng": "15.578978061676027"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "72bea445-f535-4762-84e5-c24252dd8f05",
+    "name": "Lom Hostěradice",
+    "location": {
+      "country": "Czech Republic",
+      "region": "Znojmo, Czech Republic",
+      "ocean": [
+        "Europe",
+        "Czech Republic",
+        "Znojmo"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.94837903853867",
+      "lng": "16.27506494522095"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7b54cf80-00e8-454f-9db0-223c4940d32e",
+    "name": "Lomeček",
+    "location": {
+      "country": "Czech Republic",
+      "region": "Mrákov, Plzeň Region",
+      "ocean": [
+        "Europe",
+        "Czech Republic",
+        "Plzeň Region",
+        "Mrákov"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.39168930101657",
+      "lng": "12.96391010284424"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7ff52d67-55d6-4391-9603-8879494a3b59",
+    "name": "Bořená Hora",
+    "location": {
+      "country": "Czech Republic",
+      "region": "Štětkovice, Central Bohemian Region",
+      "ocean": [
+        "Europe",
+        "Czech Republic",
+        "Central Bohemian Region",
+        "štětkovice"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.66426684752667",
+      "lng": "14.502532482147219"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8ace41f9-b908-4de0-9490-5228d2dcea8c",
+    "name": "Lom Leštinka",
+    "location": {
+      "country": "Czech Republic",
+      "region": "Borek, Southern Bohemian Region",
+      "ocean": [
+        "Europe",
+        "Czech Republic",
+        "Southern Bohemian Region",
+        "Borek"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.840945464154224",
+      "lng": "15.973584651947021"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "993b571b-bc4c-40e1-97a7-1eabdc183425",
+    "name": "Horní Cerekev Quarry",
+    "location": {
+      "country": "Czech Republic",
+      "region": "Czech Republic, Europe",
+      "ocean": [
+        "Pelhřimov District"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.31566328394449",
+      "lng": "15.331549644470217"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9f005e68-eb6c-4f79-b7dd-5be424444d7d",
+    "name": "Lom Vševily",
+    "location": {
+      "country": "Czech Republic",
+      "region": "Březové Hory, Czech Republic",
+      "ocean": [
+        "Europe",
+        "Czech Republic",
+        "Březové Hory"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.56470742478016",
+      "lng": "13.89474391937256"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a258f867-5f88-44d5-88dd-97fe3112a082",
+    "name": "Rumchalpa",
+    "location": {
+      "country": "Czech Republic",
+      "region": "Hradec Králové Region, Czech Republic",
+      "ocean": [
+        "Europe",
+        "Czech Republic",
+        "Hradec Králové Region"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.465273837391194",
+      "lng": "15.495636463165285"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bee2b96a-a100-4a44-85e7-a88beac5e559",
+    "name": "Výkleky",
+    "location": {
+      "country": "Czech Republic",
+      "region": "Přerov District, Olomouc Region",
+      "ocean": [
+        "Europe",
+        "Czech Republic",
+        "Olomouc Region",
+        "Přerov District"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.55728898983402",
+      "lng": "17.48255252838135"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "df568a0f-88a3-4e5d-8d80-a8bee489800c",
+    "name": "Jezero Barbora",
+    "location": {
+      "country": "Czech Republic",
+      "region": " Ústí Nad Labem Region, Czech Republic",
+      "ocean": [
+        "Europe",
+        "Czech Republic",
+        " ústí Nad Labem Region"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.64025057583049",
+      "lng": "13.753745555877687"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e89b7e8e-f89c-43d1-8091-3ec44ddd0302",
+    "name": "Velká Amerika",
+    "location": {
+      "country": "Czech Republic",
+      "region": "Central Bohemian Region, Czech Republic",
+      "ocean": [
+        "Europe",
+        "Czech Republic",
+        "Central Bohemian Region"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.95888391216037",
+      "lng": "14.196953773498537"
+    },
+    "additionalInfo": {}
+  }
+]

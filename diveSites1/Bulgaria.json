@@ -1,0 +1,121 @@
+[
+  {
+    "id": "1fca90c1-7cbb-4d0a-8542-3deb416d3a96",
+    "name": "Tyulenovo",
+    "location": {
+      "country": "Bulgaria",
+      "region": "Bulgaria, Europe",
+      "ocean": [
+        "Atlantic Ocean",
+        "Black Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.49779897084377",
+      "lng": "28.58805119991303"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "46c4ccf5-6e2a-477d-89c5-59788e21daa9",
+    "name": "Mopang Wreck",
+    "location": {
+      "country": "Bulgaria",
+      "region": "Chernomorets, Bulgaria",
+      "ocean": [
+        "Atlantic Ocean",
+        "Black Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.46462597146994",
+      "lng": "27.675933837890625"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4ad011c3-3747-477c-b648-e6feda682a61",
+    "name": "Sozopol",
+    "location": {
+      "country": "Bulgaria",
+      "region": "Sozopol, Burgas",
+      "ocean": [
+        "Atlantic Ocean",
+        "Black Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.41620283856551",
+      "lng": "27.700890990353436"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "67631f34-5efc-46c1-b8a0-288107bfef73",
+    "name": "Kamen Bryag",
+    "location": {
+      "country": "Bulgaria",
+      "region": "Bulgaria, Europe",
+      "ocean": [
+        "Atlantic Ocean",
+        "Black Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.337164854911094",
+      "lng": "28.63037109375"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a18efbbf-d194-4bfd-89e3-f5b5d51c51f6",
+    "name": "The Bats Den",
+    "location": {
+      "country": "Bulgaria",
+      "region": "Bulgaria, Europe",
+      "ocean": [
+        "Atlantic Ocean",
+        "Black Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.22519255488632",
+      "lng": "28.358459472656254"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "add978aa-738d-4775-bd76-2928ceaa3a07",
+    "name": "Rusalka",
+    "location": {
+      "country": "Bulgaria",
+      "region": "Bulgaria, Europe",
+      "ocean": [
+        "Atlantic Ocean",
+        "Black Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.41863983410773",
+      "lng": "28.522267341613773"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ea70f1f7-9b5a-446a-983a-b3e9c935014f",
+    "name": "Akin, Castle Akra",
+    "location": {
+      "country": "Bulgaria",
+      "region": "Chernomorets, Bulgaria",
+      "ocean": [
+        "Atlantic Ocean",
+        "Black Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.45941573719569",
+      "lng": "27.63224601745606"
+    },
+    "additionalInfo": {}
+  }
+]

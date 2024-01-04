@@ -1,0 +1,114 @@
+[
+  {
+    "id": "21a0806c-f723-4763-aa61-95a1a3967a1b",
+    "name": "Gyékényes Búvárbázis",
+    "location": {
+      "country": "Hungary",
+      "region": "Gyekenyes, Somogy",
+      "ocean": [
+        "Europe",
+        "Hungary",
+        "Somogy",
+        "Gyekenyes"
+      ]
+    },
+    "coordinates": {
+      "lat": "46.241809524344035",
+      "lng": "16.99067831039429"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2394b71c-e5ce-4547-9593-be8101403fea",
+    "name": "Dorogi Tó",
+    "location": {
+      "country": "Hungary",
+      "region": "Lake Palatinus, Dorog",
+      "ocean": [
+        "Europe",
+        "Hungary",
+        "Komárom-esztergom",
+        "Dorog",
+        "Lake Palatinus"
+      ]
+    },
+    "coordinates": {
+      "lat": "47.73176128999761",
+      "lng": "18.73797655105591"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "26a96bd2-4149-4c16-9c9a-e6ff133a23cb",
+    "name": "Molnar Janos Cave",
+    "location": {
+      "country": "Hungary",
+      "region": "Molnar Janos Cave, Budapest",
+      "ocean": [
+        "Europe",
+        "Hungary",
+        "Budapest",
+        "Molnar Janos Cave"
+      ]
+    },
+    "coordinates": {
+      "lat": "47.51817164234537",
+      "lng": "19.035830497741703"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "367c61d5-3b9d-44bf-a808-1de56705ee17",
+    "name": "Kőbánya",
+    "location": {
+      "country": "Hungary",
+      "region": "Budapest, Hungary",
+      "ocean": [
+        "Europe",
+        "Hungary",
+        "Budapest"
+      ]
+    },
+    "coordinates": {
+      "lat": "47.48513394727413",
+      "lng": "19.138294949244425"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "430e9722-41d8-4206-8ce3-371223e891ae",
+    "name": "Lake Lupa",
+    "location": {
+      "country": "Hungary",
+      "region": "Budapest, Hungary",
+      "ocean": [
+        "Europe",
+        "Hungary",
+        "Budapest"
+      ]
+    },
+    "coordinates": {
+      "lat": "47.62819144645383",
+      "lng": "19.07663433155764"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "50c6ccc8-b226-4f98-8ef1-32bcab9ea46f",
+    "name": "Rudabánya-Bányató",
+    "location": {
+      "country": "Hungary",
+      "region": "Rudabanya, Hungary",
+      "ocean": [
+        "Europe",
+        "Hungary",
+        "Rudabanya"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.395003302960944",
+      "lng": "20.640070438385013"
+    },
+    "additionalInfo": {}
+  }
+]

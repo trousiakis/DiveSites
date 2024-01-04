@@ -1,0 +1,56 @@
+[
+  {
+    "id": "5f7333e8-14ae-4919-b7f5-f7db3ae36feb",
+    "name": "El Hadj Reef",
+    "location": {
+      "country": "Djibouti",
+      "region": "Djibouti City, Djibouti",
+      "ocean": [
+        "Africa",
+        "Djibouti",
+        "Djibouti City"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.61205193811245",
+      "lng": "43.075675964355476"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "74bce020-eaa3-4da3-a998-15d6f77ef97a",
+    "name": "Ambouli Wreck",
+    "location": {
+      "country": "Djibouti",
+      "region": "Djibouti City, Djibouti",
+      "ocean": [
+        "Africa",
+        "Djibouti",
+        "Djibouti City"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.61121119698555",
+      "lng": "43.05936813354492"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cab9ac20-39a0-464a-b465-999e6fa14689",
+    "name": "Archon Raphael Wreck",
+    "location": {
+      "country": "Djibouti",
+      "region": "Djibouti, Africa",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea",
+        "Gulf Of Tadjoura"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.687119879020016",
+      "lng": "43.19300651550293"
+    },
+    "additionalInfo": {}
+  }
+]

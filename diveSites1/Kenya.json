@@ -1,0 +1,546 @@
+[
+  {
+    "id": "0116415b-38de-4eb8-8903-c7ca18a4ccba",
+    "name": "Christmas Reef",
+    "location": {
+      "country": "Kenya",
+      "region": "Mombasa, Kenya",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.137900656253632",
+      "lng": "39.758834838867195"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "02674140-6177-47b9-aae2-364416f01964",
+    "name": "Kilifi Creek",
+    "location": {
+      "country": "Kenya",
+      "region": "Kilifi, Kenya",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.64465717257866",
+      "lng": "39.87796783447266"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1d439a9c-f56d-4db4-b87f-c77f4afe4115",
+    "name": "White House",
+    "location": {
+      "country": "Kenya",
+      "region": "Kilifi, Kenya",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.7926602900490454",
+      "lng": "39.84878540039063"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "21baad6b-7064-4995-ae0a-4cbd47f55a45",
+    "name": "House Reef",
+    "location": {
+      "country": "Kenya",
+      "region": "Wasini Island, Kenya",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.6590682390483344",
+      "lng": "39.39491271972657"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2ecd9570-0607-4aae-84c0-ad79424277e4",
+    "name": "3 Sentinels",
+    "location": {
+      "country": "Kenya",
+      "region": "Kilifi, Kenya",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.81252917114466",
+      "lng": "39.84466552734376"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "34a4a228-d023-4fcf-853f-33946004c034",
+    "name": "Kisite Point",
+    "location": {
+      "country": "Kenya",
+      "region": "Kisite Island, Kwale",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.71860647170156",
+      "lng": "39.382295608520515"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "35e1bcae-30db-440d-af68-792dd2f8fc70",
+    "name": "Lobster Bank",
+    "location": {
+      "country": "Kenya",
+      "region": "Mombasa, Kenya",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.006825682968059",
+      "lng": "39.75188255310059"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "391c9505-885a-4371-99cb-0353f4015bd7",
+    "name": "Kikafini Reef",
+    "location": {
+      "country": "Kenya",
+      "region": "Kwale, Kenya",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.2380544046172846",
+      "lng": "39.60966110229493"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "39fa8d40-fa8f-473d-9ff4-96473341da9f",
+    "name": "Green Turtle",
+    "location": {
+      "country": "Kenya",
+      "region": "Mombasa, Kenya",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.977799685693042",
+      "lng": "39.76913452148438"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3b5af85f-e4aa-4bf6-85fa-a0187ee77255",
+    "name": "The Wall",
+    "location": {
+      "country": "Kenya",
+      "region": "Mombasa, Kenya",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.109478639690112",
+      "lng": "39.744071960449226"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3ddc8951-ab38-4708-8f86-59b983543347",
+    "name": "Vuma Rocks",
+    "location": {
+      "country": "Kenya",
+      "region": "Kilifi, Kenya",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.7455555185563907",
+      "lng": "39.86663818359376"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4306ef30-552c-4571-a2d6-6ccc4bf78a62",
+    "name": "Brain Coral ",
+    "location": {
+      "country": "Kenya",
+      "region": "Mombasa, Kenya",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.988245737983887",
+      "lng": "39.76690292358399"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "45a140bc-01e4-4bca-9c3f-32a4790547eb",
+    "name": "Dolphine Point",
+    "location": {
+      "country": "Kenya",
+      "region": "Outer Mpunguti Island, Kwale",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.706801881124671",
+      "lng": "39.41285133361817"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4813ce97-2e35-4345-b709-730376948d18",
+    "name": "Secret Place",
+    "location": {
+      "country": "Kenya",
+      "region": "Outer Mpunguti Island, Kwale",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.684389716553897",
+      "lng": "39.43310737609864"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4a624c7a-588e-44ae-bfba-65ac757bd937",
+    "name": "Shark Point ",
+    "location": {
+      "country": "Kenya",
+      "region": "Mombasa, Kenya",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.9652984982475195",
+      "lng": "39.772396087646484"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5cfc238a-18e7-40c8-acb5-0c08a1250b00",
+    "name": "Shelly Corner",
+    "location": {
+      "country": "Kenya",
+      "region": "Mombasa, Kenya",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.124888292911721",
+      "lng": "39.70218658447266"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "61f4a944-424b-49e7-8926-431b5cf7dd69",
+    "name": "Paradise",
+    "location": {
+      "country": "Kenya",
+      "region": "Kilifi, Kenya",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.84507203510183",
+      "lng": "39.845695495605476"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6a454656-3528-483f-a23e-001bf753b696",
+    "name": "Nyali Reef",
+    "location": {
+      "country": "Kenya",
+      "region": "Mombasa, Kenya",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.065473883411888",
+      "lng": "39.704418182373054"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7207d9d8-5092-4121-b413-636c03dd7c2e",
+    "name": "Coral Garden",
+    "location": {
+      "country": "Kenya",
+      "region": "Mombasa, Kenya",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.000061604283042",
+      "lng": "39.745101928710945"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "794899e8-f257-44fb-a3cd-9d7efcd9caca",
+    "name": "Peponi Reef",
+    "location": {
+      "country": "Kenya",
+      "region": "Mombasa, Kenya",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.059138369878259",
+      "lng": "39.736862182617195"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "85dd194b-9497-4295-8e50-90a3267c0f89",
+    "name": "Inner Kisite",
+    "location": {
+      "country": "Kenya",
+      "region": "Kisite Island, Kwale",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.716040273418256",
+      "lng": "39.37371253967286"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "88ca338e-39bf-41bf-a593-0346a774f0ec",
+    "name": "Aquarium",
+    "location": {
+      "country": "Kenya",
+      "region": "Mombasa, Kenya",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.058282215586014",
+      "lng": "39.71334457397462"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "968a3132-d333-4cad-b903-792d5bc5af5f",
+    "name": "Mv Dania Wreck",
+    "location": {
+      "country": "Kenya",
+      "region": "Mombasa, Kenya",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.008794961190437",
+      "lng": "39.75574493408204"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9f4e2ec6-19bf-4794-94f7-ce20e9185517",
+    "name": "Lucky Chance",
+    "location": {
+      "country": "Kenya",
+      "region": "Mombasa, Kenya",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.080028252821054",
+      "lng": "39.68158721923829"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a1dd7671-c7c9-447f-b28a-2b163e44391a",
+    "name": "Bahari Reef",
+    "location": {
+      "country": "Kenya",
+      "region": "Mombasa, Kenya",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.051604180970059",
+      "lng": "39.71729278564454"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a8334b8c-2119-47c5-b732-8d09906844c5",
+    "name": "Globe Star Wreck",
+    "location": {
+      "country": "Kenya",
+      "region": "Mombasa, Kenya",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.082425417807074",
+      "lng": "39.71454620361329"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b41d13e5-23ce-4039-b9ed-8fc573ac0d71",
+    "name": "Galu Reef",
+    "location": {
+      "country": "Kenya",
+      "region": "Kwale, Kenya",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.290950912062887",
+      "lng": "39.598503112792976"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bdece891-e5e9-4df0-8f57-7ddcd3f72153",
+    "name": "Nyalli Reef",
+    "location": {
+      "country": "Kenya",
+      "region": "Wasini Island, Kenya",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.661292459491398",
+      "lng": "39.44409370422364"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c678e856-5c82-4f06-8e4c-e6a8e245fbd7",
+    "name": "Pink Reef",
+    "location": {
+      "country": "Kenya",
+      "region": "Outer Mpunguti Island, Kwale",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.6937994916562085",
+      "lng": "39.42744255065919"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d0624b5d-5065-46f5-b8e5-dbdf44d2d806",
+    "name": "Pinnacle",
+    "location": {
+      "country": "Kenya",
+      "region": "Kilifi, Kenya",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.828972035967058",
+      "lng": "39.85633850097657"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f759adfc-1a93-44df-84f8-43071e6368f4",
+    "name": "Outer Kisite",
+    "location": {
+      "country": "Kenya",
+      "region": "Kisite Island, Kwale",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.727160397433019",
+      "lng": "39.37594413757324"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f8b0ab02-e8bc-4ce2-b7d7-5a52baa85ee9",
+    "name": "Coral Garden",
+    "location": {
+      "country": "Kenya",
+      "region": "Outer Mpunguti Island, Kwale",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.702695889611776",
+      "lng": "39.42194938659669"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f9b50059-50a4-4910-91b6-a688a48f9540",
+    "name": "Vuma Caves",
+    "location": {
+      "country": "Kenya",
+      "region": "Kilifi, Kenya",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.7388749994960992",
+      "lng": "39.8661231994629"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fec6352f-4816-4dfb-a57a-be08c0c2eb3b",
+    "name": "Mtwapa Channel",
+    "location": {
+      "country": "Kenya",
+      "region": "Mombasa, Kenya",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.9575921925703885",
+      "lng": "39.7730827331543"
+    },
+    "additionalInfo": {}
+  }
+]

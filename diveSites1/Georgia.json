@@ -1,0 +1,21 @@
+[
+  {
+    "id": "e21245a1-6a84-4660-8f3c-dd27c9fd9881",
+    "name": "Georgia Aquarium",
+    "location": {
+      "country": "Georgia",
+      "region": "Atlanta, Georgia",
+      "ocean": [
+        "North America",
+        "Usa",
+        "Georgia",
+        "Atlanta"
+      ]
+    },
+    "coordinates": {
+      "lat": "33.76355782977512",
+      "lng": "-84.3947196006775"
+    },
+    "additionalInfo": {}
+  }
+]

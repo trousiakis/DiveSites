@@ -1,0 +1,38 @@
+[
+  {
+    "id": "813c447a-f02a-4f23-a506-217997347f38",
+    "name": "Cantera El Terrible",
+    "location": {
+      "country": "Uruguay",
+      "region": "Salto Department, Uruguay",
+      "ocean": [
+        "South America",
+        "Uruguay",
+        "Salto Department"
+      ]
+    },
+    "coordinates": {
+      "lat": "-31.22588527358688",
+      "lng": "-57.851815223693855"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "90bca125-c97f-4f99-ab1b-de62c3c8befb",
+    "name": "Mesitas",
+    "location": {
+      "country": "Uruguay",
+      "region": "Maldonado, Uruguay",
+      "ocean": [
+        "South America",
+        "Uruguay",
+        "Maldonado"
+      ]
+    },
+    "coordinates": {
+      "lat": "-34.967405443594565",
+      "lng": "-54.95530843734742"
+    },
+    "additionalInfo": {}
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "d962fa43-eb51-44b3-885e-2a1d2b98f8cd",
+    "name": "Valkiajärvi",
+    "location": {
+      "country": "Finland",
+      "region": "Kitee, Finland",
+      "ocean": [
+        "Europe",
+        "Finland",
+        "Kitee"
+      ]
+    },
+    "coordinates": {
+      "lat": "62.0234673351619",
+      "lng": "29.864053297787904"
+    },
+    "additionalInfo": {}
+  }
+]

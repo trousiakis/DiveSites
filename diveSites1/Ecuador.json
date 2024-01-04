@@ -1,0 +1,1303 @@
+[
+  {
+    "id": "0669da46-5d8d-495b-8aec-590bd2194c1e",
+    "name": "Wreck Camaronero ",
+    "location": {
+      "country": "Ecuador",
+      "region": "Manta, Manabi",
+      "ocean": [
+        "South America",
+        "Ecuador",
+        "Manabi",
+        "Manta"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.9319085239722428",
+      "lng": "-80.7360363006592"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0675b44e-533a-4d18-906b-412a910f4c9d",
+    "name": "Champion",
+    "location": {
+      "country": "Ecuador",
+      "region": "Floreana Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-1.2362093122015392",
+      "lng": "-90.384521484375"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "06b8e146-d29a-499b-b76a-e689fa33aea7",
+    "name": "Cousins Rock",
+    "location": {
+      "country": "Ecuador",
+      "region": "Santiago Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.23543291595920401",
+      "lng": "-90.5735206604004"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "082713bc-522c-41a8-b93e-3ce9fa65fba9",
+    "name": "Cabo Douglas",
+    "location": {
+      "country": "Ecuador",
+      "region": "Fernandina Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.3158553337726141",
+      "lng": "-91.70974731445314"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "08476ca4-bbca-43d4-9689-f8c60a055f1b",
+    "name": "Guy Fawkes",
+    "location": {
+      "country": "Ecuador",
+      "region": "Santa Cruz Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.5171657907545983",
+      "lng": "-90.5263137817383"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0b1d713d-af59-442c-ac04-7ac5dfbbf276",
+    "name": "Caamano Islet",
+    "location": {
+      "country": "Ecuador",
+      "region": "Santa Cruz Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.7580345254974054",
+      "lng": "-90.27970075607301"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1011290a-1302-4808-9c9e-10aa04860c84",
+    "name": "Cape Chalmers",
+    "location": {
+      "country": "Ecuador",
+      "region": "Marchena Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "0.333021196196196",
+      "lng": "-90.55463790893556"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1132b638-ea91-4378-880a-30a45a21dbcf",
+    "name": "Elizabeth Bay",
+    "location": {
+      "country": "Ecuador",
+      "region": "Isabela Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.615222552406841",
+      "lng": "-91.12472534179688"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "12d2e692-7f5e-47b9-acca-bc69f4ffeba3",
+    "name": "Parcela Marina 5",
+    "location": {
+      "country": "Ecuador",
+      "region": "Salango Island, Puerto López",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-1.5916981011508111",
+      "lng": "-80.86220741271974"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "139ca4cc-e807-43d3-97ff-78b6ce466b3b",
+    "name": "Tagus Cove",
+    "location": {
+      "country": "Ecuador",
+      "region": "Isabela Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.2636709443366629",
+      "lng": "-91.37191772460939"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "18b05104-4620-42fd-82df-09186c3f556b",
+    "name": "Wreck Long Line ",
+    "location": {
+      "country": "Ecuador",
+      "region": "Manta, Manabi",
+      "ocean": [
+        "South America",
+        "Ecuador",
+        "Manabi",
+        "Manta"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.93482638017425",
+      "lng": "-80.74110031127931"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1ce03e01-5ea3-456a-8d16-3581fe45eb2a",
+    "name": "Punta Estrada",
+    "location": {
+      "country": "Ecuador",
+      "region": "Santa Cruz Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.7604804853436558",
+      "lng": "-90.30432343482971"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2050788b-2493-4892-82b7-cc4ae5185d23",
+    "name": "La Pared",
+    "location": {
+      "country": "Ecuador",
+      "region": "Islote El Pelado, Ayangue",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-1.9346406290013616",
+      "lng": "-80.78886525705458"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "28a8bfc1-2e64-428b-a857-29e56babffef",
+    "name": "Plazas",
+    "location": {
+      "country": "Ecuador",
+      "region": "Santa Cruz Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.5783173589156483",
+      "lng": "-90.1618766784668"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "28bf0e67-b6fb-4388-9b75-30900b56d11e",
+    "name": "Punta Carrion",
+    "location": {
+      "country": "Ecuador",
+      "region": "Santa Cruz Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.48124701160616484",
+      "lng": "-90.25053977966309"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2e105790-3177-4b6b-9f65-40c2f5ae8d92",
+    "name": "The Elephant",
+    "location": {
+      "country": "Ecuador",
+      "region": "Wolf Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "1.3729879328756525",
+      "lng": "-91.8270778656006"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "30ab6c36-5f29-4d10-bbbe-68cf124ad6dd",
+    "name": "The Anchorage",
+    "location": {
+      "country": "Ecuador",
+      "region": "Wolf Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "1.3804315957775999",
+      "lng": "-91.81885957717896"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "37e0f6a4-ef19-462b-ba4e-a74b2c83b426",
+    "name": "Barco Hundido",
+    "location": {
+      "country": "Ecuador",
+      "region": "Islote El Pelado, Ayangue",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-1.9357600642913475",
+      "lng": "-80.78903540968896"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "38269e52-3476-458c-86c6-764b32e2403a",
+    "name": "The Point",
+    "location": {
+      "country": "Ecuador",
+      "region": "Wolf Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "1.3769135562651698",
+      "lng": "-91.82413816452028"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "38d4c79a-6f02-455b-b278-53fc6fa078f8",
+    "name": "The Aquarium",
+    "location": {
+      "country": "Ecuador",
+      "region": "Isla De La Plata, Ecuador",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-1.2817792080142894",
+      "lng": "-81.04998165741563"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3a6e41f5-a4e0-486c-a9a1-2f277ecd1ca6",
+    "name": "Daphne Islet",
+    "location": {
+      "country": "Ecuador",
+      "region": "Santa Cruz Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.3450372821983503",
+      "lng": "-90.44752120971681"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3b4fcddc-3e8a-498a-bd52-09a3f9901465",
+    "name": "Wreck El Aleman ",
+    "location": {
+      "country": "Ecuador",
+      "region": "Manta, Manabi",
+      "ocean": [
+        "South America",
+        "Ecuador",
+        "Manabi",
+        "Manta"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.9277891934562752",
+      "lng": "-80.70908546447755"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3b803f80-2801-42fe-a395-e0282cbed2ef",
+    "name": "Las 3 Rocas",
+    "location": {
+      "country": "Ecuador",
+      "region": "Isla De La Plata, Ecuador",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-1.2581794823457846",
+      "lng": "-81.07086181640626"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3e8b744d-dd9a-4e6c-8d2a-9c50b89a88b4",
+    "name": "Shark Point",
+    "location": {
+      "country": "Ecuador",
+      "region": "Wolf Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "1.3943320910986503",
+      "lng": "-91.8155336380005"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "407d0374-ef9e-495b-8a71-1c3e1ee6a8ee",
+    "name": "Five Fingers",
+    "location": {
+      "country": "Ecuador",
+      "region": "San Cristobal Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.9365427650432783",
+      "lng": "-89.65187072753908"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "42414cea-f079-40fe-958f-80f534d34939",
+    "name": "Gordon Rocks",
+    "location": {
+      "country": "Ecuador",
+      "region": "Santa Cruz Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.5667737077113196",
+      "lng": "-90.14342308044434"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "471338c8-f7d7-44b0-8124-82edf7fc1cf3",
+    "name": "Daphne Minor",
+    "location": {
+      "country": "Ecuador",
+      "region": "Santa Cruz Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.39378809848291635",
+      "lng": "-90.35130500793458"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "48b381df-c3ca-4462-942f-ac47a1b41360",
+    "name": "Punta Machalilla",
+    "location": {
+      "country": "Ecuador",
+      "region": "Isla De La Plata, Ecuador",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-1.2832331602903575",
+      "lng": "-81.086483001709"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4c287e66-530b-481b-a7b4-ac5f14309eec",
+    "name": "Wreck El Español ",
+    "location": {
+      "country": "Ecuador",
+      "region": "Manta, Manabi",
+      "ocean": [
+        "South America",
+        "Ecuador",
+        "Manabi",
+        "Manta"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.9559593099693071",
+      "lng": "-80.83678007125856"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5169dd7b-d298-493a-bded-313e1ce37266",
+    "name": "Buccaneer Cove",
+    "location": {
+      "country": "Ecuador",
+      "region": "Santiago Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.14007554405620098",
+      "lng": "-90.8123016357422"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "576daaa5-102a-4a29-bd2c-97a50228f688",
+    "name": "Ureles Reef ",
+    "location": {
+      "country": "Ecuador",
+      "region": "Manta, Manabi",
+      "ocean": [
+        "South America",
+        "Ecuador",
+        "Manabi",
+        "Manta"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.9156028126793738",
+      "lng": "-80.68419456481935"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "57c5ee11-dd9f-42aa-a9f6-612533fb07d9",
+    "name": "Albany",
+    "location": {
+      "country": "Ecuador",
+      "region": "Santiago Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.17148945953090336",
+      "lng": "-90.84131240844727"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "58c5084c-6ad6-4075-9bc0-d491d5a3ac13",
+    "name": "Pinaculos",
+    "location": {
+      "country": "Ecuador",
+      "region": "Wolf Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "1.3954904620147834",
+      "lng": "-91.81791543960573"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6256d7f8-4230-48d1-983a-e73c6b3a44b7",
+    "name": "Nameless Rock",
+    "location": {
+      "country": "Ecuador",
+      "region": "Santa Cruz Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.670665684064088",
+      "lng": "-90.58742523193361"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "63323d80-9af1-4a27-85f5-887f43a2afef",
+    "name": "North Seymous",
+    "location": {
+      "country": "Ecuador",
+      "region": "Santa Cruz Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.3901832939311513",
+      "lng": "-90.27474403381349"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "660f1593-8f11-466c-a240-12977fe22773",
+    "name": "Devil&#039;s Crown",
+    "location": {
+      "country": "Ecuador",
+      "region": "Floreana Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-1.2152714165589933",
+      "lng": "-90.42305946350099"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6ec569e1-81b8-4d7a-84e2-266b673846f0",
+    "name": "Mosquera Islet",
+    "location": {
+      "country": "Ecuador",
+      "region": "Santa Cruz Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.4051174740026618",
+      "lng": "-90.27568817138672"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "721fb573-d24c-4d83-8580-d00b39f5a2b4",
+    "name": "La Playita",
+    "location": {
+      "country": "Ecuador",
+      "region": "Puerto López, Ecuador",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-1.5626117306006087",
+      "lng": "-80.83787441253664"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "73e4d57c-ce01-4944-996f-478ee40c1fa0",
+    "name": "El Bajo Gardner",
+    "location": {
+      "country": "Ecuador",
+      "region": "Espanola Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-1.3480182438020019",
+      "lng": "-89.63757991790773"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "793679b4-7806-4441-a363-4038d6974b80",
+    "name": "Bartholome",
+    "location": {
+      "country": "Ecuador",
+      "region": "Santiago Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.28770325873371744",
+      "lng": "-90.53558349609376"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "800f7e2a-e999-4e21-b459-51c68192015b",
+    "name": "Itabaca Channel",
+    "location": {
+      "country": "Ecuador",
+      "region": "Santa Cruz Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.4874266003769925",
+      "lng": "-90.26324272155763"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "80a90da0-398d-4ad3-adcd-19445b5afdad",
+    "name": "Santiago",
+    "location": {
+      "country": "Ecuador",
+      "region": "Santiago Island, Galapagos Islands",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.000545245386943",
+      "lng": "-23.432507514953617"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "81e8a201-3e47-4bbb-9db6-1d4f697cf7b2",
+    "name": "Wreck Oscar Miguel ",
+    "location": {
+      "country": "Ecuador",
+      "region": "Manta, Manabi",
+      "ocean": [
+        "South America",
+        "Ecuador",
+        "Manabi",
+        "Manta"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.9291623041622201",
+      "lng": "-80.7330322265625"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8795b3d7-7f79-40cb-8152-6bbe82e3dc90",
+    "name": "Los Frailes",
+    "location": {
+      "country": "Ecuador",
+      "region": "Manabi, Ecuador",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-1.4884800029826135",
+      "lng": "-80.87242126464845"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8a2411e1-6178-4f06-b5bc-baf51651ea99",
+    "name": "The Rock",
+    "location": {
+      "country": "Ecuador",
+      "region": "Wolf Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "1.3730308358983947",
+      "lng": "-91.82523250579835"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8b07c704-601e-4000-8487-587573b88abf",
+    "name": "Punta Pitt",
+    "location": {
+      "country": "Ecuador",
+      "region": "San Cristobal Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.7146077844665655",
+      "lng": "-89.23816680908203"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8ea48ea8-29e2-461e-a394-b06b29ee40b7",
+    "name": "Punta Espejo",
+    "location": {
+      "country": "Ecuador",
+      "region": "Marchena Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "0.308988980778423",
+      "lng": "-90.4013442993164"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9423217e-7c8e-49fa-83c3-d260813dc664",
+    "name": "Wreck Bay",
+    "location": {
+      "country": "Ecuador",
+      "region": "San Cristobal Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.9228116626856938",
+      "lng": "-89.66354370117188"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "950902eb-db0a-4a43-90b5-099d157f93c7",
+    "name": "Isla Lobos",
+    "location": {
+      "country": "Ecuador",
+      "region": "San Cristobal Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.8575882160949275",
+      "lng": "-89.56475257873537"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "974332e1-c2a2-4b55-8ec0-60631a525d52",
+    "name": "Beagle Rocks",
+    "location": {
+      "country": "Ecuador",
+      "region": "Santiago Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.4147302650697052",
+      "lng": "-90.62969684600831"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9c4bdca5-7bd1-4dde-af36-fbe8c8dbb745",
+    "name": "Islote Gardner",
+    "location": {
+      "country": "Ecuador",
+      "region": "Espanola Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-1.3436420862211145",
+      "lng": "-89.65015411376955"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9de9a07d-8fb2-434f-9cd5-6a1019575c17",
+    "name": "Blue Cape",
+    "location": {
+      "country": "Ecuador",
+      "region": "Santa Elena, Ecuador",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-2.0464549989251406",
+      "lng": "-80.97095489501955"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9ee4292a-52be-4dfc-83c3-3d75774c0888",
+    "name": "Pinzon",
+    "location": {
+      "country": "Ecuador",
+      "region": "Santa Cruz Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.6169390669404807",
+      "lng": "-90.69093704223633"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a0d5396a-3c40-4932-83bc-c8c34af1c178",
+    "name": "Espolones ",
+    "location": {
+      "country": "Ecuador",
+      "region": "Manta, Manabi",
+      "ocean": [
+        "South America",
+        "Ecuador",
+        "Manabi",
+        "Manta"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.9346118320065856",
+      "lng": "-80.73740959167482"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a13d9cc2-6baf-479a-9836-70e112b64d17",
+    "name": "Cowley",
+    "location": {
+      "country": "Ecuador",
+      "region": "Isabela Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.4051174740026618",
+      "lng": "-90.95375061035156"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a25ab129-b0fe-44f4-bd4b-5b0d215e0d7f",
+    "name": "Roca Redonda",
+    "location": {
+      "country": "Ecuador",
+      "region": "Isabela Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "0.2671041350464105",
+      "lng": "-91.6197967529297"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a310ecfb-f5de-4791-bb70-6e6edb6e004e",
+    "name": "Leon Dormido (Kicker Rock)",
+    "location": {
+      "country": "Ecuador",
+      "region": "San Cristobal Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.778546215727397",
+      "lng": "-89.52123641967773"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a4892546-cd7b-49bc-a9e4-eb6e6ac6d6af",
+    "name": "North Seymour Channel",
+    "location": {
+      "country": "Ecuador",
+      "region": "Santa Cruz Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.3985945021247024",
+      "lng": "-90.27723312377931"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ac880f0c-6770-4ba6-a633-6469e3272858",
+    "name": "Darwin&#039;s Arch",
+    "location": {
+      "country": "Ecuador",
+      "region": "Darwin Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "1.6710582084457126",
+      "lng": "-91.99204444885255"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b6707fa2-3ca1-45eb-b2a9-fccb20c2294b",
+    "name": "Landslide",
+    "location": {
+      "country": "Ecuador",
+      "region": "Wolf Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "1.374403061860004",
+      "lng": "-91.81540220975877"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "be5950d9-0f18-4936-8a20-182325d52e3a",
+    "name": "The Platform",
+    "location": {
+      "country": "Ecuador",
+      "region": "Santiago Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.24324344045982413",
+      "lng": "-90.58085918426515"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bf086825-4c5b-4e9c-a7d6-fd575c92d6c2",
+    "name": "Cape Marshall",
+    "location": {
+      "country": "Ecuador",
+      "region": "Isabela Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.021286010252525456",
+      "lng": "-91.19270324707033"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bfb14c7b-8c99-4306-9cad-0717c7359476",
+    "name": "Punta Vicente Roca",
+    "location": {
+      "country": "Ecuador",
+      "region": "Isabela Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.053086273227354805",
+      "lng": "-91.55864238739015"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c3d304ee-b7de-4910-9c43-5da833b8e7ad",
+    "name": "Punta Espinosa",
+    "location": {
+      "country": "Ecuador",
+      "region": "Fernandina Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.26573085887689185",
+      "lng": "-91.4410972595215"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c668a68f-5e49-44f7-9e7c-1e1ad3bdce15",
+    "name": "Punta Martinez",
+    "location": {
+      "country": "Ecuador",
+      "region": "Santiago Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.2778328497768064",
+      "lng": "-90.55223464965822"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c97b857a-cc29-4c55-b737-8193283c269e",
+    "name": "Enderby",
+    "location": {
+      "country": "Ecuador",
+      "region": "Floreana Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-1.2309748536609109",
+      "lng": "-90.35954475402833"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cac9ec9d-f3de-4fa9-bcfe-08816d79c183",
+    "name": "Punta Ayora",
+    "location": {
+      "country": "Ecuador",
+      "region": "Floreana Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-1.2921572975991973",
+      "lng": "-90.33988952636719"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d3faf870-402b-4ddd-9d56-06c53716122c",
+    "name": "Hat Island",
+    "location": {
+      "country": "Ecuador",
+      "region": "Wolf Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "1.3961554524681534",
+      "lng": "-91.82321548461915"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "da92f387-3a90-4a21-a791-1bd480b392d0",
+    "name": "James Bay",
+    "location": {
+      "country": "Ecuador",
+      "region": "Santiago Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.23929526379558333",
+      "lng": "-90.86268424987793"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "db5d898f-9eb9-43cb-8781-e852ad3bb279",
+    "name": "Prince Phillip&#039;s Steps",
+    "location": {
+      "country": "Ecuador",
+      "region": "Genovesa Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "0.3055558026110401",
+      "lng": "-89.95330810546876"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "de867411-20b8-4142-96c3-41023763f067",
+    "name": "Anchorage Bay",
+    "location": {
+      "country": "Ecuador",
+      "region": "Wolf Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "1.3913289045884898",
+      "lng": "-91.8225932121277"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dec2c76b-5b00-44e5-97a6-1b2c157520c9",
+    "name": "Santa Fe",
+    "location": {
+      "country": "Ecuador",
+      "region": "Santa Fe Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.8109012721756879",
+      "lng": "-90.02815246582033"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "df0eb3ae-9c52-45c1-a3e2-14959e752802",
+    "name": "Darwin Bay",
+    "location": {
+      "country": "Ecuador",
+      "region": "Genovesa Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "0.31516869867571234",
+      "lng": "-89.98077392578125"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e02c36a4-9d13-48a7-ac97-7b95e466b57a",
+    "name": "Cape Berkley",
+    "location": {
+      "country": "Ecuador",
+      "region": "Isabela Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "0.03021240094364597",
+      "lng": "-91.60263061523439"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e0996d2a-5513-4a68-9bd4-942d298e5650",
+    "name": "Boys Radio",
+    "location": {
+      "country": "Ecuador",
+      "region": "Santa Elena, Ecuador",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-2.1699675080420615",
+      "lng": "-80.99979400634767"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e3281723-595e-418f-8466-d0310d3f10c3",
+    "name": "La Ventana",
+    "location": {
+      "country": "Ecuador",
+      "region": "Wolf Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "1.3738888961914404",
+      "lng": "-91.82621955871583"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ed54377b-3d2f-4fe3-bca0-6127e85ffa9d",
+    "name": "North Islet - La Banana",
+    "location": {
+      "country": "Ecuador",
+      "region": "Wolf Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "1.3963270628772073",
+      "lng": "-91.82141304016115"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fad2626f-174e-44a6-ae6b-af5c165e7e56",
+    "name": "Cuatro Hermanos",
+    "location": {
+      "country": "Ecuador",
+      "region": "Isabela Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.8623941932270406",
+      "lng": "-90.79273223876955"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fc65aa46-a280-4d37-b34d-deb6527e7cae",
+    "name": "Roca Orca (Whale Rock)",
+    "location": {
+      "country": "Ecuador",
+      "region": "San Cristobal Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.9604004269966747",
+      "lng": "-89.5920467376709"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fcd0b3a6-ad03-4f3c-a39c-5a8d9070f2fb",
+    "name": "Rapida",
+    "location": {
+      "country": "Ecuador",
+      "region": "Santiago Island, Galapagos Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-0.39653461519115374",
+      "lng": "-90.70389747619629"
+    },
+    "additionalInfo": {}
+  }
+]

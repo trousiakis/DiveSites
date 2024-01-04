@@ -1,0 +1,823 @@
+[
+  {
+    "id": "0e23c766-8dbd-4422-9da9-516c129df02d",
+    "name": "Abu Madafi Wreck",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.077527335173805",
+      "lng": "38.77598762512208"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0f48d306-2944-4cad-b3a9-319d1f8691f8",
+    "name": "4 Mile Reef",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.689223664583626",
+      "lng": "39.01365280151368"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "11ff3887-aaa9-4c6f-9bac-e55709b7c0a3",
+    "name": "Redmah Marker",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.017702669918897",
+      "lng": "38.86362075805665"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1d5f3679-5d41-4865-8ce9-369e7e9d4332",
+    "name": "100 Halalas Reef",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.744831405109796",
+      "lng": "38.90155792236329"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1f878621-e0d9-4dd9-8a75-d9a2d0a60867",
+    "name": "Chicken Wreck",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.78739729946554",
+      "lng": "38.82431030273438"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "254ec9ea-e005-4f93-9bea-d019fab7d912",
+    "name": "5 Mile Reef",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.709669159189573",
+      "lng": "38.989276885986335"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2b2f7c79-880a-48ef-8637-a1321413e195",
+    "name": "Tear Drop Reef",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.841025079352967",
+      "lng": "38.86799812316895"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2d419749-fdf8-45c1-882e-16c1bd8a14fe",
+    "name": "Maqna",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Magna, Saudi Arabia",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.43529655910262",
+      "lng": "34.75741624832154"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "35d925b1-638c-4742-9518-b6f4c10fedf4",
+    "name": "Jd&#039;s Reef",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.737735862229744",
+      "lng": "38.82104873657227"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "391361fb-af16-4fb8-807a-f0c69e249c3d",
+    "name": "Four Mile Flats",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.67577450927878",
+      "lng": "39.01245117187501"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3f21cbb2-19ac-44b2-83a1-ba73f4467689",
+    "name": "Willi&#039;s Wreck",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.863808806936056",
+      "lng": "38.84001731872559"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "41166d0f-2ed8-4b3a-95df-f0c3738a2791",
+    "name": "Nodell&#039;s Cut",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.744273341400557",
+      "lng": "38.82413864135743"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "42b233a1-8214-41d2-a3f5-cb9cde3871d9",
+    "name": "Ala&#039;s Reef",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.787556698550834",
+      "lng": "38.98670196533204"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "444f79cb-42f9-4cb8-8f38-94d79d00ab42",
+    "name": "Middle Flats",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.685186058930103",
+      "lng": "38.994770050048835"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4812939b-cfe6-4b12-b040-17fc6649b91d",
+    "name": "Bird Island",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.055732448131728",
+      "lng": "38.95400047302247"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4ca2fa2b-4a86-46b9-9abd-20c543bd4123",
+    "name": "Jannah Island",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Eastern Provine, Saudi Arabia",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea",
+        "Persian Gulf"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.35997163254751",
+      "lng": "49.88737106323243"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4f213a8d-ed4a-4bdc-a069-d9c765b0e806",
+    "name": "Woody&#039;s Wreck",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.76452169346636",
+      "lng": "38.822250366210945"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "54950000-42ca-4418-b958-81aa44b05cb1",
+    "name": "Big Red",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.017105886982932",
+      "lng": "38.8932752609253"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "571ebeed-a15f-40bf-8b3d-b2434904a774",
+    "name": "Paulson&#039;s Reef",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.81807835498895",
+      "lng": "38.834953308105476"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "599f3eff-c20b-4cf3-98a2-2cf57a1477a4",
+    "name": "Black Coral Ridge",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.70017946130734",
+      "lng": "38.978118896484375"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5d6a3727-7e31-4734-8304-ae2ee60c7b97",
+    "name": "Georgios G",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Bi&#039;r Al Mashi, Saudi Arabia",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.876889772075856",
+      "lng": "34.83208894729615"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5dc20ff4-06d6-47d1-b5fb-013e59fd7af0",
+    "name": "Iron Works Flat",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.77034057336441",
+      "lng": "38.95202636718751"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5e9d198c-8260-40ff-8949-35ee7b57a9ab",
+    "name": "Crazy 8 Reef",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.646618734469552",
+      "lng": "38.87696743011475"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5fa157cb-4fec-469f-b0a4-b35d2a5d43a2",
+    "name": "Nelson&#039;s Reef",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.752803507081936",
+      "lng": "38.90001296997071"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6dc25169-a6c4-44c0-97d5-5dad94ff49d5",
+    "name": "Toilet Wreck",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.843494819780414",
+      "lng": "38.83581161499024"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "79b549c2-e32c-4789-9101-a813770f91cb",
+    "name": "Staphonos Wreck",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.70417",
+      "lng": "38.82167"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "896e2659-e454-47ae-8e75-15212b15c116",
+    "name": "Hidden Gardens",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.703688330058476",
+      "lng": "38.94687652587891"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "91eabf11-f938-4ff9-b8b4-24b6dcb33f64",
+    "name": "Gayle",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Aden, Saudi Arabia",
+      "ocean": [
+        "Indian Ocean",
+        "Gulf Of Aden"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.071680894950084",
+      "lng": "34.860701994275594"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a02c9e95-0f86-4ade-bb4e-63b4e1855129",
+    "name": "Koma Reef",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.676372719283453",
+      "lng": "38.99386882781983"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a8c84e91-9772-4412-8eb1-d8b7d4898251",
+    "name": "Big Green",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.028205638109448",
+      "lng": "38.93056869506837"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "af437417-97a2-4918-aa3e-23f10d150df0",
+    "name": "Lost Anchor Canyons",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.700498452909557",
+      "lng": "39.0011215209961"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b0c3f38a-ee00-4f64-8c0d-f2e8481ffbee",
+    "name": "So. Elisa Shoals",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.78118059688947",
+      "lng": "38.9197325706482"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b1c3a873-2085-4ea1-9f89-365b141c4ccc",
+    "name": "Durrah Marina",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.931580835370344",
+      "lng": "38.9406967163086"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b2123d9b-9a6a-4480-9815-06dd638c4919",
+    "name": "Half Moon Exit 10",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Half Moon Bay, Al Khobar",
+      "ocean": [
+        "Asia",
+        "Saudi Arabia",
+        "Al Khobar",
+        "Half Moon Bay"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.128701418277934",
+      "lng": "49.99498128890991"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b312ab76-50e9-499a-be8b-f3723fffbefc",
+    "name": "Coast Guard",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.705841457175733",
+      "lng": "39.088454246521"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ba75d328-f404-4739-9f4c-a22731bb1a67",
+    "name": "Al Baha Reef",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.74738252588543",
+      "lng": "38.91374588012695"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bc6bdf79-5a64-438b-9b09-2f7767d8be4c",
+    "name": "South Tower Reef",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.641433095975916",
+      "lng": "38.89430522918702"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c1b7eaae-337d-4154-84c5-83672ebc8ba2",
+    "name": "Sieman&#039;s Reef",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.65690968073724",
+      "lng": "38.880400657653816"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d0918f23-bfb2-46ac-97bc-1046181ee4cb",
+    "name": "Sk-1 Marker",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.781260299910368",
+      "lng": "38.808345794677734"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d57e7389-5c6f-4e69-8a01-0d6c8918beb4",
+    "name": "Marilyn&#039;s Gardens",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.81560817566265",
+      "lng": "38.839759826660156"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d805ab16-0c6b-451e-9ab2-895466ebc269",
+    "name": "Anna&#039;s Reef",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.654795709025706",
+      "lng": "38.874692916870124"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "da97463c-06df-465e-a856-3d56152235f7",
+    "name": "50-55 Reef",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.83743989635592",
+      "lng": "38.924560546875"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e58419d8-5311-4ccd-bf1e-907caad5dba0",
+    "name": "Search &amp; Recovery",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.73717777095988",
+      "lng": "38.90705108642579"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ecfbfa72-7525-4ef0-8679-426f23af2bc4",
+    "name": "Pipe Wreck",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.069374531856152",
+      "lng": "38.765602111816406"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f1d95e13-8a37-4a41-8987-c3a8f5c5d53f",
+    "name": "Boiler Wreck",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.05680636251313",
+      "lng": "38.761310577392585"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f4887e21-7759-40e2-bfaf-30b9635d148b",
+    "name": "Rita&#039;s Reef",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.720434025230674",
+      "lng": "38.80748748779297"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f660d75a-2013-4510-9623-7d8b46832643",
+    "name": "Eagle Reef",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.80787862949893",
+      "lng": "38.8322925567627"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ff4e0788-5a35-475c-b8c9-03a62c5ff5eb",
+    "name": "Koma Flats",
+    "location": {
+      "country": "Saudi Arabia",
+      "region": "Jeddah, Makkah",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.667798138693872",
+      "lng": "38.98584365844727"
+    },
+    "additionalInfo": {}
+  }
+]

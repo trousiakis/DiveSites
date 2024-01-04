@@ -1,0 +1,39 @@
+[
+  {
+    "id": "88d5008d-9dc5-431f-a6e7-1d798d6d39a5",
+    "name": "Halbinsel Au/zh, Vorder-Au Ost",
+    "location": {
+      "country": "Switzerland",
+      "region": "Lake Zurich, Switzerland",
+      "ocean": [
+        "Europe",
+        "Switzerland",
+        "Lake Zurich"
+      ]
+    },
+    "coordinates": {
+      "lat": "47.249147607118196",
+      "lng": "8.651728034019472"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "df463260-5545-452a-b7f7-d0d756632bfc",
+    "name": "Hermance",
+    "location": {
+      "country": "Switzerland",
+      "region": "Lac Leman, Geneva",
+      "ocean": [
+        "Europe",
+        "Switzerland",
+        "Geneva",
+        "Lac Leman"
+      ]
+    },
+    "coordinates": {
+      "lat": "46.30360011384636",
+      "lng": "6.240234375"
+    },
+    "additionalInfo": {}
+  }
+]

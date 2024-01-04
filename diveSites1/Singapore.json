@@ -1,0 +1,53 @@
+[
+  {
+    "id": "359d1851-040c-4d81-8098-3658f5499981",
+    "name": "Cigar Reef",
+    "location": {
+      "country": "Singapore",
+      "region": "Pulau Hantu, Singapore",
+      "ocean": [
+        "Pacific Ocean",
+        "Strait Of Singapore"
+      ]
+    },
+    "coordinates": {
+      "lat": "1.2259549124564006",
+      "lng": "103.74561309814453"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5d984f90-1a1d-41fc-a2c4-e147e590abf3",
+    "name": "Nudi Wall",
+    "location": {
+      "country": "Singapore",
+      "region": "Pulau Hantu, Singapore",
+      "ocean": [
+        "Pacific Ocean",
+        "Strait Of Singapore"
+      ]
+    },
+    "coordinates": {
+      "lat": "1.2260407234963357",
+      "lng": "103.753080368042"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cb3e8287-1af9-4b30-8592-6778f583559a",
+    "name": "Flabelina Garden",
+    "location": {
+      "country": "Singapore",
+      "region": "Pulau Hantu, Singapore",
+      "ocean": [
+        "Pacific Ocean",
+        "Strait Of Singapore"
+      ]
+    },
+    "coordinates": {
+      "lat": "1.2256760265575948",
+      "lng": "103.74655723571779"
+    },
+    "additionalInfo": {}
+  }
+]

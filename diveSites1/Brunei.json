@@ -1,0 +1,428 @@
+[
+  {
+    "id": "0966d5c2-d091-4351-b4b7-d451381d46b7",
+    "name": "Littledale Shoal",
+    "location": {
+      "country": "Brunei",
+      "region": "Brunei, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.222930308188193",
+      "lng": "114.79064941406251"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1229fe56-dd6b-49fb-b5ab-4057770c8d4d",
+    "name": "Chernley Shoal",
+    "location": {
+      "country": "Brunei",
+      "region": "Brunei, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.751624041481169",
+      "lng": "114.32373046875001"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1c1be70f-3136-4841-bdc3-6760255c5859",
+    "name": "Penanuung Wreck",
+    "location": {
+      "country": "Brunei",
+      "region": "Brunei, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.008866554677796",
+      "lng": "114.58602905273439"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "30b49575-3fcd-456f-8ee7-06601dbc39ed",
+    "name": "Blunt Rock",
+    "location": {
+      "country": "Brunei",
+      "region": "Brunei, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.081368989130768",
+      "lng": "114.67666625976564"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "41f34c1b-9b33-453e-b733-6a7ec1aaf5fb",
+    "name": "Hornets Reef",
+    "location": {
+      "country": "Brunei",
+      "region": "Brunei, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.0752134373240985",
+      "lng": "114.78927612304689"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "456b89c0-4e3e-41c7-816d-95017b0c42f4",
+    "name": "Australian Wreck",
+    "location": {
+      "country": "Brunei",
+      "region": "Brunei, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.2106218848526975",
+      "lng": "115.03028869628906"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4833780c-e09b-478a-8992-1d209dcdc6f7",
+    "name": "Pelong Rock South",
+    "location": {
+      "country": "Brunei",
+      "region": "Brunei, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.2160923250270645",
+      "lng": "114.9382781982422"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4be74b40-a96d-49f7-9d14-b804d2d1aa06",
+    "name": "Jerudong Barge",
+    "location": {
+      "country": "Brunei",
+      "region": "Brunei, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.140185730654684",
+      "lng": "114.75288391113283"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5087007f-6f20-45ba-88e8-86f91b211a85",
+    "name": "Takat Arus",
+    "location": {
+      "country": "Brunei",
+      "region": "Brunei, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.119668876343063",
+      "lng": "114.86892700195314"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5369ba17-e573-441c-b533-edbab7372474",
+    "name": "Bolkiah Wreck",
+    "location": {
+      "country": "Brunei",
+      "region": "Brunei, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.1860043153450714",
+      "lng": "114.87854003906251"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "54efa911-7558-4e69-b3e8-0d6e14cee49a",
+    "name": "Barat Banks",
+    "location": {
+      "country": "Brunei",
+      "region": "Brunei, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.283785060716554",
+      "lng": "114.9987030029297"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "55586a66-193b-43f8-aa5c-20ee034dc7f0",
+    "name": "Victoria Patches",
+    "location": {
+      "country": "Brunei",
+      "region": "Brunei, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.889835742990713",
+      "lng": "114.61074829101564"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7fdb9d30-afec-4b27-8642-b0d8236ec0d4",
+    "name": "Abana Rock",
+    "location": {
+      "country": "Brunei",
+      "region": "Brunei, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.140185730654684",
+      "lng": "115.03578186035158"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "91e25aa2-1af9-4890-b3f1-b8fcbcd794b0",
+    "name": "Labuan Wreck",
+    "location": {
+      "country": "Brunei",
+      "region": "Brunei, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.088208422167582",
+      "lng": "115.04882812500001"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9463c68b-d4f7-4184-a5ef-e0767248b1bd",
+    "name": "Pelong Rock North",
+    "location": {
+      "country": "Brunei",
+      "region": "Brunei, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.263956637222766",
+      "lng": "114.88540649414064"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a65fe6e3-7c50-4744-9f90-37add059a5ea",
+    "name": "Pelong Rocks",
+    "location": {
+      "country": "Brunei",
+      "region": "Muara Muara, Brunei",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Brunei Bay"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.076752330784782",
+      "lng": "115.17808914184572"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "af4d6b20-22da-48df-bee5-da9eb023ef6f",
+    "name": "Porter Patch",
+    "location": {
+      "country": "Brunei",
+      "region": "Brunei, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.859732625553682",
+      "lng": "114.44732666015626"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b55515b3-bf1e-4d4e-a912-d97d20d03a97",
+    "name": "Ampa Patches",
+    "location": {
+      "country": "Brunei",
+      "region": "Brunei, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.96371945969471",
+      "lng": "114.43496704101562"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c1aee283-d9d0-4dd3-87ab-747283591f34",
+    "name": "Petani Mistral",
+    "location": {
+      "country": "Brunei",
+      "region": "Brunei, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.199680861659604",
+      "lng": "114.68215942382814"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c22b8ae1-74c6-45c3-9074-5b5a0baa4574",
+    "name": "Fairley Patches",
+    "location": {
+      "country": "Brunei",
+      "region": "Brunei, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.87067936974138",
+      "lng": "114.30862426757812"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c46225a7-6269-4770-b4b7-0ab5fcb87b88",
+    "name": "Two Fathom  Rock",
+    "location": {
+      "country": "Brunei",
+      "region": "Brunei, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.140185730654684",
+      "lng": "114.94171142578126"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cb37b11a-82ce-4dcf-9e7d-2d2f0f064083",
+    "name": "Kapai Amai",
+    "location": {
+      "country": "Brunei",
+      "region": "Brunei, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.067689905361645",
+      "lng": "114.9492645263672"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e8f98b4c-b246-4a42-820f-fab6641d42b2",
+    "name": "Kapal Batu Wreck",
+    "location": {
+      "country": "Brunei",
+      "region": "Brunei, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.01844281132416",
+      "lng": "114.82772827148439"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f7d455ab-34b8-4442-8ca9-d573a592833a",
+    "name": "Brunei Patches",
+    "location": {
+      "country": "Brunei",
+      "region": "Brunei, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.029386932520485",
+      "lng": "114.75082397460939"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "facce072-3bef-4f5a-a550-22272d903930",
+    "name": "Big Reef",
+    "location": {
+      "country": "Brunei",
+      "region": "Brunei, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.039646879069429",
+      "lng": "114.86480712890626"
+    },
+    "additionalInfo": {}
+  }
+]

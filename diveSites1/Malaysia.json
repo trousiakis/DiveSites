@@ -1,0 +1,7150 @@
+[
+  {
+    "id": "0064b2fc-c3d6-404f-bf71-ae77cf306c98",
+    "name": "Crack Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Layang Layang Island, Sarawak",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.378384588472546",
+      "lng": "113.80827426910402"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "00c217cf-8005-4a2d-9d99-31701727c968",
+    "name": "Pistol&#039;s Paradise",
+    "location": {
+      "country": "Malaysia",
+      "region": "Bohayen, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.520382888251198",
+      "lng": "118.93858909606935"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "00c57d67-2ac7-457f-8fd4-6c40ab1d6582",
+    "name": "Heritage Row",
+    "location": {
+      "country": "Malaysia",
+      "region": "Bidong Island, Malaysia",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.613696809774582",
+      "lng": "103.05753455487947"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "00cf7c97-2032-4e05-9a52-cf627e172227",
+    "name": "Abalone Avenue",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mantanani Besar, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.719932130174607",
+      "lng": "116.35946273803712"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0103cad0-faaf-428d-9b41-5930b70f3e4e",
+    "name": "Panglima Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mabul Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.246785146705464",
+      "lng": "118.62410545349123"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "025f945d-6cb6-4105-89ce-a9f0a0a432fd",
+    "name": "Crocodile Rock",
+    "location": {
+      "country": "Malaysia",
+      "region": "Aur Island, Mersing",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.469935387281535",
+      "lng": "104.51947331428529"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "03a31b19-947c-494c-bf1b-ae330f7f6d60",
+    "name": "Paradise",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mabul Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.2510648861692735",
+      "lng": "118.62899780273439"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "03c75edf-8196-4790-814e-756927c876b8",
+    "name": "Batu Bulan",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lang Tengah Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.797664141676048",
+      "lng": "102.89846420288087"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "040ed1a5-851e-48fc-a76c-33557f6eeee3",
+    "name": "Asmara Point ",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tiga Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.7023377057859035",
+      "lng": "115.65419197082521"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "04b09ec1-01ad-4403-ba5f-4a141a04fa38",
+    "name": "Batu Layar",
+    "location": {
+      "country": "Malaysia",
+      "region": "Perhentian Besar, Perhentian Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.9116717483956664",
+      "lng": "102.74542808532715"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "050544e4-e575-4bbb-b6d1-ff1025a21d19",
+    "name": "Cahaya Way",
+    "location": {
+      "country": "Malaysia",
+      "region": "Bohayen, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.471353235684568",
+      "lng": "118.94665718078615"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "051bac37-7280-4f63-a11d-b9f83f4a571b",
+    "name": "Great Wall",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mantanani Kechil, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.716437235313717",
+      "lng": "116.29225730895998"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "056003ec-0490-4fb7-8093-d9b5796a37e4",
+    "name": "Amazing Grace",
+    "location": {
+      "country": "Malaysia",
+      "region": "Nyirih Island, Tenggol Island",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.84485161008648",
+      "lng": "103.66284549236299"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "05e16ae9-988f-4434-b7d7-1381f8e15e32",
+    "name": "Reef 77 / Pegaso Reef / Moray Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lankayan Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Sulu Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.52895508060115",
+      "lng": "117.92346954345705"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "05e91aab-c35e-4fc9-9091-e29f7488ea2d",
+    "name": "Ray Point",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mabul Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.234480763600286",
+      "lng": "118.62865447998048"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "06e46237-ee1f-4dc5-af1a-1a62bd9ad354",
+    "name": "Cepu Island",
+    "location": {
+      "country": "Malaysia",
+      "region": "Langkawi, Kedah",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.17383565157741",
+      "lng": "99.73165512084962"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0826e07a-589b-425d-a023-01cdb51243a9",
+    "name": "Mosquito Wreck",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lankayan Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Sulu Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.500920457696502",
+      "lng": "117.92479991912843"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "08824720-d231-459c-952b-8848a48e6118",
+    "name": "Garden Of Eden",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mataking, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.565623277806952",
+      "lng": "118.95431756973268"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "08e11ce2-3c46-45f6-a5ea-56856ceaa4bf",
+    "name": "Snapper Ledge",
+    "location": {
+      "country": "Malaysia",
+      "region": "Layang Layang Island, Sarawak",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.366765558314652",
+      "lng": "113.8099479675293"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "08fccf30-4f26-4c30-9066-7ab0c57fc065",
+    "name": "Seaventures Oil Rig",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mabul Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.253739711269037",
+      "lng": "118.63320887088777"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "09a9e8bd-cf1c-4873-86d5-0d442730ba8d",
+    "name": "Kapalai Rock",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Kapalai, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.200048851911233",
+      "lng": "118.69719028472902"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0b556562-91c7-4390-b15b-eb7bd17936fa",
+    "name": "Clements Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Gaya Island, Kota Kinabalu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.022220261339442",
+      "lng": "116.00227832794191"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0cb96103-00fc-454c-9664-33a596bf8811",
+    "name": "Lost World",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Kapalai, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.201247253550639",
+      "lng": "118.67998123168947"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0d10d22d-757b-4158-b49f-1e497439e331",
+    "name": "Pulau Lang",
+    "location": {
+      "country": "Malaysia",
+      "region": "Aur Island, Mersing",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.4595809198409353",
+      "lng": "104.4893789291382"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0e481925-f48c-48f8-ac0f-cd4c41d00652",
+    "name": "Batu June",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lang Tengah Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.789786707029789",
+      "lng": "102.89352893829347"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0e7fe79c-d46d-4534-bd3e-4541e8902996",
+    "name": "Kapal Polis Wreck",
+    "location": {
+      "country": "Malaysia",
+      "region": "Perhentian Besar, Perhentian Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.915678272627806",
+      "lng": "102.7532876552321"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0ebd8162-7e2e-4b62-9370-cc45a2e451f7",
+    "name": "Pancang",
+    "location": {
+      "country": "Malaysia",
+      "region": "Bohayen, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.451928711753565",
+      "lng": "118.95069122314455"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0f32e0de-a9c2-4bbf-9aa5-58d617415c3a",
+    "name": "Land Slide West",
+    "location": {
+      "country": "Malaysia",
+      "region": "Manukan Island, Kota Kinabalu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.974674329391976",
+      "lng": "115.99547624588014"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0f3713b1-04ed-4586-b0fd-c59b1dd1067f",
+    "name": "Windmill",
+    "location": {
+      "country": "Malaysia",
+      "region": "Perhentian Kecil, Perhentian Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.923154462915858",
+      "lng": "102.71504402160646"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0f53fc16-c452-47c2-994f-5234a0920dc8",
+    "name": "Twin Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Kapalai, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.229323563941682",
+      "lng": "118.68993759155273"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0f8e6aa3-2f27-4b58-8c5e-c73bdc04e4ac",
+    "name": "Artificial Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Perhentian Besar, Perhentian Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.885461240389942",
+      "lng": "102.73916244506836"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "100ff52d-04a2-48d8-af4d-f15e745081a4",
+    "name": "Skislope",
+    "location": {
+      "country": "Malaysia",
+      "region": "Langkawi, Kedah",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.24278011920516",
+      "lng": "99.70582008361818"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "114d0c86-87cc-4538-b766-f68844b957a8",
+    "name": "Coleman Shoal",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tiga Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.758937702672318",
+      "lng": "115.59181451797487"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1202e952-fd8a-48a6-8771-89e587a73f42",
+    "name": "The Tunnel",
+    "location": {
+      "country": "Malaysia",
+      "region": "Layang Layang Island, Sarawak",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.3660632994719375",
+      "lng": "113.83593320846559"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "12ba7574-4904-4949-a432-ddf650c86ee7",
+    "name": "Labas Island",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tioman Island, Pahang",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.8875374659220046",
+      "lng": "104.06739234924316"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "136f2f0c-a2a9-4c49-b310-6d5fd80a43a1",
+    "name": "Land Slide North",
+    "location": {
+      "country": "Malaysia",
+      "region": "Manukan Island, Kota Kinabalu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.977576713211543",
+      "lng": "115.99843740463258"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "13d1c677-c3b1-4703-8e52-18edde0e4cd4",
+    "name": "Mamutik North",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mamutik Island, Kota Kinabalu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.968997563625193",
+      "lng": "116.01332902908325"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1466538b-df8e-4bdf-8437-f7b031fc6c7e",
+    "name": "Aquarium",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mantabuan, Bodgaya Island",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.640632602896553",
+      "lng": "118.7979555130005"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1510ec2b-8775-41e6-82aa-b07e9b2e8a4f",
+    "name": "Land&#039;s End",
+    "location": {
+      "country": "Malaysia",
+      "region": "Bohayen, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.4480779742367424",
+      "lng": "118.93944740295412"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "15d8ecfa-09ca-4169-b6f6-8f6d03afb6e3",
+    "name": "Gua Rajawali",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tenggol Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.811859916219172",
+      "lng": "103.67523193359376"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "16d3a5d9-2674-440b-85f8-0390ef782752",
+    "name": "Gps Point",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sinjataan, Gaya Island",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.003910873706906",
+      "lng": "116.00761055946352"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "16ebb8fe-6da1-4f17-8004-06b2e30b218f",
+    "name": "Sunken Boats",
+    "location": {
+      "country": "Malaysia",
+      "region": "Kacha Island, Langkawi",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.071239642672146",
+      "lng": "100.0511920452118"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "170e88bc-37a4-4206-b647-f018ee2b58b6",
+    "name": "Romantic Bay",
+    "location": {
+      "country": "Malaysia",
+      "region": "Perhentian Kecil, Perhentian Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.919526121653796",
+      "lng": "102.7156448364258"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "174cea08-f548-4963-8d1f-52ca30f8afaa",
+    "name": "Tanjung Sarang Lang",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tenggol Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.796999232936597",
+      "lng": "103.68634700775148"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "175932f1-5839-4303-b5ee-e0c7453f004a",
+    "name": "Drift Wall",
+    "location": {
+      "country": "Malaysia",
+      "region": "Kalapuan, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.52235085067911",
+      "lng": "118.85799407958986"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "18f66d8f-5461-40fb-a310-2f7dda4e7d3e",
+    "name": "Blue Liberty Wreck",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Kapalai, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.226456060482444",
+      "lng": "118.69272708892824"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "19826792-382f-4566-9314-af0d4c332adb",
+    "name": "Crocodile Avenue",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mabul Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.248283058219247",
+      "lng": "118.63650798797609"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1baeb9e2-1458-414a-8156-4cf5f3807f47",
+    "name": "Secret Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Perhentian Kecil, Perhentian Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.92490743992229",
+      "lng": "102.71560192108156"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1baed9b1-557e-4075-8715-d4181a16e5a1",
+    "name": "Teluk Mak Kepit",
+    "location": {
+      "country": "Malaysia",
+      "region": "Redang Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.798027056070704",
+      "lng": "102.98549652099611"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1bdf8b90-1c76-4d36-906e-1aa8cb6d5a32",
+    "name": "Pulau Serengeh",
+    "location": {
+      "country": "Malaysia",
+      "region": "Serenggeh, Perhentian Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.939460360908088",
+      "lng": "102.66852378845216"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1ca896fd-c126-41a9-864a-2c0911aa5afe",
+    "name": "Nudi Fiesta",
+    "location": {
+      "country": "Malaysia",
+      "region": "Si Amil, Bahagian Tawau",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.315878621569017",
+      "lng": "118.86295080184938"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1cb8e448-f2bf-4df6-9bdd-764572194680",
+    "name": "Mandarin House",
+    "location": {
+      "country": "Malaysia",
+      "region": "Pom Pom, Bodgaya Island",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.588531154896893",
+      "lng": "118.86584758758545"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1d895c2b-fe8c-4ff9-80a1-8f2b9c6c18ca",
+    "name": "Terumbu Kili",
+    "location": {
+      "country": "Malaysia",
+      "region": "Redang Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.73103338848992",
+      "lng": "102.9952383041382"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1e04844f-9fbd-45d0-9945-558d78e85b56",
+    "name": "Teluk Rajawali",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tenggol Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.815815583031318",
+      "lng": "103.68093967437746"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1f0621fb-7317-469d-8c49-2aa6227a894c",
+    "name": "Fan Canyon",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tulai Island, Pahang",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.9105267244474615",
+      "lng": "104.11294162273407"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1f182da7-4464-4a75-b4bc-a45048b04bfd",
+    "name": "Lobster Lairs",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.1059472188481445",
+      "lng": "118.62728118896486"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1fccb2b9-bdce-4382-806e-78d8c61724de",
+    "name": "Pulau Paku Kecil",
+    "location": {
+      "country": "Malaysia",
+      "region": "Paku Kecil, Redang Island",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.771768530616775",
+      "lng": "103.04034233093262"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "20132b1a-87d5-4634-b021-9637bec9be23",
+    "name": "South Point",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.10324513628811",
+      "lng": "118.63398671150209"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "20ccdb0e-5124-4db5-8c4f-7563476526c8",
+    "name": "Southern Run",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lima Island, Redang Island",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.769462845817547",
+      "lng": "103.05918216705322"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "220b96c4-4c7b-4a82-acbf-6a637b03d688",
+    "name": "Ramian&#039;s Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Redang Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.79825120896257",
+      "lng": "103.01794052124025"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "224a8d74-87f8-4fab-93d9-395dd9d0ffeb",
+    "name": "Kador Bay",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tulai Island, Pahang",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.916939631499875",
+      "lng": "104.10035133361818"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "22541f6d-0e8f-48e8-9178-9a633bb398f8",
+    "name": "Pinnacles Iii",
+    "location": {
+      "country": "Malaysia",
+      "region": "Aur Island, Mersing",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.422535709706415",
+      "lng": "104.56443786621095"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "230724f6-b9d9-4612-95f5-e1ac2b0d9016",
+    "name": "Usukan Bay Wreck",
+    "location": {
+      "country": "Malaysia",
+      "region": "Kota Kinabalu, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.061013635316385",
+      "lng": "115.97691535949708"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "23e96f81-3caf-4d7d-a906-1b24d8bb2eb9",
+    "name": "Northern Walley",
+    "location": {
+      "country": "Malaysia",
+      "region": "Pom Pom, Bodgaya Island",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.6044015408934404",
+      "lng": "118.86365890502931"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "26034987-c6ae-4509-8bb9-f07cc6e2d289",
+    "name": "Batu Nayak Keras",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lang Tengah Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.794718122071381",
+      "lng": "102.89009571075441"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "266f3f36-083d-453e-8206-f05036677ffa",
+    "name": "Dragon Rock",
+    "location": {
+      "country": "Malaysia",
+      "region": "Rawa Island, Johor",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.514203572811181",
+      "lng": "103.9764976501465"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "27714d5a-5b76-467d-b225-b1f796f020fd",
+    "name": "Aquarium",
+    "location": {
+      "country": "Malaysia",
+      "region": "Bohayen, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.5333884538427975",
+      "lng": "118.93455505371095"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "27bb8e58-ae6d-463d-847b-0b60df357898",
+    "name": "Mariane Pak Hq",
+    "location": {
+      "country": "Malaysia",
+      "region": "Redang Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.745636887950978",
+      "lng": "103.00374627113344"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "27e38205-c123-4df1-b3f5-b2b48cb6907a",
+    "name": "Grouper Farm",
+    "location": {
+      "country": "Malaysia",
+      "region": "Payar Island, Langkawi",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.052990591411315",
+      "lng": "100.03506660461427"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "286b1953-bb54-4430-a21f-6373f62d5441",
+    "name": "Ribbon Reef South",
+    "location": {
+      "country": "Malaysia",
+      "region": "Gaya Island, Kota Kinabalu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.014538075845771",
+      "lng": "116.00313663482667"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "29cafdae-21af-41c7-a62f-2ea1a82e76af",
+    "name": "Turtle Patch",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.106113088964782",
+      "lng": "118.63637387752533"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2a267208-8f93-4b2a-888b-013aeb7bd3fe",
+    "name": "Ming Wreck",
+    "location": {
+      "country": "Malaysia",
+      "region": "Aur Island, Mersing",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.4320758063424415",
+      "lng": "104.51656579971315"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2a3b462d-1b35-4afc-ab10-e857618472d7",
+    "name": "West Ridge",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.115107478152735",
+      "lng": "118.62482428550722"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2a58656e-dd9b-427d-8e5b-6a801d414a6b",
+    "name": "Lost World",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tenggol Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.814233319066415",
+      "lng": "103.6842441558838"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2b0ce02e-a1b7-4ed6-a7d9-e33fa890cb36",
+    "name": "Sugar Ship Wreck",
+    "location": {
+      "country": "Malaysia",
+      "region": "Perhentian Kecil, Perhentian Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.898566649238872",
+      "lng": "102.70028114318849"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2b36899d-63e3-4e72-9a6b-b6ef8f7ce874",
+    "name": "Beach Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Gaya Island, Kota Kinabalu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.009800674018981",
+      "lng": "116.01015329360963"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2b470f6f-6d13-4b72-b5f5-b0764e147955",
+    "name": "Chebeh North",
+    "location": {
+      "country": "Malaysia",
+      "region": "Chebeh Island, Pahang",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.933563730502154",
+      "lng": "104.09899950027467"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2bc6a2d7-f65a-404e-8c0a-1aff57bd0091",
+    "name": "Riza Garden",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mantanani Besar, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.702159050538101",
+      "lng": "116.35838985443117"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2c58f22f-a85a-4442-b69b-33bf14715996",
+    "name": "Shipwreck Post",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mataking, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.580488883830985",
+      "lng": "118.94597053527833"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2cae5785-490a-4dbd-8a1a-c140d74f34b9",
+    "name": "Froggy Layer",
+    "location": {
+      "country": "Malaysia",
+      "region": "Si Amil, Bahagian Tawau",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.31372181750688",
+      "lng": "118.87745618820192"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2d14b836-48bf-482f-8eb5-796b11067077",
+    "name": "Sharks Cave",
+    "location": {
+      "country": "Malaysia",
+      "region": "Layang Layang Island, Sarawak",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.370681162973398",
+      "lng": "113.7916660308838"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2dd66616-a19a-41cb-a607-d41b35fdff63",
+    "name": "Dayang Tip",
+    "location": {
+      "country": "Malaysia",
+      "region": "Dayang Island, Mersing",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.4702140778378094",
+      "lng": "104.49367046356203"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2ed4adc6-75d4-4bf7-846b-e182b4aca58e",
+    "name": "Whitetip Avenue",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.116231100840625",
+      "lng": "118.635231256485"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2f0f8eec-09e8-4d1e-b5de-fa1dd72d9e7e",
+    "name": "Manukan Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Manukan Island, Kota Kinabalu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.9709182804324215",
+      "lng": "115.99375963211061"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2f996217-fbf2-48d6-9ebc-af953bd4acd6",
+    "name": "Pulau Chupak",
+    "location": {
+      "country": "Malaysia",
+      "region": "Ekor Tebu, Redang Island",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.732933572592696",
+      "lng": "103.02036523818971"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "31158ce8-aafc-4ca2-b052-d8e8873e0541",
+    "name": "Kenyalang Wreck",
+    "location": {
+      "country": "Malaysia",
+      "region": "Miri, Sarawak",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.385179757481948",
+      "lng": "113.93843650817873"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3357cdab-f1e5-4578-a092-3fcf85bf74e0",
+    "name": "The Runnaway",
+    "location": {
+      "country": "Malaysia",
+      "region": "Layang Layang Island, Sarawak",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.363743709326826",
+      "lng": "113.82385253906251"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3468660e-60fb-40f1-af56-f9a4c11530ea",
+    "name": "Pulau Pinang",
+    "location": {
+      "country": "Malaysia",
+      "region": "Aur Island, Mersing",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.4385287323483453",
+      "lng": "104.55124139785768"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "348e7ec6-83ab-435a-bbe2-a24350ff0140",
+    "name": "Rock Point",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lembu Island, Langkawi",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.072279835991389",
+      "lng": "100.05628824234009"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3555523a-9060-4a35-a26e-2f50a5359b1d",
+    "name": "Police Garden",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mantanani Besar, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.702883625217005",
+      "lng": "116.34418487548828"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "359e7636-bea9-42b1-9d50-369a86435298",
+    "name": "Black Ray Channel",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Kapalai, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.2133167673187275",
+      "lng": "118.6811399459839"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "364c0207-ec6a-46f1-adb1-cdce7297ccd3",
+    "name": "Batu Nisan",
+    "location": {
+      "country": "Malaysia",
+      "region": "Perhentian Kecil, Perhentian Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.922044619883305",
+      "lng": "102.72723197937013"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "36577d7c-1210-4aaa-b378-2314f97d1699",
+    "name": "Scorpion Alley",
+    "location": {
+      "country": "Malaysia",
+      "region": "Si Amil, Bahagian Tawau",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.318809980925705",
+      "lng": "118.87344360351564"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "36d7410a-e5e3-4dd3-8f51-fec20621dde7",
+    "name": "The Tyres",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sulug, Kota Kinabalu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.960973162840446",
+      "lng": "115.99500417709352"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3783c8b5-805c-4631-bb59-e5ffafaca923",
+    "name": "Mantis Avenue",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mantanani Besar, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.71946330427367",
+      "lng": "116.33641719818117"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "37b7d385-4def-4ebe-8f9f-f1971d29a518",
+    "name": "Bidong Jetty",
+    "location": {
+      "country": "Malaysia",
+      "region": "Bidong Island, Malaysia",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.613056813960014",
+      "lng": "103.05834971980654"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "38392d6a-17c4-4b98-981f-a94a91463b02",
+    "name": "Flambo Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Kapalai, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.227654421427416",
+      "lng": "118.67963790893556"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3912b07d-e89d-4c0e-b895-e6474626603b",
+    "name": "Trunk Garden",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mabul Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.244559672801423",
+      "lng": "118.63888978958131"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "39407283-d582-4f43-b69e-5c0ecfa1dbf4",
+    "name": "Gua Kawah Corner",
+    "location": {
+      "country": "Malaysia",
+      "region": "Redang Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.7900642336948",
+      "lng": "103.04540634155275"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "39b6c6d0-7dc3-433e-b19d-511a84a047ee",
+    "name": "House Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lang Tengah Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.789936144481731",
+      "lng": "102.89629697799684"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3a2419b4-cbcf-4d61-a56c-192c33306951",
+    "name": "Southern Tip",
+    "location": {
+      "country": "Malaysia",
+      "region": "Kapas Island, Malaysia",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.207874402853061",
+      "lng": "103.268671677649"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3a772063-3da6-449e-9246-760beceedadf",
+    "name": "Turtle Cavern",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.11988821417812",
+      "lng": "118.62918823957446"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3a8822c6-e7c7-41de-b443-104e39bc646c",
+    "name": "Turtle House",
+    "location": {
+      "country": "Malaysia",
+      "region": "Gaya Island, Kota Kinabalu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.008605647223923",
+      "lng": "116.01691246032716"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3b0364f3-0b26-4b94-8549-b0e7c73281cc",
+    "name": "Mandarin Valley",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Kapalai, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.227137040225296",
+      "lng": "118.68480290577283"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3b1350bc-fdb2-4540-9545-eb01234add8d",
+    "name": "Mango Bay (Telok Paoh)",
+    "location": {
+      "country": "Malaysia",
+      "region": "Perhentian Besar, Perhentian Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.9054359975266175",
+      "lng": "102.74268974069425"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3b7599ac-5f74-4e6d-8502-feeee76ef553",
+    "name": "Platform Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Payar Island, Langkawi",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.064352978813947",
+      "lng": "100.0430703163147"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3d01e5bc-8842-4440-9c38-0f035aa3b429",
+    "name": "Pinnacles Ii",
+    "location": {
+      "country": "Malaysia",
+      "region": "Aur Island, Mersing",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.421704967769812",
+      "lng": "104.54215943813324"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3d08ddde-1d98-4c6c-b310-196c2dfa8160",
+    "name": "Mak Cantik",
+    "location": {
+      "country": "Malaysia",
+      "region": "Redang Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.763271608779431",
+      "lng": "103.04570674896242"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3d291819-6607-4309-adc3-4e1c7461bda2",
+    "name": "Ukm&#039;s Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tiga Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.710792833178387",
+      "lng": "115.65075874328613"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3e4d800c-5e2e-469a-a67a-bd3adb2e8c32",
+    "name": "Batu Kapal",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lang Tengah Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.794654077996184",
+      "lng": "102.90086746215822"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3e4f3c5e-1b5e-4728-9819-a207d1e488c3",
+    "name": "Pit Rock",
+    "location": {
+      "country": "Malaysia",
+      "region": "Pom Pom, Bodgaya Island",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.595632233826912",
+      "lng": "118.87022495269777"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3f0e9e96-2fc5-4f8c-8570-e94749aa08f3",
+    "name": "Rajawali Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tenggol Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.815516236077025",
+      "lng": "103.67720603942871"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4108519d-16ef-45cf-9082-c0dc2083f452",
+    "name": "Creepy Garden",
+    "location": {
+      "country": "Malaysia",
+      "region": "Si Amil, Bahagian Tawau",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.307298446314174",
+      "lng": "118.87024641036989"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4344eb74-368f-4e52-b558-3a64e60dc6e7",
+    "name": "Vhk Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Miri, Sarawak",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.395877108909102",
+      "lng": "113.93826484680177"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4477d4c4-52d8-4a50-8ff7-e73e5cdc8371",
+    "name": "Shark Point",
+    "location": {
+      "country": "Malaysia",
+      "region": "Perhentian Besar, Perhentian Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.882067444051077",
+      "lng": "102.74512767791748"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "455237cf-d24e-4d7b-92a7-ce4ac46a6fe9",
+    "name": "Crocodile Bay",
+    "location": {
+      "country": "Malaysia",
+      "region": "Dayang Island, Mersing",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.474056785889026",
+      "lng": "104.5089215040207"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4686a127-9533-4870-9b01-c3918e8c050e",
+    "name": "Cheek Point",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Kapalai, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.216569512060284",
+      "lng": "118.6732864379883"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "468efc8c-efb0-4b96-90a7-9a415c984c20",
+    "name": "Sweet Lips Table",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sabah, Borneo Island",
+      "ocean": [
+        "Asia",
+        "Malaysia",
+        "Borneo Island",
+        "Sabah"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.562051208555537",
+      "lng": "118.92477035522462"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "47d1ed07-8b1a-4711-9dbc-711008dfc658",
+    "name": "Turtle Point",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tenggol Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.807048939114977",
+      "lng": "103.67347240448"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "496e1b69-2c00-473d-80c4-7a7a684538de",
+    "name": "Ken&#039;s Rock",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lankayan Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Sulu Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.507252368737748",
+      "lng": "117.92033672332765"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "49d5a1f1-d8fe-4f6d-94d6-d90eeb5afc5e",
+    "name": "Fish Bowl",
+    "location": {
+      "country": "Malaysia",
+      "region": "Nyirih Island, Tenggol Island",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.844349156283793",
+      "lng": "103.66685271263124"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4b2be2f5-7546-48ba-8dad-bab33c9c74fe",
+    "name": "Ron&#039;s Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sinjataan, Gaya Island",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.0047217920240925",
+      "lng": "116.00725650787355"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4bd6bfc3-bf67-4e27-a980-ff8b1e0a928e",
+    "name": "Tanjung Butong",
+    "location": {
+      "country": "Malaysia",
+      "region": "Perhentian Kecil, Perhentian Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.93926827852978",
+      "lng": "102.71931409835815"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4ccf4148-ec93-49e4-8212-690b7ece945b",
+    "name": "Little Rawa",
+    "location": {
+      "country": "Malaysia",
+      "region": "Rawa Island, Johor",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.5284376739740386",
+      "lng": "103.97158384323122"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4d6f2e07-5a73-4d7d-9e97-90849c2581aa",
+    "name": "Mamutik East",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mamutik Island, Kota Kinabalu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.963576837665362",
+      "lng": "116.01478815078737"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4dc78f13-725b-44f1-bcf1-e6f5fca1d22f",
+    "name": "Lobster Garden",
+    "location": {
+      "country": "Malaysia",
+      "region": "Payar Island, Langkawi",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.067201539832918",
+      "lng": "100.04124641418457"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4df0efba-426c-4b17-9278-27ee60cc0c51",
+    "name": "House Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mataking, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.575997150513484",
+      "lng": "118.94652843475343"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4f2cb5e2-2a5d-4f34-93e9-ddf58a485396",
+    "name": "Nudibrancia",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Kapalai, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.229665951705332",
+      "lng": "118.67637634277345"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4f4c690c-3eb0-4809-b570-8c8ff6c687b8",
+    "name": "The Stables",
+    "location": {
+      "country": "Malaysia",
+      "region": "Langkawi, Kedah",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.234503847329462",
+      "lng": "99.69998359680176"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4fedb230-2504-4978-8469-4c7f3d1d2e11",
+    "name": "Marangis Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Gaya Island, Kota Kinabalu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.031139995932144",
+      "lng": "116.03485107421876"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "50c13a77-9514-4c36-ad52-5a921b59eece",
+    "name": "Fizi Mount",
+    "location": {
+      "country": "Malaysia",
+      "region": "Redang Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.809298633932249",
+      "lng": "102.99253463745117"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "50d3c76f-668e-4f60-9db0-a60b9b049ee8",
+    "name": "Bimbo Rock",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lankayan Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Sulu Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.518295712774241",
+      "lng": "117.92381286621095"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "51407bfc-cbea-466b-955e-aec6407844a5",
+    "name": "Salang Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tioman Island, Pahang",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.880956396964089",
+      "lng": "104.1543016093229"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "51db99e0-b147-4ef0-8b75-5caf80d0c26f",
+    "name": "Tukau Drop Off",
+    "location": {
+      "country": "Malaysia",
+      "region": "Miri, Sarawak",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.418298258908772",
+      "lng": "113.96470069885255"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "526411f7-f536-400c-9ea0-c56326940f0d",
+    "name": "Sepoi Island",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sepoi Island, Pahang",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.8983169200618946",
+      "lng": "104.0518355369568"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "533e9886-ae50-40f2-84bb-004ed8042df7",
+    "name": "Mid Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Kapalai, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.226327664557051",
+      "lng": "118.68229866027833"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "54071790-e669-491a-84be-9d1cc038c989",
+    "name": "Batu Broler",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lang Tengah Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.799393319933509",
+      "lng": "102.89683341979982"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5464590f-067e-49f4-b31e-27512a390742",
+    "name": "Police Bay",
+    "location": {
+      "country": "Malaysia",
+      "region": "Gaya Island, Kota Kinabalu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.036602727467209",
+      "lng": "116.02197647094728"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "54d55728-1141-4f10-8d86-de9a4b5b1531",
+    "name": "Nudibranch Town",
+    "location": {
+      "country": "Malaysia",
+      "region": "Timba, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.5766174391733205",
+      "lng": "118.91481399536134"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "55d2684f-6e39-4ce3-aa10-0fb9e0cd74c1",
+    "name": "Pulau Lima",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lima Island, Redang Island",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.773988810818795",
+      "lng": "103.06151032447816"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "560bcd9b-7b3d-42f2-8aed-88815373793e",
+    "name": "Snowy Point",
+    "location": {
+      "country": "Malaysia",
+      "region": "Si Amil, Bahagian Tawau",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.311920198638205",
+      "lng": "118.86622309684755"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5671cfaa-86d7-4f10-8edf-d8d136a0009d",
+    "name": "Dikosi Group",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lankayan Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Sulu Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.527249596990674",
+      "lng": "117.90879249572755"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "569e49c2-fc78-4771-b666-e7588f5904c7",
+    "name": "P. Mentigi",
+    "location": {
+      "country": "Malaysia",
+      "region": "Pulau Mentigi, Malaysia",
+      "ocean": [
+        "Asia",
+        "Malaysia",
+        "Pulau Mentigi"
+      ]
+    },
+    "coordinates": {
+      "lat": "0.6063500610719501",
+      "lng": "104.09813511283055"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "57467315-f88f-41c2-9a47-93af92619dc4",
+    "name": "Teluk Mah Sipang",
+    "location": {
+      "country": "Malaysia",
+      "region": "Redang Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.786669859739672",
+      "lng": "102.99000263214113"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "574ebd0d-8c7d-4a7a-ad82-f0a0fc43e7cc",
+    "name": "Goby Gardens",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lang Tengah Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.797311901010951",
+      "lng": "102.89039611816408"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "57b6b007-b0a8-4d1f-af7a-0e5c7297857d",
+    "name": "Terumbu Kuning",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lang Tengah Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.7882282855331635",
+      "lng": "102.89820671081544"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "57c4c113-16c9-46ab-8901-fce563ea7c96",
+    "name": "Mangrove Corner",
+    "location": {
+      "country": "Malaysia",
+      "region": "Gaya Island, Kota Kinabalu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.98948486205668",
+      "lng": "116.03798389434816"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "584a3bcc-fbe3-4681-9b56-1d4efbc8d825",
+    "name": "Black Coral Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mamutik Island, Kota Kinabalu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.970704867786351",
+      "lng": "116.02264165878297"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "586f837d-38bc-4924-8659-7fd3bdfe5c38",
+    "name": "Klcc Aquarium",
+    "location": {
+      "country": "Malaysia",
+      "region": "Kuala Lumpur, Malaysia",
+      "ocean": [
+        "Asia",
+        "Malaysia",
+        "Kuala Lumpur"
+      ]
+    },
+    "coordinates": {
+      "lat": "3.155599509242843",
+      "lng": "101.71142578125"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "597efe78-2225-4e85-a7a4-905a82362999",
+    "name": "Macro Corner",
+    "location": {
+      "country": "Malaysia",
+      "region": "Gaya Island, Kota Kinabalu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.019958295780638",
+      "lng": "116.05042934417726"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5a2f1629-d2d2-48ad-a7e7-6e0616c3ef9e",
+    "name": "Anemone Garden",
+    "location": {
+      "country": "Malaysia",
+      "region": "Langkawi, Kedah",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.0448180598484065",
+      "lng": "99.92606163024904"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5bbb6ce9-3008-45e2-b54e-a73e56bd4135",
+    "name": "Tanjung Gemuk",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tenggol Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.802729721839833",
+      "lng": "103.67055416107178"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5c036db2-c07f-41b2-a2c3-62b5bd128324",
+    "name": "Japanese Wreck",
+    "location": {
+      "country": "Malaysia",
+      "region": "Kota Kinabalu, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.989143413373631",
+      "lng": "115.95125198364259"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5c48e485-7b5c-4ca0-a634-c4f201796a91",
+    "name": "Macro Mania",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sarawak, Borneo Island",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.550415123295052",
+      "lng": "118.81336212158205"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5c60f837-e482-49ac-9d84-6aee5885c9d0",
+    "name": "Teluk Jawa",
+    "location": {
+      "country": "Malaysia",
+      "region": "Dayang Island, Mersing",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.4774385741395664",
+      "lng": "104.50429201126099"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5ca5e78f-fef2-48f6-a040-94996a095daa",
+    "name": "Mid Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.11149047245117",
+      "lng": "118.63599300384523"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5e14829e-f421-4041-bd71-ff77e8a2bb52",
+    "name": "Salang Jetty",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tioman Island, Pahang",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.8768222013801936",
+      "lng": "104.15197849273683"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5e188a68-f031-42fc-86bd-1417b6484d5d",
+    "name": "Hanging Gardens",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.109580301573762",
+      "lng": "118.62527489662172"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5f372037-6fb7-446c-9daf-6cf5c71714e9",
+    "name": "Mid Reef Wreck",
+    "location": {
+      "country": "Malaysia",
+      "region": "Manukan Island, Kota Kinabalu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.97279630813239",
+      "lng": "116.01410150527956"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5f9066ac-6fa6-4046-828f-0c8fba81454e",
+    "name": "One Tree Bay",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tulai Island, Pahang",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.9152627428747677",
+      "lng": "104.10878956317903"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5f9f5252-2232-4dae-8e9e-5c6dec478000",
+    "name": "Northern Run",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lima Island, Redang Island",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.778258555982629",
+      "lng": "103.05789470672609"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5fb014a6-7b26-46d6-b69e-15e8bef2f0d1",
+    "name": "Northern Gardens",
+    "location": {
+      "country": "Malaysia",
+      "region": "Rawa Island, Johor",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.5258009471125358",
+      "lng": "103.97258162498476"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "60b560bc-7f39-46f8-858a-023d2cdce621",
+    "name": "Batu Buboh",
+    "location": {
+      "country": "Malaysia",
+      "region": "Redang Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.73363813362983",
+      "lng": "103.00407886505127"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "60bfa867-54aa-4cc3-9d61-565a9414d66e",
+    "name": "Larai Point",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tiga Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.729923165637423",
+      "lng": "115.6280565261841"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "60f7a78e-1b7e-4e69-af91-790a8d727a19",
+    "name": "Mid Reef ",
+    "location": {
+      "country": "Malaysia",
+      "region": "Manukan Island, Kota Kinabalu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.9758801010093565",
+      "lng": "116.01505637168886"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "61324042-3cf9-4439-9add-e47b680b000a",
+    "name": "Batu Belais",
+    "location": {
+      "country": "Malaysia",
+      "region": "Miri, Sarawak",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.402894488074537",
+      "lng": "113.95543098449708"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "619fd21e-216e-48ec-b834-7ffca8354c5d",
+    "name": "Bulijong Bay",
+    "location": {
+      "country": "Malaysia",
+      "region": "Gaya Island, Kota Kinabalu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.043857832628049",
+      "lng": "116.01710557937623"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "61deb76a-816f-43e9-b05c-45f9fb556361",
+    "name": "Santak Point",
+    "location": {
+      "country": "Malaysia",
+      "region": "Miri, Sarawak",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.4147040742934625",
+      "lng": "113.96092414855958"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6219cbf6-2e7f-41dc-9bd2-cbaaff03cb9b",
+    "name": "Edgel Patch South",
+    "location": {
+      "country": "Malaysia",
+      "region": "Gaya Island, Kota Kinabalu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.000112345522248",
+      "lng": "115.99762201309204"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6250a54e-2607-4d46-acd1-37c40762e51f",
+    "name": "Coral Garden",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lankayan Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Sulu Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.509469584716444",
+      "lng": "117.91662454605103"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "627918cd-22ba-4ac4-9650-ea70e5a83a9d",
+    "name": "Sting Ray City",
+    "location": {
+      "country": "Malaysia",
+      "region": "Bohayen, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.549088939864943",
+      "lng": "118.92914772033693"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "637f5b66-7182-447c-81ee-00f188d6d069",
+    "name": "Coral View",
+    "location": {
+      "country": "Malaysia",
+      "region": "Perhentian Besar, Perhentian Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.900402235539464",
+      "lng": "102.73856163024904"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "644aa3a5-e291-4a8c-95bc-13f16b2d96f7",
+    "name": "Sahara Desert",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mantanani Besar, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.724790844708288",
+      "lng": "116.34959220886232"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "668e4185-cb26-459e-9883-6d4a164ac587",
+    "name": "Tumok",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tioman Island, Pahang",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.7925967453874314",
+      "lng": "104.12090778350831"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "677c423c-fa60-4dad-a200-df84cab69ac3",
+    "name": "Seabell Rock",
+    "location": {
+      "country": "Malaysia",
+      "region": "Perhentian Kecil, Perhentian Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.909729481287423",
+      "lng": "102.71379947662355"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "67effc30-b014-4985-b8ba-90f4493f858b",
+    "name": "War Bay",
+    "location": {
+      "country": "Malaysia",
+      "region": "Perhentian Kecil, Perhentian Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.928404843944218",
+      "lng": "102.71328449249269"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "690d354d-469c-48f4-bdae-3ce1545fe992",
+    "name": "Lankayan Wreck",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lankayan Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Sulu Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.503500134787696",
+      "lng": "117.91201114654542"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "696c1a1c-5a63-4689-bc20-0a5addd962ac",
+    "name": "D&#039;lagoon / Teluk Kerma",
+    "location": {
+      "country": "Malaysia",
+      "region": "Perhentian Kecil, Perhentian Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.92836215812097",
+      "lng": "102.7229404449463"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6996d88c-7fcf-4847-b377-924145ab8f35",
+    "name": "Pulau Kerengga Kecil",
+    "location": {
+      "country": "Malaysia",
+      "region": "Kerenga Besar, Redang Island",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.754795909289861",
+      "lng": "103.03087949752809"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6aa96313-3a51-44ff-b83e-3da6a250f9c6",
+    "name": "Midreef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tiga Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.696749593522555",
+      "lng": "115.62625207006933"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6b7f6f25-f392-44be-b74c-5e4c3e34e4b7",
+    "name": "Dogtooth Lair",
+    "location": {
+      "country": "Malaysia",
+      "region": "Layang Layang Island, Sarawak",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.374852095078343",
+      "lng": "113.85243415832521"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6c759c10-75eb-4a52-a6b0-7ea52db1a5e5",
+    "name": "Captain Point",
+    "location": {
+      "country": "Malaysia",
+      "region": "Dayang Island, Mersing",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.477256354390469",
+      "lng": "104.49715733528139"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6dddccae-8546-4740-b416-1730f50de0c1",
+    "name": "Rocky Islands",
+    "location": {
+      "country": "Malaysia",
+      "region": "Rawa Island, Johor",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.5253293368655343",
+      "lng": "103.97396564483644"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6e11339f-9554-40de-a90c-4a1d3ca29cfc",
+    "name": "Teluk Teluran",
+    "location": {
+      "country": "Malaysia",
+      "region": "Aur Island, Mersing",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.460524187288309",
+      "lng": "104.52688694000246"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "702a75b6-2273-48ed-9599-b26aeef1320e",
+    "name": "Sahara",
+    "location": {
+      "country": "Malaysia",
+      "region": "Si Amil, Bahagian Tawau",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.314017095517113",
+      "lng": "118.86659860610963"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "706cfbc6-3ee5-4c12-ae8c-b03b5bba0fd9",
+    "name": "Diamond Point",
+    "location": {
+      "country": "Malaysia",
+      "region": "Langkawi, Kedah",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.228616522882749",
+      "lng": "99.70324516296388"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7097df6b-d119-45c7-b38a-a450ad59f9b6",
+    "name": "Pulau Lembu",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lembu Island, Langkawi",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.075416406759937",
+      "lng": "100.05839109420776"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "71f30fba-1e0b-47ea-afbc-a40c4515584e",
+    "name": "Turtle Playground",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mataking, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.601621040589925",
+      "lng": "118.94807338714601"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "722afe91-902d-4dd9-b9b2-09526ae7e512",
+    "name": "Ribbon Valley 2",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mabul Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.230008339317652",
+      "lng": "118.63500595092775"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "72374678-c981-4624-aad1-8d2a3030c230",
+    "name": "Batu Sepoi",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tioman Island, Pahang",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.6546512051540914",
+      "lng": "104.11348342895509"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "731fec87-c8ae-4825-afbe-d0bdd6c06f06",
+    "name": "Eel Garden",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mabul Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.22985854475588",
+      "lng": "118.63856792449953"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "737a4cb2-6ed3-48bc-aa0d-b46b08a0dbd3",
+    "name": "Divers Delight",
+    "location": {
+      "country": "Malaysia",
+      "region": "Bohayen, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.497537020865145",
+      "lng": "118.94365310668945"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "737af418-c8da-47f3-a331-3288db1b4415",
+    "name": "Lembu Rocks",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lembu Island, Langkawi",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.076696634475169",
+      "lng": "100.05598783493043"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "73c2828a-a681-43bc-b19d-e83eedc87a05",
+    "name": "Dollah Pinnacle",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tenggol Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.791503905489385",
+      "lng": "103.68388473987581"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "73f70586-1e3c-4af7-9703-be92fbc7c116",
+    "name": "Into The Deep",
+    "location": {
+      "country": "Malaysia",
+      "region": "Rawa Island, Johor",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.526208246733528",
+      "lng": "103.98064970970155"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7601dac7-4bf8-47ba-9d99-22483399b74c",
+    "name": "South Rock / South Point",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lankayan Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Sulu Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.496805738748291",
+      "lng": "117.92243957519533"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "76f7a082-cc0d-4b78-ba58-f7cb1a192b61",
+    "name": "Kits Rock",
+    "location": {
+      "country": "Malaysia",
+      "region": "Perhentian Kecil, Perhentian Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.921447011172866",
+      "lng": "102.70414352416994"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "78dea365-29f7-4774-99c8-9b6f8c63ed28",
+    "name": "5 Sisters (Shipwreck)",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tenggol Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.803841602169994",
+      "lng": "103.66971731185915"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "79aaaf26-aac6-4145-8a22-6d4b9f00d367",
+    "name": "Teluk Dalam",
+    "location": {
+      "country": "Malaysia",
+      "region": "Redang Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.79673810826342",
+      "lng": "103.02631210150757"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "79e74579-0905-4791-bd5a-ef60353af8f6",
+    "name": "Old Navigation Light House",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tiga Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.68542707740596",
+      "lng": "115.61977386474611"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7b771d9a-a6a4-4e25-ad9e-d39dc94f1183",
+    "name": "Blue Coral",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lang Tengah Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.792716741287934",
+      "lng": "102.89103448390962"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7b9c2f32-1b9a-47ee-b860-a3a922dfcb1a",
+    "name": "Golden Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sepoi Island, Pahang",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.895295254390859",
+      "lng": "104.05207157135011"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7bbc5423-0f2b-4515-80d1-e264791bf7dc",
+    "name": "Tanjung Chagar Hutang",
+    "location": {
+      "country": "Malaysia",
+      "region": "Redang Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.817805537180182",
+      "lng": "103.0111062526703"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7c580cea-2844-4a1d-b08d-f15bf14b00f9",
+    "name": "Whale Mount",
+    "location": {
+      "country": "Malaysia",
+      "region": "Redang Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.818285847830774",
+      "lng": "102.9851746559143"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7c8bd4b2-02f8-4f93-91a9-667e88f1b229",
+    "name": "House Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Redang Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.788761992009008",
+      "lng": "103.01519393920898"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7cd54a0d-3223-494b-8dee-ccef4f4e2cc0",
+    "name": "Mt. Sayang",
+    "location": {
+      "country": "Malaysia",
+      "region": "Gaya Island, Kota Kinabalu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.042492173202092",
+      "lng": "116.00878000259401"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7cf167f1-34fc-4f92-bb2e-f6bd59207429",
+    "name": "East Bay",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Kapalai, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.21027800665069",
+      "lng": "118.69388580322267"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7d21b0f8-f8c9-48fd-bdf9-c260121137f4",
+    "name": "Magic Rocks / New Life",
+    "location": {
+      "country": "Malaysia",
+      "region": "Pom Pom, Bodgaya Island",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.59576056592819",
+      "lng": "118.8594961166382"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7dc4eb12-c5c3-40f6-968b-e330a56aa0cb",
+    "name": "Italian Place",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mantanani Kechil, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.702009873264653",
+      "lng": "116.32274866104127"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7efa6b46-f9f0-4bdb-b09c-1c5c2f8f5fe5",
+    "name": "Barracuda Point",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.123261732494839",
+      "lng": "118.63165855407716"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7f76f39b-5a08-4411-9b1b-002f5af3916f",
+    "name": "Froggy Lair",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Kapalai, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.2089512201023025",
+      "lng": "118.67440223693849"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7fcfac9c-d1d6-41b3-b73b-f6e4728b528d",
+    "name": "Sweet Lips Table",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Kapalai, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.232233855108593",
+      "lng": "118.6883068084717"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "801f0b42-d2a2-4297-8908-d702fe52870e",
+    "name": "Jawfish Lair",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lankayan Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Sulu Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.493820947466827",
+      "lng": "117.91205406188966"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "80aa51f5-191d-4d62-9a52-8c74de3daa41",
+    "name": "Jalan-Jalan",
+    "location": {
+      "country": "Malaysia",
+      "region": "Bohayen, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.542714669310295",
+      "lng": "118.93120765686037"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "81cd4912-1a8a-4081-9b8d-5bf1ea5fdb9a",
+    "name": "Sandy Eel Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Kapalai, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.226969643971401",
+      "lng": "118.67586135864259"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8286f7e0-a4dc-4695-bae9-fb26227ed17d",
+    "name": "Gaya Garden",
+    "location": {
+      "country": "Malaysia",
+      "region": "Gaya Island, Kota Kinabalu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.027085589291601",
+      "lng": "116.00332975387575"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "84270683-0690-4257-9b75-e3cc88d05307",
+    "name": "Sapi Slope",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sinjataan, Gaya Island",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.007239899102867",
+      "lng": "116.00354433059694"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8699afbf-dc8b-44cf-8cd6-a3259a0c4351",
+    "name": "Eel Garden",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mabul Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.233004224469058",
+      "lng": "118.62908363342287"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "898961a7-4b8c-4d26-ad9a-78df25774b1d",
+    "name": "Rumbia",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sembilan Island, Malaysia",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.0293864771763985",
+      "lng": "100.54155349731447"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8990c49c-35ed-4fac-bd05-2682aad59de8",
+    "name": "Coral Garden",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.1171621012950155",
+      "lng": "118.63208770751955"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8a23db3d-601e-48df-94c3-5bddda1e0be0",
+    "name": "Black Rock",
+    "location": {
+      "country": "Malaysia",
+      "region": "Saga Island, Sembilan Island",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.021391807938312",
+      "lng": "100.5126714706421"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8ad352df-81f9-4fb5-84b2-e194d93f4ac0",
+    "name": "The Highway",
+    "location": {
+      "country": "Malaysia",
+      "region": "Nyirih Island, Tenggol Island",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.847043159539145",
+      "lng": "103.66663813591005"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8b1a8350-340c-4f0a-a72e-c9e9b09b9fc1",
+    "name": "Azam&#039;s Place",
+    "location": {
+      "country": "Malaysia",
+      "region": "Miri, Sarawak",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.397246358815747",
+      "lng": "113.96581649780275"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8b231a12-5715-4fb6-a082-05d3637cb9d1",
+    "name": "Fan Corner",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sinjataan, Gaya Island",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.010355506996191",
+      "lng": "116.0025143623352"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8b2e546a-02d9-4e83-b20a-1e1f3e24b188",
+    "name": "Coral Hills",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mabul Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.242248596956934",
+      "lng": "118.63940477371217"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8ca480ae-978d-41fa-92c4-ffd88cc5bd4d",
+    "name": "Km Sipadan &amp; Sawadee Wrecks",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tioman Island, Pahang",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.8221727937278684",
+      "lng": "104.14592742919923"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8cbb8573-781a-4cd9-b67d-5b41f3a4a34d",
+    "name": "Cardinal&#039;s Heaven",
+    "location": {
+      "country": "Malaysia",
+      "region": "Bodgaya Island, Sarawak",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.598669420692042",
+      "lng": "118.75791549682619"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8ccb50fd-d360-45a9-9de2-fb29ea4fcfc2",
+    "name": "Five Stars",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tenggol Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.804782422571507",
+      "lng": "103.6714553833008"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8cd23de7-a6f1-44d3-99da-182e5dfff04c",
+    "name": "Robert&#039;s Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Miri, Sarawak",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.4095694946509765",
+      "lng": "113.95912170410158"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8d804a17-222a-4980-b9cd-2fa7eb9460c7",
+    "name": "Bidong Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Bidong Island, Malaysia",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.614702044574315",
+      "lng": "103.05787811557748"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8d8c44a5-0498-4bf8-88af-e816533c3ca8",
+    "name": "Twin City / Jawfish City",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lankayan Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Sulu Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.50190116294371",
+      "lng": "117.91767597198486"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8f559f7a-f48b-4853-9829-dd47a44de6cb",
+    "name": "Manukan Slope",
+    "location": {
+      "country": "Malaysia",
+      "region": "Manukan Island, Kota Kinabalu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.978729126046995",
+      "lng": "116.00410223007204"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8ff7a77a-fc6b-4071-8649-db255d2fd659",
+    "name": "Ken&#039;s Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Kapalai, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.228574590181235",
+      "lng": "118.68407964706422"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "91727c99-22cc-4f53-bcc3-bd126066514f",
+    "name": "Turtle Bay",
+    "location": {
+      "country": "Malaysia",
+      "region": "Redang Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.813802932474045",
+      "lng": "103.00811290740968"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "91e20a67-4fbd-43e8-9fa4-9826aacbcc59",
+    "name": "Nudibranch Heaven",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mataking, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.58463836477998",
+      "lng": "118.95326614379884"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "929bfe55-fadb-4ba9-975b-b2327369b1b1",
+    "name": "Marker 2",
+    "location": {
+      "country": "Malaysia",
+      "region": "Bohayen, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.505066824289504",
+      "lng": "118.93223762512208"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "92b47c1a-2cb6-4f98-a72d-023d9eff52ce",
+    "name": "Magic Rock",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mataking, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.572745973575826",
+      "lng": "118.94785881042482"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9360708f-ed68-49ba-be1b-425957b65dd1",
+    "name": "Ekor Tebu South",
+    "location": {
+      "country": "Malaysia",
+      "region": "Ekor Tebu, Redang Island",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.735794512004111",
+      "lng": "103.03107261657716"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "950e44ed-8889-441d-a563-7a5fce644b48",
+    "name": "Pulau Ibol",
+    "location": {
+      "country": "Malaysia",
+      "region": "Ibul Island, Tinggi Island",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.3050906241308136",
+      "lng": "104.15112018585205"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9565ad65-d7c8-402a-abc5-c2650f76ddd8",
+    "name": "Pulau Susu Dara Besar",
+    "location": {
+      "country": "Malaysia",
+      "region": "Susu Dara, Perhentian Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.960546329723123",
+      "lng": "102.66165733337404"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "97732308-19ed-4b84-9987-e88abfbb68c8",
+    "name": "Goby Land",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Kapalai, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.224701314328512",
+      "lng": "118.67187023162843"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9840d130-0736-488b-b89d-f3beda1b3bff",
+    "name": "Siwa Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Miri, Sarawak",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.390913556916464",
+      "lng": "113.94641876220705"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "98b418c9-c117-4afc-9f9a-2cb79360e2d2",
+    "name": "South Sulug",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sulug, Kota Kinabalu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.956576765834499",
+      "lng": "115.99191427230836"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "98bcfa40-6832-43bb-9ccb-7923b8ab4dd6",
+    "name": "Tanjung Api",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tenggol Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.810812195211771",
+      "lng": "103.6918830871582"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "99621fa3-0888-4f91-afe2-e2ed7dc66747",
+    "name": "Turtle Point",
+    "location": {
+      "country": "Malaysia",
+      "region": "Perhentian Besar, Perhentian Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.907338989337001",
+      "lng": "102.74246692657472"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9972bb12-27b5-4e7d-9afc-d6a59f5418f7",
+    "name": "Gumard Ground",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Kapalai, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.2171259012448985",
+      "lng": "118.69579553604127"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9992e414-e884-4ab0-98e9-4663277c1b80",
+    "name": "Gaya East Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Gaya Island, Kota Kinabalu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.024226147444306",
+      "lng": "116.05386257171632"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9ae95ff0-b46b-4f45-930f-947a699c5b7e",
+    "name": "Pigmy Point",
+    "location": {
+      "country": "Malaysia",
+      "region": "Bohayen, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.464593217382639",
+      "lng": "118.94863128662111"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9b13d03f-1cd8-4042-8f59-d7fe62f32e18",
+    "name": "Mantis Valley",
+    "location": {
+      "country": "Malaysia",
+      "region": "Si Amil, Bahagian Tawau",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.320286354707669",
+      "lng": "118.86717796325685"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9b4a41c4-d690-4fbd-a8bd-b7fedbc54235",
+    "name": "D&#039; Wall",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mataking, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.591996148024858",
+      "lng": "118.95189285278322"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9c274a49-9d90-4a94-9e74-3cedd447c0c6",
+    "name": "Mantis Ground",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Kapalai, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.2332610140855165",
+      "lng": "118.69543075561525"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9c27e3f9-6d0f-4fe7-8d14-e3edec07c39c",
+    "name": "Clerks Pinnacle",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tenggol Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.79096933820391",
+      "lng": "103.68162631988527"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9c5d46f1-9509-473d-a87e-eb7bd11ae333",
+    "name": "House Wreck",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tenggol Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.809486505095654",
+      "lng": "103.67497444152833"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9cfc7e45-a3e3-472c-b8af-b4e24a7f429e",
+    "name": "Tanjung Siren",
+    "location": {
+      "country": "Malaysia",
+      "region": "Perhentian Besar, Perhentian Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.893123886708924",
+      "lng": "102.73688793182374"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9d614ed4-6579-488d-860f-7905f9fc18f2",
+    "name": "Sebukang Bay",
+    "location": {
+      "country": "Malaysia",
+      "region": "Aur Island, Mersing",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.452034756269839",
+      "lng": "104.50246810913087"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9e019f09-72cc-4220-8728-270cd8efd9b5",
+    "name": "East Point",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Kapalai, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.208223626518996",
+      "lng": "118.69663238525392"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9e72e11f-1475-4ec5-934c-da6d7c2cc86b",
+    "name": "Seafan Garden",
+    "location": {
+      "country": "Malaysia",
+      "region": "Miri, Sarawak",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.403065642837683",
+      "lng": "113.96178245544435"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9f76d292-c239-4999-a781-05bb4fad057e",
+    "name": "Ev Garden",
+    "location": {
+      "country": "Malaysia",
+      "region": "Gaya Island, Kota Kinabalu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.015092903991223",
+      "lng": "116.00624799728395"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a09e6f19-c289-4324-8ef8-4d1c67b1f265",
+    "name": "Atago Maru Wreck",
+    "location": {
+      "country": "Malaysia",
+      "region": "Miri, Sarawak",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.403921416062774",
+      "lng": "113.97620201110841"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a0cfe03a-7b14-41c6-be79-b697559801d7",
+    "name": "Ribbon Reef North",
+    "location": {
+      "country": "Malaysia",
+      "region": "Gaya Island, Kota Kinabalu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.0170561374982485",
+      "lng": "116.0029435157776"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a172fbf2-7bd1-4aaf-bbf4-9d4bfd20c1aa",
+    "name": "White Coral Corner",
+    "location": {
+      "country": "Malaysia",
+      "region": "Langkawi, Kedah",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.2379167587819255",
+      "lng": "99.6998977661133"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a17f9b6e-9f17-46ef-bd2a-05e676db8d4a",
+    "name": "Manta Point",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sarawak, Borneo Island",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.659239333178442",
+      "lng": "118.75740051269533"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a1992107-6cf8-4b20-977c-5df254ce7d83",
+    "name": "Tokong Timor",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tenggol Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.782704874811744",
+      "lng": "103.68753790855409"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a1b53484-2a96-4256-bafc-a3d9820fafc3",
+    "name": "Batu Chachang",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tenggol Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.793620787833657",
+      "lng": "103.67643356323244"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a357dc54-8185-4b59-9fa2-7f9ac539ae28",
+    "name": "Ekor Tebu North",
+    "location": {
+      "country": "Malaysia",
+      "region": "Ekor Tebu, Redang Island",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.7407477463076155",
+      "lng": "103.03064346313478"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a39a7274-f270-4130-a4f0-814b6a2ba70b",
+    "name": "Pinnacles I",
+    "location": {
+      "country": "Malaysia",
+      "region": "Aur Island, Mersing",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.425322711189637",
+      "lng": "104.52898979187013"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a3e41187-1b43-421e-81c8-dd87ba02535e",
+    "name": "Teluk Miriam",
+    "location": {
+      "country": "Malaysia",
+      "region": "Aur Island, Mersing",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.4408869367923245",
+      "lng": "104.51173782348634"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a43504f1-7631-4727-bd5a-f81d1d218652",
+    "name": "Batu Kuching",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lang Tengah Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.793501283400345",
+      "lng": "102.90464401245119"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a4fa8f0e-ebc6-44c2-8f04-3cab96d8b0e8",
+    "name": "Treasure Hunt",
+    "location": {
+      "country": "Malaysia",
+      "region": "Timba, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.582970019664984",
+      "lng": "118.9190196990967"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a549c8ea-1a86-409a-9bdf-9d1aed3ac905",
+    "name": "House Reef (Sipadan-Kapalai)",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Kapalai, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.22542889248394",
+      "lng": "118.68626832962038"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a5685ff1-684a-4dec-b833-3e38e0033a2d",
+    "name": "Pygmy Rock",
+    "location": {
+      "country": "Malaysia",
+      "region": "Si Amil, Bahagian Tawau",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.311941595574362",
+      "lng": "118.87769222259521"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a7145ca6-1734-4ddf-b3d3-594cd2eb01cb",
+    "name": "Gilly Rock",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mantanani Kechil, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.719026443368272",
+      "lng": "116.30752444267273"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a86b5e3e-b05d-4412-81f5-713372ad8ced",
+    "name": "Teluk Batu Sauh",
+    "location": {
+      "country": "Malaysia",
+      "region": "Redang Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.791558605701639",
+      "lng": "103.03768157958986"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a9cb4b3a-23a3-4cf5-a2bb-6132e3282bd4",
+    "name": "Eye Candy",
+    "location": {
+      "country": "Malaysia",
+      "region": "Bohayen, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.509687346888668",
+      "lng": "118.94142150878908"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "abe248c1-1b70-4442-b41f-36c0ed4c586b",
+    "name": "Sapi Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Gaya Island, Kota Kinabalu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.007303918622566",
+      "lng": "116.01180553436281"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ac1ed982-4f72-442a-930f-1e11f5a1ea47",
+    "name": "Atlantis Bay",
+    "location": {
+      "country": "Malaysia",
+      "region": "Aur Island, Mersing",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.469302973879266",
+      "lng": "104.50987100601196"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ac255717-fbcf-439d-a3db-20a86b12520e",
+    "name": "Bat Cave",
+    "location": {
+      "country": "Malaysia",
+      "region": "Rawa Island, Johor",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.5182765995830785",
+      "lng": "103.978568315506"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ac39052c-de37-4a5f-8f05-3c1a3ea6c374",
+    "name": "Little Okinawa",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Kapalai, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.222903765371688",
+      "lng": "118.67101192474367"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ac425d2b-941e-4882-9370-1eaeecd2ed24",
+    "name": "Golden Bay",
+    "location": {
+      "country": "Malaysia",
+      "region": "Perhentian Kecil, Perhentian Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.914062221631196",
+      "lng": "102.71624565124513"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ac48c819-bd5f-4b7e-b851-39b6ca02e0da",
+    "name": "Chek Isa",
+    "location": {
+      "country": "Malaysia",
+      "region": "Redang Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.756461170051217",
+      "lng": "103.04152250289918"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ad6ad298-9722-456e-8865-84224bf02239",
+    "name": "Froggy Lair",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mabul Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.238819418437593",
+      "lng": "118.63996267318727"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ad6f10f3-6f8b-44dc-af36-fad4249c707e",
+    "name": "Eel Garden",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Kapalai, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.2085232239591575",
+      "lng": "118.68581771850587"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "adeaa81c-d042-4049-b142-1b6597f430e4",
+    "name": "Navigator Lane",
+    "location": {
+      "country": "Malaysia",
+      "region": "Layang Layang Island, Sarawak",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.38510901601666",
+      "lng": "113.82668495178223"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "af709f50-9f1f-478e-8eb8-f935e73ce4d6",
+    "name": "Tiger Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tioman Island, Pahang",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.8891233164965295",
+      "lng": "104.06207084655763"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b03a32f2-6792-44e7-b95d-285fcd8ca774",
+    "name": "Rayner&#039;s Rock",
+    "location": {
+      "country": "Malaysia",
+      "region": "Dayang Island, Mersing",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.48104544812828",
+      "lng": "104.51200336217883"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b0721dba-3e52-403b-8366-93d96c15bd67",
+    "name": "Renggis Island",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tioman Island, Pahang",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.8096887921954523",
+      "lng": "104.13473725318909"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b126fc1a-cb52-4329-a6d4-02f1d5b2c0fd",
+    "name": "Whip Garden",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tiga Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.683633496739429",
+      "lng": "115.62741279602052"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b2071c11-d0f9-497f-9d9f-fc08789f4ae8",
+    "name": "Agill Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Gaya Island, Kota Kinabalu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.0321215845618505",
+      "lng": "116.00481033325197"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b230cb66-16a8-4c5b-a878-fd42d7ad52e4",
+    "name": "Nudi Garden",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sinjataan, Gaya Island",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.006471664279224",
+      "lng": "116.00717067718507"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b23583a9-e9d7-498b-b009-0adf68eeda03",
+    "name": "Eel Garden",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mataking, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.569751455447775",
+      "lng": "118.94923210144043"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b28abeb4-30ab-4bfd-b618-841156f9526b",
+    "name": "Batu Butuh",
+    "location": {
+      "country": "Malaysia",
+      "region": "Perhentian Besar, Perhentian Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.892718345403073",
+      "lng": "102.77774333953859"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b405d301-0a37-4717-a679-b8e69b86f45d",
+    "name": "North Point",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.117900480191446",
+      "lng": "118.62612247467042"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b42deaa6-403a-43b7-b54f-42af5a4ecee6",
+    "name": "House Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Rawa Island, Johor",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.5190483295371027",
+      "lng": "103.97423386573793"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b59a32cb-b3b0-4397-97c0-80a333dc22c3",
+    "name": "Cleaning Station",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Kapalai, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.220293032090556",
+      "lng": "118.69392871856691"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b5f5914c-1018-4b12-8f13-81053f45230b",
+    "name": "Teluk Mak Delah",
+    "location": {
+      "country": "Malaysia",
+      "region": "Redang Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.793223758423929",
+      "lng": "103.0320167541504"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b61000dc-7b99-48fe-919a-98c992491e2f",
+    "name": "Lost Reef / Billy&#039;s Reef / East Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lankayan Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Sulu Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.50827570040576",
+      "lng": "117.93055057525636"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b61e4758-b027-4b6a-9585-98690e6d0501",
+    "name": "Edgel Patch Small",
+    "location": {
+      "country": "Malaysia",
+      "region": "Manukan Island, Kota Kinabalu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.977704759202018",
+      "lng": "115.98554134368898"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b6a2876b-51c4-4293-8bb2-8c50067c5592",
+    "name": "Sweet Lips Rock",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mataking, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.584852254897649",
+      "lng": "118.94588470458986"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b75a2b3e-a92a-449f-a96c-41e987aab651",
+    "name": "Drop&#039;s Coral",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mantabuan, Bodgaya Island",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.632291495501443",
+      "lng": "118.79254817962646"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b84e35a8-a6c4-4f28-bb8a-8fcdeb0dc150",
+    "name": "Seahorse Corner",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sembilan Island, Malaysia",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.021038627969276",
+      "lng": "100.54687500000001"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b8d81199-9a79-4cca-909a-4a3f5a3d5921",
+    "name": "Lobster Wall",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mabul Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.238225596586878",
+      "lng": "118.62479209899904"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b9747eba-b26b-4975-849f-b13c5e36ed49",
+    "name": "Maratua",
+    "location": {
+      "country": "Malaysia",
+      "region": "Si Amil, Bahagian Tawau",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.319152328725241",
+      "lng": "118.86996746063234"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bb8cd64b-8f2b-4e20-ab42-fddfa3ff414f",
+    "name": "North Channel",
+    "location": {
+      "country": "Malaysia",
+      "region": "Si Amil, Bahagian Tawau",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.319237915650991",
+      "lng": "118.86524677276613"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bca2e625-804c-40a2-98bd-32b351b9ccbe",
+    "name": "Pulau Ekor Tebu",
+    "location": {
+      "country": "Malaysia",
+      "region": "Ekor Tebu, Redang Island",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.738249784386318",
+      "lng": "103.0315661430359"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bcdc42db-4b30-4d70-80b1-57a0ce15c624",
+    "name": "Spotted Ray Chanel",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Kapalai, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.2005196527748385",
+      "lng": "118.6906671524048"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bcf321da-a46c-4806-bf2c-5da0013b253b",
+    "name": "Outer Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Perhentian Kecil, Perhentian Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.942917832259592",
+      "lng": "102.72221088409425"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bdba0188-3db9-4f31-bd79-946b8e4fe03a",
+    "name": "Mini Highway",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tenggol Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.800163837236431",
+      "lng": "103.6714553833008"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bed3b008-f11c-4d74-ace3-04ba52845cd4",
+    "name": "Lobster Lair",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mataking, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.576852720938165",
+      "lng": "118.95476818084718"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bfe7365e-cd99-4577-923b-e11c89e16437",
+    "name": "Batu Jahat",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tioman Island, Pahang",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.666225859025018",
+      "lng": "104.16558265686037"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c153e5d5-8052-4e61-90fe-ff2a111beee4",
+    "name": "Tanjung Nibong",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lang Tengah Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.802894355976523",
+      "lng": "102.89335727691652"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c186c830-383e-4a68-8c21-0b590de70396",
+    "name": "Anak Chantek",
+    "location": {
+      "country": "Malaysia",
+      "region": "Redang Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.763890735522962",
+      "lng": "103.03431272506715"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c1ba6b86-5f72-4aba-8aa6-c2404e10e8b2",
+    "name": "Tanjung Tengah",
+    "location": {
+      "country": "Malaysia",
+      "region": "Redang Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.773926467148726",
+      "lng": "103.03491214043036"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c1ed70d0-8521-4c7b-a370-729b2a569c11",
+    "name": "North Point",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tioman Island, Pahang",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.8989812568228586",
+      "lng": "104.17476654052736"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c21cb132-9425-40fd-b37b-7b61df973e9e",
+    "name": "Pulau Rawa",
+    "location": {
+      "country": "Malaysia",
+      "region": "Rawa, Perhentian Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.963811594624179",
+      "lng": "102.68320083618165"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c26926b8-b9bb-4e35-891f-ac92f59be610",
+    "name": "Wrasse Strip",
+    "location": {
+      "country": "Malaysia",
+      "region": "Layang Layang Island, Sarawak",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.377916428318292",
+      "lng": "113.79467010498048"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c2826ea5-1f0b-4e21-b27e-f72f44252050",
+    "name": "Batu Ling",
+    "location": {
+      "country": "Malaysia",
+      "region": "Ekor Tebu, Redang Island",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.735645060300447",
+      "lng": "103.01764011383057"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c402288c-0519-4cc9-8eaa-65ca96f92840",
+    "name": "Hanging Garden",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sarawak, Borneo Island",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.660094803204333",
+      "lng": "118.78581047058107"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c4788b21-2e16-4022-a263-981316be6cd8",
+    "name": "Eve&#039;s Garden",
+    "location": {
+      "country": "Malaysia",
+      "region": "Miri, Sarawak",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.390485662956908",
+      "lng": "113.96847724914552"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c4b1adac-67e8-459f-8292-bd0a9bb33218",
+    "name": "Sulug Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sulug, Kota Kinabalu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.957601172166507",
+      "lng": "115.99605560302736"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c4c088a7-d043-43ca-8709-9a0680a396e7",
+    "name": "Mandarin Garden",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Kapalai, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.223331753596309",
+      "lng": "118.68590354919435"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c4d11b0b-fbed-4b39-9b76-1e9656fb6b95",
+    "name": "Porite Garden",
+    "location": {
+      "country": "Malaysia",
+      "region": "Payar Island, Langkawi",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.068375099919801",
+      "lng": "100.04502296447755"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c51af84b-d175-42cf-9f7d-7ae27df72070",
+    "name": "Coral Reef Garden",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mabul Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.233902987753965",
+      "lng": "118.63972663879396"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c5b384e6-6831-4f7a-97d6-96a0aa387f56",
+    "name": "Gunier&#039;s Roof",
+    "location": {
+      "country": "Malaysia",
+      "region": "Redang Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.77992374787055",
+      "lng": "102.98665523529054"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c613c378-aad0-405e-9851-f4a6583ab16f",
+    "name": "Susu Dara Kecil",
+    "location": {
+      "country": "Malaysia",
+      "region": "Dara Kecil, Perhentian Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.964387815824366",
+      "lng": "102.66579866409303"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c64bff36-be04-4a76-9280-b495d924f7fc",
+    "name": "Celebes Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Si Amil, Bahagian Tawau",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.310294029727898",
+      "lng": "118.87657642364503"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c6c739b8-e56a-43a6-afcb-f3ccd0be11d1",
+    "name": "Ribbon Valley",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mabul Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.231870069310819",
+      "lng": "118.63223791122438"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c7fc8ce1-3027-473c-9239-5ede54c56746",
+    "name": "The Valley",
+    "location": {
+      "country": "Malaysia",
+      "region": "Layang Layang Island, Sarawak",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.373575283300593",
+      "lng": "113.78643035888673"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c82a702f-15a5-4216-bd1a-5f2aa744552d",
+    "name": "New Navigation Light House",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tiga Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.68935585361707",
+      "lng": "115.627498626709"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c83c34ea-d696-4058-aa30-6f0d07bdbfb1",
+    "name": "Chebeh South",
+    "location": {
+      "country": "Malaysia",
+      "region": "Chebeh Island, Pahang",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.931913653712803",
+      "lng": "104.09754574298859"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c85ef13d-7333-4692-b270-eaa77fb27d92",
+    "name": "South Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mamutik Island, Kota Kinabalu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.9600768129106365",
+      "lng": "116.01285696029665"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c9418951-15bb-4b2a-a295-8ecc53c5a9af",
+    "name": "Tanjung Tok Kong",
+    "location": {
+      "country": "Malaysia",
+      "region": "Redang Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.811518766627649",
+      "lng": "103.01345586776733"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c9c8fc7d-f7c8-4109-b500-a7c2d971de30",
+    "name": "Sunday Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Miri, Sarawak",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.391084714431592",
+      "lng": "113.95457267761232"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ca237af2-5d06-41b8-bf49-5b166fe2945e",
+    "name": "Sri Nokhota",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tenggol Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.813378039715197",
+      "lng": "103.68686199188234"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cc4f1c56-06ae-47a4-a2da-e5f8a5dc1388",
+    "name": "Karah Point",
+    "location": {
+      "country": "Malaysia",
+      "region": "Bidong Island, Malaysia",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.600170874715035",
+      "lng": "103.06396716257181"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ce69dc79-dffc-4cca-9f8d-9b7a2ef06c73",
+    "name": "Sail Rock",
+    "location": {
+      "country": "Malaysia",
+      "region": "Perhentian Besar, Perhentian Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.912205337066895",
+      "lng": "102.75068521499634"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cf03f020-e370-4e05-b2d5-647736861c5c",
+    "name": "Tanjung Rajawali",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tenggol Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.819407736202803",
+      "lng": "103.68179798126222"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cf35a969-8b97-42e2-b7d2-2631885b1bc4",
+    "name": "Sun Choi Wreck",
+    "location": {
+      "country": "Malaysia",
+      "region": "Perhentian Kecil, Perhentian Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.925113334829995",
+      "lng": "102.71248432937489"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d0c75d89-564a-44a6-a991-5e3d667a7c28",
+    "name": "Dayang Channel (Night Dive)",
+    "location": {
+      "country": "Malaysia",
+      "region": "Dayang Island, Mersing",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.4706487832754727",
+      "lng": "104.50448704626672"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d22d24c5-71b7-4576-9927-fe4982bc46d7",
+    "name": "Tokong Bahara",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tioman Island, Pahang",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.6636108541363943",
+      "lng": "104.06219959259035"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d3484d60-4662-400c-9a4c-56a4430aaa99",
+    "name": "Karang Nibong Laut",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lang Tengah Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.8045167799423005",
+      "lng": "102.88833618164064"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d360ff81-7c95-4cd2-8390-9e7aba652eb2",
+    "name": "Stingray Alley",
+    "location": {
+      "country": "Malaysia",
+      "region": "Perhentian Kecil, Perhentian Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.938948141083731",
+      "lng": "102.7225971221924"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d3cf4abb-f6ae-4247-a92d-8789a8b0121b",
+    "name": "Extension",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sinjataan, Gaya Island",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.011294453822734",
+      "lng": "116.00199937820436"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d41e8b24-5363-44a4-9d79-0312a3397e6f",
+    "name": "Dunlop Corner",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tiga Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.690124524084978",
+      "lng": "115.62252044677736"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d4b891fb-9277-4d81-8903-7a235c05f7fa",
+    "name": "Ray City",
+    "location": {
+      "country": "Malaysia",
+      "region": "Si Amil, Bahagian Tawau",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.318681600461052",
+      "lng": "118.86814355850221"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d4f230ca-d2f8-42fb-b964-8a54c886210a",
+    "name": "The Wall",
+    "location": {
+      "country": "Malaysia",
+      "region": "Rawa Island, Johor",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.521234895256262",
+      "lng": "103.97810697555543"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d5700b4f-5ded-460a-a145-092fbfd3a282",
+    "name": "Hump Head Point",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mataking, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.590434764315132",
+      "lng": "118.9442539215088"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d5d23a52-160b-43c1-9a35-5acc1b37b212",
+    "name": "Blue Spotted Garden",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Kapalai, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.207752830308694",
+      "lng": "118.68088245391846"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d5e3170f-5675-42b8-8bf7-56f1e6125f44",
+    "name": "Coral Gardens",
+    "location": {
+      "country": "Malaysia",
+      "region": "Aur Island, Mersing",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.4574371277074687",
+      "lng": "104.49474334716798"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d627972d-023d-47d5-a741-6b64cc9326de",
+    "name": "Deep Valley",
+    "location": {
+      "country": "Malaysia",
+      "region": "Si Amil, Bahagian Tawau",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.309266973886872",
+      "lng": "118.8710618019104"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d731699f-a5ed-471e-bd6d-1a5ae8af964a",
+    "name": "Pulau Paku Besar",
+    "location": {
+      "country": "Malaysia",
+      "region": "Paku Besar, Redang Island",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.779251267120818",
+      "lng": "103.04210722446443"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d7a769e2-f603-43a3-8751-c7dde06ff348",
+    "name": "Pasir Akar",
+    "location": {
+      "country": "Malaysia",
+      "region": "Redang Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.742904097793883",
+      "lng": "102.99038887023927"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d8473a35-0a69-49e3-8926-d008b8c9a770",
+    "name": "Tokong Buruk",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tokong Kemudi, Perhentian Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.961709449187448",
+      "lng": "102.67458558082582"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d85d773c-313d-45dd-81ae-5ff9e3b7bc77",
+    "name": "Monkey Bay",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tioman Island, Pahang",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.8640189491609593",
+      "lng": "104.15108371803278"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d8baa9d4-bdb8-4b2e-bf6b-ad207002a92e",
+    "name": "Terumba Putih",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lang Tengah Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.795999002049691",
+      "lng": "102.89981603622438"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d8c18928-6654-4271-b5b7-23c35f7982a3",
+    "name": "Staghorn Crest",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.104684464572156",
+      "lng": "118.63084316253664"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d9184c86-1ac1-455b-8368-8d10c4d56d83",
+    "name": "Black Coral",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lima Island, Redang Island",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.774447809967789",
+      "lng": "103.05817365646362"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d9f4c8e9-5b18-425b-a0ba-39e15fa340f4",
+    "name": "Barracuda Point",
+    "location": {
+      "country": "Malaysia",
+      "region": "Miri, Sarawak",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.404691611123702",
+      "lng": "113.94701957702638"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "da643065-fcd3-459b-a28a-75a6449367a5",
+    "name": "North Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sulug, Kota Kinabalu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.963704886928079",
+      "lng": "115.99200010299684"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dabd7411-9055-4c8e-9337-c5aa5f09f456",
+    "name": "Pinang Wreck",
+    "location": {
+      "country": "Malaysia",
+      "region": "Redang Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.741537697799202",
+      "lng": "103.00772666931154"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dd0ad9ac-6852-4283-890b-56dc153e659a",
+    "name": "Wheel House",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sinjataan, Gaya Island",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.0092458404761535",
+      "lng": "116.00311517715456"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ddffca1b-048b-4740-9eae-89af507c07e6",
+    "name": "Big Mount",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lima Island, Redang Island",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.784364235618735",
+      "lng": "103.06000828742982"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "de6668b7-dd2f-4556-b97f-52bf2925ef1f",
+    "name": "Karang Nibong",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lang Tengah Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.803065137666483",
+      "lng": "102.88910865783693"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "de696653-0fd5-4b5a-815e-37cff0ed4160",
+    "name": "Grouper Patch",
+    "location": {
+      "country": "Malaysia",
+      "region": "Miri, Sarawak",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.388175031336178",
+      "lng": "113.92951011657716"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "de958c70-ce55-40bb-ba5a-f8371e93342c",
+    "name": "Recep 1",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Kapalai, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.231977065151446",
+      "lng": "118.68118286132814"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dfff3862-d32e-458d-9bb5-4499e6e8606e",
+    "name": "Katcing Group",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lankayan Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Sulu Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.490580296893209",
+      "lng": "117.90819168090822"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e10ccf9e-afee-499e-bc88-ac625172883b",
+    "name": "Boxy Avenue",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mantanani Kechil, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.715499576323102",
+      "lng": "116.32015228271486"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e12752b7-4178-4bea-8270-b57e6d2adef8",
+    "name": "Peacock Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Kapalai, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.225976716369469",
+      "lng": "118.68935394129952"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e1498802-c99b-47fb-9080-186bf31f15cd",
+    "name": "Artificial Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mabul Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.24691353923489",
+      "lng": "118.63824605941774"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e1aa4346-16c8-4027-b104-70a276d8033b",
+    "name": "Terumbu Tiga / Three Rocks",
+    "location": {
+      "country": "Malaysia",
+      "region": "Perhentian Besar, Perhentian Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.902750069623638",
+      "lng": "102.77718544006348"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e1bb3ebf-a9e9-4260-a55e-dfa846ab8966",
+    "name": "Pukat Point",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tiga Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.691832677001337",
+      "lng": "115.66183090209962"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e1fabb71-6d07-4308-b2db-7b1217a5df5e",
+    "name": "Great Wall",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Kapalai, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.227354831364844",
+      "lng": "118.69474411010744"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e2809bc9-5d00-411c-a114-0f4b30975485",
+    "name": "Wreck Point",
+    "location": {
+      "country": "Malaysia",
+      "region": "Layang Layang Island, Sarawak",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.370000190736134",
+      "lng": "113.84376525878908"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e2a2956d-65ef-4f7a-a66f-9f4471b92ed4",
+    "name": "East Point",
+    "location": {
+      "country": "Malaysia",
+      "region": "Si Amil, Bahagian Tawau",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.316434938813696",
+      "lng": "118.87509584426881"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e2fc3012-119e-47fd-84c3-fd6a123f62a0",
+    "name": "House Reef South",
+    "location": {
+      "country": "Malaysia",
+      "region": "Rawa Island, Johor",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.516282961752945",
+      "lng": "103.97567152976991"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e380bc8a-f3fb-406c-83a8-3b72ccf5b923",
+    "name": "Southeast Point",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mantanani Besar, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.704929477320613",
+      "lng": "116.37619972229005"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e3b587cf-bb66-45a1-b512-bdb328e516be",
+    "name": "Tokong Laut",
+    "location": {
+      "country": "Malaysia",
+      "region": "Serenggeh, Perhentian Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.942192191924455",
+      "lng": "102.66547679901124"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e483597a-0a1b-41db-a65e-db651fbbc47a",
+    "name": "Frontier Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Kapalai, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.220849418608007",
+      "lng": "118.69791984558107"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e493fc2d-8f8f-4ea8-a8df-3798d643ffe3",
+    "name": "Shark Point",
+    "location": {
+      "country": "Malaysia",
+      "region": "Kacha Island, Langkawi",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.072450534190376",
+      "lng": "100.05043029785158"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ea998a4d-5717-41fe-9b24-9e25395d274f",
+    "name": "Stingray City",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Kapalai, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.204500048717498",
+      "lng": "118.68448734283449"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eb0e3f1d-ae79-480d-9f42-5aaffd1aaf0b",
+    "name": "Tanjung Telenjuk",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lang Tengah Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.78720356768693",
+      "lng": "102.90220856666566"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ecdd1676-1ebd-452d-a5ef-d66494b600a5",
+    "name": "Batu Malang",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tulai Island, Pahang",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.903904837266086",
+      "lng": "104.10427272319795"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ed277c63-d27c-4e29-8a64-0c387bb40a9c",
+    "name": "House Reef North",
+    "location": {
+      "country": "Malaysia",
+      "region": "Rawa Island, Johor",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.520806157169453",
+      "lng": "103.97292494773866"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ee1fb801-f601-42b5-b534-10dc58e15ef4",
+    "name": "Tanjung Besi",
+    "location": {
+      "country": "Malaysia",
+      "region": "Perhentian Besar, Perhentian Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.925032653735789",
+      "lng": "102.75920391082765"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ee524110-9339-4c52-ad9d-59123ff5d4be",
+    "name": "Edgel Patch North",
+    "location": {
+      "country": "Malaysia",
+      "region": "Gaya Island, Kota Kinabalu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.001776872367851",
+      "lng": "115.99770784378053"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ee5e9d2f-239e-428c-a18b-498cca170cef",
+    "name": "Karang Bahar",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lang Tengah Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.788399071660278",
+      "lng": "102.90033102035524"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eefe8fdb-e3df-4be1-b1ef-3802e78546c6",
+    "name": "D Wall",
+    "location": {
+      "country": "Malaysia",
+      "region": "Layang Layang Island, Sarawak",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.367872145747832",
+      "lng": "113.8014078140259"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eff21f06-a32e-4032-a090-d555a4052147",
+    "name": "Shri Gadong Wreck",
+    "location": {
+      "country": "Malaysia",
+      "region": "Miri, Sarawak",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.3743110915768515",
+      "lng": "113.92564773559572"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eff5bf8a-ff05-437b-9d78-d9307296addf",
+    "name": "Coral Garden",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tenggol Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.807091703505598",
+      "lng": "103.6868190765381"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f00101d4-ab3f-449a-8436-873788546cd8",
+    "name": "Pulau Kerengga Besar",
+    "location": {
+      "country": "Malaysia",
+      "region": "Kerenga Besar, Redang Island",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.751678869627826",
+      "lng": "103.0283045768738"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f0ff4a8d-9684-4f10-a3ed-3bc4dc9ae19f",
+    "name": "Mid Valley",
+    "location": {
+      "country": "Malaysia",
+      "region": "Si Amil, Bahagian Tawau",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.317872803295425",
+      "lng": "118.86389922990931"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f12d2565-95f9-4fc1-870c-08c00714efd3",
+    "name": "Abc House Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tioman Island, Pahang",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.849433528440469",
+      "lng": "104.15298700332643"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f187dcdd-dd33-4f2e-80c4-b8b09fce1902",
+    "name": "Tyre Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Langkawi, Kedah",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.043921847829076",
+      "lng": "99.9270272254944"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f2afc285-00cc-4be3-b51c-f8cb9386c645",
+    "name": "Tanjung Tukas",
+    "location": {
+      "country": "Malaysia",
+      "region": "Perhentian Besar, Perhentian Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.882942575906759",
+      "lng": "102.77006149291994"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f2e00049-329a-4863-8761-51c008009698",
+    "name": "Jetty Wreck",
+    "location": {
+      "country": "Malaysia",
+      "region": "Lankayan Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Sulu Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.505696047829786",
+      "lng": "117.91535854339601"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f2fd3f7b-4f26-479d-8f82-f49a894c4905",
+    "name": "Lobster Wall",
+    "location": {
+      "country": "Malaysia",
+      "region": "Rawa Island, Johor",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.513260343744985",
+      "lng": "103.97917985916139"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f3225d67-0046-488b-9777-89797d8a53fe",
+    "name": "Teluk Air Tawar",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tenggol Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.806899263726667",
+      "lng": "103.67604732513429"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f3e4b509-3b45-4716-bff3-57c49703d22a",
+    "name": "Terdau",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tioman Island, Pahang",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.8981240480259784",
+      "lng": "104.16206359863283"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f48e23ca-8a0c-4a4e-a3f4-f649e8b1496b",
+    "name": "House Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tiga Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.719717554501657",
+      "lng": "115.64584493637086"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f4adb9a9-f0b8-4df0-a9de-a6774ccc219f",
+    "name": "Tiga&#039;s Trail",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tiga Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.725140642523883",
+      "lng": "115.63217639923097"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f5bf5d1d-47af-47aa-b846-5cd771977884",
+    "name": "Vietnamese Wreck",
+    "location": {
+      "country": "Malaysia",
+      "region": "Perhentian Kecil, Perhentian Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.893358673645309",
+      "lng": "102.71371364593506"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f6a036e5-cc21-403a-bd0b-7415ed096593",
+    "name": "Eel Garden",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mabul Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.230521920452401",
+      "lng": "118.63861083984376"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f6d7fa9a-2b4c-4e05-b8d4-fc4bebb918ad",
+    "name": "Pulau Penyembang",
+    "location": {
+      "country": "Malaysia",
+      "region": "Ibul Island, Tinggi Island",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.3040186082712424",
+      "lng": "104.14361000061037"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f8f8d32f-84a4-4b55-99bd-f9a85ac91a0a",
+    "name": "Blue Ring Heaven",
+    "location": {
+      "country": "Malaysia",
+      "region": "Redang Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.8079110465528165",
+      "lng": "103.02000045776369"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f9c9f8d0-b782-4b56-ae07-b0d6c0e7c17f",
+    "name": "Coral Garden",
+    "location": {
+      "country": "Malaysia",
+      "region": "Kapas Island, Malaysia",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.214203153323763",
+      "lng": "103.26189316076432"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fa031ce8-ee1e-4f0a-8dc3-f75c262b7dfc",
+    "name": "White Rock",
+    "location": {
+      "country": "Malaysia",
+      "region": "Buluh Island, Sembilan Island",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.0040644044330165",
+      "lng": "100.50788640975952"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fa2ea011-b463-40e6-9e83-a5b198c33aaa",
+    "name": "Padang Point",
+    "location": {
+      "country": "Malaysia",
+      "region": "Gaya Island, Kota Kinabalu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.002459753705672",
+      "lng": "116.0234785079956"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fb3c2dcf-e537-416a-8e66-79bbdd932a10",
+    "name": "Soyak Island",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tioman Island, Pahang",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.876179282301598",
+      "lng": "104.14685010910036"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fbac99f7-fb4f-4425-af84-617b0aca9c55",
+    "name": "Tusan Reef",
+    "location": {
+      "country": "Malaysia",
+      "region": "Miri, Sarawak",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.376279444352395",
+      "lng": "113.93766403198242"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fc65e8e6-d883-4213-b15b-ae97efbfc8b8",
+    "name": "Gorgonian Forest",
+    "location": {
+      "country": "Malaysia",
+      "region": "Layang Layang Island, Sarawak",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.38408759057112",
+      "lng": "113.84702682495119"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fc6f610d-3bc5-4eb7-8e9a-367dd2b27053",
+    "name": "The Edge",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tenggol Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.793663553065967",
+      "lng": "103.68282794952393"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fcfbe05d-c920-490b-87dc-171159c2304f",
+    "name": "Teluk Rotan",
+    "location": {
+      "country": "Malaysia",
+      "region": "Redang Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.763485100836242",
+      "lng": "102.98983097076417"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fd0af896-3cbb-4a11-82b9-9cfba83a2398",
+    "name": "Froggy&#039;s",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mabul Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.249288797174848",
+      "lng": "118.63376140594482"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fd194412-0249-42dc-8666-f9b96de6b01f",
+    "name": "Buoy Point",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mabul Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.251963628438514",
+      "lng": "118.64037036895753"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fd27e261-2f21-4aea-9a95-04e3b0f8ff77",
+    "name": "The Drop Off",
+    "location": {
+      "country": "Malaysia",
+      "region": "Sipadan Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.1178095205093115",
+      "lng": "118.62757086753847"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fd5b536c-6733-424e-8c91-c9fecb6b8a4c",
+    "name": "Second Wall",
+    "location": {
+      "country": "Malaysia",
+      "region": "Mabul Island, Sabah",
+      "ocean": [
+        "Pacific Ocean",
+        "Celebes Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "4.241735023607877",
+      "lng": "118.62234592437746"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fe7a8266-da5d-4af9-9df6-6bec9187e9ba",
+    "name": "Stingray Point",
+    "location": {
+      "country": "Malaysia",
+      "region": "Perhentian Kecil, Perhentian Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.917434478805836",
+      "lng": "102.72482872009279"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ff550111-5b2c-46a9-9a59-3c40842a896c",
+    "name": "Coral Garden",
+    "location": {
+      "country": "Malaysia",
+      "region": "Payar Island, Langkawi",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.055892557222489",
+      "lng": "100.03601074218751"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ffa8add6-3e6c-4369-ae7d-6fec0d95b992",
+    "name": "Marine Park",
+    "location": {
+      "country": "Malaysia",
+      "region": "Tioman Island, Pahang",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "2.828954478133613",
+      "lng": "104.15961007428633"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fff36d50-9d8d-4fbb-a6ff-bc2c97143b5a",
+    "name": "Wreck",
+    "location": {
+      "country": "Malaysia",
+      "region": "Redang Island, Terengganu",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.794942276277377",
+      "lng": "103.01767230033875"
+    },
+    "additionalInfo": {}
+  }
+]

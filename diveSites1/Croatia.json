@@ -1,0 +1,3048 @@
+[
+  {
+    "id": "000d0dc7-72da-471b-9d40-5d56fa18a2bf",
+    "name": "Stračinska",
+    "location": {
+      "country": "Croatia",
+      "region": "Solta, Croatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.33744088231893",
+      "lng": "16.36583292424899"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "001a3ae8-c34d-4992-b4e4-9d9bb84eb7ad",
+    "name": "Monk Seal Bay",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.95001483384521",
+      "lng": "16.659994125366214"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "009565ca-3300-4ede-95db-5b888b208e63",
+    "name": "Seget",
+    "location": {
+      "country": "Croatia",
+      "region": "Vis Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.06512552869402",
+      "lng": "16.030941009521488"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0232b369-9e72-405f-b52a-f2f5772a4352",
+    "name": "Dsdc Home Reef",
+    "location": {
+      "country": "Croatia",
+      "region": "Pag Island, Lika-Senj",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.583396576105315",
+      "lng": "14.883192992094207"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0487b7e9-f08f-4628-9587-15e2f86a7f67",
+    "name": "Brioni Wreck",
+    "location": {
+      "country": "Croatia",
+      "region": "Vis Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.016195325403224",
+      "lng": "16.230068206787113"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "08c80be8-2deb-4f49-ae8b-0457b86f5efa",
+    "name": "Emmental",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.92849397775189",
+      "lng": "16.63690567016602"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0b5c6413-9d99-443b-a35a-dc0663049391",
+    "name": "Brac Ii",
+    "location": {
+      "country": "Croatia",
+      "region": "Brac Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.396067384306825",
+      "lng": "16.56944274902344"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0ccdd36f-90b5-4398-a8c1-b340fd37c3fa",
+    "name": "Tower 1",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.97419718096634",
+      "lng": "16.639223098754886"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0d1f08b3-7a75-44e0-935f-8f97ab1c76e5",
+    "name": "Prvic Tunnel",
+    "location": {
+      "country": "Croatia",
+      "region": "Prvic Island, Krk Island",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.9336963896947",
+      "lng": "14.764251708984377"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0d732117-95fd-40cf-a107-0d180e5e46c8",
+    "name": "Punta Albatros",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.93707180440457",
+      "lng": "16.64059638977051"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "11aa8e13-45b0-4711-972e-e80a80e2bbc2",
+    "name": "Mini Pastura",
+    "location": {
+      "country": "Croatia",
+      "region": "Pag Island, Lika-Senj",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.604019783961505",
+      "lng": "14.850919246673586"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1395477b-771d-4f9e-96b1-d2eed7d6cd69",
+    "name": "Mv Sigrid Wreck",
+    "location": {
+      "country": "Croatia",
+      "region": "Rijeka, Primorje-Gorski Kotar",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.3263028722582",
+      "lng": "14.41509246826172"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "16e8b90f-24a3-48d0-8fe2-e41bc8dc2030",
+    "name": "B-17G Wreck",
+    "location": {
+      "country": "Croatia",
+      "region": "Vis Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.01550500504762",
+      "lng": "16.216249465942386"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "17f1644e-07e8-401d-bb51-0bb0a945a6e8",
+    "name": "Lighthouse Plavnik",
+    "location": {
+      "country": "Croatia",
+      "region": "Plavnik Island, Primorje-Gorski Kotar",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.974012776218",
+      "lng": "14.4950008392334"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1ae609f1-3ed7-49f1-a101-889ad88b72df",
+    "name": "Kostrena Dive Center House Reef",
+    "location": {
+      "country": "Croatia",
+      "region": "Rijeka, Primorje-Gorski Kotar",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.303337722793486",
+      "lng": "14.487726688385012"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1e0d9a52-6ab7-45a0-996c-3be44ef1b43e",
+    "name": "Sea Horse Bay",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.958432625269474",
+      "lng": "16.7127799987793"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1f4e9f86-89ce-4b67-88f9-819588ebf753",
+    "name": "Smuggler&#039;s Cove East",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.939459558204035",
+      "lng": "16.650552749633793"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1f6eebdc-1b58-458b-972b-4ed8824fb607",
+    "name": "Kukuljari",
+    "location": {
+      "country": "Croatia",
+      "region": "Murter, Šibenik-Knin",
+      "ocean": [
+        "Europe",
+        "Croatia",
+        "šibenik-knin",
+        "Murter"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.760556435716005",
+      "lng": "15.632922649383547"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "24de2845-0c2a-4ec6-9640-4345a58560f6",
+    "name": "Selzina",
+    "location": {
+      "country": "Croatia",
+      "region": "Plavnik Island, Primorje-Gorski Kotar",
+      "ocean": [
+        "Europe",
+        "Croatia",
+        "Primorje-gorski Kotar",
+        "Plavnik Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.97499945120351",
+      "lng": "14.493370056152346"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "24e46e4b-7ec0-4ea3-af84-8e64da7ced77",
+    "name": "Lonjica",
+    "location": {
+      "country": "Croatia",
+      "region": "Primorje-Gorski Kotar, Croatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.17690937263621",
+      "lng": "14.238195419311523"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "252e141c-caa9-41ec-a58b-4ae292ffa875",
+    "name": "Rasohe",
+    "location": {
+      "country": "Croatia",
+      "region": "Krk Island, Primorje-Gorski Kotar",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.09557967414156",
+      "lng": "14.667949676513674"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "276d6e7e-b009-4537-babf-575cc2058caf",
+    "name": "Mafia",
+    "location": {
+      "country": "Croatia",
+      "region": "Plavnik Island, Primorje-Gorski Kotar",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.97434452423974",
+      "lng": "14.494893550872805"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "279998b2-924a-4696-8c8a-15dee9fc8b6e",
+    "name": "Tower 3",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.97809059241925",
+      "lng": "16.60669326782227"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2853ee90-929b-441e-8c04-796a54b19692",
+    "name": "Vertical Limit",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.93383562187343",
+      "lng": "16.639223098754886"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2a62e7ba-29c4-4c29-a5ee-083dce33f89e",
+    "name": "Glavotok ",
+    "location": {
+      "country": "Croatia",
+      "region": "Glavotok, Krk Island",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.09442845000729",
+      "lng": "14.439597129821777"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2d05124f-9bb6-446a-aa73-5d8892c007f0",
+    "name": "Fels Merag",
+    "location": {
+      "country": "Croatia",
+      "region": "Merag, Cres Island",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.98058522945913",
+      "lng": "14.472341537475588"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2dc51c00-8d70-4173-af20-35ad594a907a",
+    "name": "Ursus Wreck",
+    "location": {
+      "country": "Croatia",
+      "region": "Vis Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.06788453128748",
+      "lng": "16.26680374145508"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2e1bc592-5610-4438-9ee4-c85bc8b24692",
+    "name": "Sika",
+    "location": {
+      "country": "Croatia",
+      "region": "Vis Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.01814073192659",
+      "lng": "16.06209754943848"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2e3ccbfe-81c0-4b58-9d87-ee78f9767bb5",
+    "name": "Mair Wand",
+    "location": {
+      "country": "Croatia",
+      "region": "Prvic Island, Krk Island",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.93479008905832",
+      "lng": "14.78090286254883"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "308d8383-fb6d-447c-9633-41b1906c3e07",
+    "name": "Paula Wreck",
+    "location": {
+      "country": "Croatia",
+      "region": "Krk Island, Primorje-Gorski Kotar",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.96139702015699",
+      "lng": "14.643745422363283"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "312d87cd-2f15-481a-a3f3-4440f7a6cf4b",
+    "name": "Vranine Wall",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.95362708687081",
+      "lng": "16.661195755004886"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3148224b-7276-4441-9a32-b96d96aea41e",
+    "name": "Osjak North",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.96483942603639",
+      "lng": "16.679134368896488"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "345ac8ec-9cbe-4ead-8980-481def888dfe",
+    "name": "Cave Bay",
+    "location": {
+      "country": "Croatia",
+      "region": "Krk Island, Primorje-Gorski Kotar",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.02508200773467",
+      "lng": "14.765625000000002"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "34883bcf-933d-4cf4-8038-f557f6c0b3c7",
+    "name": "Punta Carlo",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.936569107595716",
+      "lng": "16.637334823608402"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "34acd4ee-4847-40e6-b502-cd6f4c17bf80",
+    "name": "Kabal",
+    "location": {
+      "country": "Croatia",
+      "region": "Hvar Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.22018898644747",
+      "lng": "16.513738632202152"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "35986fe7-520f-433b-811d-a137f5abfb95",
+    "name": "The Wall",
+    "location": {
+      "country": "Croatia",
+      "region": "Plavnik Island, Primorje-Gorski Kotar",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.95483755262679",
+      "lng": "14.524698257446289"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "362c63a4-2c37-48b8-b32c-d84a2de98d49",
+    "name": "Jezik 1+2",
+    "location": {
+      "country": "Croatia",
+      "region": "Prvic Island, Krk Island",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.932481143749996",
+      "lng": "14.79412078857422"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "364e83e5-bbea-47c1-a51f-c6edaa0018c0",
+    "name": "Wreck Of Francesca Di Rimini",
+    "location": {
+      "country": "Croatia",
+      "region": "Kaprije, Šibenik-Knin",
+      "ocean": [
+        "Europe",
+        "Croatia",
+        "šibenik-knin",
+        "Kaprije"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.72246292704945",
+      "lng": "15.67676930688322"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "367c2419-d368-4543-9f11-a8885f610ac5",
+    "name": "Posta",
+    "location": {
+      "country": "Croatia",
+      "region": "Vis Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.08255532240661",
+      "lng": "16.172561645507816"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "38c01575-e887-45f3-81fc-3dbcdca3d3ab",
+    "name": "Golubinja Spilja",
+    "location": {
+      "country": "Croatia",
+      "region": "Brac Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.2547052496177",
+      "lng": "16.611242294311527"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3abd1b23-0e8b-47c2-b041-ca8ad0de25e4",
+    "name": "Punta Silo",
+    "location": {
+      "country": "Croatia",
+      "region": "Šilo, Krk Island",
+      "ocean": [
+        "Europe",
+        "Croatia",
+        "Primorje-gorski Kotar",
+        "Krk Island",
+        "šilo"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.15583503335355",
+      "lng": "14.673442840576174"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3ac863a2-47cd-44f4-954d-fc60cd5a3729",
+    "name": "Kifla",
+    "location": {
+      "country": "Croatia",
+      "region": "Pag Island, Lika-Senj",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.61090946668689",
+      "lng": "14.841949939727785"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3e00b204-953e-483a-9569-cde5f9a3a9e6",
+    "name": "Aquarium",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.93864270548194",
+      "lng": "16.643943786621097"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "41bfcdca-de4b-43c0-b8ce-4562cf7aede2",
+    "name": "Rt Negrit",
+    "location": {
+      "country": "Croatia",
+      "region": "Krk Island, Primorje-Gorski Kotar",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.980706653378085",
+      "lng": "14.607181549072267"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "42be11ad-0ba1-4721-8fd6-aeb0887d56c1",
+    "name": "Sika",
+    "location": {
+      "country": "Croatia",
+      "region": "Vis Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.02234510966469",
+      "lng": "16.07282638549805"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "43047122-d73d-4ef3-bcdf-44ac61a524da",
+    "name": "Blue Hole",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.91702358847789",
+      "lng": "16.65407180786133"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "43441d94-4870-4d56-85c0-4ca90d7329f4",
+    "name": "Focze Cave (Medvedja Špilje)",
+    "location": {
+      "country": "Croatia",
+      "region": "Bisevo Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.95635969394666",
+      "lng": "16.008796691894535"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "43741fa7-2af1-47ee-bca8-1747ad5120a1",
+    "name": "Stepenice",
+    "location": {
+      "country": "Croatia",
+      "region": "Hvar Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.21433348264881",
+      "lng": "16.53579711914063"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "43b8cb9a-bd48-4600-babd-dbdfb11009d4",
+    "name": "Crljena Greda",
+    "location": {
+      "country": "Croatia",
+      "region": "Pag Island, Lika-Senj",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.61869947590988",
+      "lng": "14.831628799438478"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "43fcb27c-5336-4aee-ba58-a863694ee8b2",
+    "name": "Vassilios T Wreck",
+    "location": {
+      "country": "Croatia",
+      "region": "Vis Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.00659290013568",
+      "lng": "16.064500808715824"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "444e5991-109d-49ad-a30a-193e19791667",
+    "name": "Zvirja ",
+    "location": {
+      "country": "Croatia",
+      "region": "Hvar Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.23769967935207",
+      "lng": "16.548070907592777"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "448cd9bd-1931-40a3-978a-797b4cf6b262",
+    "name": "Saddle",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.93267306818347",
+      "lng": "16.63913726806641"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "44af72a2-3d1e-4f06-b368-e5ced3df3ba1",
+    "name": "Selezine",
+    "location": {
+      "country": "Croatia",
+      "region": "Merag, Cres Island",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.98152625810499",
+      "lng": "14.47002410888672"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4bb1c7d9-2819-48ef-8446-0940c963bb03",
+    "name": "Hum",
+    "location": {
+      "country": "Croatia",
+      "region": "Brac Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.29519939210697",
+      "lng": "16.438207626342777"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4bb76dfa-0dfe-4b01-9ca7-b598049b78a6",
+    "name": "Sveti Marak",
+    "location": {
+      "country": "Croatia",
+      "region": "Risika, Krk Island",
+      "ocean": [
+        "Europe",
+        "Croatia",
+        "Primorje-gorski Kotar",
+        "Krk Island",
+        "Risika"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.10537928719657",
+      "lng": "14.670009613037111"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4cce277c-dba7-42a9-808d-37c41915b7de",
+    "name": "Kanonen Von Plavnik",
+    "location": {
+      "country": "Croatia",
+      "region": "Plavnik Island, Primorje-Gorski Kotar",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.98371181342909",
+      "lng": "14.53319549560547"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4cf51ab1-22c0-4578-a563-f05e78bf0767",
+    "name": "Dubinica",
+    "location": {
+      "country": "Croatia",
+      "region": "Vis Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.04317449464363",
+      "lng": "16.056690216064457"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4d49bb2c-383b-4263-b790-fa153825612e",
+    "name": "Blue Cave (Modra Šplija)",
+    "location": {
+      "country": "Croatia",
+      "region": "Bisevo Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.99011465347846",
+      "lng": "16.017808914184574"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4eefec04-5b23-4ab4-b331-06d25d792ec3",
+    "name": "Poseidon&#039;s Cave",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.92274333719822",
+      "lng": "16.64437294006348"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4f6c55ae-f7ff-4fda-a5b8-5afe2432b66c",
+    "name": "Paržan Veli",
+    "location": {
+      "country": "Croatia",
+      "region": "Split-Dalmatia, Croatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.035261834364256",
+      "lng": "16.25752916090145"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4fd6de7f-b87d-4dca-835f-237f2d545a00",
+    "name": "Krnica",
+    "location": {
+      "country": "Croatia",
+      "region": "Istria, Croatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.95154453150463",
+      "lng": "14.036214351654055"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "507559e3-e043-41d3-ab4d-80bde9197d8e",
+    "name": "Canyon",
+    "location": {
+      "country": "Croatia",
+      "region": "Vis Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.053962841805664",
+      "lng": "16.26955032348633"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "51a3cdbb-ff67-4016-bfc9-b28fa645b5ca",
+    "name": "Tower 4",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.94674791811353",
+      "lng": "16.657762527465824"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "590788bf-300e-46c4-8c95-77de32c2ecb2",
+    "name": "Loreley",
+    "location": {
+      "country": "Croatia",
+      "region": "Vodice, Cres Island",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.98884147015346",
+      "lng": "14.433288574218752"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "59731046-5604-499b-8d3f-35eafd456a64",
+    "name": "Rovinj-Sub Base",
+    "location": {
+      "country": "Croatia",
+      "region": "Rovinj, Istria",
+      "ocean": [
+        "Europe",
+        "Croatia",
+        "Istria",
+        "Rovinj"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.09233801001262",
+      "lng": "13.640427589416506"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "59b55dcf-903f-44c3-b60e-a010dde341a6",
+    "name": "Reef Vanjsko Silo",
+    "location": {
+      "country": "Croatia",
+      "region": "Šilo, Krk Island",
+      "ocean": [
+        "Europe",
+        "Croatia",
+        "Primorje-gorski Kotar",
+        "Krk Island",
+        "šilo"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.161161087115445",
+      "lng": "14.662199020385744"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "59c0c3e5-2ca3-4b18-87f2-c586869c90d9",
+    "name": "Fraskeric Island",
+    "location": {
+      "country": "Croatia",
+      "region": "Medulin, Istria",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.824190826684365",
+      "lng": "13.840692043304445"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5ac58fff-a77b-49a7-b251-848fa249cfb9",
+    "name": "Stonehenge",
+    "location": {
+      "country": "Croatia",
+      "region": "Plavnik Island, Primorje-Gorski Kotar",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.95667488649441",
+      "lng": "14.526779651641847"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5ccd9848-dec8-4c5e-ae44-7bc3e3711e7d",
+    "name": "Canyon",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.911947652544164",
+      "lng": "16.6728687286377"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "63b59a82-8a01-4cb8-bd64-7ff4d7a15946",
+    "name": "Beli",
+    "location": {
+      "country": "Croatia",
+      "region": "Beli, Cres Island",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.111118928474355",
+      "lng": "14.360225200653078"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "65b290a9-f401-418e-b236-42713e9cc083",
+    "name": "Glavina",
+    "location": {
+      "country": "Croatia",
+      "region": "Krk Island, Primorje-Gorski Kotar",
+      "ocean": [
+        "Europe",
+        "Croatia",
+        "Primorje-gorski Kotar",
+        "Krk Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.06870162759445",
+      "lng": "14.73792314529419"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "660e0243-4e13-41eb-b2b6-6a1f665157e2",
+    "name": "Geier Fels",
+    "location": {
+      "country": "Croatia",
+      "region": "Plavnik Island, Primorje-Gorski Kotar",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.96956493824234",
+      "lng": "14.502940177917482"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "697fe832-c768-4908-a300-bd9b11bd247a",
+    "name": "Krnjacol",
+    "location": {
+      "country": "Croatia",
+      "region": "Plavnik Island, Primorje-Gorski Kotar",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.98261904618175",
+      "lng": "14.534053802490236"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6a4c8280-7a7e-4545-8a7d-040ea5db06c1",
+    "name": "Smuggler&#039;s Cove West",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.93989939748894",
+      "lng": "16.64883613586426"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6b0988e4-0c94-4052-aa3f-d7eff8bbcf00",
+    "name": "Punta Kobil",
+    "location": {
+      "country": "Croatia",
+      "region": "Bisevo Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.985939462781595",
+      "lng": "16.02261543273926"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6bc93b39-b46c-4743-85e2-7a3722d511f9",
+    "name": "Priscapac - Anchors",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.90244913727225",
+      "lng": "16.822940626716612"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6bd1f981-21c6-4f02-a1c1-49ad2651d34a",
+    "name": "Smociguzica",
+    "location": {
+      "country": "Croatia",
+      "region": "Hvar Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.23769967935207",
+      "lng": "16.568326950073246"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6ea4248f-5eec-4cdf-bb0d-c0b74b23b6b5",
+    "name": "Vodnjak",
+    "location": {
+      "country": "Croatia",
+      "region": "Vodnjak, Pakleni Islands",
+      "ocean": [
+        "Vodnjak"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.16880694900248",
+      "lng": "16.314743513144975"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7066d203-f95d-48ab-847b-4cf3b074eb5b",
+    "name": "Gnjilna",
+    "location": {
+      "country": "Croatia",
+      "region": "Vis Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.00376837169663",
+      "lng": "16.079692840576175"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "73894d80-6779-4b42-b2fc-dc676ddd9253",
+    "name": "Brseč Pinnacle",
+    "location": {
+      "country": "Croatia",
+      "region": "Primorje-Gorski Kotar, Croatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.17734499799256",
+      "lng": "14.239182472229006"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "73cd3e5d-cc64-4e5c-9c3e-3fd22dc83703",
+    "name": "Mlaki Rat",
+    "location": {
+      "country": "Croatia",
+      "region": "Hvar Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.23044585977809",
+      "lng": "16.539144515991214"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7751cff1-d961-4216-8e06-17e12bbc9611",
+    "name": "Amfore Island Host",
+    "location": {
+      "country": "Croatia",
+      "region": "Vis Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.076599655501866",
+      "lng": "16.201744079589847"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "77beb5a7-c462-4816-9365-4d001252720b",
+    "name": "Osjak Steps",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.963457623478156",
+      "lng": "16.674199104309086"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7a32ec35-4898-469a-a394-23b1de0b86c5",
+    "name": "Baron Gautsch",
+    "location": {
+      "country": "Croatia",
+      "region": "Rovinj, Istria",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.94481525535046",
+      "lng": "13.612092673918388"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7a51c176-274c-46a1-845c-2f53da327ff9",
+    "name": "Danne&#039;s Cove",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.94153305875292",
+      "lng": "16.65312767028809"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7a6243a7-13d8-4d86-aaf7-126843a2e81e",
+    "name": "Gorgonian Rosso",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.92286903999822",
+      "lng": "16.641969680786136"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7b9607aa-f01d-427c-a18f-50d3d5b004d0",
+    "name": "Prniba",
+    "location": {
+      "country": "Croatia",
+      "region": "Krk Island, Primorje-Gorski Kotar",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.015423340365196",
+      "lng": "14.593448638916016"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8618d913-17e4-4f5e-834f-9e843deca653",
+    "name": "Punta Ploče",
+    "location": {
+      "country": "Croatia",
+      "region": "Vis Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.004144982992024",
+      "lng": "16.102867126464847"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "86eeb308-c4af-48eb-894f-10267e34d836",
+    "name": "Love Cave",
+    "location": {
+      "country": "Croatia",
+      "region": "Plavnik Island, Primorje-Gorski Kotar",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.955414572905106",
+      "lng": "14.527552127838137"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "878e4c6b-1205-4988-8999-50ae1985378c",
+    "name": "Teti Wreck",
+    "location": {
+      "country": "Croatia",
+      "region": "Vis Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.0522067285496",
+      "lng": "16.040725708007816"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "878e9861-6947-4e0a-8798-5c48760247a2",
+    "name": "Kamik",
+    "location": {
+      "country": "Croatia",
+      "region": "Vis Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.06713208835001",
+      "lng": "16.07282638549805"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "88c17912-60e2-4045-9d54-a0ab2c57346a",
+    "name": "Veli Pin",
+    "location": {
+      "country": "Croatia",
+      "region": "Plavnik Island, Primorje-Gorski Kotar",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.985988344960916",
+      "lng": "14.49225425720215"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "897bb3a5-85be-4677-b819-a1dffe7a91a1",
+    "name": "Green Cave (Zelena Splija) ",
+    "location": {
+      "country": "Croatia",
+      "region": "Vis Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.01548931585847",
+      "lng": "16.225004196166996"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8af93fa6-d845-414f-8b54-d11418917ccf",
+    "name": "Featherworm City",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.96458819151616",
+      "lng": "16.699390411376957"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8c926859-588f-46ae-9cce-7729d278e8a0",
+    "name": "Kaprije",
+    "location": {
+      "country": "Croatia",
+      "region": "Kaprije, Šibenik-Knin",
+      "ocean": [
+        "Europe",
+        "Croatia",
+        "šibenik-knin",
+        "Kaprije"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.719455146988125",
+      "lng": "15.670382212847475"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8da24053-7022-452b-bbda-03dac43c0c50",
+    "name": "Galija Wreck",
+    "location": {
+      "country": "Croatia",
+      "region": "Vis Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.045181772671",
+      "lng": "16.26834869384766"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "909041ed-285f-4fc8-ae62-4b679d9cdc01",
+    "name": "Elhavi Star Wreck",
+    "location": {
+      "country": "Croatia",
+      "region": "Rijeka, Primorje-Gorski Kotar",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.31906368689243",
+      "lng": "14.436721801757814"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "92bf779e-1227-436b-8362-951b4f1d60d3",
+    "name": "Blue Point Cave",
+    "location": {
+      "country": "Croatia",
+      "region": "Vodice, Cres Island",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.02161186840545",
+      "lng": "14.403419494628908"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9329ed9e-699a-4b53-876b-a8904e80729a",
+    "name": "Dreifelsenbucht",
+    "location": {
+      "country": "Croatia",
+      "region": "Krk Island, Primorje-Gorski Kotar",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.97172058880264",
+      "lng": "14.624176025390627"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "93374802-7626-4ac1-a3b4-261bb56571ab",
+    "name": "Silent Beach",
+    "location": {
+      "country": "Croatia",
+      "region": "Vrbnik, Krk Island",
+      "ocean": [
+        "Europe",
+        "Croatia",
+        "Primorje-gorski Kotar",
+        "Krk Island",
+        "Vrbnik"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.073353919247985",
+      "lng": "14.683570861816406"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "935e3ff6-50ba-4620-97ac-f74db324fd83",
+    "name": "Římská Cesta",
+    "location": {
+      "country": "Croatia",
+      "region": "Zadar, Croatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.90443241439919",
+      "lng": "15.512824058532717"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "93774fd1-0ef9-4f23-ac02-61354778edcd",
+    "name": "Cave Lucice",
+    "location": {
+      "country": "Croatia",
+      "region": "Brac Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.29869762092541",
+      "lng": "16.449193954467777"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "94981e58-aaf8-4d75-a831-f4b14d20b686",
+    "name": "Banjol Island Caves",
+    "location": {
+      "country": "Croatia",
+      "region": "Rovinj, Istria",
+      "ocean": [
+        "Europe",
+        "Croatia",
+        "Istria",
+        "Rovinj"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.073944899872956",
+      "lng": "13.61085891723633"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "958001aa-779a-447d-b34a-8c48cc0e4685",
+    "name": "100 Steps",
+    "location": {
+      "country": "Croatia",
+      "region": "Vrbnik, Krk Island",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.07493894589801",
+      "lng": "14.683485031127931"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "96b71603-8838-4824-8ad1-70c3b34b5995",
+    "name": "Sea Hare Garden",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.95906077248951",
+      "lng": "16.67758941650391"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "980e7dd9-deda-4f57-9e9c-fc11cce4af84",
+    "name": "Glavna",
+    "location": {
+      "country": "Croatia",
+      "region": "Hvar Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.23319741022136",
+      "lng": "16.521635055541996"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "986e9efa-6e32-4b7e-b78d-c24450e728f6",
+    "name": "Garden",
+    "location": {
+      "country": "Croatia",
+      "region": "Cres Island, Primorje-Gorski Kotar",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.16109789573562",
+      "lng": "14.36335500329733"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9873dfde-e424-434d-b13d-0f7493e636e4",
+    "name": "Drianda",
+    "location": {
+      "country": "Croatia",
+      "region": "Pag Island, Lika-Senj",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.60343658642835",
+      "lng": "14.870749117737818"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9a95103e-7ed7-430a-89b5-1ca05e678fc7",
+    "name": "Wreck Ruza",
+    "location": {
+      "country": "Croatia",
+      "region": "Pag Island, Lika-Senj",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.62422638227312",
+      "lng": "14.823334700043189"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9aa86a6b-448a-4eee-903e-0842265d6133",
+    "name": "Uvala Muzan",
+    "location": {
+      "country": "Croatia",
+      "region": "Plavnik Island, Primorje-Gorski Kotar",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.9561495046387",
+      "lng": "14.523324966430666"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9ac7e93e-c926-422c-9ac5-ef55f185f451",
+    "name": "Junker Ju 87 &quot;stuka&quot;",
+    "location": {
+      "country": "Croatia",
+      "region": "Zirje Island, Croatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.656379823665056",
+      "lng": "15.63143669810732"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9ada6c67-8a0a-41c0-bd28-76b744510c1e",
+    "name": "Lina Wreck",
+    "location": {
+      "country": "Croatia",
+      "region": "Dragozetici, Cres Island",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.092513732582105",
+      "lng": "14.293290140340106"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9b684dad-265b-487b-a035-b6fea9424672",
+    "name": "Michaela Wreck",
+    "location": {
+      "country": "Croatia",
+      "region": "Krk Island, Primorje-Gorski Kotar",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.931265872090044",
+      "lng": "14.732666015625002"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9be0b6c7-ccb2-46d2-9fc0-fd38f1bab997",
+    "name": "Veli Bok",
+    "location": {
+      "country": "Croatia",
+      "region": "Hvar Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.212182422791194",
+      "lng": "16.500692367553714"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9c53d25a-a9d9-488b-a282-739de8b7ac7f",
+    "name": "Brac I",
+    "location": {
+      "country": "Croatia",
+      "region": "Brac Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.395069512861355",
+      "lng": "16.625061035156254"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9e933b8c-3027-4117-a7b1-3da8393e4f37",
+    "name": "Ogrul",
+    "location": {
+      "country": "Croatia",
+      "region": "Krk Island, Primorje-Gorski Kotar",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.06645869372581",
+      "lng": "14.739146232604982"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a002198d-926b-48e6-b3e4-50d534864608",
+    "name": "Stit",
+    "location": {
+      "country": "Croatia",
+      "region": "Island Of Mljet, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.77303484541655",
+      "lng": "17.331919670104984"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a0a623f8-687c-48a0-ae01-451704368a76",
+    "name": "Pakoštane",
+    "location": {
+      "country": "Croatia",
+      "region": "Zadar, Croatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.90194380745018",
+      "lng": "15.517051219940187"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a3b1ea53-8477-45fa-8c02-49ae51a995b4",
+    "name": "Fuska",
+    "location": {
+      "country": "Croatia",
+      "region": "Pinezici, Krk Island",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.03716132923577",
+      "lng": "14.474911322818349"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a5a76e7f-cc89-4dbe-b807-791427e899f9",
+    "name": "Tower 2",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.975704337222744",
+      "lng": "16.627807617187504"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a89f3251-5ea4-47fe-8089-8c793d67fcc7",
+    "name": "Fortunal Wreck",
+    "location": {
+      "country": "Croatia",
+      "region": "Vis Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.07816699239221",
+      "lng": "16.120376586914066"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a8c9580f-7830-4703-971a-68a46c4fc9b5",
+    "name": "Golubinjac",
+    "location": {
+      "country": "Croatia",
+      "region": "Vodice, Cres Island",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.00474352315252",
+      "lng": "14.409534931182863"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a9800ac6-13b5-47c1-96bd-c268930046ec",
+    "name": "Point Druzinin",
+    "location": {
+      "country": "Croatia",
+      "region": "Šilo, Krk Island",
+      "ocean": [
+        "Europe",
+        "Croatia",
+        "Primorje-gorski Kotar",
+        "Krk Island",
+        "šilo"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.13599412928388",
+      "lng": "14.681317806243898"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a9866569-f70a-486b-8c50-9f4fbcedffa5",
+    "name": "Mali Plavnik",
+    "location": {
+      "country": "Croatia",
+      "region": "Plavnik Island, Primorje-Gorski Kotar",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.972935004142485",
+      "lng": "14.549095630645754"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ab84faff-c972-4cde-90b8-c94b8dab2fdb",
+    "name": "Wreck Graveyard",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.968984647488014",
+      "lng": "16.672439575195316"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b187fadc-4fd8-48c5-8410-74e216cc3429",
+    "name": "Cascades At Vrhovnjak",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.8943593658567",
+      "lng": "16.8136739730835"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b1920018-1963-486e-8386-f49510455801",
+    "name": "Wall",
+    "location": {
+      "country": "Croatia",
+      "region": "Vis Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.08080002811761",
+      "lng": "16.18972778320313"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b3633532-72a4-405f-ae0c-ff3aeafe1570",
+    "name": "Kornati Sud",
+    "location": {
+      "country": "Croatia",
+      "region": "Kornati, Šibenik-Knin",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.94180749767017",
+      "lng": "14.580531120300295"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b415a12a-8af0-457c-b620-eab618fd421e",
+    "name": "Amfore",
+    "location": {
+      "country": "Croatia",
+      "region": "Vis Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.077728142103965",
+      "lng": "16.217966079711918"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b64a73d5-4417-48d0-b649-bd1131754616",
+    "name": "Murvica",
+    "location": {
+      "country": "Croatia",
+      "region": "Brac Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.257205668363206",
+      "lng": "16.585149765014652"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b73cddcd-d319-448f-b7d8-83121f8dd12a",
+    "name": "Vrhovnjak",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.89553446985569",
+      "lng": "16.8219551966858"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b9f8709f-9a47-47b8-bf67-f6c170de2a7a",
+    "name": "Dive Point Cardin",
+    "location": {
+      "country": "Croatia",
+      "region": "Cres Island, Primorje-Gorski Kotar",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.15107442659631",
+      "lng": "14.368790612216221"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bbd63fca-d36f-4a32-9595-6ea73df284a9",
+    "name": "Babica Stine",
+    "location": {
+      "country": "Croatia",
+      "region": "Brac Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.25445520209625",
+      "lng": "16.623258590698246"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c6f88d3b-ae02-4188-add5-074764d1ac2c",
+    "name": "Sea Bream Point",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.93933388925984",
+      "lng": "16.646261215209964"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c8eb3584-3cfa-4ca9-86e3-48ee3fdf974f",
+    "name": "Paradise Bay",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.91689787375175",
+      "lng": "16.658964157104496"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c8ef58cd-6d40-4074-82bb-e45a49502aa4",
+    "name": "Secrete Beach",
+    "location": {
+      "country": "Croatia",
+      "region": "Vrbnik, Krk Island",
+      "ocean": [
+        "Europe",
+        "Croatia",
+        "Primorje-gorski Kotar",
+        "Krk Island",
+        "Vrbnik"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.078733132899885",
+      "lng": "14.674558639526369"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c92403d8-fb09-46db-919a-0433fb9dd1e4",
+    "name": "S&#039;wandl",
+    "location": {
+      "country": "Croatia",
+      "region": "Loznati, Cres Island",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.92834911518777",
+      "lng": "14.465389251708986"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cabee504-67b6-42b0-8ea9-70d18bd423de",
+    "name": "Emmental South",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.92726847641665",
+      "lng": "16.636819839477543"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cb4d4f6a-fdca-4e07-880a-ea626bc342d3",
+    "name": "Tenki Reef",
+    "location": {
+      "country": "Croatia",
+      "region": "Vrbnik, Krk Island",
+      "ocean": [
+        "Europe",
+        "Croatia",
+        "Primorje-gorski Kotar",
+        "Krk Island",
+        "Vrbnik"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.07149001724551",
+      "lng": "14.721808433532717"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cb4e3c6e-773b-4ded-9ae3-6811cfc6e123",
+    "name": "Zala Luka",
+    "location": {
+      "country": "Croatia",
+      "region": "Hvar Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.21818744408914",
+      "lng": "16.656560897827152"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ce000da4-0f3c-47d8-b174-421f6a084aa5",
+    "name": "B-24 Liberator Wreck",
+    "location": {
+      "country": "Croatia",
+      "region": "Vis Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.02924719502578",
+      "lng": "16.257705688476566"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ce3cbd78-944a-4116-96c6-a61a16dbf6b7",
+    "name": "Travna",
+    "location": {
+      "country": "Croatia",
+      "region": "Hvar Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.23769967935207",
+      "lng": "16.55871391296387"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d41cd520-7f8f-4d55-9f41-cc995be0a590",
+    "name": "Porer Reef",
+    "location": {
+      "country": "Croatia",
+      "region": "Rovinj, Istria",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.98425616048596",
+      "lng": "13.673496613954805"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d71ff852-eaa4-46a1-b4f4-35cd50e77769",
+    "name": "St. Ivan&#039;s Bay",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.96838800403451",
+      "lng": "16.675958633422855"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d85e4f02-3b35-4eca-9dcd-3cdf0bcaf2fc",
+    "name": "Proizd South",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.97859295013471",
+      "lng": "16.61364555358887"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d8814bf5-5a38-4b7c-8393-045d9b9a24f8",
+    "name": "Lovac",
+    "location": {
+      "country": "Croatia",
+      "region": "Vis Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.03997525953855",
+      "lng": "16.062183380126957"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "daa81453-2cd4-4794-8962-132f93855494",
+    "name": "Sip",
+    "location": {
+      "country": "Croatia",
+      "region": "Primorje-Gorski Kotar, Croatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.179465599912014",
+      "lng": "14.241017103195192"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dc7f481b-e353-4d53-8909-7767d3dc9523",
+    "name": "Big Cave",
+    "location": {
+      "country": "Croatia",
+      "region": "Vodice, Cres Island",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.99539704952342",
+      "lng": "14.424018859863283"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ded05d28-5474-4386-bebc-f1d3d4d40725",
+    "name": "Costes Garden",
+    "location": {
+      "country": "Croatia",
+      "region": "Pag Island, Lika-Senj",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.62166571027851",
+      "lng": "14.825491905212404"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e05217b0-b8fd-4ed2-b4a9-9ff8a2a6e551",
+    "name": "Kablinac",
+    "location": {
+      "country": "Croatia",
+      "region": "Veli-Tetovisnjak, Šibenik-Knin",
+      "ocean": [
+        "Europe",
+        "Croatia",
+        "šibenik-knin",
+        "Veli-tetovisnjak"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.71576736333263",
+      "lng": "15.60813903808594"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e261925c-027e-4836-a6d3-c6f5c166a02b",
+    "name": "Blue Bay Dc",
+    "location": {
+      "country": "Croatia",
+      "region": "Pag Island, Lika-Senj",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.593752487968615",
+      "lng": "14.876132011413576"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e29d5eb9-b92a-4d36-97a2-75de92dc89db",
+    "name": "Tiha",
+    "location": {
+      "country": "Croatia",
+      "region": "Hvar Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.21355237008378",
+      "lng": "16.542921066284183"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e38b84f8-4fd0-4116-ab54-bffe76317679",
+    "name": "Tatinja",
+    "location": {
+      "country": "Croatia",
+      "region": "Hvar Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.21718664827096",
+      "lng": "16.63493156433106"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e47df9ee-deca-4e36-ac26-09ab2aa346f5",
+    "name": "Blue Hole",
+    "location": {
+      "country": "Croatia",
+      "region": "Cres Island, Primorje-Gorski Kotar",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.05266574719313",
+      "lng": "14.38591003417969"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e4a67152-9004-419c-b956-ae88310f3d9c",
+    "name": "Zamorski Rat",
+    "location": {
+      "country": "Croatia",
+      "region": "Brac Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.28020470342188",
+      "lng": "16.493482589721683"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e6018dbc-b4c1-4e65-8dea-b3426f04fa63",
+    "name": "Peltastis Wreck ",
+    "location": {
+      "country": "Croatia",
+      "region": "Šilo, Krk Island",
+      "ocean": [
+        "Europe",
+        "Croatia",
+        "Primorje-gorski Kotar",
+        "Krk Island",
+        "šilo"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.16247739299235",
+      "lng": "14.644410610198976"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e81ad089-6d68-4f34-b3a1-fdeafc2b155f",
+    "name": "The Lighthouse",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.97859295013471",
+      "lng": "16.60995483398438"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e8dc8c73-a433-48c5-ae22-26b0d81e7575",
+    "name": "Emmental Cave",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.927142782593414",
+      "lng": "16.63510322570801"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e910e2d1-0257-42b4-a50d-44067f88032f",
+    "name": "Seget",
+    "location": {
+      "country": "Croatia",
+      "region": "Vis Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.06299348709243",
+      "lng": "16.037292480468754"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eb796493-1437-4c76-b829-11bdb4bd7e24",
+    "name": "Paržanj",
+    "location": {
+      "country": "Croatia",
+      "region": "Otočić Paržanj, Pakleni Islands",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.173971273892434",
+      "lng": "16.32549631080313"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eeca9ccd-1a09-4e2c-a00c-653f95a6fa72",
+    "name": "Kamenjak Languste",
+    "location": {
+      "country": "Croatia",
+      "region": "Vrbnik, Krk Island",
+      "ocean": [
+        "Europe",
+        "Croatia",
+        "Primorje-gorski Kotar",
+        "Krk Island",
+        "Vrbnik"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.072308323171185",
+      "lng": "14.733567237854006"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f0e565d0-8c6f-40a0-9b43-bdfd18d91909",
+    "name": "Krusija",
+    "location": {
+      "country": "Croatia",
+      "region": "Plavnik Island, Primorje-Gorski Kotar",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.95556641938244",
+      "lng": "14.529032707214357"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f117b8fc-6df2-4aaf-8811-21c79ac2fec5",
+    "name": "Rt Pelova",
+    "location": {
+      "country": "Croatia",
+      "region": "Krk Island, Primorje-Gorski Kotar",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.127253393247315",
+      "lng": "14.479932943359021"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f64ed2e7-b437-4e37-8785-59a16d03224d",
+    "name": "Mel&#039;s Rock",
+    "location": {
+      "country": "Croatia",
+      "region": "Vrbnik, Krk Island",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.07036861602177",
+      "lng": "14.724941253662111"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f85f267b-5127-49c6-aba9-4e2f82e628c4",
+    "name": "Kamina Drift",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.9689218431865",
+      "lng": "16.64711952209473"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f9691891-2993-4102-86f5-a3be445259af",
+    "name": "White Lagune",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.90438797617655",
+      "lng": "16.688919067382816"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fa8a0191-0e6f-4343-9895-e00702054662",
+    "name": "Kamulce",
+    "location": {
+      "country": "Croatia",
+      "region": "Hvar Island, Split-Dalmatia",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.21648274228603",
+      "lng": "16.524896621704105"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fe67f558-d860-469b-b1d6-70fdd7ae7f46",
+    "name": "Cathedral",
+    "location": {
+      "country": "Croatia",
+      "region": "Korcula, Dubrovnik-Neretva",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.9143835253696",
+      "lng": "16.663255691528324"
+    },
+    "additionalInfo": {}
+  }
+]

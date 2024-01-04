@@ -1,0 +1,326 @@
+[
+  {
+    "id": "08d359dc-9835-4ea0-8927-9601df029996",
+    "name": "Christiansminde",
+    "location": {
+      "country": "Denmark",
+      "region": "Fyn Island, Fyn Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea",
+        "Svendborg"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.05585741564857",
+      "lng": "10.61759948730469"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4ea42b54-4b8b-4525-9ed1-3112d54a2816",
+    "name": "Stenrev Ved Sobadet",
+    "location": {
+      "country": "Denmark",
+      "region": "Fyn Island, Fyn Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea",
+        "Little Belt"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.51774716789876",
+      "lng": "9.700369834899904"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4f8de881-6cc8-4832-8548-d042cdc5e4a6",
+    "name": "Thuro Daemningen",
+    "location": {
+      "country": "Denmark",
+      "region": "Fyn Island, Fyn Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea",
+        "Svendborg"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.054874165700994",
+      "lng": "10.63931465148926"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "603df7e1-aef2-4b18-b7f6-b0b5fd4a102d",
+    "name": "Bojd En Nor",
+    "location": {
+      "country": "Denmark",
+      "region": "Fyn Island, Fyn Province",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.10115902751222",
+      "lng": "10.070343017578127"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "75adcc1c-a231-49b6-80d8-1c1fe9afebf2",
+    "name": "Dovns Klint",
+    "location": {
+      "country": "Denmark",
+      "region": "Langeland, Fyn Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea",
+        "Langelandsbaelt"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.718275018302315",
+      "lng": "10.69175720214844"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8a012c77-e3f2-472b-b496-8e2e0376aca7",
+    "name": "Ammoniakhavnen",
+    "location": {
+      "country": "Denmark",
+      "region": "Fyn Island, Fyn Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea",
+        "Little Belt"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.53562537519788",
+      "lng": "9.73843574523926"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8b3bb94f-8ef9-4dd2-840a-ace7c899f968",
+    "name": "Kongebrogaarden",
+    "location": {
+      "country": "Denmark",
+      "region": "Fyn Island, Fyn Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea",
+        "Little Belt"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.513470740565225",
+      "lng": "9.708008766174318"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8e8d5ad4-ac87-4ee0-a2a4-6c6cb2ef1a60",
+    "name": "Lindelse Nor",
+    "location": {
+      "country": "Denmark",
+      "region": "Langeland, Fyn Province",
+      "ocean": [
+        "Europe",
+        "Denmark",
+        "Syddanmark",
+        "Fyn Province",
+        "Langeland"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.886876752158955",
+      "lng": "10.69450378417969"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9023994b-bb86-4eff-af55-9c0c7e18c152",
+    "name": "Svendborgsundbroen",
+    "location": {
+      "country": "Denmark",
+      "region": "Fyn Island, Fyn Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea",
+        "Svendborg"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.04917083980405",
+      "lng": "10.604639053344728"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "912c8906-57ea-4b2e-88a1-b8b2aeb0b163",
+    "name": "Keldsnor Fyr",
+    "location": {
+      "country": "Denmark",
+      "region": "Langeland, Fyn Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea",
+        "Langelandsbaelt"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.7246201949245",
+      "lng": "10.715103149414064"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "921d977f-9436-453f-ae5d-e389a05d4679",
+    "name": "Sobadet",
+    "location": {
+      "country": "Denmark",
+      "region": "Fyn Island, Fyn Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea",
+        "Little Belt"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.51869472242652",
+      "lng": "9.698095321655275"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a95f1c25-71e6-401c-9b33-fbc3d2a61513",
+    "name": "Dykkerklubben",
+    "location": {
+      "country": "Denmark",
+      "region": "Fyn Island, Fyn Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea",
+        "Little Belt"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.50909664104074",
+      "lng": "9.725003242492678"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b14119e8-c94c-470e-a412-2497e9c27103",
+    "name": "Spodsbjerg Nordstrand",
+    "location": {
+      "country": "Denmark",
+      "region": "Langeland, Fyn Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea",
+        "Langelandsbaelt"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.91846063866679",
+      "lng": "10.841445922851562"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b5f690e6-73b2-4412-94cf-94470765ed7f",
+    "name": "Sophie",
+    "location": {
+      "country": "Denmark",
+      "region": "Kegnaes, Sydals",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea",
+        "Flensborg Fjord"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.837872753339774",
+      "lng": "9.935760498046877"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cac0447b-aed5-484f-b11c-d2576ad80701",
+    "name": "Faergelejet",
+    "location": {
+      "country": "Denmark",
+      "region": "Fyn Island, Fyn Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea",
+        "Little Belt"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.4933944809478",
+      "lng": "9.700520038604736"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d6d68990-0def-4d4c-9e91-c9dc6712adc7",
+    "name": "Osterskov Strand",
+    "location": {
+      "country": "Denmark",
+      "region": "Langeland, Fyn Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea",
+        "Langelandsbaelt"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.783266005102874",
+      "lng": "10.75492858886719"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eda1b558-a7d9-423d-bc98-e5531dfbbc5f",
+    "name": "Stenrev Ved Kongebroskoven",
+    "location": {
+      "country": "Denmark",
+      "region": "Fyn Island, Fyn Province",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea",
+        "Little Belt"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.51230436155254",
+      "lng": "9.709811210632324"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f80cf33a-c6c6-4769-bcf3-2ed9df7ce395",
+    "name": "Wreck S103",
+    "location": {
+      "country": "Denmark",
+      "region": "Sydals, Denmark",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea",
+        "Lille Baelt"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.92240688263684",
+      "lng": "10.106048583984377"
+    },
+    "additionalInfo": {}
+  }
+]

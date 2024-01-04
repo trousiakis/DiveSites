@@ -1,0 +1,7559 @@
+[
+  {
+    "id": "02a511e9-a647-4de2-816f-16ab74e08b6a",
+    "name": "Blanquilla Afuera",
+    "location": {
+      "country": "Mexico",
+      "region": "Veracruz, Mexico",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.223091236977464",
+      "lng": "-96.09442949295044"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "02aeffee-ce02-4123-9ef7-6635d420f618",
+    "name": "Acuario",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.79712031925051",
+      "lng": "-84.51421737670898"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "02ec9fbb-c114-4a12-a9aa-71750928f3c3",
+    "name": "Piedra Solitaria",
+    "location": {
+      "country": "Mexico",
+      "region": "Zihuatanejo, Guerrero",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.615964829113157",
+      "lng": "-101.57246589660646"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0463b8df-e110-4ab3-9bdc-2a073d9b4ad6",
+    "name": "La Reinita",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.28577510934835",
+      "lng": "-109.95666503906251"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "046a9808-8d10-49c7-8146-f75c3a7d70b2",
+    "name": "Cabo Pulmo",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Baja",
+        "Baja California Sur"
+      ]
+    },
+    "coordinates": {
+      "lat": "23.03882383966783",
+      "lng": "-109.59943771362306"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "05195515-ef95-471e-87bf-44eb6493bb84",
+    "name": "Grampin",
+    "location": {
+      "country": "Mexico",
+      "region": "Cancun, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.13806688264664",
+      "lng": "-86.73656702041627"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "05cb4745-facd-4367-aba8-37ee8f540087",
+    "name": "Les Canones Silenciosos",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.900525973764616",
+      "lng": "-84.46804046630861"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0607843a-1bff-4368-b5dd-5b1086158782",
+    "name": "Canada Del Diablo Dos",
+    "location": {
+      "country": "Mexico",
+      "region": "Arrecife Anegada De Afuera, Anton Lizardo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.14924258926476",
+      "lng": "-95.83479166030884"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "06a6ed10-beb9-49ef-b586-ee7eca242bfd",
+    "name": "Xaak",
+    "location": {
+      "country": "Mexico",
+      "region": "Akumal, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.41160903875702",
+      "lng": "-87.29815721511842"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "06b1fcf8-05d4-40bf-a66d-d65c97e9cca2",
+    "name": "Punta Sur",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.29214740575514",
+      "lng": "-87.03248977661134"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "07d2e519-cfe2-45b4-afec-de63de583a9a",
+    "name": "San Juan",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.55661679254462",
+      "lng": "-86.93550109863283"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "083dae0f-4ffc-44f4-8528-ac3bc925b303",
+    "name": "Manchoncitos",
+    "location": {
+      "country": "Mexico",
+      "region": "Playa Del Carmen, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.744016626697114",
+      "lng": "-86.95232669294923"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "09ecc372-efe2-42eb-afc4-48cc71675b2c",
+    "name": "La Indra",
+    "location": {
+      "country": "Mexico",
+      "region": "Oaxaca, Mexico",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.705514498159008",
+      "lng": "-96.20040893554689"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0a1f2762-a9a3-4258-89ee-472a63fc7615",
+    "name": "Palancar: Gardens",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.346638841608186",
+      "lng": "-87.05171585083009"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0d142b81-c7c6-405a-adba-7dc7bba015bd",
+    "name": "San Antonio",
+    "location": {
+      "country": "Mexico",
+      "region": "San Carlos Nuevo Guaymas, Sonora",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.937317993319333",
+      "lng": "-111.10615253448488"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0d20e9be-4a04-4580-873a-a38dcf9e116e",
+    "name": "Cerro Colorado",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Baja",
+        "Baja California Sur"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.990476461197535",
+      "lng": "-109.71891403198244"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0d39cf6d-a39e-4cd9-a239-1af97f8ab9fc",
+    "name": "El Ancla",
+    "location": {
+      "country": "Mexico",
+      "region": "Arrecife Anegada De Afuera, Anton Lizardo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.167951072346682",
+      "lng": "-95.87253570556642"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0e31e85b-9b2a-4adb-b428-07555c94bd55",
+    "name": "Manchones",
+    "location": {
+      "country": "Mexico",
+      "region": "Mujeres Island, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.1974961593778",
+      "lng": "-86.71397209167482"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0e50ed8f-3dbc-41b7-ac60-bba025a3af19",
+    "name": "Ahogado 2-A",
+    "location": {
+      "country": "Mexico",
+      "region": "Anton Lizardo, Veracruz",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.21760034029438",
+      "lng": "-96.05662107467653"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0e5583cf-e6d2-4514-ba73-e546ff663ff2",
+    "name": "Mama Vina",
+    "location": {
+      "country": "Mexico",
+      "region": "Playa Del Carmen, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.55050889419565",
+      "lng": "-87.07866668701173"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0e95d28e-11cb-482e-91f6-c42b9f73e172",
+    "name": "El Canon De Juarez",
+    "location": {
+      "country": "Mexico",
+      "region": "Anton Lizardo, Veracruz",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.227731002955434",
+      "lng": "-96.06217861175539"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0ed2d9eb-c114-4ba0-8a1a-159e160b2387",
+    "name": "The Beach",
+    "location": {
+      "country": "Mexico",
+      "region": "San Pedro Nolasco Island, Sonora",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.976438173598034",
+      "lng": "-111.37681961059572"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0f444ea3-e055-4211-a13b-51a64b7598a3",
+    "name": "La Boya Roja",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.867950638727834",
+      "lng": "-83.55600357055665"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0f48f486-50e9-4a6c-bdf1-519e2930eb9c",
+    "name": "Iglesia",
+    "location": {
+      "country": "Mexico",
+      "region": "Cancun, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.118612120192747",
+      "lng": "-86.73583745956422"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0f702990-d879-47cf-b524-2cebb74c5b8e",
+    "name": "Obi",
+    "location": {
+      "country": "Mexico",
+      "region": "Banco Chinchorro, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.475050317494738",
+      "lng": "-87.44087219238283"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0fdbe858-afc4-4e6d-b982-bd17c0fa89ca",
+    "name": "Swanne Reef",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.373368203546107",
+      "lng": "-110.33569335937501"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "10a36b62-82db-4340-aee5-667a83cb265a",
+    "name": "Los Abanicos",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Baja",
+        "Baja California Sur"
+      ]
+    },
+    "coordinates": {
+      "lat": "23.009754290533415",
+      "lng": "-109.70260620117189"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "10ba2be8-1297-4ada-bbae-dda98b2b5971",
+    "name": "Hawaii",
+    "location": {
+      "country": "Mexico",
+      "region": "La Roqueta, Acapulco",
+      "ocean": [
+        "Pacific Ocean",
+        "Acapulco Bay"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.822698766052284",
+      "lng": "-99.89863872528078"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "10e1dbd9-3617-476f-8b01-628e90e4c258",
+    "name": "El Valle De Vinales",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.885872099016712",
+      "lng": "-84.46186065673828"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "12763cb2-6fd6-4f3d-9aa3-1318a3f92ee5",
+    "name": "Mid Wall",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Baja",
+        "Baja California Sur"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.87848825921853",
+      "lng": "-109.8982357978821"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1302c14d-2e0a-4681-8971-b32cf77aae14",
+    "name": "Tortugas",
+    "location": {
+      "country": "Mexico",
+      "region": "Playa Del Carmen, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.576224710301645",
+      "lng": "-87.06974029541016"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1361dbad-f16e-4e9d-a89b-58d49fae3251",
+    "name": "Cabo Mex N",
+    "location": {
+      "country": "Mexico",
+      "region": "Anton Lizardo, Veracruz",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.21995070967118",
+      "lng": "-96.05039834976198"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "13ceff6c-4ff7-4960-84b0-3e1fd3265a07",
+    "name": "La Pequena Gruta",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.9008458668988",
+      "lng": "-83.53025436401369"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "143c83f7-e2a0-4f17-8b6e-16c78f3d8e6b",
+    "name": "Cedral Wall",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.37052208688433",
+      "lng": "-87.05832481384279"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "149cf408-d6c9-400d-9b33-7a848d9ac936",
+    "name": "Colombia Deep",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.30180755258731",
+      "lng": "-87.03549385070801"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "156a13aa-22af-4b65-8ebd-6bc5af524b85",
+    "name": "La Costilla",
+    "location": {
+      "country": "Mexico",
+      "region": "Arrecife Anegadilla, Anton Lizardo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.13620823182068",
+      "lng": "-95.79606056213379"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "15790d9a-8776-4a37-94d8-de6d22fd3e11",
+    "name": "Gonzalo&#039;s Reef",
+    "location": {
+      "country": "Mexico",
+      "region": "Akumal, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.392844917106395",
+      "lng": "-87.30992674827577"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "160f851b-9651-471f-9ec7-0645fba9ff4a",
+    "name": "Scorpion Reef",
+    "location": {
+      "country": "Mexico",
+      "region": "Yucatan Peninsula, Mexico",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.380555501421533",
+      "lng": "-89.67590332031251"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "16e07e51-da82-4aa7-a2bb-cb5d5b46527d",
+    "name": "Godornia",
+    "location": {
+      "country": "Mexico",
+      "region": "Zihuatanejo, Guerrero",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.627049171326707",
+      "lng": "-101.56637191772462"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1778e338-4fb9-498d-9c4e-49e0300fb9bc",
+    "name": "Punta Molas",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.60016866852793",
+      "lng": "-86.7283058166504"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "189a1f20-4eb4-4dee-9d60-01f0aaa83009",
+    "name": "Picacho",
+    "location": {
+      "country": "Mexico",
+      "region": "Arrecife Anegadilla, Anton Lizardo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.13458646683876",
+      "lng": "-95.79121112823486"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1901db95-5cc1-46b3-92f0-fe2247204d29",
+    "name": "Duendes",
+    "location": {
+      "country": "Mexico",
+      "region": "Arrecife Santiaguillo, Anton Lizardo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.14216808129291",
+      "lng": "-95.81071615219116"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "19c2ad98-588e-4cea-9956-8b8458063a42",
+    "name": "North Point",
+    "location": {
+      "country": "Mexico",
+      "region": "San Pedro Nolasco Island, Sonora",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.985609651863083",
+      "lng": "-111.39192581176758"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1a3d2cdb-9cb5-4c14-a795-e170dac7f4fb",
+    "name": "40 Cañones",
+    "location": {
+      "country": "Mexico",
+      "region": "Mahahual, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.71352863773316",
+      "lng": "-87.70334243774415"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1ad4445b-b41e-43ec-bc57-56799786528d",
+    "name": "La Paz Baja California Sur",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "23.47623678837491",
+      "lng": "-109.452899673778"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1b53e476-512d-4f31-8de3-237a48d36d75",
+    "name": "Morros De Potosi",
+    "location": {
+      "country": "Mexico",
+      "region": "Tecpan De Galeana, Guerrero",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.312621152161245",
+      "lng": "-101.06924057006837"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1bf8c44b-f631-4abc-9e44-ccb52c941d11",
+    "name": "El Islote",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "23.407904539407927",
+      "lng": "-109.41329240798952"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1d8602fd-00c5-42f9-878d-b08e404d6d91",
+    "name": "El Jardin",
+    "location": {
+      "country": "Mexico",
+      "region": "La Roqueta, Acapulco",
+      "ocean": [
+        "Pacific Ocean",
+        "Acapulco Bay"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.823623036315112",
+      "lng": "-99.91456031799318"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1de933ad-4e46-4658-9723-718f6d5b1c0c",
+    "name": "La Poza Azul Uno",
+    "location": {
+      "country": "Mexico",
+      "region": "Arrecife Santiaguillo, Anton Lizardo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.14314109750972",
+      "lng": "-95.80661773681642"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1e581992-f95a-44fb-bf71-21f3ed21d027",
+    "name": "El Cantil",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "23.44686867803958",
+      "lng": "-109.40151214599611"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1eb5d75b-1c0c-45c1-9a56-d82c6c52056a",
+    "name": "Arrecife De Enmedio",
+    "location": {
+      "country": "Mexico",
+      "region": "Tamiahua, Veracruz",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Veracruz",
+        "Tamiahua"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.08257804548434",
+      "lng": "-97.25509643554688"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1f13fe52-4027-4ab7-a8a9-08da358a3e8d",
+    "name": "Barracuda Pinnacles",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.563399491441533",
+      "lng": "-86.90897941720324"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "20040ec4-37bf-4b06-8ca8-c0039b8e342c",
+    "name": "Pared Sara",
+    "location": {
+      "country": "Mexico",
+      "region": "Cancun, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.121854757860827",
+      "lng": "-86.73571944236755"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "20ea3733-2ad9-47ac-90bb-3db93d974d3e",
+    "name": "Middle Ground",
+    "location": {
+      "country": "Mexico",
+      "region": "Central Coronado, Baja California",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.420882258009875",
+      "lng": "-117.26525176316501"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2124554e-d201-4308-bb13-b013559f380e",
+    "name": "El Pargo",
+    "location": {
+      "country": "Mexico",
+      "region": "Oaxaca, Mexico",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.683204187311059",
+      "lng": "-96.22547149658205"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "21a55ea2-08a1-44b1-b48b-a8aaa57ebda7",
+    "name": "Yellow House",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.38244623662905",
+      "lng": "-87.05102920532228"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "21c576eb-82c3-4db1-bd78-0f9cfc01bac5",
+    "name": "Cabeza De Marcel",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.813536379485875",
+      "lng": "-84.50709342956544"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "21e6ed2f-59eb-458f-8362-840a97390011",
+    "name": "Sea Lions Colony",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Baja",
+        "Baja California Sur"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.875226231433626",
+      "lng": "-109.8949956893921"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "22b5ca5e-7834-4df9-b222-cf427339ba98",
+    "name": "Dick&#039;s Reef",
+    "location": {
+      "country": "Mexico",
+      "region": "Akumal, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.39962278957019",
+      "lng": "-87.30608582496644"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "23270790-8ec3-4509-a02c-9bf18d214116",
+    "name": "Barco C-56",
+    "location": {
+      "country": "Mexico",
+      "region": "Cancun, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.973141134135233",
+      "lng": "-86.78898811340333"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "241e219a-69ba-4acb-88fd-b31846346967",
+    "name": "Maravilla",
+    "location": {
+      "country": "Mexico",
+      "region": "Quintana Roo, Yucatan Peninsula",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Yucatan Peninsula",
+        "Quintana Roo"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.854444144134995",
+      "lng": "-86.97540430682757"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "244d40b4-032e-4b86-924a-7e03e01b89c6",
+    "name": "El Morro",
+    "location": {
+      "country": "Mexico",
+      "region": "Marietas Islands, Puerto Vallarta",
+      "ocean": [
+        "Pacific Ocean",
+        "Bay Of Banderas"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.67454769222922",
+      "lng": "-105.60367584228517"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2611858c-ea79-4028-a4ac-748718cc098b",
+    "name": "Gato Reef",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.61753773057768",
+      "lng": "-86.80134773254395"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "27b5c114-da75-4abb-97b6-c8e527baaab6",
+    "name": "La Francesa",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.365871261676485",
+      "lng": "-87.05497741699219"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2812326b-4299-478d-89f8-7bbb232716ad",
+    "name": "Sabalos",
+    "location": {
+      "country": "Mexico",
+      "region": "Playa Del Carmen, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.599284897965415",
+      "lng": "-87.08231449127199"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "28890595-a6df-46e2-80d1-cc3307035fd3",
+    "name": "Aktun Ha Cenote (Car Wash)",
+    "location": {
+      "country": "Mexico",
+      "region": "Cenotes, Quintana Roo",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Yucatan Peninsula",
+        "Quintana Roo",
+        "Cenotes"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.274214161802966",
+      "lng": "-87.48634636402132"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "29e02f60-3f3d-422f-8527-52c6aacef9ed",
+    "name": "La Palapa",
+    "location": {
+      "country": "Mexico",
+      "region": "San Carlos Nuevo Guaymas, Sonora",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.981365097723554",
+      "lng": "-111.1490249633789"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2b1c1a46-5735-43ca-9252-202ca23450fe",
+    "name": "La Chimenea",
+    "location": {
+      "country": "Mexico",
+      "region": "Quintana Roo, Yucatan Peninsula",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.20962165131137",
+      "lng": "-87.82333374023439"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2b65a310-bd8e-46f0-a1ad-53daf8164ec9",
+    "name": "Aquario",
+    "location": {
+      "country": "Mexico",
+      "region": "Mahahual, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.720275839599047",
+      "lng": "-87.70141124725343"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2b67f93b-248f-44a3-9d54-fd1d3220de23",
+    "name": "Tapescos",
+    "location": {
+      "country": "Mexico",
+      "region": "Oaxaca, Mexico",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.755249429439134",
+      "lng": "-96.09878540039064"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2ccc4d1f-afca-4e41-b954-3c9eb33d944c",
+    "name": "El Cabezo",
+    "location": {
+      "country": "Mexico",
+      "region": "Playa Del Carmen, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.828089984765047",
+      "lng": "-86.88125610351562"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2dabdced-8a0a-414e-9ab6-d7d47340f676",
+    "name": "Canadas 3",
+    "location": {
+      "country": "Mexico",
+      "region": "Arrecife Anegada De Afuera, Anton Lizardo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.168619917054677",
+      "lng": "-95.85826635360719"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2df5dc56-c041-4468-8fb3-b0c12cabdbe0",
+    "name": "Albertos",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Carribean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.372066213999062",
+      "lng": "-87.0347213757769"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2ea6e0ff-2156-4665-b8e4-f3ba6b34ef5a",
+    "name": "Chinchorrito",
+    "location": {
+      "country": "Mexico",
+      "region": "Mahahual, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.720966802906243",
+      "lng": "-87.69849300384521"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2f36e7d2-2745-4d46-9a8d-47c383d535e6",
+    "name": "Muelle De Pescadores",
+    "location": {
+      "country": "Mexico",
+      "region": "Mahahual, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.71222794136617",
+      "lng": "-87.70600318908693"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2fdd4b51-3f4f-4d10-b984-fae47e8fc322",
+    "name": "Jardines",
+    "location": {
+      "country": "Mexico",
+      "region": "Oaxaca, Mexico",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.718899512445054",
+      "lng": "-96.1652183532715"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3145e048-8723-4f02-9e7b-f9d484a27473",
+    "name": "La Corbetena",
+    "location": {
+      "country": "Mexico",
+      "region": "Puerto Vallarta, Jalisco",
+      "ocean": [
+        "Pacific Ocean",
+        "Bay Of Banderas"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.760287339935758",
+      "lng": "-105.58736801147462"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "316f4e02-e891-4c0d-a0a6-2d768a42ed05",
+    "name": "Inicio De Catedrales",
+    "location": {
+      "country": "Mexico",
+      "region": "Isla Verde, Veracruz",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.20615194003129",
+      "lng": "-96.07402324676515"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3264b1be-4605-4aef-9fca-edfac0c206c2",
+    "name": "Shangri-La",
+    "location": {
+      "country": "Mexico",
+      "region": "Playa Del Carmen, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.638888853892375",
+      "lng": "-87.04493522644043"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "327c59c2-36f9-4f77-896e-d0678966be74",
+    "name": "Escollera",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Baja",
+        "Baja California Sur"
+      ]
+    },
+    "coordinates": {
+      "lat": "23.04924943278492",
+      "lng": "-109.66432571411134"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "32944853-3086-454f-a0a7-18e1611ab8f4",
+    "name": "Ciudad Undida",
+    "location": {
+      "country": "Mexico",
+      "region": "Quintana Roo, Yucatan Peninsula",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.295861383561334",
+      "lng": "-87.80445098876955"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "32e42c43-72ee-4af6-b5e3-3ff6f14d8c56",
+    "name": "Chun-Zumbul",
+    "location": {
+      "country": "Mexico",
+      "region": "Playa Del Carmen, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.652382371230658",
+      "lng": "-87.03111648559572"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "32f09e00-602a-42ef-b382-9c3375cade86",
+    "name": "Blanquilla Centro",
+    "location": {
+      "country": "Mexico",
+      "region": "Veracruz, Mexico",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.224732391884878",
+      "lng": "-96.10090970993043"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "33575911-2c91-48b1-ab0d-d22430e6de76",
+    "name": "Sargazos",
+    "location": {
+      "country": "Mexico",
+      "region": "Arrecife De Enmedio, Anton Lizardo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.096916497053385",
+      "lng": "-95.94555616378786"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "34d482bc-f79d-4258-a38a-41a7547d9d95",
+    "name": "Motorcycle Reef",
+    "location": {
+      "country": "Mexico",
+      "region": "Akumal, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.394132132434944",
+      "lng": "-87.3076844215393"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "366fb009-72c4-49a8-8a0f-b9c6cd931dbe",
+    "name": "La Cueva Misteriosa",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.82748058303365",
+      "lng": "-84.49773788452148"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3791e358-4ef8-44a7-aa67-d5cd94215adc",
+    "name": "Herradura",
+    "location": {
+      "country": "Mexico",
+      "region": "Mahahual, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.718690677812923",
+      "lng": "-87.70235538482666"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "37a5c507-fbf0-45a7-bc44-cbd2dcb6e13f",
+    "name": "Port Wall",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.523044445301657",
+      "lng": "-86.94674062833656"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "37cfa76e-9772-492a-80f9-c39d66f4b49b",
+    "name": "Los Sabalos",
+    "location": {
+      "country": "Mexico",
+      "region": "Arrecife De Enmedio, Anton Lizardo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.10703430179437",
+      "lng": "-95.92959165573122"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "38ae3fc1-28be-40e1-b00b-063d5aa0d52b",
+    "name": "Punta La Manga",
+    "location": {
+      "country": "Mexico",
+      "region": "San Carlos Nuevo Guaymas, Sonora",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.972648078816412",
+      "lng": "-111.13297462463379"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3afa4f9f-9b18-4a4e-bf21-ccc2c911c5f0",
+    "name": "La Grieta",
+    "location": {
+      "country": "Mexico",
+      "region": "Oaxaca, Mexico",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.71361171068266",
+      "lng": "-96.15886688232423"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3b7f370c-290e-49b1-8056-0ad94a4e3abb",
+    "name": "La Cadena Misteriosa",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.92804166565176",
+      "lng": "-83.43360900878908"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3c0b52c1-7c64-4cc1-b46e-82437c7c6f5f",
+    "name": "Los Altones",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.549062250935677",
+      "lng": "-86.73019409179688"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3c9e913d-b743-47dd-b4f3-ac5ad31930b7",
+    "name": "El Bajo",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "23.45553019016264",
+      "lng": "-109.40700531005861"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3ce530ee-ed73-42be-b70a-5e6f73b3772b",
+    "name": "Morros Maguay",
+    "location": {
+      "country": "Mexico",
+      "region": "Oaxaca, Mexico",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.730631332119845",
+      "lng": "-96.14358901977539"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3d2fafd2-8d08-41c2-bb91-3847d51ee094",
+    "name": "Santa Julia",
+    "location": {
+      "country": "Mexico",
+      "region": "Quintana Roo, Yucatan Peninsula",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.342794291969103",
+      "lng": "-87.78865814208986"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3d3f141d-cb06-4983-b36f-e55ff0c208b5",
+    "name": "Tormentos",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.427093247680578",
+      "lng": "-87.02219009399414"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3dc6abb1-1dff-42f8-b777-dfdd9ade6eba",
+    "name": "Colombia Shallows",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.317262534219317",
+      "lng": "-87.01892852783205"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3e1a2d1c-0055-4aaa-84e6-061a38cd2d03",
+    "name": "Arrecife Tuxpam",
+    "location": {
+      "country": "Mexico",
+      "region": "Tamiahua, Veracruz",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Veracruz",
+        "Tamiahua"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.02819009337169",
+      "lng": "-97.19673156738283"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3fbb727e-83b4-4065-8ade-5acbcbdff3f8",
+    "name": "Morro Tejon",
+    "location": {
+      "country": "Mexico",
+      "region": "Oaxaca, Mexico",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.757066754642334",
+      "lng": "-96.11251831054689"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "41eaa189-19c6-4ec1-826d-303b60f177e2",
+    "name": "Bahia",
+    "location": {
+      "country": "Mexico",
+      "region": "Mahahual, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.727571456706197",
+      "lng": "-87.69362211227417"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4258df74-bfc4-4fb2-ab40-aa757580cfed",
+    "name": "Aristos",
+    "location": {
+      "country": "Mexico",
+      "region": "Cancun, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.115249309963783",
+      "lng": "-86.73669576644899"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "42cc42ad-5c39-4684-9273-591b16c2d8f7",
+    "name": "Eric Wreck",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California, Baja",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.822550170471352",
+      "lng": "-114.32991027832031"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "42f9e502-ce6f-4295-8dda-753307353ed5",
+    "name": "Los Chuchos",
+    "location": {
+      "country": "Mexico",
+      "region": "Cancun, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.140208351734746",
+      "lng": "-86.73435688018799"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "43018654-b87f-4eef-a564-79d51d13564e",
+    "name": "Nicte-Ha",
+    "location": {
+      "country": "Mexico",
+      "region": "Playa Del Carmen, Quintana Roo",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Yucatan Peninsula",
+        "Quintana Roo",
+        "Playa Del Carmen"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.68622671364221",
+      "lng": "-87.04062387432973"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4313556a-bb36-46eb-973b-241d24dae673",
+    "name": "La Posa De Los Negritos",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.922742833458923",
+      "lng": "-84.4928026199341"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4344d6b8-6bcf-4144-b69c-20d82bb87279",
+    "name": "Escalones",
+    "location": {
+      "country": "Mexico",
+      "region": "Mahahual, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.71804035072996",
+      "lng": "-87.70096063613892"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4475deff-2409-4d21-926a-9f093bd5b5dd",
+    "name": "Little Brother Cenote",
+    "location": {
+      "country": "Mexico",
+      "region": "Cenotes, Quintana Roo",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Yucatan Peninsula",
+        "Quintana Roo",
+        "Cenotes"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.512409390037725",
+      "lng": "-87.24710941314699"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "44f8907e-0b74-4e3a-8425-b3c21d4ed7d9",
+    "name": "El Rielero",
+    "location": {
+      "country": "Mexico",
+      "region": "Arrecife Anegada De Afuera, Anton Lizardo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.143749229732517",
+      "lng": "-95.83670139312746"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "45e63e42-078d-4b0c-9e3d-25878fc50bb4",
+    "name": "Blanquizar",
+    "location": {
+      "country": "Mexico",
+      "region": "Quintana Roo, Yucatan Peninsula",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.310203344724197",
+      "lng": "-87.8020477294922"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4612408a-d339-470e-9420-f37036f4574f",
+    "name": "Lobos Rock",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.249468818656023",
+      "lng": "-110.35629272460939"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "46151587-ca1d-4855-aaf0-66cf52ec371e",
+    "name": "Punta Tam",
+    "location": {
+      "country": "Mexico",
+      "region": "Mahahual, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.705399121363435",
+      "lng": "-87.7063035964966"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "47435385-20c9-463f-b963-2c38b11e9434",
+    "name": "El Bajo Sea Mounts",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.824132181788887",
+      "lng": "-110.07339477539064"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "47e46894-251b-4c09-b601-7544ce55bafb",
+    "name": "Los Islotes",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.612063338963782",
+      "lng": "-110.38925170898439"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "47fde678-577f-4070-8a94-48fc4a0e5e4c",
+    "name": "El Placer",
+    "location": {
+      "country": "Mexico",
+      "region": "Mujeres Island, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.240422445130005",
+      "lng": "-86.73154592514038"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "48531787-b969-4e9e-973a-d918559046c1",
+    "name": "Barco C-55",
+    "location": {
+      "country": "Mexico",
+      "region": "Cancun, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.122855557639657",
+      "lng": "-86.72420740127563"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4979a9ef-42e8-4ddc-a58c-cbdb3b3b23d3",
+    "name": "Cabo Mex S",
+    "location": {
+      "country": "Mexico",
+      "region": "Anton Lizardo, Veracruz",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.21982913966565",
+      "lng": "-96.0479736328125"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "497bd139-5f47-4f95-9810-a6591720d8da",
+    "name": "Santo Remedio",
+    "location": {
+      "country": "Mexico",
+      "region": "Cancun, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.15623836610943",
+      "lng": "-86.73585891723634"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4a2f8b91-4be5-45c9-a597-f643359ad920",
+    "name": "La Pared",
+    "location": {
+      "country": "Mexico",
+      "region": "Playa Del Carmen, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.830095515886985",
+      "lng": "-86.87464714050293"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4a709123-5ece-4597-8fdf-47ddda311299",
+    "name": "Los Cuernos Del Alce",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.88218512930507",
+      "lng": "-83.60389709472658"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4b8c7e40-39c5-41c3-a35b-2d453485fc0d",
+    "name": "El Ahogado De La I.",
+    "location": {
+      "country": "Mexico",
+      "region": "Arrecife De Enmedio, Anton Lizardo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.11794218348456",
+      "lng": "-95.94375371932985"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4ba8708b-7451-42b5-9305-180c7ba46aff",
+    "name": "Inna",
+    "location": {
+      "country": "Mexico",
+      "region": "Playa Del Carmen, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.56047428675447",
+      "lng": "-87.12930679321289"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4d4d8399-31f9-44ba-8bb4-def028077377",
+    "name": "Cabo Pearce",
+    "location": {
+      "country": "Mexico",
+      "region": "Socorro Island, Mexico",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.777616176328035",
+      "lng": "-110.90681076049806"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4d518cea-fc50-47d7-96db-5a37a34c52f6",
+    "name": "Poza De Duendes",
+    "location": {
+      "country": "Mexico",
+      "region": "Arrecife Santiaguillo, Anton Lizardo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.143870855908183",
+      "lng": "-95.81095218658449"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4db21818-4f12-4d8f-be4a-ff74845d414c",
+    "name": "La Espada Del Prata",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.946063780159978",
+      "lng": "-83.4675979614258"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4db2734c-fd68-4c82-9dc8-5d438de256b7",
+    "name": "La Pozeta",
+    "location": {
+      "country": "Mexico",
+      "region": "Quintana Roo, Yucatan Peninsula",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.238970787725428",
+      "lng": "-87.82041549682619"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4efe0d21-04a1-4bb9-9a01-0cd780ba40d4",
+    "name": "Piedras Pintas",
+    "location": {
+      "country": "Mexico",
+      "region": "San Carlos Nuevo Guaymas, Sonora",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.94073020112261",
+      "lng": "-111.09134674072267"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4f7031eb-99dd-400a-bccd-29434cd1b3da",
+    "name": "Cuevas De Afuera",
+    "location": {
+      "country": "Mexico",
+      "region": "Cancun, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.13350364903112",
+      "lng": "-86.72216892242432"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "51717a2c-a7a7-4609-9442-f36a4950dcee",
+    "name": "El Borre",
+    "location": {
+      "country": "Mexico",
+      "region": "Arrecife El Rizo, Anton Lizardo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.059765265980026",
+      "lng": "-95.9196138381958"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5288782c-47b6-4e7d-b390-3b62116dd2ee",
+    "name": "Punta Piedra",
+    "location": {
+      "country": "Mexico",
+      "region": "Playa Del Carmen, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.603160531005862",
+      "lng": "-87.04652301035823"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "54ffdcd3-c559-4b96-9532-43e482d0fa38",
+    "name": "La Piedra De Carton",
+    "location": {
+      "country": "Mexico",
+      "region": "Arrecife De Cabezo, Anton Lizardo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.07100074183575",
+      "lng": "-95.86541175842287"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "55bbb6f2-87c4-435f-877d-674380582f9f",
+    "name": "Playa Manzanillo",
+    "location": {
+      "country": "Mexico",
+      "region": "Zihuatanejo, Guerrero",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.620116424516418",
+      "lng": "-101.52429342269899"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5673a14d-16e2-4f46-991d-cad9b3d10e43",
+    "name": "El Salinar Shipwreck",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Baja",
+        "Baja California Sur"
+      ]
+    },
+    "coordinates": {
+      "lat": "23.059832163883666",
+      "lng": "-109.62862014770509"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "56804d86-804e-446b-94e9-d4578af63922",
+    "name": "Neptune&#039;s Finger",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Baja",
+        "Baja California Sur"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.877974247920235",
+      "lng": "-109.89555358886719"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "569479f3-9932-4319-ad82-87dffbe87b03",
+    "name": "Maracaibo",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.258171107916635",
+      "lng": "-87.02098846435548"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5709efc3-5a5e-401a-815a-612ba48466c5",
+    "name": "The Boulders",
+    "location": {
+      "country": "Mexico",
+      "region": "San Pedro Nolasco Island, Sonora",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.981061908891906",
+      "lng": "-111.37853622436525"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "57a0cc31-9039-45b2-8c7c-f801bbaec646",
+    "name": "Los Anegados",
+    "location": {
+      "country": "Mexico",
+      "region": "Marietas Islands, Puerto Vallarta",
+      "ocean": [
+        "Pacific Ocean",
+        "Bay Of Banderas"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.673262834398354",
+      "lng": "-105.56385040283205"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "588df0ff-95e5-4c46-81eb-de0428957cb8",
+    "name": "G Spot",
+    "location": {
+      "country": "Mexico",
+      "region": "Quintana Roo, Yucatan Peninsula",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.25657789240475",
+      "lng": "-87.80496597290039"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "58dcd370-edc7-478d-ba46-a1154f3272da",
+    "name": "Yelapa",
+    "location": {
+      "country": "Mexico",
+      "region": "Puerto Vallarta, Jalisco",
+      "ocean": [
+        "Pacific Ocean",
+        "Bay Of Banderas"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.52028728064545",
+      "lng": "-105.52436828613283"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5a3d85e3-3fed-4197-b20b-e9fc106dc104",
+    "name": "Punta Sur",
+    "location": {
+      "country": "Mexico",
+      "region": "Mujeres Island, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.20281761630726",
+      "lng": "-86.70536756515503"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5ad560fa-dcc4-4db1-b7bf-f1e59267b3b9",
+    "name": "La Cadena Misteriosa",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.782934053115063",
+      "lng": "-84.51988220214845"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5b293dd4-9252-4d8e-810e-e3624f5cb4e8",
+    "name": "La Gorgonia",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.80508951554803",
+      "lng": "-84.51550483703613"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5c728821-3183-4847-9999-b790c0d3b75a",
+    "name": "Maroma Shallow",
+    "location": {
+      "country": "Mexico",
+      "region": "Playa Del Carmen, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.72485509021826",
+      "lng": "-86.95943576278214"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5c909548-a12d-4c66-9df5-e90f26b97c96",
+    "name": "Chun-Chacaab",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.272986332988438",
+      "lng": "-87.02133178710939"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5c9b6409-ed39-4704-994b-160ebb5ddc4b",
+    "name": "Garrafon",
+    "location": {
+      "country": "Mexico",
+      "region": "Playa Del Carmen, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.733318301732783",
+      "lng": "-86.9425392150879"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5d0602c3-afb0-4745-98de-fbdcf4ac640a",
+    "name": "Chileno Bay",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Baja",
+        "Baja California Sur"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.946063780159978",
+      "lng": "-109.79598999023439"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5d57e12b-db50-4968-a48f-98987570942a",
+    "name": "Jardin Sin Nombre",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.752325193443006",
+      "lng": "-84.52872276306154"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5dfcc2b4-5543-41c0-9b92-f7d5d972d1f2",
+    "name": "Colombia Reef",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.311467096919053",
+      "lng": "-87.02905654907228"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5fedc9e5-08a3-4249-ab4a-ff9559a9d1aa",
+    "name": "Musa",
+    "location": {
+      "country": "Mexico",
+      "region": "Mujeres Island, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.20361781881226",
+      "lng": "-86.72842383384705"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "60da9a59-7867-4f8f-826c-e6d6e6fead3d",
+    "name": "Punta Venado",
+    "location": {
+      "country": "Mexico",
+      "region": "Playa Del Carmen, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.546651148408912",
+      "lng": "-87.11986541748048"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "61ca3fa1-efc7-49db-8aaf-27639c03f906",
+    "name": "La Montosa",
+    "location": {
+      "country": "Mexico",
+      "region": "Oaxaca, Mexico",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.763344662010184",
+      "lng": "-96.08934402465822"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "622d011d-3d86-4735-bec8-18a597cde3f0",
+    "name": "La Herradura",
+    "location": {
+      "country": "Mexico",
+      "region": "Cancun, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.124336728918383",
+      "lng": "-86.73426032066347"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "625abd6f-1a9d-4a76-b86b-005841290ff5",
+    "name": "Canones",
+    "location": {
+      "country": "Mexico",
+      "region": "Quintana Roo, Yucatan Peninsula",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.27173813584187",
+      "lng": "-87.80805587768555"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "628e36fb-4c11-43c7-b651-24b997955601",
+    "name": "El Pango",
+    "location": {
+      "country": "Mexico",
+      "region": "Zihuatanejo, Guerrero",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.616660176875172",
+      "lng": "-101.5578317642212"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "633b89e3-11c5-41a0-8af4-f8a9c891b570",
+    "name": "Pared Verde",
+    "location": {
+      "country": "Mexico",
+      "region": "Playa Del Carmen, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.691249854405342",
+      "lng": "-86.94339752197266"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "63fe6385-62e6-42e1-adfe-95e18bebdd37",
+    "name": "El Salon De Maria",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.80381447393543",
+      "lng": "-84.51747894287111"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "64720474-54cd-4177-b1c5-42073d4deb17",
+    "name": "Las Estacas",
+    "location": {
+      "country": "Mexico",
+      "region": "Cuauhtémoc, Morelos",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Morelos",
+        "Cuauhtémoc"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.71153694235311",
+      "lng": "-99.11180734634401"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "64b39768-4247-44b3-9657-668f28858aee",
+    "name": "La Reina",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.48839832630932",
+      "lng": "-109.95666503906251"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "64fcf31f-3748-4a5c-a35d-3e89d21ac709",
+    "name": "Laberinto",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.816245645376505",
+      "lng": "-84.50207233428956"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "655044b8-92ad-4910-8fff-46cb60f8643c",
+    "name": "Barracuda",
+    "location": {
+      "country": "Mexico",
+      "region": "Playa Del Carmen, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.59108969055782",
+      "lng": "-87.09132671356201"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6618fce9-1f93-4842-92d3-3292d937f149",
+    "name": "San Clemente",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.41285587687944",
+      "lng": "-87.02888488769531"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "66a78693-cb8b-4d9b-a01a-a57698dc6079",
+    "name": "Moc-Che",
+    "location": {
+      "country": "Mexico",
+      "region": "Playa Del Carmen, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.671335527266805",
+      "lng": "-87.00965881347656"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "66ff3a2c-a432-47ff-91d7-db4ffda23fd9",
+    "name": "The Little Waterfall",
+    "location": {
+      "country": "Mexico",
+      "region": "San Pedro Nolasco Island, Sonora",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.971056199299756",
+      "lng": "-111.3713264465332"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "684c10a6-dcd5-4a27-9aa2-317c0e21a1b3",
+    "name": "Cabo Pulmo",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "23.685402974297688",
+      "lng": "-109.69093322753908"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "68848593-a168-4170-b4bd-ad35bc616061",
+    "name": "La Palmita",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.91613387888541",
+      "lng": "-84.48314666748047"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "68e98a27-595b-4b5a-8cf4-72843384652a",
+    "name": "Villa Blanca Wall",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.497295567592005",
+      "lng": "-86.98116302490236"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "697e7ea2-b16c-47e7-9a55-d583e3a09fcf",
+    "name": "North Yalku",
+    "location": {
+      "country": "Mexico",
+      "region": "Akumal, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.407064027218624",
+      "lng": "-87.30060338974"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6b304e01-765c-4e83-ac17-df7ca1392019",
+    "name": "Palancar Point",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.353640041645736",
+      "lng": "-87.03420639038087"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6b6a7655-3837-49d1-8c08-4499df62ff54",
+    "name": "Punta Dalila",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Carribean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.353215937642553",
+      "lng": "-87.03824043273926"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6d3b0f81-e497-4d69-ae46-13d4d6eabda9",
+    "name": "Boca Chica",
+    "location": {
+      "country": "Mexico",
+      "region": "Acapulco, Guerrero",
+      "ocean": [
+        "Pacific Ocean",
+        "Acapulco Bay"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.828778327739098",
+      "lng": "-99.90644931793214"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6db584f4-0dda-4d19-ba8a-b38df6c0b760",
+    "name": "Cabeza De Rosario",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.90833014006328",
+      "lng": "-84.47052955627441"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6def383d-a6a3-4b94-b054-9fbf6d6870f7",
+    "name": "El Camaronero",
+    "location": {
+      "country": "Mexico",
+      "region": "Arrecife Anegada De Afuera, Anton Lizardo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.169491437904735",
+      "lng": "-95.8715057373047"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6eb32000-1993-4b72-a32e-a3df9157106c",
+    "name": "El Rodeo",
+    "location": {
+      "country": "Mexico",
+      "region": "Isla Verde, Veracruz",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.207570369163978",
+      "lng": "-96.07543945312501"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6f7b7f0b-0871-4f3b-a4e6-3a4dbaeb9bec",
+    "name": "El Cien ",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "23.419226783656917",
+      "lng": "-109.3931007385254"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6faa7b66-b9af-45bf-8fd2-e5e8006cd618",
+    "name": "Los Arcos",
+    "location": {
+      "country": "Mexico",
+      "region": "Playa Del Carmen, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.70281181271254",
+      "lng": "-86.92073822021486"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6fba50fe-282a-4597-bdd7-8dd75197e734",
+    "name": "Roca Partida",
+    "location": {
+      "country": "Mexico",
+      "region": "Archipiélago Revillagigedo, Mexico",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.755511365991328",
+      "lng": "-112.73620605468751"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "70896487-d2d1-4eb6-a075-4823657f94d7",
+    "name": "Isla Lobos",
+    "location": {
+      "country": "Mexico",
+      "region": "Tamiahua, Veracruz",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Veracruz",
+        "Tamiahua"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.468405577312012",
+      "lng": "-97.22625732421876"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "70adde6c-3fe0-4aef-a1dd-cc1943fed088",
+    "name": "Salvatierra Wreck",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.38337498555551",
+      "lng": "-110.28762817382814"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "70cf36a8-fe23-41c5-9921-507844923dc1",
+    "name": "Kaan Luum Lagoon",
+    "location": {
+      "country": "Mexico",
+      "region": "Cenotes, Quintana Roo",
+      "ocean": [
+        "Tulum"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.164831569527294",
+      "lng": "-87.55293362773956"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7114d944-3a7b-4f67-ab8f-36d440aefe75",
+    "name": "Las Iglesias",
+    "location": {
+      "country": "Mexico",
+      "region": "Puerto Vallarta, Jalisco",
+      "ocean": [
+        "Pacific Ocean",
+        "Bay Of Banderas"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.421864987708666",
+      "lng": "-105.82374572753906"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "718312ff-f816-41bb-a61f-7bc236b1ca44",
+    "name": "Rio Bermejo",
+    "location": {
+      "country": "Mexico",
+      "region": "Mahahual, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.70332603218756",
+      "lng": "-87.70647525787355"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "72808c01-82ad-4166-b32c-d3d40da5be04",
+    "name": "Las Palmas",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.460469486630778",
+      "lng": "-86.99935913085939"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "72fbe2ce-a775-4867-bce5-5deb240b91b3",
+    "name": "Roca Doble Pinaclulo",
+    "location": {
+      "country": "Mexico",
+      "region": "Socorro Island, Mexico",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.798255550725838",
+      "lng": "-111.05692863464355"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "72fd0c34-4c95-40b1-8d91-5705a0b6f232",
+    "name": "Manchones I &amp; Ii",
+    "location": {
+      "country": "Mexico",
+      "region": "Mujeres Island, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.20513819162714",
+      "lng": "-86.7225766181946"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "73091ba8-3a8c-4879-8706-413ce3222997",
+    "name": "Half Moon Bay",
+    "location": {
+      "country": "Mexico",
+      "region": "Akumal, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.404007129851713",
+      "lng": "-87.3068690299988"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "732a6ff4-ad37-4319-b9b5-97d24b8d6b21",
+    "name": "Cueva Del Pargo",
+    "location": {
+      "country": "Mexico",
+      "region": "Playa Del Carmen, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.660895521930055",
+      "lng": "-87.01970100402833"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "737498ff-7c18-41f0-b314-f3f0da9ab64a",
+    "name": "Cabo Del Diablo",
+    "location": {
+      "country": "Mexico",
+      "region": "Arrecife Anegada De Afuera, Anton Lizardo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.15828292300668",
+      "lng": "-95.84622859954835"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "73be1ceb-9fc8-4c84-ae2e-ef8a3eea0a6d",
+    "name": "Luro",
+    "location": {
+      "country": "Mexico",
+      "region": "Isla Verde, Veracruz",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.20165341244162",
+      "lng": "-96.07108354568481"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "744ee1bb-abb4-4402-b328-8d2fa8345d1b",
+    "name": "La Poza Azul Dos",
+    "location": {
+      "country": "Mexico",
+      "region": "Arrecife Santiaguillo, Anton Lizardo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.142654590118287",
+      "lng": "-95.80655336380005"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "74c5ac73-6d6f-4d3e-b58e-ee6ed0df903f",
+    "name": "North Wall",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Baja",
+        "Baja California Sur"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.879219733480454",
+      "lng": "-109.90081071853639"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "74c6006e-afb6-4789-a0a1-c51f74f098c6",
+    "name": "Tzimin-Ha",
+    "location": {
+      "country": "Mexico",
+      "region": "Akumal, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.38574492689571",
+      "lng": "-87.31102108955385"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "764cfa4b-e219-4d91-904e-57f74eee8172",
+    "name": "Punta Tunich",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.406581363246985",
+      "lng": "-87.03369140625"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "777ca6cc-cd6a-477a-b4ff-72d665bf863d",
+    "name": "Canadas 2",
+    "location": {
+      "country": "Mexico",
+      "region": "Arrecife Anegada De Afuera, Anton Lizardo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.16951170577664",
+      "lng": "-95.8594036102295"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "78b2379a-8b9a-4ea3-872b-8c46fb240b6a",
+    "name": "Barco C-58",
+    "location": {
+      "country": "Mexico",
+      "region": "Cancun, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.119372745268713",
+      "lng": "-86.723552942276"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "78da0d9f-d4bb-4ac5-808b-00e6da6f1fd8",
+    "name": "El Tigre",
+    "location": {
+      "country": "Mexico",
+      "region": "Oaxaca, Mexico",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.707332267761776",
+      "lng": "-96.17946624755861"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "79b7c5ed-c9e8-4944-b193-c957a24523c1",
+    "name": "La Cadena Del Ruso",
+    "location": {
+      "country": "Mexico",
+      "region": "Anton Lizardo, Veracruz",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.224205603207142",
+      "lng": "-96.04915380477907"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7a3b0565-6b98-4b8e-b356-9f9e9eac75d0",
+    "name": "No Name",
+    "location": {
+      "country": "Mexico",
+      "region": "Cancun, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.144191001658815",
+      "lng": "-86.72505497932436"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7a9cdabc-c0d2-48c4-8184-4484cb676a7c",
+    "name": "Canada Del Diablo Uno",
+    "location": {
+      "country": "Mexico",
+      "region": "Arrecife Anegada De Afuera, Anton Lizardo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.149566914737786",
+      "lng": "-95.8340835571289"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7b698edb-4743-439d-aa04-d4ad621922cd",
+    "name": "El Submarino",
+    "location": {
+      "country": "Mexico",
+      "region": "Arrecife De Cabezo, Anton Lizardo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.083573836920806",
+      "lng": "-95.84322452545167"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7c122cd9-6df9-4773-9022-90f0317a56b4",
+    "name": "Palancar Caves",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.32676014266846",
+      "lng": "-87.0469093322754"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7c6197b4-009d-4040-a85d-e9d3144f8f32",
+    "name": "Lobster Condos",
+    "location": {
+      "country": "Mexico",
+      "region": "Akumal, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.38801776387981",
+      "lng": "-87.31202960014345"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7c6979c2-4123-4ff1-91a5-38ff09cc9ccc",
+    "name": "Haystack",
+    "location": {
+      "country": "Mexico",
+      "region": "Guaymas, Sonora",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.905693075751486",
+      "lng": "-110.97049713134767"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7cf75474-0b0a-4d60-9770-149c448fd468",
+    "name": "Two Step",
+    "location": {
+      "country": "Mexico",
+      "region": "Banco Chinchorro, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.659256722756314",
+      "lng": "-87.40036010742189"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7d58ab91-ea55-46a8-bacd-f4d6784b22fd",
+    "name": "El Islote",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "23.404182755409145",
+      "lng": "-109.40889358520509"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7db2eb9b-cdc7-47c1-b7c9-ff9647eac629",
+    "name": "Caleta Del Chon",
+    "location": {
+      "country": "Mexico",
+      "region": "Zihuatanejo, Guerrero",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.61526947867159",
+      "lng": "-101.55495643615724"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7f477513-3711-4f3b-a674-dc5443e2fb19",
+    "name": "La Poza",
+    "location": {
+      "country": "Mexico",
+      "region": "Quintana Roo, Yucatan Peninsula",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.25217628349157",
+      "lng": "-87.8188705444336"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7f60fce3-ff77-4518-9215-170653dc35c1",
+    "name": "Cerebros",
+    "location": {
+      "country": "Mexico",
+      "region": "Playa Del Carmen, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.715015145512098",
+      "lng": "-86.93756103515626"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7fe581ef-9e29-41f4-8fd4-ad8c98ebb640",
+    "name": "The Church",
+    "location": {
+      "country": "Mexico",
+      "region": "Mujeres Island, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.22530165546452",
+      "lng": "-86.72287702560426"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "80495334-fdd9-4df2-9aa0-25fb1216ddff",
+    "name": "Paso Del Cedral",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.37254974248134",
+      "lng": "-87.05265998840333"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "810dbc92-a165-40f5-844d-57bf5edf45cf",
+    "name": "The Lighthouse",
+    "location": {
+      "country": "Mexico",
+      "region": "San Pedro Nolasco Island, Sonora",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.985609651863083",
+      "lng": "-111.38428688049318"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "818807f4-7f2b-4fe0-b9bd-16c89fd7bdaa",
+    "name": "Cabezo De Ludo",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.767949281420176",
+      "lng": "-84.5222854614258"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "81c9d103-238d-4884-8721-ba441829373e",
+    "name": "Cantarel (Eagle Ray Wall)",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.542311068026745",
+      "lng": "-86.9454574584961"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8238af6d-ec3c-4039-acad-fe5938ee6edc",
+    "name": "Santa Rosa Wall",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.378181971475748",
+      "lng": "-87.05403327941895"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "84661367-c416-4c5d-a019-2397a9d5123d",
+    "name": "Los Arcos",
+    "location": {
+      "country": "Mexico",
+      "region": "Puerto Vallarta, Jalisco",
+      "ocean": [
+        "Pacific Ocean",
+        "Bay Of Banderas"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.546289479749678",
+      "lng": "-105.29103755950929"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "85b69336-865f-49f0-9c79-dd3664a31bf3",
+    "name": "La Poma",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California, Baja",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.991760164185454",
+      "lng": "-114.39162254333498"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "86845685-e87e-4ac1-8373-332eaf634162",
+    "name": "Luna De Duendes",
+    "location": {
+      "country": "Mexico",
+      "region": "Anton Lizardo, Veracruz",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.13819487221635",
+      "lng": "-95.73194503784181"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "86eca8fa-b8f6-4be1-a8b9-3568e8275acc",
+    "name": "Chun-Zumbul Deep",
+    "location": {
+      "country": "Mexico",
+      "region": "Playa Del Carmen, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.64306554672647",
+      "lng": "-86.99558258056642"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "87110de1-0773-44de-9bc9-3a03231c7f93",
+    "name": "Blowhole",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Baja",
+        "Baja California Sur"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.932310277979994",
+      "lng": "-109.7999382019043"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "874568b1-9eb5-4ac7-851a-18c095e8d91a",
+    "name": "La Fiesta",
+    "location": {
+      "country": "Mexico",
+      "region": "Oaxaca, Mexico",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.686840108130363",
+      "lng": "-96.23456954956056"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "87949eee-c5e3-4aa9-8749-5b0d263fac55",
+    "name": "Encanto I",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.77544186296118",
+      "lng": "-84.52056884765626"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "87b263eb-1f59-4b76-b3a1-bb9a70042417",
+    "name": "Money Bar",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.459424075875145",
+      "lng": "-86.98966026306154"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "87c61080-5cc1-4fe7-aaa7-e042f98048b4",
+    "name": "Magueyto",
+    "location": {
+      "country": "Mexico",
+      "region": "Oaxaca, Mexico",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.773752343761437",
+      "lng": "-96.06307983398439"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "88a0dee8-7215-402f-8f7a-2dfc27f3f949",
+    "name": "Casa Cenote",
+    "location": {
+      "country": "Mexico",
+      "region": "Cenotes, Quintana Roo",
+      "ocean": [
+        "Tulum"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.266464587537047",
+      "lng": "-87.39122450351715"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "88f4d36f-f204-4261-909f-064d48d7b3ce",
+    "name": "Gordo Banls",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Baja",
+        "Baja California Sur"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.96044813182417",
+      "lng": "-109.59943771362306"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "89636754-e251-4ccb-a98d-9188405f969a",
+    "name": "La Esperanza",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "23.420565698039773",
+      "lng": "-109.40425872802736"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8a44a155-3778-41a8-9fca-f79ab699adac",
+    "name": "Hanan",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.502119289932256",
+      "lng": "-86.7531967163086"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8a6a9841-6ec5-4367-b77b-8901f01004ba",
+    "name": "Columbia Ladrillo",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.295599183485816",
+      "lng": "-87.0217731973559"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8c69aece-ea92-404c-af5f-97d0414dfee7",
+    "name": "La Entrega",
+    "location": {
+      "country": "Mexico",
+      "region": "Oaxaca, Mexico",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.747814747915049",
+      "lng": "-96.12625122070314"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8cb50921-3fbe-4d4a-9ab5-64a2d5fdc18f",
+    "name": "Sierra",
+    "location": {
+      "country": "Mexico",
+      "region": "Playa Del Carmen, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.610686159613508",
+      "lng": "-87.06222026143224"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8d157945-d062-45da-ba18-29f294ee862a",
+    "name": "San Francisco Wall",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.38952626550166",
+      "lng": "-87.04965591430665"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8d24f05e-3f70-497d-abe5-71b821d8af93",
+    "name": "Blanquizares",
+    "location": {
+      "country": "Mexico",
+      "region": "Quintana Roo, Yucatan Peninsula",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.2376664867941",
+      "lng": "-87.80599594116211"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8d3123b1-6fd2-4694-8b08-9062491dbd98",
+    "name": "Colomitos",
+    "location": {
+      "country": "Mexico",
+      "region": "Puerto Vallarta, Jalisco",
+      "ocean": [
+        "Pacific Ocean",
+        "Bay Of Banderas"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.542793305264492",
+      "lng": "-105.34858703613283"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8deb45e9-fbd6-4738-9c2f-c2911d06599b",
+    "name": "Dos Ojos",
+    "location": {
+      "country": "Mexico",
+      "region": "Mahahual, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.707675425322485",
+      "lng": "-87.70720481872559"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8e6ea01c-243c-40df-8c5f-15f3eb5e57b4",
+    "name": "Jurassic Park",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Carribean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.36958181156018",
+      "lng": "-87.04090118408205"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8e805e7b-25bd-4841-9517-019bcdba9afb",
+    "name": "C50 Riva Palacio",
+    "location": {
+      "country": "Mexico",
+      "region": "Anton Lizardo, Veracruz",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.215898327695655",
+      "lng": "-96.05784416198732"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8f1c3ff4-4333-477c-a4cf-f23f5309e32f",
+    "name": "Picudas",
+    "location": {
+      "country": "Mexico",
+      "region": "Playa Del Carmen, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.839641477852904",
+      "lng": "-86.8581247329712"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "90670560-3e62-4ef3-b6cd-f420cc499a6e",
+    "name": "Eagle Rock",
+    "location": {
+      "country": "Mexico",
+      "region": "San Carlos Nuevo Guaymas, Sonora",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.929355756029413",
+      "lng": "-111.06345176696779"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "90a7b3f3-4552-4f25-af7e-2b7d421aef8a",
+    "name": "La Bufadora",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California, Baja",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "31.722678450235698",
+      "lng": "-116.72362089157106"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9105dbcc-7a6a-4bbf-8805-f7b22f9fdb0f",
+    "name": "South Yalku",
+    "location": {
+      "country": "Mexico",
+      "region": "Akumal, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.4037657932651",
+      "lng": "-87.30253458023073"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "912f385a-5c40-4f54-8504-84710d03a8de",
+    "name": "El Hueco De Lorenzo",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.872695634695802",
+      "lng": "-83.61316680908205"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "914015b9-6dbf-4f78-9d1c-d444431a5b70",
+    "name": "Punta Negra",
+    "location": {
+      "country": "Mexico",
+      "region": "Cancun, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.12932056147065",
+      "lng": "-86.73194020986558"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "91d94f03-56a1-4790-a516-b023e67be04a",
+    "name": "El Balcon Del Caribe",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.858153045788438",
+      "lng": "-84.46666717529297"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "924a84c4-1e4d-450b-8cca-ca775e00bd27",
+    "name": "Marietas",
+    "location": {
+      "country": "Mexico",
+      "region": "Marietas Islands, Puerto Vallarta",
+      "ocean": [
+        "Pacific Ocean",
+        "Bay Of Banderas"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.71629964969396",
+      "lng": "-105.55423736572267"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "932f4661-0c59-4d9c-b512-239fa84a29d9",
+    "name": "Calavera Cenote / Temple Of Doom",
+    "location": {
+      "country": "Mexico",
+      "region": "Cenotes, Quintana Roo",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Yucatan Peninsula",
+        "Quintana Roo",
+        "Cenotes"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.229150507912777",
+      "lng": "-87.45724976062775"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "93641312-a715-47e4-a9e3-70b1682fe14d",
+    "name": "Playa Las Gatas",
+    "location": {
+      "country": "Mexico",
+      "region": "Zihuatanejo, Guerrero",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.62210015804621",
+      "lng": "-101.55332565307619"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "949269dd-3408-4703-9a15-3127867938a0",
+    "name": "Magnalena Bay",
+    "location": {
+      "country": "Mexico",
+      "region": "San Pedro Nolasco Island, Sonora",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.95665241235147",
+      "lng": "-111.36420249938966"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "94964ebb-fbbf-47bb-917f-f940610882fa",
+    "name": "Santa Maria Bay",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Baja",
+        "Baja California Sur"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.928199764803686",
+      "lng": "-109.80611801147462"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9579a46e-deb0-4abb-b28c-2ac6b69c8195",
+    "name": "Shipwreck",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "23.44891599580166",
+      "lng": "-109.4209098815918"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "95be76a7-fdcc-442a-8f0c-403c7b1c722f",
+    "name": "Los Cabitos",
+    "location": {
+      "country": "Mexico",
+      "region": "Arrecife Anegada De Afuera, Anton Lizardo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.139674701057825",
+      "lng": "-95.83431959152223"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "960b3ca0-5fbc-4b8d-abd8-f7de5c33a319",
+    "name": "Punta Celarain",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.293274453923388",
+      "lng": "-87.01343536376955"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "961c9925-d89a-49f5-ab66-cf1f52bc0f12",
+    "name": "Blanquilla Sur",
+    "location": {
+      "country": "Mexico",
+      "region": "Veracruz, Mexico",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.222321306804222",
+      "lng": "-96.09726190567017"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9700d215-f706-4de0-b9f6-bd8ed9b7a91c",
+    "name": "Martini Cove",
+    "location": {
+      "country": "Mexico",
+      "region": "San Carlos Nuevo Guaymas, Sonora",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.93041742156442",
+      "lng": "-111.05710029602052"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "978ba2bf-159a-4cb9-ae4b-1852e768a40e",
+    "name": "Chankanaab",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.44921084265863",
+      "lng": "-87.00716972351074"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9817c8a8-d8b4-434f-94e5-f1d311f531af",
+    "name": "La Perdida",
+    "location": {
+      "country": "Mexico",
+      "region": "Cancun, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.11604998597976",
+      "lng": "-86.72957181930543"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "98342e5a-6e36-4f49-a0b0-108d1b762683",
+    "name": "La Bandera",
+    "location": {
+      "country": "Mexico",
+      "region": "Mujeres Island, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.199576751827998",
+      "lng": "-86.72391772270204"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9881f48f-f91c-434b-bd13-9d5db5110eba",
+    "name": "Shark Point",
+    "location": {
+      "country": "Mexico",
+      "region": "Playa Del Carmen, Quintana Roo",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Yucatan Peninsula",
+        "Quintana Roo",
+        "Playa Del Carmen"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.594223204225184",
+      "lng": "-86.99558258056642"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9947abee-12fb-4eab-9f47-793cdcd0cc78",
+    "name": "El Ojo",
+    "location": {
+      "country": "Mexico",
+      "region": "Arrecife De Cabezo, Anton Lizardo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.094604927788698",
+      "lng": "-95.84322452545167"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "998c4e93-2213-4c17-aab5-3d64e3276501",
+    "name": "Poza Rica",
+    "location": {
+      "country": "Mexico",
+      "region": "Quintana Roo, Yucatan Peninsula",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.328455031712842",
+      "lng": "-87.79621124267578"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "99bf9ca5-1dc0-478b-9e5b-59a146d6b724",
+    "name": "Las Animas",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.845319167850867",
+      "lng": "-110.35491943359376"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9a15a6d9-f150-4217-a534-4275b0062983",
+    "name": "El Amirante",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.811544239500133",
+      "lng": "-84.51095581054689"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9a79fd7d-4d04-40f8-9733-10202ef071ab",
+    "name": "La Virgen",
+    "location": {
+      "country": "Mexico",
+      "region": "Anton Lizardo, Veracruz",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.2301217482413",
+      "lng": "-96.06415271759035"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9a8ccd42-8685-4357-9ee2-ff4452b8a973",
+    "name": "Coral Princess",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.53507732696281",
+      "lng": "-86.94150924682619"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9bc22938-2136-4d54-90d3-d84124273f75",
+    "name": "Poza De Roca Partida.",
+    "location": {
+      "country": "Mexico",
+      "region": "Veracruz, Mexico",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.720722933826156",
+      "lng": "-95.15773773193361"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9beb1a4b-946c-41f8-86b8-6fea8ba64403",
+    "name": "Mahawall",
+    "location": {
+      "country": "Mexico",
+      "region": "Banco Chinchorro, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.420336011910038",
+      "lng": "-87.4285125732422"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9c01588c-999b-4a93-a1d6-85b514169279",
+    "name": "El Tunel",
+    "location": {
+      "country": "Mexico",
+      "region": "Cancun, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.14120902761475",
+      "lng": "-86.73558533191681"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9c15fc23-5cc2-4d81-834a-5a4051daf35f",
+    "name": "La Lampara",
+    "location": {
+      "country": "Mexico",
+      "region": "Arrecife De Cabezo, Anton Lizardo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.093915506143606",
+      "lng": "-95.84949016571045"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9c9e1dfb-94fe-4e26-8e73-1d7d7c5dce51",
+    "name": "Puerta De Duendes",
+    "location": {
+      "country": "Mexico",
+      "region": "Arrecife Santiaguillo, Anton Lizardo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.141377501393407",
+      "lng": "-95.80801248550416"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9db4d0c0-00a5-4feb-8370-f77532b50e38",
+    "name": "Los Morros",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "23.46419113419751",
+      "lng": "-109.40185546875001"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9dcb888d-4d5c-4054-a112-4ebcf3c01d1b",
+    "name": "C. Middleton",
+    "location": {
+      "country": "Mexico",
+      "region": "Socorro Island, Mexico",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.857071999435906",
+      "lng": "-111.00268363952638"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9de86cde-527b-4129-8fab-321a1b625c7a",
+    "name": "Window Rock",
+    "location": {
+      "country": "Mexico",
+      "region": "Guaymas, Sonora",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.93026575569793",
+      "lng": "-110.98903656005861"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9e169e68-0cec-4779-82b8-8fab183451cd",
+    "name": "Yemaya",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.8361651429581",
+      "lng": "-84.49035644531251"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9e281bcf-e531-4ce3-b2e1-9434d4ccfdbd",
+    "name": "Pylas",
+    "location": {
+      "country": "Mexico",
+      "region": "Mujeres Island, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.26865976593828",
+      "lng": "-86.75122261047365"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9ef2d924-1b63-4679-b8ce-193bfae7dc63",
+    "name": "Fan Reef",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.609745200052615",
+      "lng": "-86.8226509104716"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9f27196d-52f2-4a21-944e-36612c31007f",
+    "name": "Las Tetas De Maria",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.800148666071156",
+      "lng": "-84.51782226562501"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9f565fc8-30cf-475e-a4bc-3c828c43fb0d",
+    "name": "Portilla",
+    "location": {
+      "country": "Mexico",
+      "region": "Quintana Roo, Yucatan Peninsula",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.22299242729397",
+      "lng": "-87.82178878784181"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9f6723d9-e40e-4158-9ac0-335e7cbde852",
+    "name": "Cementerios",
+    "location": {
+      "country": "Mexico",
+      "region": "Arrecife Anegada De Afuera, Anton Lizardo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.169450902153425",
+      "lng": "-95.87266445159914"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9fdaf739-5bbb-4454-ab0e-c39f95fb0ebd",
+    "name": "Columbia Cordillera",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.280394683922093",
+      "lng": "-87.01738357733403"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a09d4803-ddf1-4557-9203-088a39cd8811",
+    "name": "Gavilanes",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Baja",
+        "Baja California Sur"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.94021476033576",
+      "lng": "-109.79736328125001"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a10ccad4-f8c5-48c5-868e-eab801524126",
+    "name": "El Bajito",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.580846310771612",
+      "lng": "-110.44143676757814"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a1228cde-c858-4840-89ba-10f2eb38ad59",
+    "name": "Fosa De Catedrales",
+    "location": {
+      "country": "Mexico",
+      "region": "Isla Verde, Veracruz",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.20686115612677",
+      "lng": "-96.07436656951906"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a1577d27-8257-443b-92c4-02d95f838378",
+    "name": "Jicaral",
+    "location": {
+      "country": "Mexico",
+      "region": "Oaxaca, Mexico",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.696094886884497",
+      "lng": "-96.21036529541017"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a2b3c084-c7e7-4c0d-aabf-38a505d78d3c",
+    "name": "El Arco Ludovico",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.89578558150355",
+      "lng": "-83.54347229003908"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a4616c0c-bdd1-4ebf-9902-b74da18f990c",
+    "name": "M. Azueta Wreck",
+    "location": {
+      "country": "Mexico",
+      "region": "Anton Lizardo, Veracruz",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.061468888907847",
+      "lng": "-95.95321655273439"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a49d9f4b-c935-4f19-91f8-c86b52003f13",
+    "name": "Canadas 1",
+    "location": {
+      "country": "Mexico",
+      "region": "Arrecife Anegada De Afuera, Anton Lizardo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.168842864687534",
+      "lng": "-95.85880279541017"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a61d9a97-aee9-400e-aa05-9e3c8bc58930",
+    "name": "Tajma Ha Cenote",
+    "location": {
+      "country": "Mexico",
+      "region": "Cenotes, Quintana Roo",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Yucatan Peninsula",
+        "Quintana Roo",
+        "Cenotes"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.483577277535538",
+      "lng": "-87.27687656879426"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a8870d8c-ea2b-420e-9af8-f95eff0903ec",
+    "name": "La Esperanza",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "23.41694272196131",
+      "lng": "-109.4209098815918"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a9613ced-5bcf-4ad0-a564-17ca516e2310",
+    "name": "Los Jardines",
+    "location": {
+      "country": "Mexico",
+      "region": "Playa Del Carmen, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.819706575573235",
+      "lng": "-86.88681364059448"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a999e3a1-5c06-4a90-85fc-758339112b3d",
+    "name": "Puerto Panasco",
+    "location": {
+      "country": "Mexico",
+      "region": "Sonora, Mexico",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "31.330947791541885",
+      "lng": "-113.64842494364484"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a9adac76-ef5a-40b1-aaeb-bc2d2fa2db8f",
+    "name": "Cruz De La Bahia",
+    "location": {
+      "country": "Mexico",
+      "region": "Mujeres Island, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.20305767751399",
+      "lng": "-86.7161500453949"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "aaec2b63-f521-4b2e-8212-ff99915af4da",
+    "name": "Ahogado 2-B",
+    "location": {
+      "country": "Mexico",
+      "region": "Anton Lizardo, Veracruz",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.217580078343296",
+      "lng": "-96.05608463287354"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "aaf6a263-3a08-49ac-a1d7-eed74c9925bd",
+    "name": "Barracuda Reef",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.56577818223519",
+      "lng": "-86.9234848022461"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ab04b3c4-7cf8-4239-823a-73b2736d0bd9",
+    "name": "Bajo De 90",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Baja",
+        "Baja California Sur"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.98115258902039",
+      "lng": "-109.71273422241212"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ab39c526-71d7-4d05-9121-0e31dd573457",
+    "name": "Ahogado 1A",
+    "location": {
+      "country": "Mexico",
+      "region": "Anton Lizardo, Veracruz",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.22092326647799",
+      "lng": "-96.05750083923341"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ab6e9e00-c0c2-4af1-83f1-4255618b2bab",
+    "name": "La Estufa Del Diablo",
+    "location": {
+      "country": "Mexico",
+      "region": "Arrecife Anegada De Afuera, Anton Lizardo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.159357189817776",
+      "lng": "-95.8491039276123"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "aba22c25-1cfe-4149-8027-7a6943dbb5b8",
+    "name": "La Canal",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.88898552577781",
+      "lng": "-83.55686187744142"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "acc5b1ad-cf22-4fbe-8f5a-83b70150d3bd",
+    "name": "El 7-15",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.906854710602367",
+      "lng": "-83.50845336914064"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "adc988d5-5174-4397-a03e-decfdddec221",
+    "name": "Las Cuevas De Bebo",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.796163985902588",
+      "lng": "-84.51782226562501"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "aeb40a5d-9530-400b-a809-10188266438b",
+    "name": "Chikin Ha Cenote",
+    "location": {
+      "country": "Mexico",
+      "region": "Cenotes, Quintana Roo",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Yucatan Peninsula",
+        "Quintana Roo",
+        "Cenotes"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.499546656912486",
+      "lng": "-87.2614458203316"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "af29eb7b-58c5-45fb-9b4c-76b663c73a30",
+    "name": "La Guerilla",
+    "location": {
+      "country": "Mexico",
+      "region": "Oaxaca, Mexico",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.762353426385241",
+      "lng": "-96.07887268066408"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "af593c51-6f95-4c1c-906b-90f997e98132",
+    "name": "Palmitas",
+    "location": {
+      "country": "Mexico",
+      "region": "La Roqueta, Acapulco",
+      "ocean": [
+        "Pacific Ocean",
+        "Acapulco Bay"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.822863081095157",
+      "lng": "-99.91228580474855"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "af9f4c98-5866-4987-8690-bf9318e6bbc7",
+    "name": "El Valle De Las Esponjas",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.849230826434855",
+      "lng": "-84.47576522827148"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "affa00fe-143c-41c2-a22c-a91b1b3319a9",
+    "name": "La Cagada",
+    "location": {
+      "country": "Mexico",
+      "region": "La Roqueta, Acapulco",
+      "ocean": [
+        "Pacific Ocean",
+        "Acapulco Bay"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.823273868079006",
+      "lng": "-99.91842269897461"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b13ebd9d-77db-47f0-8fc7-3be26f06a7b9",
+    "name": "Puerto Kenedy",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California, Baja",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "31.701922728559158",
+      "lng": "-116.68482542037965"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b1c05a31-ab40-453e-9ada-36d4fb70e449",
+    "name": "Chinese Wreck",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.442148824865637",
+      "lng": "-110.39611816406251"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b26b1dac-f800-4dc2-b2b2-049fb4251ea7",
+    "name": "Punta Anegada",
+    "location": {
+      "country": "Mexico",
+      "region": "Arrecife Anegadilla, Anton Lizardo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.141357230064152",
+      "lng": "-95.7977342605591"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b300c028-dbc2-4abc-a1e3-fa7ae97c7748",
+    "name": "El Islote",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.28039341499697",
+      "lng": "-86.92176818847656"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b30ebc83-2ead-468a-8b28-a337071b9b08",
+    "name": "Chac Mool Cenote",
+    "location": {
+      "country": "Mexico",
+      "region": "Cenotes, Quintana Roo",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Yucatan Peninsula",
+        "Quintana Roo",
+        "Cenotes"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.512876648683",
+      "lng": "-87.24703833460808"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b343b23e-fd51-4b19-bb62-c4204d649ecc",
+    "name": "La Jeringa",
+    "location": {
+      "country": "Mexico",
+      "region": "Oaxaca, Mexico",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.719229995495404",
+      "lng": "-96.15852355957033"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b446b068-fac8-4a13-90be-1a44b4ef0374",
+    "name": "Oneal Rock",
+    "location": {
+      "country": "Mexico",
+      "region": "Socorro Island, Mexico",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.81743002451782",
+      "lng": "-111.05469703674318"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b46156ba-e795-4ad4-971d-3b4169ddbcbf",
+    "name": "Punta Arena",
+    "location": {
+      "country": "Mexico",
+      "region": "Oaxaca, Mexico",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.76516191474998",
+      "lng": "-96.07114791870119"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b4714ff3-77f9-429c-8a24-d0578733f14f",
+    "name": "El Faraon",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.83983002834362",
+      "lng": "-84.48640823364259"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b49d492b-17e3-48b0-8cc6-c583f3970bae",
+    "name": "La Francesa Shallows",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.365710330862175",
+      "lng": "-87.03532218933107"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b54e1caf-e8f9-4674-853b-c8c2cb4f7d2c",
+    "name": "Ancla Del Pirata",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.75774598805039",
+      "lng": "-84.51906681060791"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b5f8afb6-0c39-4af1-bfef-ce11d42354c6",
+    "name": "Blanquilla Norte",
+    "location": {
+      "country": "Mexico",
+      "region": "Veracruz, Mexico",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.22580622511267",
+      "lng": "-96.10112428665163"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b63ca804-4c93-4b27-b0ed-f8826dfc35c0",
+    "name": "Marios Reef",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "23.419305543701658",
+      "lng": "-109.39584732055665"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b6c0546b-a304-463e-b47a-e7d0ae172b2c",
+    "name": "Palancar Horseshoe",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.34068354819712",
+      "lng": "-87.03360557556154"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b6f75410-f1e7-42b5-bcf5-e18d874b0bb9",
+    "name": "Ancla De Masaya",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.81955247395144",
+      "lng": "-84.498188495636"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b7504244-94dd-479f-a14b-d41c7a796971",
+    "name": "Barquito",
+    "location": {
+      "country": "Mexico",
+      "region": "Oaxaca, Mexico",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.736414374569847",
+      "lng": "-96.1238479614258"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b802019f-9113-4233-97a3-8bd254791753",
+    "name": "Isla De Cedros",
+    "location": {
+      "country": "Mexico",
+      "region": "Cedros Island, Baja California",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.360431227739692",
+      "lng": "-115.23769932127102"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b846d299-9204-4024-a0a4-3f2b05e477f5",
+    "name": "Zapote Cenote (Hell&#039;s Bells)",
+    "location": {
+      "country": "Mexico",
+      "region": "Quintana Roo, Yucatan Peninsula",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Yucatan Peninsula",
+        "Quintana Roo"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.84597837877989",
+      "lng": "-87.04440305940808"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b86b07c1-4fdc-46ee-bb07-78695ab38ca5",
+    "name": "Las Gringas",
+    "location": {
+      "country": "Mexico",
+      "region": "Guaymas, Sonora",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.87608847835079",
+      "lng": "-110.95255851745605"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b9c1fdcb-f433-4957-b84c-ea5a76b0cf11",
+    "name": "Ahogado 1-B",
+    "location": {
+      "country": "Mexico",
+      "region": "Anton Lizardo, Veracruz",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.220882743392625",
+      "lng": "-96.05659961700441"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ba58b5f8-08c4-4beb-ad9d-50f8c8cb870f",
+    "name": "Punto Gonzales",
+    "location": {
+      "country": "Mexico",
+      "region": "Banco Chinchorro, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.5186789808691",
+      "lng": "-87.43675231933594"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ba91343f-00dc-49af-9963-0b0eb25def32",
+    "name": "The Window",
+    "location": {
+      "country": "Mexico",
+      "region": "San Pedro Nolasco Island, Sonora",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.978257371792026",
+      "lng": "-111.39209747314455"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bad01d31-ccd7-46c4-b42b-42400935dcc3",
+    "name": "Posa Redonda",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.913685302784558",
+      "lng": "-84.47731018066408"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bafdb119-fbc4-454c-b4b1-1ba049d84774",
+    "name": "Las Redes",
+    "location": {
+      "country": "Mexico",
+      "region": "Akumal, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.390431359389094",
+      "lng": "-87.31046319007874"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bbb93d8d-c5dc-4991-aa61-011431a5ea8e",
+    "name": "Kai Ha",
+    "location": {
+      "country": "Mexico",
+      "region": "Banco Chinchorro, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.56815474275657",
+      "lng": "-87.42370605468751"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bc1ae74b-de27-4bea-a50a-7e6804bb4788",
+    "name": "Tres Marias",
+    "location": {
+      "country": "Mexico",
+      "region": "San Carlos Nuevo Guaymas, Sonora",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.93693885246646",
+      "lng": "-111.0710906982422"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bcd44cf1-14e7-4d25-9c45-4f413430ebb5",
+    "name": "Jardines",
+    "location": {
+      "country": "Mexico",
+      "region": "Playa Del Carmen, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.632302297574572",
+      "lng": "-87.05334663391115"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bd335c24-5e3f-4dbc-b9e3-02823e90ce17",
+    "name": "Valientes Wreck",
+    "location": {
+      "country": "Mexico",
+      "region": "Arrecife De Cabezo, Anton Lizardo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.082397684613973",
+      "lng": "-95.85708618164062"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "be1ca96f-ef7d-439a-a37f-bd98b8a6ce72",
+    "name": "Madregal",
+    "location": {
+      "country": "Mexico",
+      "region": "Oaxaca, Mexico",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.722534796489384",
+      "lng": "-96.14564895629884"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "be933477-4710-4d72-a47a-b65f61007af8",
+    "name": "Pelican Point",
+    "location": {
+      "country": "Mexico",
+      "region": "San Pedro Nolasco Island, Sonora",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.963551308079122",
+      "lng": "-111.38703346252441"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bf1abaf7-b0e0-4dc3-9b02-c1ead5e7b0df",
+    "name": "Jardin De La Gorgonia",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.80795831767072",
+      "lng": "-84.5112991333008"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bf701e36-8d91-4139-8560-1141e1674232",
+    "name": "Ana Elena Wreck",
+    "location": {
+      "country": "Mexico",
+      "region": "Arrecife Anegada De Afuera, Anton Lizardo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.168721256925178",
+      "lng": "-95.86116313934328"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bfc5916d-4464-4da4-b065-3d21db87f764",
+    "name": "Majahuitas",
+    "location": {
+      "country": "Mexico",
+      "region": "Puerto Vallarta, Jalisco",
+      "ocean": [
+        "Pacific Ocean",
+        "Bay Of Banderas"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.52478875041428",
+      "lng": "-105.42755126953126"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bfd3c6d6-d665-45fd-b211-18a4fdc9e121",
+    "name": "Cuevones",
+    "location": {
+      "country": "Mexico",
+      "region": "Cancun, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.165843535728857",
+      "lng": "-86.73791885375978"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c063c081-83a9-4a74-8516-affa15f78f89",
+    "name": "Isla Holbox",
+    "location": {
+      "country": "Mexico",
+      "region": "Cancun, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.633175579588894",
+      "lng": "-87.13119506835939"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c07bec77-c477-4b49-9e43-e03c383297eb",
+    "name": "Paraiso Perdido",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.750013321728268",
+      "lng": "-84.5321559906006"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c138e0fa-4fd4-4d2a-97db-bdad9c636bdb",
+    "name": "El Infierno",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.872379306788158",
+      "lng": "-83.62930297851564"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c13cff3e-4a05-42d5-a87c-a99f19925288",
+    "name": "La Cubera",
+    "location": {
+      "country": "Mexico",
+      "region": "Arrecife Anegada De Afuera, Anton Lizardo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.147316893639395",
+      "lng": "-95.83489894866945"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c29f3c63-c699-4b10-bdef-5086514bc9d0",
+    "name": "Light House",
+    "location": {
+      "country": "Mexico",
+      "region": "Guaymas, Sonora",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.863663895074804",
+      "lng": "-110.9480094909668"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c30b132a-33c9-4f7d-9909-5ba46f00635b",
+    "name": "Scott&#039;s Playground",
+    "location": {
+      "country": "Mexico",
+      "region": "Quintana Roo, Yucatan Peninsula",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.193477517405356",
+      "lng": "-87.82573699951173"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c35e17c6-4b40-421f-a586-9ab42154eda2",
+    "name": "Tanchacte",
+    "location": {
+      "country": "Mexico",
+      "region": "Playa Del Carmen, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.846459651491674",
+      "lng": "-86.85615062713623"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c3717916-b534-427f-abe4-06e60f1d4e61",
+    "name": "El Barco Hundido",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.868508494372918",
+      "lng": "-84.4596290588379"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c4678de1-9f5c-4d98-a1ca-d95b6c1b2d53",
+    "name": "Zacatitos",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Baja",
+        "Baja California Sur"
+      ]
+    },
+    "coordinates": {
+      "lat": "23.083205993631353",
+      "lng": "-109.5711135864258"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c5154ce4-d553-4408-b62f-e2836105d3f0",
+    "name": "Ojo De Agua De Juan Claro",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.87758880806679",
+      "lng": "-84.46031570434572"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c526bfc3-0ab1-464b-a614-fce12db24611",
+    "name": "Old Sea Lions Colony",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.475900136285446",
+      "lng": "-110.26977539062501"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c59774a7-eb78-429b-b53d-62569a4e4a00",
+    "name": "The Garden",
+    "location": {
+      "country": "Mexico",
+      "region": "Banco Chinchorro, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.71259376323032",
+      "lng": "-87.37152099609375"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c5a1ca48-801e-41d8-ae03-785687b84248",
+    "name": "Colas De Gato",
+    "location": {
+      "country": "Mexico",
+      "region": "Anton Lizardo, Veracruz",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.221875556107705",
+      "lng": "-96.0536813735962"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c6e3c333-4b5a-4950-b1dd-1e30d24a1c3f",
+    "name": "The Aquarium",
+    "location": {
+      "country": "Mexico",
+      "region": "Socorro Island, Mexico",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.766239062309424",
+      "lng": "-111.03941917419435"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ca109d78-d1e6-4a47-94aa-0ea819553d7b",
+    "name": "Barbones",
+    "location": {
+      "country": "Mexico",
+      "region": "Cancun, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.175448081926465",
+      "lng": "-86.72452926635742"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cac1b29f-d7ad-409c-bd0e-45a04eae15c2",
+    "name": "Farito De Isla Verde",
+    "location": {
+      "country": "Mexico",
+      "region": "Isla Verde, Veracruz",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.19758031513751",
+      "lng": "-96.06861591339111"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cae33eaf-c1d4-4cb8-94d8-23246e9b626e",
+    "name": "Punta Negra",
+    "location": {
+      "country": "Mexico",
+      "region": "Mujeres Island, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.190053800392118",
+      "lng": "-86.71366095542909"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cb9b09ea-404c-476b-a9d2-de67725ff37d",
+    "name": "Land’S End",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Baja",
+        "Baja California Sur"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.876392662490442",
+      "lng": "-109.89345073699951"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cc417b5d-92d1-43ba-97aa-5bac46975858",
+    "name": "Valle Del Coral",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.824452814329767",
+      "lng": "-84.49838161468507"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cc7147d7-7b09-4cc4-9906-279c026ecb6d",
+    "name": "Coral Garden",
+    "location": {
+      "country": "Mexico",
+      "region": "Quintana Roo, Yucatan Peninsula",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.218916080017465",
+      "lng": "-87.80342102050783"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ce0fa3db-e9e6-4c8f-8bd3-edef6543fc0c",
+    "name": "El Vidin",
+    "location": {
+      "country": "Mexico",
+      "region": "Oaxaca, Mexico",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.732118415883635",
+      "lng": "-96.13449096679689"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cf9727a5-3714-48d8-9168-8aa04b34e992",
+    "name": "Punta Tejon",
+    "location": {
+      "country": "Mexico",
+      "region": "Oaxaca, Mexico",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.753762514903842",
+      "lng": "-96.10290527343751"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d1db0eb1-324f-4c98-bb6e-727e7ad9f75a",
+    "name": "Cuevones",
+    "location": {
+      "country": "Mexico",
+      "region": "Playa Del Carmen, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.85624519604873",
+      "lng": "-86.85383319854738"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d252d119-ac97-478a-814d-e334837d2e7f",
+    "name": "La Blanca",
+    "location": {
+      "country": "Mexico",
+      "region": "Oaxaca, Mexico",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.744014694514986",
+      "lng": "-96.11526489257814"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d255bea9-c897-4f61-8c89-433ee9991be1",
+    "name": "Arrecife Tangüijo",
+    "location": {
+      "country": "Mexico",
+      "region": "Tamiahua, Veracruz",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Veracruz",
+        "Tamiahua"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.138307048944913",
+      "lng": "-97.27157592773439"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d3013d90-fa1b-4510-b4fe-75f8942cc2c8",
+    "name": "Punta Sur",
+    "location": {
+      "country": "Mexico",
+      "region": "Arrecife De Enmedio, Anton Lizardo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.100748764431334",
+      "lng": "-95.92926979064943"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d4ca0200-7632-44ba-9cb3-37250fae772b",
+    "name": "Sleeping Sharks Cave",
+    "location": {
+      "country": "Mexico",
+      "region": "Mujeres Island, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.257581462412453",
+      "lng": "-86.73924922943115"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d4dfe0e6-74a0-453b-9b69-6012a7ee3cba",
+    "name": "Ballena Moby Dick",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.760934595149056",
+      "lng": "-84.52486038208009"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d5c990e7-8a98-4ad1-b0dc-392b99e3c3de",
+    "name": "El Patio De Vanesa",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.805806721466592",
+      "lng": "-84.51241493225098"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d6f7cb2b-ac6a-467c-8cb2-7f526875e7cc",
+    "name": "The Pit",
+    "location": {
+      "country": "Mexico",
+      "region": "Cenotes, Quintana Roo",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Yucatan Peninsula",
+        "Quintana Roo",
+        "Cenotes"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.323138242124916",
+      "lng": "-87.40965127944948"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d7540f45-99d3-459e-8845-4f4b981a0b87",
+    "name": "Las Brisas Jetty",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.539417612661246",
+      "lng": "-86.93876266479492"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d80eb8f8-1edb-4cc3-ab2c-6ffb7c021f2f",
+    "name": "Blue Hole",
+    "location": {
+      "country": "Mexico",
+      "region": "Guadalupe County, New Mexico",
+      "ocean": [
+        "North America",
+        "Usa",
+        "New Mexico",
+        "Guadalupe County"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.94051130932314",
+      "lng": "-104.67327117919923"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d851a1e8-fc80-40fa-a412-34f346a7d37e",
+    "name": "Sea Mount",
+    "location": {
+      "country": "Mexico",
+      "region": "San Carlos Nuevo Guaymas, Sonora",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.92829408006552",
+      "lng": "-111.0395908355713"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d8cf19cf-7668-4ff9-a450-06e3130a32db",
+    "name": "Fosita De Catedrales",
+    "location": {
+      "country": "Mexico",
+      "region": "Isla Verde, Veracruz",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.20538193052218",
+      "lng": "-96.07438802719118"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d9532237-91b5-4193-a026-153e4fde77a0",
+    "name": "San Toribio",
+    "location": {
+      "country": "Mexico",
+      "region": "Cancun, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.12609810253388",
+      "lng": "-86.72514081001283"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d9757445-fc9b-409f-b8b7-60dbce51c42b",
+    "name": "El Huerfanito",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California, Baja",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "30.13230861886154",
+      "lng": "-114.61758039675694"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "da105ac3-06f0-44c2-99df-d0f903e119ef",
+    "name": "Los Mogotes De Vinales",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.864470869679554",
+      "lng": "-83.63445281982423"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dc30bfcf-6928-4c8a-a7a7-1ff4d16e0314",
+    "name": "Moc-Che Deep",
+    "location": {
+      "country": "Mexico",
+      "region": "Playa Del Carmen, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.672620401405798",
+      "lng": "-86.96399688720703"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dce69e98-3c7e-42b0-8250-cda0530c8771",
+    "name": "Encanto Ii",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.790266455879653",
+      "lng": "-84.51868057250977"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dd4fc82f-74e5-408a-92ed-ddb7ce7a4bc8",
+    "name": "Siete Cocos",
+    "location": {
+      "country": "Mexico",
+      "region": "Quintana Roo, Yucatan Peninsula",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.285267127233695",
+      "lng": "-87.80582427978517"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ddff9b8e-5848-4f98-aa0d-8d2a2be55490",
+    "name": "Whale Island",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.4971463205719",
+      "lng": "-110.41122436523439"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "de63c9ef-ea23-4892-9358-f742d1b01015",
+    "name": "The The Rookery",
+    "location": {
+      "country": "Mexico",
+      "region": "San Pedro Nolasco Island, Sonora",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.953240707579962",
+      "lng": "-111.37355804443361"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dec348d1-54bc-440f-8ed1-4d753cadf83e",
+    "name": "Coco-Ha",
+    "location": {
+      "country": "Mexico",
+      "region": "Mahahual, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.709057452071313",
+      "lng": "-87.70488739013673"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dfbacf96-53d4-46ad-9d0c-87b066cd77e2",
+    "name": "Casa Del Arabe",
+    "location": {
+      "country": "Mexico",
+      "region": "Acapulco, Guerrero",
+      "ocean": [
+        "Pacific Ocean",
+        "Acapulco Bay"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.827504922186296",
+      "lng": "-99.91387367248535"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e0bbe3b2-9363-470f-933c-7158ef4f2c6b",
+    "name": "El Milagro",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.81771978321572",
+      "lng": "-84.50166463851929"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e1031c2c-d770-4e6a-b7dd-2afe2f164c9c",
+    "name": "Caleta Club De Yates",
+    "location": {
+      "country": "Mexico",
+      "region": "Manzanillo, Colima",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.100931251140196",
+      "lng": "-104.35155630111696"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e2757d78-dc66-4e05-8749-50e550c1b652",
+    "name": "El Paraguas De Maria",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.85544457381769",
+      "lng": "-84.47010040283205"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e2d3fa18-9bbc-4603-99a8-7240fc11ac0e",
+    "name": "Punta Bella",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Baja",
+        "Baja California Sur"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.99869357757545",
+      "lng": "-109.7062110900879"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e320e0fd-897b-4c09-8fe1-93614a3797c2",
+    "name": "Faro Viejo",
+    "location": {
+      "country": "Mexico",
+      "region": "Mahahual, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.72966457005406",
+      "lng": "-87.6872491836548"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e5254bf0-b1f3-4e88-ba39-6eb6bbc8f079",
+    "name": "El Jardin",
+    "location": {
+      "country": "Mexico",
+      "region": "Anton Lizardo, Veracruz",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.22114614326894",
+      "lng": "-96.05402469635011"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e62aa0b8-780e-4874-95f7-97517e008b4e",
+    "name": "Frenchie&#039;s Cove",
+    "location": {
+      "country": "Mexico",
+      "region": "San Carlos Nuevo Guaymas, Sonora",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.937393821330247",
+      "lng": "-111.08542442321779"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e6373d02-5899-45d9-984e-0e2df5381246",
+    "name": "La Montana",
+    "location": {
+      "country": "Mexico",
+      "region": "Arrecife El Rizo, Anton Lizardo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.083087154220657",
+      "lng": "-95.93373298645021"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e66364ab-4e65-4754-bd76-db2b104f0ba2",
+    "name": "Grouper Canyons",
+    "location": {
+      "country": "Mexico",
+      "region": "Akumal, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.39849651687769",
+      "lng": "-87.3037362098694"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e78ca81a-390a-4255-b337-74e15dc548a1",
+    "name": "Ship Wreck C-53",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.44189228165696",
+      "lng": "-87.01927185058595"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e9859107-2753-4c46-8916-7aef432385c9",
+    "name": "Morros Conejos",
+    "location": {
+      "country": "Mexico",
+      "region": "Oaxaca, Mexico",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.771274372720907",
+      "lng": "-96.06771469116212"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e99b097e-9c3c-413e-a747-09906f4a6238",
+    "name": "40 Cannons",
+    "location": {
+      "country": "Mexico",
+      "region": "Banco Chinchorro, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.769814809450917",
+      "lng": "-87.33169555664064"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e9b515a8-e598-4147-b205-123c0628a065",
+    "name": "Cuevas Del Yuri",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.75599222395629",
+      "lng": "-84.52734947204591"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e9c6673e-d719-49ac-94d3-1bfff1dceb55",
+    "name": "El Eden Cenote",
+    "location": {
+      "country": "Mexico",
+      "region": "Cenotes, Quintana Roo",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Yucatan Peninsula",
+        "Quintana Roo",
+        "Cenotes"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.499172315109973",
+      "lng": "-87.26022943854332"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eab22792-805b-4344-8107-f709a10d5b82",
+    "name": "South Point",
+    "location": {
+      "country": "Mexico",
+      "region": "San Pedro Nolasco Island, Sonora",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.950056352525845",
+      "lng": "-111.36617660522462"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eaf6d4a0-1d18-4441-a2ca-f94943315996",
+    "name": "The Cavern",
+    "location": {
+      "country": "Mexico",
+      "region": "San Pedro Nolasco Island, Sonora",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.958320317666846",
+      "lng": "-111.38299942016603"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eb2c073e-c67b-4e24-9bbc-757ac334ae8b",
+    "name": "Fosa De Isla Verde",
+    "location": {
+      "country": "Mexico",
+      "region": "Isla Verde, Veracruz",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.199120403584804",
+      "lng": "-96.06389522552492"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eb5eb608-1c04-4c2c-9f84-768354f3aff9",
+    "name": "Paradise Reef",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.471506177473653",
+      "lng": "-86.98365211486818"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eb7acc64-6977-4c3f-b68c-1c2ee2d854b7",
+    "name": "Pelican Rock",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Baja",
+        "Baja California Sur"
+      ]
+    },
+    "coordinates": {
+      "lat": "225243.8",
+      "lng": "1095354.2"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ebc30624-b9cf-4e01-b703-bf5c2cd0c160",
+    "name": "Todos Santos",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California, Baja",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "31.80738798929734",
+      "lng": "-116.79337978363039"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ebd87f12-7ada-42ae-b708-a014e864e6af",
+    "name": "El Milagro",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.880603592925564",
+      "lng": "-83.57711791992188"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ec2a501e-7403-40c6-9d54-4e6fa6ca2fee",
+    "name": "Kukulkan Cenote",
+    "location": {
+      "country": "Mexico",
+      "region": "Cenotes, Quintana Roo",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Yucatan Peninsula",
+        "Quintana Roo",
+        "Cenotes"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.513253469132664",
+      "lng": "-87.24727168679239"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ec433685-30b1-445c-9784-35f6df00730a",
+    "name": "Chimo",
+    "location": {
+      "country": "Mexico",
+      "region": "Puerto Vallarta, Jalisco",
+      "ocean": [
+        "Pacific Ocean",
+        "Bay Of Banderas"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.478481600090568",
+      "lng": "-105.67268371582033"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ec9486df-f16b-427e-a06f-bb5032e13767",
+    "name": "Dos Ojos",
+    "location": {
+      "country": "Mexico",
+      "region": "Cenotes, Quintana Roo",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Yucatan Peninsula",
+        "Quintana Roo",
+        "Cenotes"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.325230906116623",
+      "lng": "-87.39100456237794"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ecdaff24-eb17-45eb-97fc-5b4ab8ac7615",
+    "name": "Lobster Shack",
+    "location": {
+      "country": "Mexico",
+      "region": "North Coronado, Baja California",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.44265651054153",
+      "lng": "-117.29647636413576"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ed3e685e-65b1-4f54-a716-d0f3f978336d",
+    "name": "The Cave",
+    "location": {
+      "country": "Mexico",
+      "region": "San Pedro Nolasco Island, Sonora",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "27.961352806761045",
+      "lng": "-111.36548995971681"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ed9d4edb-6d2d-4006-8f29-6b4e29ff093d",
+    "name": "Chitales",
+    "location": {
+      "country": "Mexico",
+      "region": "Cancun, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.153997070185998",
+      "lng": "-86.74049377441408"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eec9797d-f31e-449a-8153-204cc51cdfaa",
+    "name": "Playa Coral",
+    "location": {
+      "country": "Mexico",
+      "region": "Isla Grande, Ixtapa",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.675816267099613",
+      "lng": "-101.65555000305177"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ef8c367f-c8bf-4a64-918c-a0acdfb1fde7",
+    "name": "La Tortuga",
+    "location": {
+      "country": "Mexico",
+      "region": "Akumal, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.392251587671062",
+      "lng": "-87.30718016624452"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f086fd60-07a1-4d17-9fa3-f46bb3dfda77",
+    "name": "Media Luna",
+    "location": {
+      "country": "Mexico",
+      "region": "San Luis Potosí, Mexico",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "San Luis Potosí"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.86048210692979",
+      "lng": "-100.02800869790717"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f214299c-c0ff-4d4d-ba71-c930f328074a",
+    "name": "Media Luna",
+    "location": {
+      "country": "Mexico",
+      "region": "Mujeres Island, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.215300281580888",
+      "lng": "-86.71815633773805"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f21a98c9-9128-4e11-92be-ca1f58c7b750",
+    "name": "Punta Isabel",
+    "location": {
+      "country": "Mexico",
+      "region": "Banco Chinchorro, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.603299856818385",
+      "lng": "-87.42061614990236"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f2221538-52e3-490b-b767-aee47c2358ff",
+    "name": "Paso Del Sabalo",
+    "location": {
+      "country": "Mexico",
+      "region": "Arrecife Anegadilla, Anton Lizardo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Gulf Of Mexico"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.138397589280057",
+      "lng": "-95.79331398010255"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f251f8d8-3cea-4a8b-a985-8b669325e650",
+    "name": "Sea Lions Colony",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "23.38968846193499",
+      "lng": "-109.41164016723634"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f2906b4c-a6ad-4a2c-abc4-6cc3819f1ccf",
+    "name": "San Francisquito Sea Mounts",
+    "location": {
+      "country": "Mexico",
+      "region": "Baja California Sur, Baja",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of California"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.832856673981677",
+      "lng": "-110.53619384765626"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f34f47d9-6ae7-4821-a75d-d8a4c194dc58",
+    "name": "Grand Cenote",
+    "location": {
+      "country": "Mexico",
+      "region": "Cenotes, Quintana Roo",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Yucatan Peninsula",
+        "Quintana Roo",
+        "Cenotes"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.246510169047337",
+      "lng": "-87.46415644884111"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f36b8e80-efbc-466f-af30-38659a968f73",
+    "name": "El Bajo",
+    "location": {
+      "country": "Mexico",
+      "region": "Playa Del Carmen, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.83555042541004",
+      "lng": "-86.87670707702637"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f3721f14-c37c-420b-bf43-984f273189e6",
+    "name": "Cannons",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.473657134110308",
+      "lng": "-86.76692962646486"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f3f7569b-28eb-4457-a085-b83089baa3b0",
+    "name": "El Ancla De Francois",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.800626820243462",
+      "lng": "-84.51387405395508"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f4bb06e8-ab54-43d2-91bc-3e66021d494c",
+    "name": "El Rincon",
+    "location": {
+      "country": "Mexico",
+      "region": "La Roqueta, Acapulco",
+      "ocean": [
+        "Pacific Ocean",
+        "Acapulco Bay"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.823356025368916",
+      "lng": "-99.91378784179689"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f4ca81bb-f7f4-4365-9651-4258b7fe9ffc",
+    "name": "Largo",
+    "location": {
+      "country": "Mexico",
+      "region": "Cancun, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.136145538248737",
+      "lng": "-86.73382043838502"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f5703b00-da98-4b8b-81c2-28a0249bf4b4",
+    "name": "El Cielo",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.3034175184893",
+      "lng": "-87.02030181884767"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f621acd6-22fb-4e4c-914e-ec9ad3c965f5",
+    "name": "El Chato/torrecillas",
+    "location": {
+      "country": "Mexico",
+      "region": "Ixtapa, Zihuatanejo",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.652855460321106",
+      "lng": "-101.62714004516603"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f62d4020-f960-4055-87aa-f03c59a8fc42",
+    "name": "K&#039;oox Baal System",
+    "location": {
+      "country": "Mexico",
+      "region": "Cenotes, Quintana Roo",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Yucatan Peninsula",
+        "Quintana Roo",
+        "Cenotes"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.37221186506387",
+      "lng": "-87.41735273972155"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f6d4496e-b73f-4d7e-9cb1-8bd91cbe064f",
+    "name": "Palancar Bricks",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.315330745898546",
+      "lng": "-87.0439910888672"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f79d346f-dd23-4e3d-918e-1a7bb9deb433",
+    "name": "Bat Cave Cenote",
+    "location": {
+      "country": "Mexico",
+      "region": "Cenotes, Quintana Roo",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Yucatan Peninsula",
+        "Quintana Roo",
+        "Cenotes"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.324104090561946",
+      "lng": "-87.39199161529542"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f8c796f6-7b7c-4915-9ce1-93fc42ca6905",
+    "name": "Yucab",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.42315196049233",
+      "lng": "-87.02442169189455"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f971f83f-af57-4a43-8b30-8ab0b8ca4ab7",
+    "name": "Angelita Cenote",
+    "location": {
+      "country": "Mexico",
+      "region": "Cenotes, Quintana Roo",
+      "ocean": [
+        "Tulum"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.137493237089007",
+      "lng": "-87.57773190736772"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fa13c85f-b919-4126-a843-3c7c3499c3d5",
+    "name": "Riscalillo",
+    "location": {
+      "country": "Mexico",
+      "region": "Oaxaca, Mexico",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.687996978439372",
+      "lng": "-96.21946334838869"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fa963fa3-ad2d-405f-ba0b-a634feb84476",
+    "name": "Alejandro&#039;s Reef",
+    "location": {
+      "country": "Mexico",
+      "region": "Quintana Roo, Yucatan Peninsula",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.264891738221916",
+      "lng": "-87.80839920043945"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fb33fd9e-9dab-4c89-8e90-af849e9781db",
+    "name": "Dreamgate Cenote",
+    "location": {
+      "country": "Mexico",
+      "region": "Cenotes, Quintana Roo",
+      "ocean": [
+        "North America",
+        "Mexico",
+        "Yucatan Peninsula",
+        "Quintana Roo",
+        "Cenotes"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.305349455478474",
+      "lng": "-87.39246368408203"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fb35a851-4c63-4bf4-b6ea-946132ccc7f5",
+    "name": "La Piedra Blanca",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.863888463944097",
+      "lng": "-84.46220397949219"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fb5e16ca-8226-4945-aac4-96abb4292956",
+    "name": "Bolones De Chankanaab",
+    "location": {
+      "country": "Mexico",
+      "region": "Cozumel, Quintana Roo",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.43473423110048",
+      "lng": "-87.0201301574707"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fb9570e2-af2d-48ce-a98f-21482468674c",
+    "name": "Pizota",
+    "location": {
+      "country": "Mexico",
+      "region": "Puerto Vallarta, Jalisco",
+      "ocean": [
+        "Pacific Ocean",
+        "Bay Of Banderas"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.511927057037518",
+      "lng": "-105.60264587402345"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fd3c103e-4afb-4dd5-bbd3-3e7c0000ace6",
+    "name": "Las Arenas Tenebrosas",
+    "location": {
+      "country": "Mexico",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Cuba",
+        "Pinar Del Rio",
+        "Sandino"
+      ]
+    },
+    "coordinates": {
+      "lat": "21.893836348221313",
+      "lng": "-84.46460723876953"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fd604bb0-fdde-4026-adb2-4071b6c7f4f4",
+    "name": "El Canal",
+    "location": {
+      "country": "Mexico",
+      "region": "La Roqueta, Acapulco",
+      "ocean": [
+        "Pacific Ocean",
+        "Acapulco Bay"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.825512641488757",
+      "lng": "-99.91033315658571"
+    },
+    "additionalInfo": {}
+  }
+]

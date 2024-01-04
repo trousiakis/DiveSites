@@ -1,0 +1,316 @@
+[
+  {
+    "id": "09aed063-88c9-49f0-b590-b435e5c20a02",
+    "name": "Gryka E Xhehnemit",
+    "location": {
+      "country": "Albania",
+      "region": "Sazan Island, Albania",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "40.491693189091485",
+      "lng": "19.271714687347416"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0c2f915c-c81a-4ab9-abb0-dcaff1703e9e",
+    "name": "Red Nose",
+    "location": {
+      "country": "Albania",
+      "region": "Vlore County, Albania",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ionian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.83437735683739",
+      "lng": "19.999837875366214"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2b2e370c-f50e-4008-abb4-4a923d9695ca",
+    "name": "Panorma",
+    "location": {
+      "country": "Albania",
+      "region": "Vlore County, Albania",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "40.06270663157762",
+      "lng": "19.789552688598636"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3189149d-a7e1-4187-a342-3112697cbaa7",
+    "name": "Dhermi Beach",
+    "location": {
+      "country": "Albania",
+      "region": "Vlore County, Albania",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "40.14378897882004",
+      "lng": "19.627246856689457"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3b717d4c-13a5-46c9-91c5-1aed4ddaf03f",
+    "name": "Po Hospital Weck",
+    "location": {
+      "country": "Albania",
+      "region": "Vlore County, Albania",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "40.38110374488664",
+      "lng": "19.4677734375"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "617f4a52-c92e-4786-b21f-beba7d809d07",
+    "name": "Zabel Koralesh",
+    "location": {
+      "country": "Albania",
+      "region": "Vlore County, Albania",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ionian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.76738084178371",
+      "lng": "19.975805282592777"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "69dd896b-5b26-4687-b1ac-30af7d1b95f3",
+    "name": "Bristani",
+    "location": {
+      "country": "Albania",
+      "region": "Karaburun Peninsula, Albania",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "40.31128612715899",
+      "lng": "19.370183944702152"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6b6fe283-1f2f-4c36-8207-c91a99b36964",
+    "name": "Jali Beach",
+    "location": {
+      "country": "Albania",
+      "region": "Vlore County, Albania",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "40.121109250380215",
+      "lng": "19.69754219055176"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7fa71d09-1c21-4b23-a7a9-938d161fc288",
+    "name": "Gjiri I Djallit",
+    "location": {
+      "country": "Albania",
+      "region": "Sazan Island, Albania",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "40.504648766719406",
+      "lng": "19.264011383056644"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "810bac8a-0be1-4cbb-b715-65cc042204dd",
+    "name": "Luciano Wreck",
+    "location": {
+      "country": "Albania",
+      "region": "Karaburun Peninsula, Albania",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "40.328246157860875",
+      "lng": "19.42417144775391"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8d9858c2-8483-4780-84c5-0c7e19f3408e",
+    "name": "Kepi I Gjuhezes",
+    "location": {
+      "country": "Albania",
+      "region": "Karaburun Peninsula, Albania",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "40.419324157894444",
+      "lng": "19.29156303405762"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "93521ccd-d338-4e42-93f7-37de9a370a50",
+    "name": "Sirenas Bay",
+    "location": {
+      "country": "Albania",
+      "region": "Vlore County, Albania",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ionian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.806426117299374",
+      "lng": "19.997091293334964"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ab0e6824-7914-4b35-af6a-acaf8303ffac",
+    "name": "Monastir Bay",
+    "location": {
+      "country": "Albania",
+      "region": "Vlore County, Albania",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ionian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.816975090490004",
+      "lng": "20.00121116638184"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b7053277-649f-4234-a2cd-eab2c97d09f2",
+    "name": "Gjiri I Telanisit",
+    "location": {
+      "country": "Albania",
+      "region": "Vlore County, Albania",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ionian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.7766165222598",
+      "lng": "19.991598129272464"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c1da6bfd-4699-4a19-bcff-0c59f8f480f4",
+    "name": "Kepi I Veriut",
+    "location": {
+      "country": "Albania",
+      "region": "Sazan Island, Albania",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "40.51484695876813",
+      "lng": "19.26937580108643"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e18c5f81-abad-4321-a00c-9afc579ef61b",
+    "name": "Intrepido Wreck",
+    "location": {
+      "country": "Albania",
+      "region": "Karaburun Peninsula, Albania",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "40.425489438702485",
+      "lng": "19.291133880615238"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ec659a6a-6201-4d14-aba9-dd4e158c4622",
+    "name": "Cuka",
+    "location": {
+      "country": "Albania",
+      "region": "Sarande, Vlore County",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ionian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.84518563597459",
+      "lng": "20.010137557983402"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "feedf413-d948-4fd4-b6e2-bc6a377444f9",
+    "name": "Bay Of Saranda",
+    "location": {
+      "country": "Albania",
+      "region": "Sarande, Vlore County",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ionian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.85941833463054",
+      "lng": "20.00945091247559"
+    },
+    "additionalInfo": {}
+  }
+]

@@ -1,0 +1,2880 @@
+[
+  {
+    "id": "024b0471-4692-4b41-a5a4-2dae6f57a8a3",
+    "name": "Antoni Gaudi",
+    "location": {
+      "country": "Japan",
+      "region": "Irabu Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.83597241508107",
+      "lng": "125.12346267700197"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0255b8d2-4111-4348-8428-7d5a13ea2a3a",
+    "name": "Unajinosachi",
+    "location": {
+      "country": "Japan",
+      "region": "Zamami Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.23268523950549",
+      "lng": "127.27927207946779"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "03d38667-195b-44e1-88eb-75ce39f9e1f5",
+    "name": "Sakieda Big Arch",
+    "location": {
+      "country": "Japan",
+      "region": "Ishigaki, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.453790923808562",
+      "lng": "124.09795761108398"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "064feb3f-a789-42ae-ac20-0fea5fefb3be",
+    "name": "Ginowan Pinnacles",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Asia",
+        "Japan",
+        "Kyushu",
+        "Okinawa"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.265247732169826",
+      "lng": "127.69615173339845"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "06861aa0-ca5e-437a-a229-828f07a0ecb1",
+    "name": "Kuba Kita Isobana Course",
+    "location": {
+      "country": "Japan",
+      "region": "Kuba Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.180512363691555",
+      "lng": "127.23991870880128"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0862b74f-8aa5-4e20-bf4d-9150ef19a716",
+    "name": "Red Marker",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.35711243633281",
+      "lng": "127.73310184478761"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "08a11454-bce3-48dc-915d-0dc92762f55d",
+    "name": "Maeda Flats",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.44075815489022",
+      "lng": "127.76515960693361"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0b3358e8-e3bc-4345-a224-bccb47c7b653",
+    "name": "Ajiro",
+    "location": {
+      "country": "Japan",
+      "region": "Shizuoka, Chubu",
+      "ocean": [
+        "Pacific Ocean",
+        "Philippine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.97375095431689",
+      "lng": "139.14871215820315"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0c65dbab-f470-4de0-b649-68e6178cbe72",
+    "name": "Small World",
+    "location": {
+      "country": "Japan",
+      "region": "Ishigaki, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.41096770884202",
+      "lng": "124.0924644470215"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0cd06e4c-4bb6-44ab-9130-7ae68dcaa84e",
+    "name": "Kadena Seawall",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.358237211852767",
+      "lng": "127.73871302604677"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0d0bdbf9-1d3c-4811-ad7c-3be5ead7457e",
+    "name": "Yona Tunnel",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.771207917005164",
+      "lng": "128.1999778747559"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0ddb6831-3aa4-45bb-8aff-29206186cd87",
+    "name": "Nishibama",
+    "location": {
+      "country": "Japan",
+      "region": "Aka Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.202500979694513",
+      "lng": "127.28927135467531"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0e60788a-96cc-41dc-b9b2-8033dfcc222b",
+    "name": "Komonshikoro Coral",
+    "location": {
+      "country": "Japan",
+      "region": "Ishigaki, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.39041052988656",
+      "lng": "124.1338348388672"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "13429543-1634-47ba-8218-c1d829b91185",
+    "name": "Hedo Misaki",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.864658850778408",
+      "lng": "128.26555252075198"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "135096f5-7dbd-4c04-aff0-0a09bc5c663e",
+    "name": "Ikei Island",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "Philippine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.388179134150846",
+      "lng": "128.00132274627688"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "14a3399b-ae05-4a59-8677-d049162b4a7f",
+    "name": "Kabira Bay",
+    "location": {
+      "country": "Japan",
+      "region": "Ishigaki, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.46437726782994",
+      "lng": "124.14404869079591"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "15fdfd68-eed0-4f78-a060-d9a794ceac7b",
+    "name": "Nagahama",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.42976773909379",
+      "lng": "127.73537635803224"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1744a08d-95c4-483e-aaf8-5651c416db8b",
+    "name": "Cross Line",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.512938336678804",
+      "lng": "127.88841247558595"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "17eb0d32-8f9a-4125-9106-918764107f78",
+    "name": "Maeda Point",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.443275043157005",
+      "lng": "127.7742898464203"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1bb080ff-ac2c-4369-b769-75d24310d139",
+    "name": "Hamanaka",
+    "location": {
+      "country": "Japan",
+      "region": "Agenashiku Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.21722833469621",
+      "lng": "127.29362726211549"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1bb811d2-ff89-4b23-9613-e66daf1d95a3",
+    "name": "Ijyakajya",
+    "location": {
+      "country": "Japan",
+      "region": "Aka Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.215746057823548",
+      "lng": "127.26618289947511"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1e2ba690-8139-4df1-92be-3f6eb9b91394",
+    "name": "Yonaguni Monument/ Underwater Ruins",
+    "location": {
+      "country": "Japan",
+      "region": "Yonaguni, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.43714786161562",
+      "lng": "123.02438735961915"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1e4b8088-007d-4567-9eac-71ec5fda0f8f",
+    "name": "Ugan",
+    "location": {
+      "country": "Japan",
+      "region": "Zamami Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.248698196631267",
+      "lng": "127.33351707458498"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1e7550c2-3063-49cf-93c6-a40c23d5e8ac",
+    "name": "Uss Longshaw",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.20381015337393",
+      "lng": "127.63057708740236"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "208460fd-c87f-4b67-9237-298015d28133",
+    "name": "Osezaki",
+    "location": {
+      "country": "Japan",
+      "region": "Shizuoka, Chubu",
+      "ocean": [
+        "Pacific Ocean",
+        "Philippine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.03955424376166",
+      "lng": "138.783073425293"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "20a08a50-4dd0-4b44-b430-d5d2d56d4ebe",
+    "name": "Mishiragi",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.443255830477742",
+      "lng": "127.7249050140381"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "21be56fc-9472-443b-a3d3-8eae1891abbd",
+    "name": "Osaki The Mansion Of Long Finned Batfish",
+    "location": {
+      "country": "Japan",
+      "region": "Ishigaki, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.413546890451226",
+      "lng": "124.08250808715822"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "22d8192c-996c-451f-8195-bb2085fefef6",
+    "name": "Hammerhead Rock",
+    "location": {
+      "country": "Japan",
+      "region": "Yonaguni, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.450587500481245",
+      "lng": "122.92894363403322"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "233a2a08-c799-4c39-877c-0c74afc59264",
+    "name": "Futo",
+    "location": {
+      "country": "Japan",
+      "region": "Shizuoka, Chubu",
+      "ocean": [
+        "Pacific Ocean",
+        "Philippine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.90958403746169",
+      "lng": "139.15420532226565"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "23cf9d24-361c-4781-acd9-2d6eb667b599",
+    "name": "Dream Hole",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.512362303867505",
+      "lng": "127.86283493041994"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "24188e46-1e26-4e44-9d41-3eec18da509f",
+    "name": "Okuma",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.744690602994275",
+      "lng": "128.14710617065433"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "242f5b94-fb6b-4634-8de5-7f899663c70e",
+    "name": "Coral Garden",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.74974929653687",
+      "lng": "128.16324234008792"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "28b5a4c0-86df-4190-b107-d7b695ec9699",
+    "name": "Gina",
+    "location": {
+      "country": "Japan",
+      "region": "Aka Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.211318365118665",
+      "lng": "127.2764825820923"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2b0beac2-2521-44b6-a64a-acf91a0befba",
+    "name": "Amuro Ushiji",
+    "location": {
+      "country": "Japan",
+      "region": "Amuro Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.20067196240481",
+      "lng": "127.3218870162964"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2c27dd3d-0230-4d13-98dc-f3675f47fbbd",
+    "name": "Yamabare",
+    "location": {
+      "country": "Japan",
+      "region": "Ishigaki, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.450900033171497",
+      "lng": "124.1667938232422"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2c8bd400-3d63-4b74-a356-3206aba9e946",
+    "name": "Power Tower",
+    "location": {
+      "country": "Japan",
+      "region": "Ishigaki, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.420189994326687",
+      "lng": "124.088773727417"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2cbc2efc-bbfa-459c-b4c1-7e727dbd8d31",
+    "name": "Kuroshima Therapy",
+    "location": {
+      "country": "Japan",
+      "region": "Kuroshima, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.25056441880783",
+      "lng": "123.98723602294923"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2e3e6bab-f396-46c7-9c3d-0f15c8bbe2c8",
+    "name": "Agaiushi",
+    "location": {
+      "country": "Japan",
+      "region": "Amuro Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.215207043369993",
+      "lng": "127.3114585876465"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2e72c77e-5b64-40a6-b83a-db5f16e78934",
+    "name": "The Dredge",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.251084554213417",
+      "lng": "127.66696929931642"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "32f1568c-4bd2-47d6-a477-60d6a47c890c",
+    "name": "Yonehara Campsite Front",
+    "location": {
+      "country": "Japan",
+      "region": "Ishigaki, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.45824432823104",
+      "lng": "124.19348716735841"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "332321c0-f993-4bab-a072-a7b7ae7976c2",
+    "name": "Yakabi Tunnel",
+    "location": {
+      "country": "Japan",
+      "region": "Yakabi Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.221559555010053",
+      "lng": "127.24390983581544"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "35c5f45b-c9fd-48ca-b3f4-3d97e022ec37",
+    "name": "Cape Ose",
+    "location": {
+      "country": "Japan",
+      "region": "Shizuoka, Chubu",
+      "ocean": [
+        "Pacific Ocean",
+        "Philippine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.96812428662085",
+      "lng": "138.73054504394534"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "38f36226-4ce3-4b75-a043-28a8a8871009",
+    "name": "Apogama",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.495156792444064",
+      "lng": "127.83485412597658"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "39529bae-f3a6-4be1-bff6-0c85bf7a6db9",
+    "name": "Oyama Reef",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.292183791046618",
+      "lng": "127.72842407226564"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3b8753d3-93ee-4897-abcc-12d7ca309255",
+    "name": "Chishi",
+    "location": {
+      "country": "Japan",
+      "region": "Zamami Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.247861035382613",
+      "lng": "127.31422662734987"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "40bd8987-93a4-4851-aac0-032e7cba39ee",
+    "name": "Yosuji Reef",
+    "location": {
+      "country": "Japan",
+      "region": "Ishigaki, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.449649897759667",
+      "lng": "124.17640686035158"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "43423f67-0698-4f3a-9db0-1f15a0753f4c",
+    "name": "Ita",
+    "location": {
+      "country": "Japan",
+      "region": "Shizuoka, Chubu",
+      "ocean": [
+        "Pacific Ocean",
+        "Philippine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.0120020431607",
+      "lng": "138.77071380615237"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "437fa740-bb0f-44c5-ae70-b43912d1e2c2",
+    "name": "Mama-San",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "Philippine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.39092782702438",
+      "lng": "127.98782587051393"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "448de98b-d7e6-465e-96a0-8e2c68ec6423",
+    "name": "Toilet Bowl",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.504251455318535",
+      "lng": "127.84648418426515"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4745879e-e6a8-47c4-898e-0da51b22c02d",
+    "name": "Devil&#039;s Cove",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.362745817567106",
+      "lng": "127.73602813482287"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4b13b436-4c08-44f5-82c8-91881df6d82e",
+    "name": "Fish House",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.348459951214828",
+      "lng": "127.73602008819581"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4c1106fd-0db6-4c13-a57d-a1ac2445e1d5",
+    "name": "Inanbishi",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.36741766272557",
+      "lng": "127.71726608276369"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4fec506e-dc84-45b2-be5c-ae29ae3eaf59",
+    "name": "Tsuken Wall",
+    "location": {
+      "country": "Japan",
+      "region": "Tsuken Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "Philippine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.24908309633069",
+      "lng": "127.94952392578126"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "503a5960-78fa-4bd7-a8be-fb703204598a",
+    "name": "Yonehara Pukapi East",
+    "location": {
+      "country": "Japan",
+      "region": "Ishigaki, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.475743901054834",
+      "lng": "124.19872283935548"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "54043dd5-0f66-400d-aafe-87fe89bc3975",
+    "name": "Sabachi",
+    "location": {
+      "country": "Japan",
+      "region": "Yonaguni, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.42964604483519",
+      "lng": "122.96979904174806"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "546ee72b-bbb9-4b59-8f31-2c77626d2634",
+    "name": "Yonehara Pukapi South",
+    "location": {
+      "country": "Japan",
+      "region": "Ishigaki, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.472150437226876",
+      "lng": "124.18739318847658"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "56366e1c-ba19-41e5-a0d4-7d6173072696",
+    "name": "Amaushiji",
+    "location": {
+      "country": "Japan",
+      "region": "Kahi Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.217594088422526",
+      "lng": "127.283091545105"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "577d14ce-49c2-463d-8ed8-5a7673df22e7",
+    "name": "Gesashi Loran Site",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "Philippine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.599157022807272",
+      "lng": "128.13380241394046"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "57c6e81e-2d40-468b-8c20-aea03627d914",
+    "name": "Ucyakashi",
+    "location": {
+      "country": "Japan",
+      "region": "Zamami Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.247466509024953",
+      "lng": "127.30459213256837"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "59834a06-4da6-44cb-bf40-b87f7de39316",
+    "name": "Rock Lake",
+    "location": {
+      "country": "Japan",
+      "region": "Ishigaki, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.451525096226554",
+      "lng": "124.18241500854492"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "59db888f-cfe6-4658-9085-42924ab3b296",
+    "name": "Naha Wreck",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.238921316806533",
+      "lng": "127.66765594482423"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5a393f51-76d9-47b8-8f17-d5addf41e5d2",
+    "name": "Green Marker",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.354805170259223",
+      "lng": "127.72130012512208"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5a5030ee-9118-445b-851d-992e8f65bee0",
+    "name": "Kudaka Wall",
+    "location": {
+      "country": "Japan",
+      "region": "Kudaka Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "Philippine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.158827756603166",
+      "lng": "127.90145874023439"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5b1306f9-8cce-47df-8c45-9f715881421d",
+    "name": "Mandarinfish Forest",
+    "location": {
+      "country": "Japan",
+      "region": "Ishigaki, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.446348699326133",
+      "lng": "124.14207458496095"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "615f3313-b4d9-4fa0-a432-e5f16ab64654",
+    "name": "Chatan Ruin",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.324575734497085",
+      "lng": "127.73245811462404"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "61832df3-bab2-4b67-a0a7-9f662758310f",
+    "name": "Diamond Beach",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.516970485462597",
+      "lng": "127.91175842285158"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "61a4eecc-9974-47be-af63-7fbf856a59a2",
+    "name": "Yarabu Corner",
+    "location": {
+      "country": "Japan",
+      "region": "Ishigaki, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.4285519926058",
+      "lng": "124.0693759918213"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "640b5bb7-e7f3-4868-9052-55872e7802b8",
+    "name": "Oasis",
+    "location": {
+      "country": "Japan",
+      "region": "Kahi Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.21838334254601",
+      "lng": "127.28914260864259"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6669eff8-7ae4-429f-9a35-33d61eb90b26",
+    "name": "White World",
+    "location": {
+      "country": "Japan",
+      "region": "Yonaguni, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.480587103020426",
+      "lng": "122.9948616027832"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6770cae5-1bab-49c1-b216-51041ae33aaa",
+    "name": "Bise",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.706053159620268",
+      "lng": "127.87656784057619"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "678b7157-5daf-48c7-8183-cb201824855d",
+    "name": "Ama Nakanshi",
+    "location": {
+      "country": "Japan",
+      "region": "Zamami Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.226294838019466",
+      "lng": "127.28798389434816"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "68fdca7c-d5e5-4369-9c9a-8010098067ec",
+    "name": "Senega Reef",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.21690108038756",
+      "lng": "127.64276504516603"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6a7c6bd4-4d00-4253-9ff1-661eb1289017",
+    "name": "Tengan Pier",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "Philippine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.40582345076318",
+      "lng": "127.84633398056032"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6dd78862-53bf-442e-86ad-2ba7935f502e",
+    "name": "Taketomi South Middle Book",
+    "location": {
+      "country": "Japan",
+      "region": "Taketomi Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.291554598581996",
+      "lng": "124.09657359123231"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6f297f13-76ae-4c4f-9a5f-a6ef79467b50",
+    "name": "Shichugama",
+    "location": {
+      "country": "Japan",
+      "region": "Kumejima, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.358035329872735",
+      "lng": "126.83269500732423"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "703a3edc-a18c-43e3-9561-0509ee598d96",
+    "name": "Kuroshima V-Shaped Drop-Off",
+    "location": {
+      "country": "Japan",
+      "region": "Kuroshima, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.234912092632207",
+      "lng": "123.98895263671876"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "70e7f306-7b0f-4b23-96e8-21500be5a450",
+    "name": "Gushikawa Castle",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "Philippine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.075094316007746",
+      "lng": "127.67190456390382"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "70e89bdc-6d2e-4dfa-a445-c71d831d963e",
+    "name": "Onna Point",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.496885141010914",
+      "lng": "127.83871650695802"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "729ebdab-d830-48d0-8ff0-15015b00622d",
+    "name": "Naji / Kakurene",
+    "location": {
+      "country": "Japan",
+      "region": "Amuro Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.184787183220024",
+      "lng": "127.31420516967775"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "73f587c8-36af-4874-8fcc-33917dea4515",
+    "name": "Marina 225",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.339652979568413",
+      "lng": "127.73142814636232"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7a66b5ca-881d-4ccc-8a26-1ff7ab56abf0",
+    "name": "Uss Emmons",
+    "location": {
+      "country": "Japan",
+      "region": "Kouri Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.717400435994293",
+      "lng": "128.02145004272464"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7b9144a6-b0e2-483f-8912-dc501b2d3f4a",
+    "name": "Sakubaru No Hana",
+    "location": {
+      "country": "Japan",
+      "region": "Aka Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.175775218356666",
+      "lng": "127.27455139160158"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7c0428fa-16b1-4b0c-a3de-e3cd64e32c2d",
+    "name": "Osaki Purple Queen Reef",
+    "location": {
+      "country": "Japan",
+      "region": "Ishigaki, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.424644585755388",
+      "lng": "124.07255172729494"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7c5aea13-8705-4bf0-8a4c-242894007301",
+    "name": "Seragaki",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.513898384944184",
+      "lng": "127.89399147033693"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7dc8a791-b53b-4cf8-9257-84e479535e60",
+    "name": "Ie Island Se Side",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.704212954196485",
+      "lng": "127.81906127929689"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7e948eb5-a43c-4f71-84c0-44c525ff139c",
+    "name": "Kise",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.545652256631055",
+      "lng": "127.95364379882814"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "80e6afd0-6dbe-4db5-a355-fcc350c3865a",
+    "name": "Oganzaki Turtle Garden",
+    "location": {
+      "country": "Japan",
+      "region": "Ishigaki, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.450587500481245",
+      "lng": "124.0730667114258"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8129521b-1eb5-47b5-952b-fc09fd2f550e",
+    "name": "Hirashi",
+    "location": {
+      "country": "Japan",
+      "region": "Amuro Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.197283391296512",
+      "lng": "127.32686519622804"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "815fef75-326b-4216-b3f0-67812a650fad",
+    "name": "Kawazu",
+    "location": {
+      "country": "Japan",
+      "region": "Shizuoka, Chubu",
+      "ocean": [
+        "Pacific Ocean",
+        "Philippine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.689686347589344",
+      "lng": "139.02236938476565"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8224039e-70e0-435b-9535-d42564391e78",
+    "name": "Channel Crevasses",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "Philippine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.081300277419334",
+      "lng": "127.69546508789064"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "83fbd2f8-5c71-40e2-a92b-aaa45cc5d08f",
+    "name": "Toriike",
+    "location": {
+      "country": "Japan",
+      "region": "Irabu Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.80605806454742",
+      "lng": "125.12792587280275"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "86fdd999-3d5c-4202-a992-07e1a0d26de1",
+    "name": "Umincyu",
+    "location": {
+      "country": "Japan",
+      "region": "Tokashiki Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.179164415105465",
+      "lng": "127.33514785766603"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "89e50e5a-e239-4369-9c96-c10e78290374",
+    "name": "Lionfish Castle",
+    "location": {
+      "country": "Japan",
+      "region": "Ishigaki, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.419486623409544",
+      "lng": "124.07907485961915"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8a931d82-7264-4ec4-bc72-8a41ad0f9708",
+    "name": "The Sea God&#039;s Palace",
+    "location": {
+      "country": "Japan",
+      "region": "Aragusuku Island, Taketomi Island",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.22399345542245",
+      "lng": "123.92432212829591"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8bdcaeca-4605-4b28-b8cd-3f0af943f487",
+    "name": "Toudai Shita",
+    "location": {
+      "country": "Japan",
+      "region": "Zamami Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.234725474451334",
+      "lng": "127.33025550842287"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8be56ed5-15e2-439e-b1cc-5d5a0b7cc7b1",
+    "name": "Gurukun",
+    "location": {
+      "country": "Japan",
+      "region": "Ishigaki, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.46418195588623",
+      "lng": "124.11538124084474"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8c379e98-4657-4b11-be56-662da33e910a",
+    "name": "Toi",
+    "location": {
+      "country": "Japan",
+      "region": "Shizuoka, Chubu",
+      "ocean": [
+        "Pacific Ocean",
+        "Philippine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.800272350556824",
+      "lng": "138.7284851074219"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8c94dc16-d7e5-4385-a362-e12d169468fc",
+    "name": "Aharen Lighthouse",
+    "location": {
+      "country": "Japan",
+      "region": "Tokashiki Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.147425351283",
+      "lng": "127.34029769897462"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "91ca74d8-c293-44f3-a464-732faebbad7d",
+    "name": "Light House",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.440412318618055",
+      "lng": "127.70649433135988"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "91fcdf53-abd2-4c2a-8c1f-e81a5bec86cd",
+    "name": "Bolo Point",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.442717874157353",
+      "lng": "127.71383285522462"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "947dd021-28f0-466a-8bd7-9fc5daff6355",
+    "name": "Shimoda",
+    "location": {
+      "country": "Japan",
+      "region": "Shizuoka, Chubu",
+      "ocean": [
+        "Pacific Ocean",
+        "Philippine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.619647359797185",
+      "lng": "138.95095825195315"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9534d4e7-9d26-4fcd-8e4b-9ddfabc2ba8c",
+    "name": "W-Arch",
+    "location": {
+      "country": "Japan",
+      "region": "Irabu Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.870863356293352",
+      "lng": "125.15230178833009"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "955ba8b0-1a25-44e4-b773-91067d0e30a3",
+    "name": "Overhead Rock",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.508982853185575",
+      "lng": "127.85257816314699"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "973d14eb-2e83-4c6f-918e-0a07bface1e2",
+    "name": "Three Rocks",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.613853021907296",
+      "lng": "127.89236068725587"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "97db85a6-44a7-4f22-861f-592779cfc9a4",
+    "name": "Tombs",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.516202468037626",
+      "lng": "127.90317535400392"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9aba08af-280e-48a0-9de6-08b9ab80f34c",
+    "name": "Amuro Higashi / Ufutama",
+    "location": {
+      "country": "Japan",
+      "region": "Amuro Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.209585743855826",
+      "lng": "127.31369018554689"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9defa64d-fbc5-4957-a94f-19d7c8485604",
+    "name": "Long Finned Batfish Paradise",
+    "location": {
+      "country": "Japan",
+      "region": "Ishigaki, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.41073323517363",
+      "lng": "124.13314819335939"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9fe3585a-b36e-4c3d-bbca-427bb5636738",
+    "name": "Botubotu Sango",
+    "location": {
+      "country": "Japan",
+      "region": "Kahi Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.21584231014181",
+      "lng": "127.28774785995485"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a00dd1d9-a6e7-446d-a490-75d1b41644d6",
+    "name": "Ohanabatake",
+    "location": {
+      "country": "Japan",
+      "region": "Kahi Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.219981084503342",
+      "lng": "127.28650331497192"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a093c286-594f-4185-9643-e621fe11786f",
+    "name": "Takachinshi",
+    "location": {
+      "country": "Japan",
+      "region": "Yakabi Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.224562439768498",
+      "lng": "127.24017620086671"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a0de2cc3-456c-4a64-9d5c-3f9f6e68900c",
+    "name": "Nishinohama",
+    "location": {
+      "country": "Japan",
+      "region": "Hateruma, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.089723515381433",
+      "lng": "123.7929153442383"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a1df3e8e-a6c1-4d67-8448-550a9db77048",
+    "name": "Kuba Higashi",
+    "location": {
+      "country": "Japan",
+      "region": "Kuba Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.173926524048117",
+      "lng": "127.24485397338869"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a2f28a05-4414-4408-8bbd-0cc8c6eace85",
+    "name": "Numazu",
+    "location": {
+      "country": "Japan",
+      "region": "Shizuoka, Chubu",
+      "ocean": [
+        "Pacific Ocean",
+        "Philippine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.04573815523954",
+      "lng": "138.82530212402347"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a37caedb-85bd-4aac-8b3e-08073419bda8",
+    "name": "Kouri Zampa",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.435070937710602",
+      "lng": "127.71275997161867"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a42db1c8-0b3c-4749-bae8-091c05c662d0",
+    "name": "Ie Island Nw Side",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.737792021798416",
+      "lng": "127.77065277099611"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a8ff048a-81e5-4cfe-b0e3-0d4ac8b3b30b",
+    "name": "Umagai",
+    "location": {
+      "country": "Japan",
+      "region": "Kumejima, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.365418213012244",
+      "lng": "126.88968658447267"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a953b8ad-ac69-4b29-856f-6b3c107d9bdf",
+    "name": "Nakagi",
+    "location": {
+      "country": "Japan",
+      "region": "Shizuoka, Chubu",
+      "ocean": [
+        "Pacific Ocean",
+        "Philippine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.62063622492369",
+      "lng": "138.80521774291995"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ad554f6c-5fe9-4d03-b524-ed006aa817c2",
+    "name": "Kuba Nishi / Kaneji",
+    "location": {
+      "country": "Japan",
+      "region": "Kuba Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.176237387352685",
+      "lng": "127.23060607910158"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "af8b2a55-7828-4000-86a7-d03bc98dac2f",
+    "name": "Yamada",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.45228543656124",
+      "lng": "127.79382705688478"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "afe6167b-c81e-4839-8f11-922edd8aaf7a",
+    "name": "Green Beach",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.438759975434582",
+      "lng": "127.79382705688478"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b035aa1a-6b2e-41ca-aea1-fc00d394a5b0",
+    "name": "Sesoko Island",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.652751846941367",
+      "lng": "127.86000251770021"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b3522a11-e093-4cd7-be17-9744dc252e55",
+    "name": "Manjyu Point",
+    "location": {
+      "country": "Japan",
+      "region": "Ishigaki, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.42323788966282",
+      "lng": "124.12559509277345"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b3b351e9-7fde-4f3d-a858-5371f8312d3b",
+    "name": "I.o.p",
+    "location": {
+      "country": "Japan",
+      "region": "Shizuoka, Chubu",
+      "ocean": [
+        "Pacific Ocean",
+        "Philippine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.831841149828676",
+      "lng": "139.1404724121094"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b3e826ad-7c96-454c-b37f-79ea5b00f798",
+    "name": "Hokkawa",
+    "location": {
+      "country": "Japan",
+      "region": "Shizuoka, Chubu",
+      "ocean": [
+        "Pacific Ocean",
+        "Philippine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.75740963726007",
+      "lng": "139.08279418945315"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b73fd1de-a8f9-46f2-bbf9-b6c2d94f27ef",
+    "name": "Emperors Chair",
+    "location": {
+      "country": "Japan",
+      "region": "Ishigaki, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.475743901054834",
+      "lng": "124.11117553710939"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b749acdf-f0d8-49c5-9e3b-e5f3a01635e8",
+    "name": "Soudensen / Twunaka No Se",
+    "location": {
+      "country": "Japan",
+      "region": "Kahi Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.218922342285325",
+      "lng": "127.29090213775636"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bc7fc47a-9b9c-47b7-9b08-1d4cc523fb74",
+    "name": "Pipelines",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.342729727071152",
+      "lng": "127.74353027343751"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bd2afc88-4fa8-454b-a170-bfdfbe8081b5",
+    "name": "Bolo Flats",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.404785624445886",
+      "lng": "127.71263122558595"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bf69d43a-15c2-4377-80fb-1ae9a2b52bb5",
+    "name": "Shiru",
+    "location": {
+      "country": "Japan",
+      "region": "Zamami Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.21790209066868",
+      "lng": "127.3048496246338"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bff0aab4-59d3-4654-aa77-20ce7bd7087e",
+    "name": "Hamashima East Coral Garden",
+    "location": {
+      "country": "Japan",
+      "region": "Taketomi Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.326920120581377",
+      "lng": "124.0734100341797"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c07aad91-16df-46f0-b106-379f1fb45c62",
+    "name": "Nakayukui",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.50606415667592",
+      "lng": "127.8830909729004"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c359b45e-a588-45fc-a2be-1449ca704e37",
+    "name": "Sea Of Okhotsk",
+    "location": {
+      "country": "Japan",
+      "region": "Shiretoko Peninsula, Japan",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.321883129398586",
+      "lng": "145.09368896484378"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c7a0f6b1-181e-432f-a46f-f8b152e44b3f",
+    "name": "Shippishi Drop",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.736718871555837",
+      "lng": "128.14727783203128"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ca2c1ecc-cfa4-4387-b790-d20d4d397ef7",
+    "name": "Agonoura",
+    "location": {
+      "country": "Japan",
+      "region": "Zamami Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.236996637279347",
+      "lng": "127.31609344482423"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cae624fe-b4fe-4e6f-81db-e423e9efd532",
+    "name": "W-Arch",
+    "location": {
+      "country": "Japan",
+      "region": "Ishigaki, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.456838006999938",
+      "lng": "124.18670654296876"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cd11c734-7576-4888-a415-b5315bf090a9",
+    "name": "Coral Bridge",
+    "location": {
+      "country": "Japan",
+      "region": "Ishigaki, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.41659494622913",
+      "lng": "124.09598350524904"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d0ea6d77-d407-4b68-ae17-6162f5e644aa",
+    "name": "Izu Ocean Park",
+    "location": {
+      "country": "Japan",
+      "region": "Shizuoka, Chubu",
+      "ocean": [
+        "Pacific Ocean",
+        "Philippine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.86058077988933",
+      "lng": "139.12536621093753"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d1936ce4-770c-470c-b3f2-1b15173673b0",
+    "name": "Kin Blue",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Asia",
+        "Japan",
+        "Kyushu",
+        "Okinawa"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.438221998122074",
+      "lng": "127.95066118240358"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d2d53781-ed6e-4482-8c4c-40bb083d2a2c",
+    "name": "Two Gods Rock / Futagamiwa",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.868334032708454",
+      "lng": "128.2439231872559"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d350ece9-09c1-47c8-9eb2-466c93ed6bfc",
+    "name": "Onna Trench",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Asia",
+        "Japan",
+        "Kyushu",
+        "Okinawa"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.478678564725953",
+      "lng": "127.84004688262941"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d4c6b368-c72d-4205-8398-2b141034fb56",
+    "name": "Kaitei Sabaku",
+    "location": {
+      "country": "Japan",
+      "region": "Kahi Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.219134091499708",
+      "lng": "127.28817701339723"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d843c046-8755-432a-a4a1-6319a65ffc5e",
+    "name": "Horse Shoe",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.504988828743404",
+      "lng": "127.84717082977296"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d8bbde59-8e75-4736-b3d0-9037076de777",
+    "name": "Beauty Under The Tree",
+    "location": {
+      "country": "Japan",
+      "region": "Ishigaki, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.459103739032205",
+      "lng": "124.20464515686037"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "da588d4a-6ef6-45b5-bcbd-442a0e694ef5",
+    "name": "Kyoda",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.546612031281025",
+      "lng": "127.96411514282228"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "db9ad1e8-b4e7-4547-8f72-71fcc6f87d48",
+    "name": "Twin Pinnacles",
+    "location": {
+      "country": "Japan",
+      "region": "Tsuken Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "Philippine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.2547794627955",
+      "lng": "127.93115615844728"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dcc033bb-3749-4dd8-8372-930697ce345d",
+    "name": "Sunabe Sea Wall",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.32715285173232",
+      "lng": "127.74327278137208"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dfaa4615-b345-41b9-b99d-b08e92e8a227",
+    "name": "Furuzamami",
+    "location": {
+      "country": "Japan",
+      "region": "Zamami Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.222368031609317",
+      "lng": "127.31102943420412"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e02e038a-0b28-4077-aa7c-83bb2c0c965d",
+    "name": "Gorilla Chop",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.605718655192625",
+      "lng": "127.89236068725587"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e0983bf0-4f40-4c33-ad68-cc153119f3b1",
+    "name": "Larry&#039;s Cove",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.323844899768105",
+      "lng": "127.74511814117433"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e255ba80-96c9-44e2-a774-6478d5d432d9",
+    "name": "Oura Wan Bay",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "Philippine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.54261931594557",
+      "lng": "128.06530952453616"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e43ae60a-e5c0-468e-9c87-7b6a2f219eb1",
+    "name": "Amuro Gyosyou",
+    "location": {
+      "country": "Japan",
+      "region": "Amuro Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.21027879545612",
+      "lng": "127.30725288391115"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e5406265-ca88-405e-a1b9-9c8707af8da1",
+    "name": "Kabira Ishizaki Manta Scramble",
+    "location": {
+      "country": "Japan",
+      "region": "Ishigaki, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.481602589471795",
+      "lng": "124.11237716674806"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e584604e-23e1-4b17-b9c8-d5dd7a773d6e",
+    "name": "Nakachinshi",
+    "location": {
+      "country": "Japan",
+      "region": "Yakabi Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.223022508550375",
+      "lng": "127.24047660827638"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e5e25cd6-a61d-4c66-8bcd-5c9560a1b3a3",
+    "name": "Kin Red",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "Philippine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.447201267047703",
+      "lng": "127.91198037564756"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eacbe6e1-e878-4be9-9256-859fa2946639",
+    "name": "Suicide Cliffs",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "Philippine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.08947160051824",
+      "lng": "127.72627830505373"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eb27e605-78f7-41d5-9cbc-24653cd82c81",
+    "name": "Jijigatama",
+    "location": {
+      "country": "Japan",
+      "region": "Yakabi Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.223484490056464",
+      "lng": "127.25150585174562"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ecbaffdc-d79f-4022-b18c-0c700d41c451",
+    "name": "Honsen",
+    "location": {
+      "country": "Japan",
+      "region": "Ishigaki, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.4216748756102",
+      "lng": "124.1129779815674"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f234c3bc-ff92-43f2-9c5a-ceddce2115ff",
+    "name": "Satan&#039;s Palace",
+    "location": {
+      "country": "Japan",
+      "region": "Irabu Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.86151853356795",
+      "lng": "125.12792587280275"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f252d525-7e66-4e7d-b4ba-9d63b0d9a47c",
+    "name": "Atami",
+    "location": {
+      "country": "Japan",
+      "region": "Shizuoka, Chubu",
+      "ocean": [
+        "Pacific Ocean",
+        "Philippine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.0502352513963",
+      "lng": "139.1404724121094"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f2bc9ea9-2ea1-4aeb-9159-280e0a72061e",
+    "name": "Whale Shark Point",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.386487598324308",
+      "lng": "127.70318984985353"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f3cfeac9-5153-4e5d-81ae-44bce7623f53",
+    "name": "Tonbara",
+    "location": {
+      "country": "Japan",
+      "region": "Kumejima, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.375876490327176",
+      "lng": "126.81278228759767"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f9a3496b-7715-4b53-bb3f-b100d3685434",
+    "name": "Hedo Air Dome",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.85592981510499",
+      "lng": "128.24151992797854"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f9ab3226-62f8-45dd-bf73-bc2a4b744622",
+    "name": "Sukashi Rock",
+    "location": {
+      "country": "Japan",
+      "region": "Ishigaki, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.45511914861939",
+      "lng": "124.15306091308595"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f9d57dfc-d7eb-4c95-945a-6a1a31eec9fb",
+    "name": "Imazuni",
+    "location": {
+      "country": "Japan",
+      "region": "Kumejima, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.390024417703856",
+      "lng": "126.79698944091798"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fa0d6aab-ab67-4b9a-802e-dbbc409239b1",
+    "name": "Cape Iro",
+    "location": {
+      "country": "Japan",
+      "region": "Shizuoka, Chubu",
+      "ocean": [
+        "Pacific Ocean",
+        "Philippine Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "34.53597500508991",
+      "lng": "138.83010864257815"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fd44e910-f87d-40f5-8d48-11add52b05b7",
+    "name": "Saki Motobu",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.63664151435276",
+      "lng": "127.88008689880373"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fe157af5-3a7a-45c0-99f2-3db37da396c0",
+    "name": "Runway Lights",
+    "location": {
+      "country": "Japan",
+      "region": "Okinawa, Kyushu",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.336537689380734",
+      "lng": "127.74155616760255"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ff221e28-47d6-4eb7-b237-a0e6510ac372",
+    "name": "Nita Doukutu",
+    "location": {
+      "country": "Japan",
+      "region": "Zamami Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "26.235456870713985",
+      "lng": "127.28841304779054"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ff8952d3-f23b-48e4-b68e-71a8aff2c191",
+    "name": "Taketomi Submarine Spring",
+    "location": {
+      "country": "Japan",
+      "region": "Taketomi Island, Okinawa",
+      "ocean": [
+        "Pacific Ocean",
+        "East China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.332551098692317",
+      "lng": "124.1005325317383"
+    },
+    "additionalInfo": {}
+  }
+]

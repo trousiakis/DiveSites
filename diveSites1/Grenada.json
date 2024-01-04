@@ -1,0 +1,308 @@
+[
+  {
+    "id": "01ea18db-a848-4e33-9cbb-1f08e7981076",
+    "name": "Sisters Rocks Plateau",
+    "location": {
+      "country": "Grenada",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Grenada",
+        "Carriacou"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.470417148761472",
+      "lng": "-61.519645642669296"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "055d563d-389d-4687-9fe8-bbdb81cb5dcd",
+    "name": "Seaview",
+    "location": {
+      "country": "Grenada",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Grenada",
+        "Carriacou"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.448121977361772",
+      "lng": "-61.497330061897266"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "523a4450-c75a-4e30-92ea-b8e0232fa566",
+    "name": "Oscar Wreck",
+    "location": {
+      "country": "Grenada",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Grenada",
+        "Carriacou"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.460533796356044",
+      "lng": "-61.48857702415812"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "525b1968-6838-4287-9455-2dd2b478573b",
+    "name": "Barril",
+    "location": {
+      "country": "Grenada",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Grenada",
+        "Carriacou"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.451975101059007",
+      "lng": "-61.49355278980902"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "55937a98-1e25-4d78-acb0-a42b0b16363e",
+    "name": "Small Tug Wreck",
+    "location": {
+      "country": "Grenada",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Grenada",
+        "Carriacou"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.484589030167054",
+      "lng": "-61.49587840704084"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5c85689e-5a57-4afb-95a4-dd9b8372aea8",
+    "name": "Lighthouse",
+    "location": {
+      "country": "Grenada",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Grenada",
+        "Carriacou"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.48668410146302",
+      "lng": "-61.476822911506126"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6cfcc242-a6ea-4844-aab9-c66ee432fecc",
+    "name": "Mabouya Champagne",
+    "location": {
+      "country": "Grenada",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Grenada",
+        "Carriacou"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.484924387479118",
+      "lng": "-61.493903965197745"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "77b30f6e-5a0d-4ad2-9000-1f63580f3f67",
+    "name": "White Sand Beach",
+    "location": {
+      "country": "Grenada",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Grenada",
+        "Carriacou"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.470846754698032",
+      "lng": "-61.49759477191545"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "86ffa1ef-f671-4baf-b492-e94303fa9e07",
+    "name": "Sharkies Hide Away",
+    "location": {
+      "country": "Grenada",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Grenada",
+        "Carriacou"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.488143818016194",
+      "lng": "-61.49555047095849"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "94e99e9f-a3cd-4bc5-a298-bf52cab3aa47",
+    "name": "Point Cistern",
+    "location": {
+      "country": "Grenada",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Grenada",
+        "Carriacou"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.475875194821556",
+      "lng": "-61.497251362048324"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9d21802b-5d21-4046-b701-64c0bd7b9eea",
+    "name": "Something Special",
+    "location": {
+      "country": "Grenada",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Grenada",
+        "Carriacou"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.463206849240967",
+      "lng": "-61.49475098469776"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a4c5d71f-c95f-4773-9527-374e42008c8c",
+    "name": "Sisters Rock Deep Blue",
+    "location": {
+      "country": "Grenada",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Grenada",
+        "Carriacou"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.474560869787984",
+      "lng": "-61.51871364526683"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a79c6cce-ea1d-40e0-a8a2-ee3557d26fa2",
+    "name": "Jack Adam",
+    "location": {
+      "country": "Grenada",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Grenada",
+        "Carriacou"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.495150435863564",
+      "lng": "-61.467638492715054"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "aea74e1d-9716-40e8-b55a-4916fac81499",
+    "name": "Sandy Island Garden",
+    "location": {
+      "country": "Grenada",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Grenada",
+        "Carriacou"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.486852263060543",
+      "lng": "-61.482318788523294"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b245323e-e1ca-4ceb-8e6a-1586a5af3246",
+    "name": "Black Sand Beach",
+    "location": {
+      "country": "Grenada",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Grenada",
+        "Carriacou"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.466317134599654",
+      "lng": "-61.49733711806832"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dce2b625-ca20-45b7-82a9-f3f9d1136020",
+    "name": "The Wreck Sanctuary",
+    "location": {
+      "country": "Grenada",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Grenada",
+        "Carriacou"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.457268438973795",
+      "lng": "-61.49416122081299"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e80a912e-d251-490d-87a2-09cf3cd3ed30",
+    "name": "Troll Mammouth Wreck",
+    "location": {
+      "country": "Grenada",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Grenada",
+        "Carriacou"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.471344184333942",
+      "lng": "-61.52643827623896"
+    },
+    "additionalInfo": {}
+  }
+]

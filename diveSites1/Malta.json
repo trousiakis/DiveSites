@@ -1,0 +1,1027 @@
+[
+  {
+    "id": "0378c0af-0933-420a-a0cf-9a8c2d37fc8f",
+    "name": "St. Marija Caves",
+    "location": {
+      "country": "Malta",
+      "region": "Comino, Malta",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.019496331114865",
+      "lng": "14.340333938598635"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "066c626d-b0e0-4437-b411-1817ac806b23",
+    "name": "Mv Karwela &amp; Mv Cominoland",
+    "location": {
+      "country": "Malta",
+      "region": "Gozo, Malta",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.01737316765945",
+      "lng": "14.286317825426524"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "077ef561-9f92-4871-b2db-62701bbd3ea2",
+    "name": "Blue Hole &amp; Azure Window",
+    "location": {
+      "country": "Malta",
+      "region": "Gozo, Malta",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.052979213586916",
+      "lng": "14.188470840563243"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "07b2c153-a8ad-453b-a49f-fa9ede1d9d62",
+    "name": "Devil&#039;s Reef",
+    "location": {
+      "country": "Malta",
+      "region": "Malta, Europe",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.96453020841806",
+      "lng": "14.295101165771486"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0977b52b-18d3-41e9-8ca5-db83f45a2bd6",
+    "name": "Um El Faroud",
+    "location": {
+      "country": "Malta",
+      "region": "Malta, Europe",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.810992207495154",
+      "lng": "14.48375701904297"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0c0e41ee-355f-426b-9f79-8a63045b5c33",
+    "name": "Fungus Rock",
+    "location": {
+      "country": "Malta",
+      "region": "Gozo, Malta",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.01717068275657",
+      "lng": "14.203262329101564"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0ef1b2cb-23f1-446f-b425-3cea296c6753",
+    "name": "Big Bear &amp; Coral Gardens",
+    "location": {
+      "country": "Malta",
+      "region": "Gozo, Malta",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.051863153939365",
+      "lng": "14.18846368811501"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "16ec27ff-7e77-40c4-8872-f2239a5783cf",
+    "name": "Triple Arch",
+    "location": {
+      "country": "Malta",
+      "region": "Gozo, Malta",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.081118341119364",
+      "lng": "14.252400398254396"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1eec1043-cd02-4d3b-9153-278580152053",
+    "name": "South Reef",
+    "location": {
+      "country": "Malta",
+      "region": "Malta, Europe",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.81725636831818",
+      "lng": "14.561347961425783"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1efc576a-7911-4f22-9813-31a3a4173448",
+    "name": "Qbajjar Bay",
+    "location": {
+      "country": "Malta",
+      "region": "Gozo, Malta",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.078551720606434",
+      "lng": "14.25278663635254"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "222a5717-4813-4ed4-8de4-2bc473be1d14",
+    "name": "Merkanti Reef",
+    "location": {
+      "country": "Malta",
+      "region": "Malta, Europe",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.93520855188002",
+      "lng": "14.483413696289064"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2b897f0d-2be3-4c07-847f-910c59b5f57f",
+    "name": "Mv Imperial Eagle",
+    "location": {
+      "country": "Malta",
+      "region": "Malta, Europe",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.96383550832093",
+      "lng": "14.451484680175783"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2e052b10-aeb3-49ee-8549-8f64d7ffada8",
+    "name": "Zurrieq East Reef",
+    "location": {
+      "country": "Malta",
+      "region": "Malta, Europe",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.80973931602818",
+      "lng": "14.497833251953127"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3721d990-dd30-43a6-ad37-7dc7dec769f4",
+    "name": "Zurrieq Reef",
+    "location": {
+      "country": "Malta",
+      "region": "Malta, Europe",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.81930462034903",
+      "lng": "14.451119899749758"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3be19f9e-fe8c-4841-bf7f-f2e0207628db",
+    "name": "Hms Maori",
+    "location": {
+      "country": "Malta",
+      "region": "Malta, Europe",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.89457800226974",
+      "lng": "14.521436691284181"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "43083039-de64-4e01-9531-845a6a3b8479",
+    "name": "P31 Patrol Boat",
+    "location": {
+      "country": "Malta",
+      "region": "Comino, Malta",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.007520244490834",
+      "lng": "14.322824478149416"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "47348958-1436-488c-a68a-0eb7c926d79d",
+    "name": "Ras Il-Hobz",
+    "location": {
+      "country": "Malta",
+      "region": "Gozo, Malta",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.01574749095722",
+      "lng": "14.279866218566896"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "47ecb95f-ec0f-4a5c-954c-f41671cface5",
+    "name": "Reqqa Point",
+    "location": {
+      "country": "Malta",
+      "region": "Gozo, Malta",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.08208369229173",
+      "lng": "14.236421585301287"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "496d44c2-cec4-4fd6-87ba-9fe4cc73cc14",
+    "name": "Santa Maria Reef",
+    "location": {
+      "country": "Malta",
+      "region": "Comino, Malta",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.019097157544316",
+      "lng": "14.340387582778932"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4bae3b36-6aca-4ea0-aed6-f5ac295cdd8d",
+    "name": "Filfla Island",
+    "location": {
+      "country": "Malta",
+      "region": "Malta, Europe",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.787671266049244",
+      "lng": "14.408311843872072"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "509c0e81-c261-4dcb-b944-a994a1e05e3a",
+    "name": "Comino Jetty",
+    "location": {
+      "country": "Malta",
+      "region": "Comino, Malta",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.00342365813113",
+      "lng": "14.334840774536135"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "52cc1879-4ee0-4b18-b682-cbe0ccec04e7",
+    "name": "Hms Stubborn",
+    "location": {
+      "country": "Malta",
+      "region": "Malta, Europe",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.98245135784044",
+      "lng": "14.444618225097658"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "52cf24e3-87c8-41b5-9cc8-cce48b539590",
+    "name": "Sugar Loaf And Madonna",
+    "location": {
+      "country": "Malta",
+      "region": "Malta, Europe",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.97911749857499",
+      "lng": "14.316558837890627"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5359db99-e6bb-4288-8d07-9a1a12b85c76",
+    "name": "Qammieh Point",
+    "location": {
+      "country": "Malta",
+      "region": "Malta, Europe",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.98050662371824",
+      "lng": "14.276390075683596"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "55519e8d-4ca4-4320-b99b-7f8516fcb175",
+    "name": "Blue Dome",
+    "location": {
+      "country": "Malta",
+      "region": "Gozo, Malta",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.08101429056579",
+      "lng": "14.249610900878908"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "56a24cbb-0ae3-48f1-b77d-86d8d17915cd",
+    "name": "Ghar Lapsi",
+    "location": {
+      "country": "Malta",
+      "region": "Malta, Europe",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.81210587220457",
+      "lng": "14.47551727294922"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "56af6a8d-818e-4532-ac3c-91fd6039df61",
+    "name": "Mgarr Ix-Xini",
+    "location": {
+      "country": "Malta",
+      "region": "Gozo, Malta",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.020144261428015",
+      "lng": "14.27145481175103"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "597f9567-cbd2-461e-8315-415c712d0e9f",
+    "name": "San Dimitri Point",
+    "location": {
+      "country": "Malta",
+      "region": "Gozo, Malta",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.07255105118864",
+      "lng": "14.183177947998049"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5c04c077-d7b2-4166-84f8-df3a45666384",
+    "name": "Comino Arch",
+    "location": {
+      "country": "Malta",
+      "region": "Comino, Malta",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.0124844664143",
+      "lng": "14.320442676544191"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5e7cf74a-f63e-436c-8c77-0cebbf503ea8",
+    "name": "Tunnel &amp; Reef",
+    "location": {
+      "country": "Malta",
+      "region": "Gozo, Malta",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.02244668175846",
+      "lng": "14.21287536621094"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "64979b35-f6f6-4a48-8a87-cb5f53cb3dab",
+    "name": "Exiles",
+    "location": {
+      "country": "Malta",
+      "region": "Malta, Europe",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.927702682513576",
+      "lng": "14.495429992675781"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "67b5f772-7fa0-4bbd-93dc-a949b2e80b40",
+    "name": "Mv Xlendi",
+    "location": {
+      "country": "Malta",
+      "region": "Gozo, Malta",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.01671364464215",
+      "lng": "14.28489446596359"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6dfa6fba-b31e-4f6e-8adb-5ce72d8fbcb8",
+    "name": "Ta&#039;cenc Reef",
+    "location": {
+      "country": "Malta",
+      "region": "Gozo, Malta",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.011616617997426",
+      "lng": "14.23656463623047"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7f95fdca-131f-438b-83f0-39df74754976",
+    "name": "The Canyon",
+    "location": {
+      "country": "Malta",
+      "region": "Comino, Malta",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.02004904397271",
+      "lng": "14.328489303588867"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8002a445-436d-4ed9-870e-223ee874777c",
+    "name": "Cominotto Reef",
+    "location": {
+      "country": "Malta",
+      "region": "Comino, Malta",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.012172042084934",
+      "lng": "14.315185546875"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8196156f-d198-4380-8f4c-65877a506282",
+    "name": "Tunnel And Reef",
+    "location": {
+      "country": "Malta",
+      "region": "Malta, Europe",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.9974519815276",
+      "lng": "14.370117187500002"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "82a9ca77-d838-4b5b-977d-642edb2d2ec9",
+    "name": "Billinghurst Cave",
+    "location": {
+      "country": "Malta",
+      "region": "Gozo, Malta",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.081222391535256",
+      "lng": "14.235148429870607"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "880662f1-14a3-4e5b-9ccb-9fb142fe181a",
+    "name": "Inland Sea &amp; Tunnel",
+    "location": {
+      "country": "Malta",
+      "region": "Gozo, Malta",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.053794564151715",
+      "lng": "14.191131590923762"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9304ccfc-489e-450c-889b-874b68d64dcb",
+    "name": "Fessej Rock",
+    "location": {
+      "country": "Malta",
+      "region": "Gozo, Malta",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.01520944833874",
+      "lng": "14.276111125946047"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9316a40c-46f2-48a6-a3f4-a88b8bab1907",
+    "name": "Fortizza",
+    "location": {
+      "country": "Malta",
+      "region": "Malta, Europe",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.91546936862504",
+      "lng": "14.508132934570314"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9424b326-c9b0-4894-b48b-79e0f4a4f7e2",
+    "name": "Tug Boats",
+    "location": {
+      "country": "Malta",
+      "region": "Malta, Europe",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.86290020889522",
+      "lng": "14.57542419433594"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "943a5cdf-2ebb-45f3-aa62-6e0f837f4714",
+    "name": "P29 Patrol Boat",
+    "location": {
+      "country": "Malta",
+      "region": "Malta, Europe",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.989211249790955",
+      "lng": "14.32565689086914"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9b588644-07d6-4c0d-86f7-b086dad20f7b",
+    "name": "Tug Boat Rozi",
+    "location": {
+      "country": "Malta",
+      "region": "Malta, Europe",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.9895584900069",
+      "lng": "14.327187538365255"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9b92e9b1-d5f3-4a44-b836-adf531fcae41",
+    "name": "Sirens",
+    "location": {
+      "country": "Malta",
+      "region": "St Paul&#039;s Bay, Malta",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.95013355712926",
+      "lng": "14.404213428497316"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "aa12e33c-5689-4132-a641-727eeff59ece",
+    "name": "Crystal Lagoon",
+    "location": {
+      "country": "Malta",
+      "region": "Comino, Malta",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.00901569868845",
+      "lng": "14.32837486441713"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b69daf2c-a8aa-4b71-8b59-ef63f12da9ef",
+    "name": "Lantern Point",
+    "location": {
+      "country": "Malta",
+      "region": "Comino, Malta",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.003354222629675",
+      "lng": "14.322180747985842"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c3205222-48de-43e1-a3e7-c2e4c3e471e3",
+    "name": "Cirkewwa Reef",
+    "location": {
+      "country": "Malta",
+      "region": "Malta, Europe",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.9903339856241",
+      "lng": "14.32846784591675"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c3eb7c09-a031-4c40-a433-2bbfb93fc597",
+    "name": "Wied Ir-Raheb",
+    "location": {
+      "country": "Malta",
+      "region": "Gozo, Malta",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.075187239808706",
+      "lng": "14.18712615966797"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d35b8708-c7b9-4767-b239-917a03aaeccc",
+    "name": "Anchor Bay",
+    "location": {
+      "country": "Malta",
+      "region": "Malta, Europe",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.955498630458365",
+      "lng": "14.328918457031252"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d420be5d-6526-4067-b3d7-fc7dc10be0d8",
+    "name": "Alex&#039;s Cave",
+    "location": {
+      "country": "Malta",
+      "region": "Comino, Malta",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.010404096770024",
+      "lng": "14.32509183927323"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d5ca8116-6367-4f95-8804-c56707dd47c6",
+    "name": "Lighter X127",
+    "location": {
+      "country": "Malta",
+      "region": "Malta, Europe",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.90281701998577",
+      "lng": "14.507317543029787"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dc10aa52-688a-445b-8d63-1b24b43c2677",
+    "name": "Marsalforn Bay",
+    "location": {
+      "country": "Malta",
+      "region": "Gozo, Malta",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.07230823989796",
+      "lng": "14.259223937988283"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eb723a34-2adf-4d01-aa69-dfaa22a8a392",
+    "name": "Cirkewwa Arch",
+    "location": {
+      "country": "Malta",
+      "region": "Malta, Europe",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.990734502837476",
+      "lng": "14.329025745391847"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f1e9278d-1f9b-4346-9250-e6466df72aca",
+    "name": "Qawra Point North",
+    "location": {
+      "country": "Malta",
+      "region": "Malta, Europe",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.96119559221373",
+      "lng": "14.430541992187502"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f23ef4e0-1612-4b50-9bab-fbf87493e085",
+    "name": "Coral Gardens",
+    "location": {
+      "country": "Malta",
+      "region": "Malta, Europe",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.91074235422712",
+      "lng": "14.52220916748047"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f9ac6d7c-be42-4077-a5e9-660179edecd1",
+    "name": "West Reef And Caves",
+    "location": {
+      "country": "Malta",
+      "region": "Malta, Europe",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "35.81057457920251",
+      "lng": "14.491310119628908"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fbb0b420-4386-4792-bc69-37edca0186b7",
+    "name": "Double Arch",
+    "location": {
+      "country": "Malta",
+      "region": "Gozo, Malta",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Sicily"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.0817195197523",
+      "lng": "14.248509406497764"
+    },
+    "additionalInfo": {}
+  }
+]

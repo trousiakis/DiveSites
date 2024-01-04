@@ -1,0 +1,4116 @@
+[
+  {
+    "id": "0126ccc3-6d33-4cb9-a6dd-1519273acf43",
+    "name": "The Rock",
+    "location": {
+      "country": "Thailand",
+      "region": "Racha Noi Island, Phuket",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.552420449639636",
+      "lng": "98.33433151245119"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "01c6e49f-45ab-4bb4-bfee-eff9c67f9d22",
+    "name": "Paradise Reef",
+    "location": {
+      "country": "Thailand",
+      "region": "Phuket, Southern Thailand",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.893819147272116",
+      "lng": "98.2584571838379"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "02446f8e-9466-4cec-8a7e-940fa2946c44",
+    "name": "Shark Fin Reef",
+    "location": {
+      "country": "Thailand",
+      "region": "Payang Island, Similan Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.50966017107524",
+      "lng": "97.66388654708864"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "02dea021-ef79-4ee4-929a-46dfb03e5f6e",
+    "name": "Bang Bao Reef",
+    "location": {
+      "country": "Thailand",
+      "region": "Kut Island, Trat",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.612304159956192",
+      "lng": "102.53288984298707"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "02e2bed0-8e7d-416e-bb84-4d6926dcace3",
+    "name": "Nongasem",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Phi Phi, Krabi",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.737868042662746",
+      "lng": "98.7528419494629"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "03582fb5-43ef-41a5-8e49-6bcbeb0ffb05",
+    "name": "Snapper Alley",
+    "location": {
+      "country": "Thailand",
+      "region": "Bangu Island, Similan Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.674112028109114",
+      "lng": "97.65669822692873"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "04d60595-94b4-42c2-92c5-245486c3147b",
+    "name": "Bremen Wreck",
+    "location": {
+      "country": "Thailand",
+      "region": "Pattaya, Bang Lamung District",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.66914682053963",
+      "lng": "100.8043670654297"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "05240fb7-d618-4f10-92bc-1cf16908f3bb",
+    "name": "Matlang Island",
+    "location": {
+      "country": "Thailand",
+      "region": "Samui Island, Surat Thani",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.597364774080114",
+      "lng": "100.06570816040039"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "05f18cc3-8e53-4acf-839e-878698b70806",
+    "name": "Rawi Corner",
+    "location": {
+      "country": "Thailand",
+      "region": "Ra Wi Island, Adang-Rawi Archipelago",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.554792445663384",
+      "lng": "99.16798353195192"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "09b63417-3fc4-4de8-a67f-7122b0943581",
+    "name": "Boulder Bay",
+    "location": {
+      "country": "Thailand",
+      "region": "Rok Yai Island, Ko Libong",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.221906591057884",
+      "lng": "99.06423568725587"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0bf8b7a0-97bb-45e6-8b3a-8ee13afb3f8d",
+    "name": "Kra",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Lipe, Adang-Rawi Archipelago",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.493053426847653",
+      "lng": "99.31365966796875"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0c8865d7-bf26-48cf-a546-1ab1c39d21a5",
+    "name": "Lighthouse Bay",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Tao, Surat Thani",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.119794660290893",
+      "lng": "99.84366416931154"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0cd9ccb8-4a0e-4166-b91c-047ac9a1e12e",
+    "name": "Hin Wong Pinnacle",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Tao, Surat Thani",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.11066902952208",
+      "lng": "99.85482215881349"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0ce328fb-636b-4a90-93bc-70de3c284a62",
+    "name": "Banana Bay",
+    "location": {
+      "country": "Thailand",
+      "region": "Racha Noi Island, Phuket",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.506301322489704",
+      "lng": "98.33484649658203"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0ee8a369-e1a2-4741-bc10-ffe56ada3446",
+    "name": "Tong Cave",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Phi Phi, Krabi",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.789404671570122",
+      "lng": "98.7550735473633"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "120ea71a-e2cd-4985-b8b3-938f63bd6508",
+    "name": "Hin Rap",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Surin, Phang Nga",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.473783449286675",
+      "lng": "97.88028717041017"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "14a0d6e8-be0a-4481-a7e3-30a22e1b429d",
+    "name": "Anita&#039;s Reef",
+    "location": {
+      "country": "Thailand",
+      "region": "Ha Island, Similan Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.573022144499168",
+      "lng": "97.64388799667358"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1708a2da-4e81-4cdf-9850-e7adf7d86765",
+    "name": "Larn Pet Larn Kai",
+    "location": {
+      "country": "Thailand",
+      "region": "Thailand, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.963006464208465",
+      "lng": "100.51391601562501"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1934bba6-73f3-4db5-9f2e-29f74dcb1367",
+    "name": "Atlantis Wreck",
+    "location": {
+      "country": "Thailand",
+      "region": "Similan Islands, Phang Nga",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.647807927769863",
+      "lng": "97.64991760253908"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1cbb5007-c369-43c6-930e-ad7df8ae0568",
+    "name": "Wang Long",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Phi Phi, Krabi",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.723239335097159",
+      "lng": "98.75782012939455"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1dceb8d3-b441-470f-b2de-05dcb983bb7b",
+    "name": "Hin Rua Tek",
+    "location": {
+      "country": "Thailand",
+      "region": "Khlum Island, Trat",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.923790487356873",
+      "lng": "102.34983444213869"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1e15a030-d200-45b4-8fb3-17dc811c9716",
+    "name": "Nai Harn",
+    "location": {
+      "country": "Thailand",
+      "region": "Phuket, Southern Thailand",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.770525650188493",
+      "lng": "98.29210281372072"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1f187098-7d7f-436c-b179-06365c22256c",
+    "name": "Pakagem",
+    "location": {
+      "country": "Thailand",
+      "region": "Batong Island, Adang-Rawi Archipelago",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.495526544652556",
+      "lng": "99.17747855186464"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "20753273-991a-4a80-8e41-462161e9c881",
+    "name": "Hideaway Bay",
+    "location": {
+      "country": "Thailand",
+      "region": "Similan Islands, Phang Nga",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.566826461752962",
+      "lng": "97.64588356018068"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "20edf11e-6367-4bc6-a570-41e029265483",
+    "name": "Koh Waeo",
+    "location": {
+      "country": "Thailand",
+      "region": "Phuket, Southern Thailand",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.032204132958785",
+      "lng": "98.25965881347658"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "21878ab5-f892-4f79-95e5-15d1730bfe41",
+    "name": "Southern Ridge",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Haa Lagoon, Ko Tu Kon Li Ma",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.426687536326122",
+      "lng": "98.89575004577638"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2198039a-797c-4790-b284-01153a4c6c3b",
+    "name": "Anemone Reef",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Phi Phi, Krabi",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.829370960701883",
+      "lng": "98.55697631835939"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "21a10e23-5c5a-404b-8c83-11bad2a35fed",
+    "name": "The Maze",
+    "location": {
+      "country": "Thailand",
+      "region": "Ko Ha Yai, Ko Tu Kon Li Ma",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.424666153496545",
+      "lng": "98.88725280761719"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "23bc5a16-9798-48f2-aaf3-28851300466d",
+    "name": "Beacon Beach",
+    "location": {
+      "country": "Thailand",
+      "region": "Similan Islands, Phang Nga",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.638388915941821",
+      "lng": "97.65111923217775"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "241e9030-445c-43bd-92ad-e4d6e4c1fb5c",
+    "name": "Koh Phai",
+    "location": {
+      "country": "Thailand",
+      "region": "Pattaya, Bang Lamung District",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.94969085521958",
+      "lng": "100.65948486328126"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2425cdc0-42e2-4c0e-8a89-3a549ad627a0",
+    "name": "Mushroom Rock",
+    "location": {
+      "country": "Thailand",
+      "region": "Phi Phi Lee Island, Koh Phi Phi",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.695495195266519",
+      "lng": "98.76282980956603"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "260d7dcf-af19-4abf-9ddb-40558f488b73",
+    "name": "Siam Bay",
+    "location": {
+      "country": "Thailand",
+      "region": "Racha Yai Island, Phuket",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.613337798628806",
+      "lng": "98.3705520629883"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "269d8b14-b2ea-40e9-8bf3-1c459191157c",
+    "name": "Koh Chuang",
+    "location": {
+      "country": "Thailand",
+      "region": "Pattaya, Bang Lamung District",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.508984031068016",
+      "lng": "100.94375610351562"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "27763cc2-77f6-4f4f-a77f-5a3ead456331",
+    "name": "Koh Sak",
+    "location": {
+      "country": "Thailand",
+      "region": "Pattaya, Bang Lamung District",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.945173834455256",
+      "lng": "100.78720092773439"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "27da313e-01da-4370-94a5-da7647213960",
+    "name": "Koh Chi ",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Surin, Phang Nga",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.471751602188272",
+      "lng": "97.90637969970705"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2856b32f-5b8b-4469-89b0-ffb07f989d60",
+    "name": "Kood Wreck",
+    "location": {
+      "country": "Thailand",
+      "region": "Pattaya, Bang Lamung District",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.944002741634725",
+      "lng": "100.80316543579103"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "294ff440-0579-4fe9-b219-a5cf6e54a9fa",
+    "name": "Lak Uan Reef",
+    "location": {
+      "country": "Thailand",
+      "region": "Kut Island, Trat",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.704013670565237",
+      "lng": "102.53119468688965"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "29938739-5dc9-4303-b630-b42ff214ac8b",
+    "name": "8 Miles",
+    "location": {
+      "country": "Thailand",
+      "region": "Adang-Rawi Archipelago, Satun",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.468151012664214",
+      "lng": "99.22739982604982"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2b598789-e024-4bad-8dc1-3d85068dc9a8",
+    "name": "Pattaya Corner",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Lipe, Adang-Rawi Archipelago",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.476167677413658",
+      "lng": "99.30091381073"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2b90a70a-5519-4723-a0a8-37953d121cae",
+    "name": "Green Shark",
+    "location": {
+      "country": "Thailand",
+      "region": "Nang Yuan, Ko Phangan District",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.123343446656204",
+      "lng": "99.80847358703615"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2bf7fef8-86e0-49c6-a229-0bdc5289695f",
+    "name": "Paradise",
+    "location": {
+      "country": "Thailand",
+      "region": "Phuket, Southern Thailand",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.897219828528846",
+      "lng": "98.26137542724611"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2c14d9d7-4d88-40b7-964f-519e489320d5",
+    "name": "Anemone Reef",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Phi Phi, Krabi",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.879706021125551",
+      "lng": "98.69842529296875"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2cce7cf5-a110-451e-b3da-e9de0318cb0a",
+    "name": "Bungalow Bay",
+    "location": {
+      "country": "Thailand",
+      "region": "Phuket, Southern Thailand",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.8756250274646336",
+      "lng": "98.26549530029298"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2cf1cee2-a05c-416f-ad7a-f381a9c6df41",
+    "name": "Maya Wall",
+    "location": {
+      "country": "Thailand",
+      "region": "Phi Phi Lee Island, Koh Phi Phi",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.671014125973459",
+      "lng": "98.76039505004884"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2f61bd3a-394c-4e0d-8dc3-ca63c33edb35",
+    "name": "Koh Rang Pinnacles",
+    "location": {
+      "country": "Thailand",
+      "region": "Rang Island, Trat",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.80933333333333",
+      "lng": "102.37238333333333"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "306c5dc1-fd4d-403b-a38d-b9fa85923193",
+    "name": "Bungalow Bay South Wall",
+    "location": {
+      "country": "Thailand",
+      "region": "Racha Yai Island, Phuket",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.607978098882279",
+      "lng": "98.36068153381348"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "30d08e64-e7c3-4064-86c8-b485f2b5507e",
+    "name": "Koh Bida Nok",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Phi Phi, Krabi",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.606531819221152",
+      "lng": "98.78494262695314"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "31614700-6ecf-4bde-8f78-cf40c7ef74dc",
+    "name": "Monkey Beach",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Phi Phi, Krabi",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.721594105357409",
+      "lng": "98.7704565189779"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "361a2ea7-8020-485c-a722-e2f90f40b002",
+    "name": "Hin Dot",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Phi Phi, Krabi",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.71626500544523",
+      "lng": "98.77824783325197"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3659ac17-b1de-418f-a943-c3072e6dbb01",
+    "name": "Seastar Cove",
+    "location": {
+      "country": "Thailand",
+      "region": "Rok Yai Island, Ko Libong",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.216882726806128",
+      "lng": "99.07178878784181"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3774aeb8-4b0b-4734-b52a-b156eaf0f802",
+    "name": "Nang Yuan Pinnacle",
+    "location": {
+      "country": "Thailand",
+      "region": "Nang Yuan, Ko Phangan District",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.12224501697433",
+      "lng": "99.81628417968751"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3a3542a9-a295-4940-adce-f86acae9b3c2",
+    "name": "Big Rock",
+    "location": {
+      "country": "Thailand",
+      "region": "Adang Island, Adang-Rawi Archipelago",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.565621570463307",
+      "lng": "99.2702078819275"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3ae2db63-943a-4f98-92d5-98da7e5ddda6",
+    "name": "Taru",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Lipe, Adang-Rawi Archipelago",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.550017323769185",
+      "lng": "99.35176849365236"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3b335f5e-6eac-49f4-aff9-1283774e29fb",
+    "name": "Southwest Pinnacle",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Tao, Surat Thani",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.050670014451132",
+      "lng": "99.81748580932619"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3d5d1301-7178-4c92-9f93-ea47403e1b85",
+    "name": "Buddha Rock",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Tao, Surat Thani",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.05863780791804",
+      "lng": "99.82641220092775"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3e38e431-c7b6-42c9-a326-4f750a20952f",
+    "name": "Barracuda Blue",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Haa Lagoon, Ko Tu Kon Li Ma",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.429964284532059",
+      "lng": "98.8981318473816"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3e6542e3-5a14-425b-ad67-60bf09381a73",
+    "name": "The Plateau",
+    "location": {
+      "country": "Thailand",
+      "region": "Rok Yai Island, Ko Libong",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.223013536694814",
+      "lng": "99.08329010009767"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3e8f8d0b-4e5b-4bd6-9a1e-3a9a966f0f3f",
+    "name": "The Morning Edge",
+    "location": {
+      "country": "Thailand",
+      "region": "Payu Island, Similan Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.589465675531466",
+      "lng": "97.64137744903564"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3ea47aae-6c9a-418c-affb-ae10cd7ec958",
+    "name": "Backyard",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Lipe, Adang-Rawi Archipelago",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.491688942857699",
+      "lng": "99.29301738739015"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3ef80373-fb33-4339-8079-1694da446b33",
+    "name": "Loh Samah",
+    "location": {
+      "country": "Thailand",
+      "region": "Phi Phi Lee Island, Koh Phi Phi",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.674246491629013",
+      "lng": "98.77756118774415"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4017eeb0-cbae-40a1-814f-1e4c680f52fc",
+    "name": "Hin Wong Bay",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Tao, Surat Thani",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.102303640289682",
+      "lng": "99.85095977783205"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "403966d9-7f5a-4c4d-8d45-11e0aa712734",
+    "name": "Ling Kaow",
+    "location": {
+      "country": "Thailand",
+      "region": "Batong Island, Adang-Rawi Archipelago",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.5133496891197025",
+      "lng": "99.17427062988283"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "40c1bb2b-aa8a-4c73-b50f-06ed3abfb98e",
+    "name": "Staghorn Reef",
+    "location": {
+      "country": "Thailand",
+      "region": "Racha Yai Island, Phuket",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.60168249301929",
+      "lng": "98.37836265563966"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "40c4fd65-f017-40fa-a8ff-a9572a565a1a",
+    "name": "North Point",
+    "location": {
+      "country": "Thailand",
+      "region": "Bangu Island, Similan Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.682002899232154",
+      "lng": "97.64459609985352"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "426cc10a-6485-4e5e-87cd-6f0072807212",
+    "name": "Htms Chang Wreck",
+    "location": {
+      "country": "Thailand",
+      "region": "Khlum Island, Trat",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.90044339282193",
+      "lng": "102.25919723510744"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "43732ad4-a2c7-45b0-941a-048a2b783099",
+    "name": "Stonehenge",
+    "location": {
+      "country": "Thailand",
+      "region": "Miang Island, Similan Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.578475110476186",
+      "lng": "97.62983322143556"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "44550efe-6aeb-4e43-a53f-b104eeff7ad9",
+    "name": "Lana Bay",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Phi Phi, Krabi",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.76593332736312",
+      "lng": "98.75576019287111"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "459ad2ef-90a6-4925-bf73-13bfa9b7bccb",
+    "name": "Marla&#039;s Mystery",
+    "location": {
+      "country": "Thailand",
+      "region": "Racha Yai Island, Phuket",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.606361668352242",
+      "lng": "98.37793350219728"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "463346cb-1340-43da-b158-2c68c441cd39",
+    "name": "The Cathedral",
+    "location": {
+      "country": "Thailand",
+      "region": "Ko Ha Yai, Ko Tu Kon Li Ma",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.4219851471965494",
+      "lng": "98.88841152191164"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "46e2c4c0-a662-4670-8bb6-658b59f6ab41",
+    "name": "Rock Point",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Phangan, Ko Phangan District",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.803226203070157",
+      "lng": "100.01534700393678"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4715d2d3-9063-4b9f-9ad1-2ad605c705a3",
+    "name": "Christmas Point",
+    "location": {
+      "country": "Thailand",
+      "region": "Bangu Island, Similan Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.680305951701326",
+      "lng": "97.63953208923341"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "48211da1-6d68-444c-a7b6-7ce5113708ed",
+    "name": "Koh Mannai",
+    "location": {
+      "country": "Thailand",
+      "region": "Mannai Island, Rayong Province",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.610017625252532",
+      "lng": "101.68611683546153"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "48373b64-c445-4ec3-8a09-81bf3834fe6d",
+    "name": "Koh Man Wichai",
+    "location": {
+      "country": "Thailand",
+      "region": "Pattaya, Bang Lamung District",
+      "ocean": [
+        "Asia",
+        "Thailand",
+        "Eastern Thailand",
+        "Chonburi",
+        "Bang Lamung District",
+        "Pattaya"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.863686135946153",
+      "lng": "100.67459106445314"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "484c8e7f-1f48-4719-bdab-57a2287691de",
+    "name": "Purple Garden",
+    "location": {
+      "country": "Thailand",
+      "region": "Racha Yai Island, Phuket",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.586878948040651",
+      "lng": "98.36368560791017"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "49265c25-d37e-4407-bf26-305c7ce7c173",
+    "name": "Yanui ",
+    "location": {
+      "country": "Thailand",
+      "region": "Phuket, Southern Thailand",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.7680934250379705",
+      "lng": "98.3054151540273"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4a12999d-5af4-446b-b1af-6261debfe230",
+    "name": "Honeymoon Bay",
+    "location": {
+      "country": "Thailand",
+      "region": "Miang Island, Similan Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.561415765838014",
+      "lng": "97.6399612426758"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4accc031-70ba-4ca6-b1f0-03603b69777e",
+    "name": "Samran Pinnacle",
+    "location": {
+      "country": "Thailand",
+      "region": "Sai Daeng, Koh Tao",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.056332370263279",
+      "lng": "99.83971595764162"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4c050ee1-35c3-493f-a764-d4db583f164c",
+    "name": "Mv Trident",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Tao, Surat Thani",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.05977199143165",
+      "lng": "99.84544944658411"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4ce966d1-32db-4ea5-81ec-5a1c3743c174",
+    "name": "Snapper Bonanza",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Haa Lagoon, Ko Tu Kon Li Ma",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.427857806347271",
+      "lng": "98.8972306251526"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4d8577eb-2d1b-4957-83d0-7304243b0921",
+    "name": "Koh Yak Yai",
+    "location": {
+      "country": "Thailand",
+      "region": "Rang Island, Trat",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.788128428483507",
+      "lng": "102.39571094512941"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4f6faed2-523a-4c75-b1fe-d933f88c2a31",
+    "name": "Lucy&#039;s Reef",
+    "location": {
+      "country": "Thailand",
+      "region": "Racha Yai Island, Phuket",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.5958972602869474",
+      "lng": "98.37141036987306"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5237a806-7072-46e5-9008-dac5dd5cf510",
+    "name": "Nang Yuang Cave",
+    "location": {
+      "country": "Thailand",
+      "region": "Nang Yuan, Ko Phangan District",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.126300738648935",
+      "lng": "99.81791496276855"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "53e72fbe-9071-411c-af07-f9caa128c072",
+    "name": "Chumphon Pinnacle",
+    "location": {
+      "country": "Thailand",
+      "region": "Nang Yuan, Ko Phangan District",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.17437402751379",
+      "lng": "99.73114013671876"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "54e71f20-9904-4637-8e95-25e40e3690c8",
+    "name": "Maya Corner",
+    "location": {
+      "country": "Thailand",
+      "region": "Phi Phi Lee Island, Koh Phi Phi",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.6825399489747035",
+      "lng": "98.76086711883546"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "578983c8-de31-46a4-bec4-563f4ba2dcf4",
+    "name": "Mao Bay",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Tao, Surat Thani",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.092585995756522",
+      "lng": "99.85336303710939"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "587a23ce-276f-42f0-8ff8-8e6e7bc8aac4",
+    "name": "Mannai Jetty",
+    "location": {
+      "country": "Thailand",
+      "region": "Ko Man Nai, Rayong Province",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.613849228537797",
+      "lng": "101.68612718582155"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "58979059-d67d-4c5e-85e1-cc04ebcb36ab",
+    "name": "Turtle Rock",
+    "location": {
+      "country": "Thailand",
+      "region": "Phi Phi Lee Island, Koh Phi Phi",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.686963060023893",
+      "lng": "98.7618112564087"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5a26d73e-75e1-4be5-8603-d2eba4ecdc55",
+    "name": "Koh Yippon",
+    "location": {
+      "country": "Thailand",
+      "region": "Surat Thani, Southern Thailand",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.800117968480496",
+      "lng": "99.71438169479372"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5a3bed07-9645-4e0e-a983-cb6b22785f77",
+    "name": "Koh Tachai Pinnacle",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Tachai, Phang Nga",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.062262065869309",
+      "lng": "97.82827377319337"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5a431428-f444-4f71-9090-8a61d5a4cf57",
+    "name": "Turtle Ledge",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Surin, Phang Nga",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.397580976145512",
+      "lng": "97.88131713867189"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5cf851cc-5733-4337-bd27-3df98605edd4",
+    "name": "White Rock",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Tao, Surat Thani",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.110838025040596",
+      "lng": "99.81508255004884"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5d66f38b-2408-4bd6-9499-f0136b924d1d",
+    "name": "Chaweng Reef",
+    "location": {
+      "country": "Thailand",
+      "region": "Samui Island, Surat Thani",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.516110858860797",
+      "lng": "100.06845474243165"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5d908bf5-5055-4720-8f54-8ac73e46ffc2",
+    "name": "Koh Rin",
+    "location": {
+      "country": "Thailand",
+      "region": "Pattaya, Bang Lamung District",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.799414326533546",
+      "lng": "100.70652008056642"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "60395828-480a-4810-a3a5-79bd79cb83a2",
+    "name": "Far Away Reef",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Haa Neung, Ko Tu Kon Li Ma",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.434241042502894",
+      "lng": "98.89858245849611"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "60894398-9ccc-4a25-9b22-816e9ef54bd7",
+    "name": "Htms Sattakut",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Tao, Surat Thani",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.106148366416226",
+      "lng": "99.81473922729494"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "609679d5-c1bf-4f98-bf6f-9ebad8765a2d",
+    "name": "Laem Thien Pinnacle",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Tao, Surat Thani",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.092585995756522",
+      "lng": "99.86151695251466"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "61546559-6caa-4053-8517-ae7a1aa80d2a",
+    "name": "Koh Yak Lek",
+    "location": {
+      "country": "Thailand",
+      "region": "Rang Island, Trat",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.784808059101827",
+      "lng": "102.39392995834352"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "61d252f4-f13e-41d9-955d-af2bb025cc3f",
+    "name": "Sairee Reef",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Tao, Surat Thani",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.094276041974233",
+      "lng": "99.82598304748535"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "624dd973-e0bc-4256-83cd-7bd7abd82fb6",
+    "name": "Koh Talu",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Talu, Thailand",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.779731526283962",
+      "lng": "100.01953125000001"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6328add4-705b-4859-a895-6429adcb3f56",
+    "name": "Western Rocky",
+    "location": {
+      "country": "Thailand",
+      "region": "Similan Islands, Phang Nga",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.52220557466749",
+      "lng": "97.66845703125001"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "632c85d3-667f-4820-8fb5-3ae88187ad96",
+    "name": "South Pinnacle",
+    "location": {
+      "country": "Thailand",
+      "region": "Racha Noi Island, Phuket",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.461879383282875",
+      "lng": "98.30446243286133"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "68b68481-23a1-4cd6-b0c2-7948ebc30adb",
+    "name": "Gareng Heng",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Phi Phi, Krabi",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.7057182397043675",
+      "lng": "98.80348205566406"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "68d4ddf1-4fd7-475e-85f8-1431d7db2d15",
+    "name": "Hin Kong",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Surin, Phang Nga",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.3974116185848",
+      "lng": "97.89573669433595"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "69a02eab-c168-4e94-a4fd-70b6330d12f9",
+    "name": "The Chimney",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Haa Neung, Ko Tu Kon Li Ma",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.433198453602409",
+      "lng": "98.89733791351318"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6bd68aac-e947-4cb6-83b1-655b24e7bae9",
+    "name": "Stonehenge ",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Lipe, Adang-Rawi Archipelago",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.489642209940081",
+      "lng": "99.31374549865724"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6c2c23c8-6b5d-4cc1-aa66-e21ad0047d1e",
+    "name": "Green Rock",
+    "location": {
+      "country": "Thailand",
+      "region": "Nang Yuan, Ko Phangan District",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.126385232305335",
+      "lng": "99.81104850769044"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6c46066c-bc70-4664-896c-9406030e5102",
+    "name": "Hin Luk Bat",
+    "location": {
+      "country": "Thailand",
+      "region": "Mu Koh Chang, Trat",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.943944636888816",
+      "lng": "102.27224349975586"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6d017b0a-5fa3-4c8c-b809-b03e804b4370",
+    "name": "Fan Forest Pinnacle",
+    "location": {
+      "country": "Thailand",
+      "region": "Similan Islands, Phang Nga",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.611582210984674",
+      "lng": "97.65472412109376"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6f8b61b3-6f10-4a1b-af6b-3dde4f62e047",
+    "name": "Koh Lao Liang",
+    "location": {
+      "country": "Thailand",
+      "region": "Thailand, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.01407466460298",
+      "lng": "97.91015625"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6fd63574-1a1b-4e06-96e2-2e3138d212eb",
+    "name": "Boulder City",
+    "location": {
+      "country": "Thailand",
+      "region": "Racha Yai Island, Phuket",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.604490004340965",
+      "lng": "98.35424423217775"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "718effd6-6667-4074-ba85-ef0de27cb26b",
+    "name": "Hin Ao Salad",
+    "location": {
+      "country": "Thailand",
+      "region": "Kut Island, Trat",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.712754331857557",
+      "lng": "102.57205009460449"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "71e6a075-3ec5-4872-b17b-f579a06ffa36",
+    "name": "Koh Chan",
+    "location": {
+      "country": "Thailand",
+      "region": "Pattaya, Bang Lamung District",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.515687403612928",
+      "lng": "100.97877502441408"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "729875f7-ef2e-41d9-aecc-67f5b1475943",
+    "name": "Tin Lizzy",
+    "location": {
+      "country": "Thailand",
+      "region": "Phuket, Southern Thailand",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.01019147319798",
+      "lng": "98.27416419982912"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "729ad88f-a9b4-4c50-8785-f0c762cba93d",
+    "name": "Shark Island",
+    "location": {
+      "country": "Thailand",
+      "region": "Sai Daeng, Koh Tao",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.06210026501045",
+      "lng": "99.84516620635986"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "72e31365-2379-44b7-a28b-24f460d0c6ec",
+    "name": "Bungalow Bay North Wall",
+    "location": {
+      "country": "Thailand",
+      "region": "Racha Yai Island, Phuket",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.612231834325816",
+      "lng": "98.36214065551759"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "73b23c46-a4d3-4b54-b154-de82d8d6e26f",
+    "name": "The Beach",
+    "location": {
+      "country": "Thailand",
+      "region": "Racha Noi Island, Phuket",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.468517431643668",
+      "lng": "98.30823898315431"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "74f67fb5-1cd9-413f-8194-b9d8cbf8d86c",
+    "name": "Richelieu Rock",
+    "location": {
+      "country": "Thailand",
+      "region": "Similan Islands, Phang Nga",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.367772770859636",
+      "lng": "98.03237915039064"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "75338bcd-e53e-4249-8e91-35618428e45d",
+    "name": "Hin Son",
+    "location": {
+      "country": "Thailand",
+      "region": "Batong Island, Adang-Rawi Archipelago",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.5015813679646",
+      "lng": "99.18302536010744"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "78aab6e0-be1d-43a7-a27c-233933b908e6",
+    "name": "Yang",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Lipe, Adang-Rawi Archipelago",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.537056048382344",
+      "lng": "99.26216125488283"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7a547bb3-a203-4543-a89b-c90afde65fae",
+    "name": "Hin Yedhi",
+    "location": {
+      "country": "Thailand",
+      "region": "Kut Island, Trat",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.628193675943104",
+      "lng": "102.54250288009645"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7a793954-0f5b-4777-b62a-f1242e8c203a",
+    "name": "Klong Hin Reef",
+    "location": {
+      "country": "Thailand",
+      "region": "Kut Island, Trat",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.586744520731575",
+      "lng": "102.55168676376344"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "80cba4c3-6d69-4bc0-b353-1090928bf359",
+    "name": "Koh Tong Corner",
+    "location": {
+      "country": "Thailand",
+      "region": "Batong Island, Adang-Rawi Archipelago",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.5391025879031535",
+      "lng": "99.1545081138611"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "818d0c72-a033-4066-a5c5-eafe4aa7a9be",
+    "name": "Waterfall Wall",
+    "location": {
+      "country": "Thailand",
+      "region": "Racha Yai Island, Phuket",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.593089692793891",
+      "lng": "98.36883544921876"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "81abea5a-326a-43ab-b73b-5703490d848d",
+    "name": "Hin Yippon",
+    "location": {
+      "country": "Thailand",
+      "region": "Surat Thani, Southern Thailand",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.796079334452697",
+      "lng": "99.71466064453125"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "82f0d9b3-1960-4b5b-bc25-1ad3ebb6de3f",
+    "name": "Adang Corner",
+    "location": {
+      "country": "Thailand",
+      "region": "Adang Island, Adang-Rawi Archipelago",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.580287411098079",
+      "lng": "99.27372694015504"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8302a151-0d8b-4896-8abe-09a1962b7f15",
+    "name": "Koh Dok Mai",
+    "location": {
+      "country": "Thailand",
+      "region": "Mai Thon Island, Phuket",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.762701662689146",
+      "lng": "98.46633911132812"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "834f3daa-2023-431b-b3bd-acf3b9784b0b",
+    "name": "Whip Coral Point",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Haa Lagoon, Ko Tu Kon Li Ma",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.431432430021867",
+      "lng": "98.89575004577638"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "86a4bb27-ca11-4cca-a9a2-93e2104e7fcf",
+    "name": "Rocky Point Bay",
+    "location": {
+      "country": "Thailand",
+      "region": "Huyong Island, Similan Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.473051434469543",
+      "lng": "97.64923095703126"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "86b7c120-8a4e-4cff-a9d9-0a7d83935c84",
+    "name": "Hin Loy",
+    "location": {
+      "country": "Thailand",
+      "region": "Kut Island, Trat",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.594900317728001",
+      "lng": "102.53153800964355"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "86f361b9-134e-41ee-8edd-6855a8ef3c9a",
+    "name": "Beacon Point",
+    "location": {
+      "country": "Thailand",
+      "region": "Similan Islands, Phang Nga",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.629139387113595",
+      "lng": "97.65472412109376"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8780344f-611f-4498-b888-9dc4b04cbe1c",
+    "name": "Twins",
+    "location": {
+      "country": "Thailand",
+      "region": "Nang Yuan, Ko Phangan District",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.116161338367984",
+      "lng": "99.8112201690674"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "87885317-1a8f-4f23-9ce5-d14d1fbd6db2",
+    "name": "Princess Bay",
+    "location": {
+      "country": "Thailand",
+      "region": "Miang Island, Similan Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.57185515717951",
+      "lng": "97.6358413696289"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "89c89c0c-101a-422a-ae49-32cb1ed4594a",
+    "name": "The Wall",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Haa Neung, Ko Tu Kon Li Ma",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.432304804003357",
+      "lng": "98.89939785003664"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8c094e8c-86e2-44d5-8ef5-eafb3f4a89ef",
+    "name": "The Lagoon",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Haa Lagoon, Ko Tu Kon Li Ma",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.429794064447741",
+      "lng": "98.89682292938234"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8cd09ffb-d851-4d75-b0c7-416ed814b32e",
+    "name": "Secret Reef",
+    "location": {
+      "country": "Thailand",
+      "region": "Khlum Island, Trat",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.905942581525704",
+      "lng": "102.31638193130495"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "90d0ed2f-a412-4c4c-87e5-865003d45a75",
+    "name": "Clownfish Reef",
+    "location": {
+      "country": "Thailand",
+      "region": "Rok Noi Island, Ko Libong",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.207175441284046",
+      "lng": "99.06784057617189"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "92dcac1b-cda3-4640-8fac-49eedc99c315",
+    "name": "Turtle Rock",
+    "location": {
+      "country": "Thailand",
+      "region": "Similan Islands, Phang Nga",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.649080749149755",
+      "lng": "97.63790130615234"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "96f2b35a-5cdd-4bf5-8412-dfba8095435b",
+    "name": "East Of Eden",
+    "location": {
+      "country": "Thailand",
+      "region": "Payu Island, Similan Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.586452849594236",
+      "lng": "97.64107704162598"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "97ba215f-0f66-49c1-8544-c6abd964ae72",
+    "name": "Cinnamon Bay",
+    "location": {
+      "country": "Thailand",
+      "region": "Bangu Island, Similan Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.67563930643165",
+      "lng": "97.64682769775392"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "98620bf5-0900-40f3-aee7-4ae2b459b9d2",
+    "name": "Phi Ley Wall / Phi Phi Leh",
+    "location": {
+      "country": "Thailand",
+      "region": "Phi Phi Lee Island, Koh Phi Phi",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.6864952331496585",
+      "lng": "98.7715530395508"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "99f5a8f7-8cf7-44c0-a403-22c06423fdff",
+    "name": "Pung",
+    "location": {
+      "country": "Thailand",
+      "region": "Batong Island, Adang-Rawi Archipelago",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.540978575103063",
+      "lng": "99.16500091552734"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9a3e7286-3f97-4359-9d82-b02df08f4347",
+    "name": "Koh Larn",
+    "location": {
+      "country": "Thailand",
+      "region": "Pattaya, Bang Lamung District",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.924427947538392",
+      "lng": "100.7655715942383"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9a5b4479-28a5-45e9-8c5f-585ac0f84e52",
+    "name": "Fantasy Reef",
+    "location": {
+      "country": "Thailand",
+      "region": "Similan Islands, Phang Nga",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.642801455291025",
+      "lng": "97.64099121093751"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9a66e241-2864-4db3-a1e4-3867fb170edc",
+    "name": "Khram Wreck",
+    "location": {
+      "country": "Thailand",
+      "region": "Pattaya, Bang Lamung District",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.927439554274308",
+      "lng": "100.69175720214844"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9a84e9a5-4c51-445f-9c42-26e7e0da4e26",
+    "name": "Chinese Wall",
+    "location": {
+      "country": "Thailand",
+      "region": "Miang Island, Similan Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.563282995084052",
+      "lng": "97.63442516326904"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9b375ed1-6194-44a1-9eb1-5a22d91c456a",
+    "name": "The Lost Pinnacle",
+    "location": {
+      "country": "Thailand",
+      "region": "Ko Ha Yai, Ko Tu Kon Li Ma",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.426283260503795",
+      "lng": "98.88924837112428"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9b6666b5-db69-4ee3-8205-4b8c32739436",
+    "name": "Rocky Point",
+    "location": {
+      "country": "Thailand",
+      "region": "Huyong Island, Similan Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.4772961045479",
+      "lng": "97.65558242797853"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9ccb1b63-b0b0-47d7-ad91-099c8818bc44",
+    "name": "Bulo",
+    "location": {
+      "country": "Thailand",
+      "region": "Palai Island, Adang-Rawi Archipelago",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.506868618824733",
+      "lng": "99.18113708496095"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9d37e7c8-17f8-4f87-98e6-b44d1bd1ae7d",
+    "name": "Seafan Garden",
+    "location": {
+      "country": "Thailand",
+      "region": "Rok Noi Island, Ko Libong",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.203939633211784",
+      "lng": "99.06603813171388"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9de4781c-6435-4e85-a619-28cf68287ce4",
+    "name": "Tui Reef",
+    "location": {
+      "country": "Thailand",
+      "region": "Kut Island, Trat",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.75208388394048",
+      "lng": "102.53668785095216"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9e04890b-2b29-40d5-b7f6-8eef21d14c72",
+    "name": "Palong Wall",
+    "location": {
+      "country": "Thailand",
+      "region": "Phi Phi Lee Island, Koh Phi Phi",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.689387245568247",
+      "lng": "98.76245498657228"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9f46808f-4203-4b52-a795-e5d87e8cf0e1",
+    "name": "Breakfast Bend",
+    "location": {
+      "country": "Thailand",
+      "region": "Bangu Island, Similan Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.683530145448211",
+      "lng": "97.6509475708008"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9fe69f0f-88f6-4af7-ab7a-0e04c2839d8c",
+    "name": "Japanese Garden",
+    "location": {
+      "country": "Thailand",
+      "region": "Nang Yuan, Ko Phangan District",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.118020252395413",
+      "lng": "99.81714248657228"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a0a7e960-264c-484e-94e8-99b3818bfe3c",
+    "name": "Hin Ngam",
+    "location": {
+      "country": "Thailand",
+      "region": "Ko Hin Ngarm, Adang-Rawi Archipelago",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.511622833171352",
+      "lng": "99.26088988780977"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a1482b1d-5aae-4277-9db5-2abe532b8b67",
+    "name": "Bor Thonglar",
+    "location": {
+      "country": "Thailand",
+      "region": "Thailand, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.51251791644084",
+      "lng": "99.92065429687501"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a25b5acb-6a33-4c97-b099-273c30e1c89d",
+    "name": "Bay 1, 2, 3",
+    "location": {
+      "country": "Thailand",
+      "region": "Racha Yai Island, Phuket",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.600491422062984",
+      "lng": "98.37716102600099"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a34639d1-92f1-415f-bc2a-b94518591630",
+    "name": "Lan Tee Bay",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Phi Phi, Krabi",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.740079314791083",
+      "lng": "98.79249572753908"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a5123b2c-0806-49a6-ba75-266f28c4e0fa",
+    "name": "Hin Ngam Bay",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Tao, Surat Thani",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.068079329191718",
+      "lng": "99.84108924865724"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a56df7ba-f843-4d73-b509-9e0386da1e01",
+    "name": "Northen Drift",
+    "location": {
+      "country": "Thailand",
+      "region": "Rok Yai Island, Ko Libong",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.230080894926188",
+      "lng": "99.07702445983888"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a6691a1a-17bb-496d-a984-25513cb4593b",
+    "name": "Koh Torinla",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Surin, Phang Nga",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.37420885020542",
+      "lng": "97.87273406982423"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a76b62b0-4252-4c93-87d4-aeaa5ffb9550",
+    "name": "Aow Leuk Bay",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Tao, Surat Thani",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.073910394622704",
+      "lng": "99.84752655029298"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a8d0277c-a712-4a4e-8306-1e86402487b7",
+    "name": "Lancha",
+    "location": {
+      "country": "Thailand",
+      "region": "Adang Island, Adang-Rawi Archipelago",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.577985243812691",
+      "lng": "99.28979873657228"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a949f7fb-ae52-4554-9200-764051322915",
+    "name": "Lionfish Den",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Haa Lagoon, Ko Tu Kon Li Ma",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.427942916772713",
+      "lng": "98.8943123817444"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ac05e8b8-1b05-4511-bc48-5b79695f36c4",
+    "name": "Lipe Gorner",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Lipe, Adang-Rawi Archipelago",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.482137451439274",
+      "lng": "99.28014278411865"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ae785b8c-058e-4a61-8504-36727a01fcab",
+    "name": "King Cruiser Wreck",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Phi Phi, Krabi",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.821207944438957",
+      "lng": "98.72726440429689"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "af32546c-98b9-4d00-a2df-f34bff16f6ff",
+    "name": "Koh Klung Badan",
+    "location": {
+      "country": "Thailand",
+      "region": "Pattaya, Bang Lamung District",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.911377232011908",
+      "lng": "100.68368911743165"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b0a7a907-fc90-4dba-b581-b72b29d1b496",
+    "name": "Unicorn Wreck",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Tao, Surat Thani",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.132553209102221",
+      "lng": "99.83117580413818"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b13e10bf-4b8f-4e61-8484-9dbc7f746bca",
+    "name": "Sarang",
+    "location": {
+      "country": "Thailand",
+      "region": "Batong Island, Adang-Rawi Archipelago",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.496294061500241",
+      "lng": "99.1780471801758"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b1aa2b12-f98e-421a-a6e6-d16e221080f7",
+    "name": "Hin Raab Tai",
+    "location": {
+      "country": "Thailand",
+      "region": "Khlum Island, Trat",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.90481454156717",
+      "lng": "102.31757011334045"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b27a2037-0bfe-406c-9bc5-f2103c8d68cd",
+    "name": "Bermuda Ridge",
+    "location": {
+      "country": "Thailand",
+      "region": "Rok Yai Island, Ko Libong",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.218330286635006",
+      "lng": "99.07822608947755"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b32ddf5c-ed16-4c7b-9cc1-e8012b1d6257",
+    "name": "Hin Saam Sao",
+    "location": {
+      "country": "Thailand",
+      "region": "Mu Koh Chang, Trat",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.059466077479954",
+      "lng": "102.24271774291994"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b5f4440e-8e2d-4693-bace-426d16cb3c55",
+    "name": "Home Run",
+    "location": {
+      "country": "Thailand",
+      "region": "Racha Yai Island, Phuket",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.614358686221965",
+      "lng": "98.37947845458984"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b63d298b-8cb3-46e6-8e05-985ab9b43db0",
+    "name": "Hin Pee Wee",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Tao, Surat Thani",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.1125279753368",
+      "lng": "99.80684280395509"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b6eaf037-0c83-4e27-9466-de99f42f8844",
+    "name": "Kata Reef North",
+    "location": {
+      "country": "Thailand",
+      "region": "Phuket, Southern Thailand",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.8221645561739575",
+      "lng": "98.2925319671631"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b7ced441-9e4c-471f-b792-641de3cafbf5",
+    "name": "Ao Tum",
+    "location": {
+      "country": "Thailand",
+      "region": "Kut Island, Trat",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.622392846563361",
+      "lng": "102.54095792770386"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b895421e-894b-4cec-9224-e5dcb138d43c",
+    "name": "Three Trees",
+    "location": {
+      "country": "Thailand",
+      "region": "Bangu Island, Similan Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.680560494320137",
+      "lng": "97.65343666076662"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b8f310f1-fd1e-4362-a4af-b2288974db10",
+    "name": "Palai",
+    "location": {
+      "country": "Thailand",
+      "region": "Palai Island, Adang-Rawi Archipelago",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.504480835001981",
+      "lng": "99.17547225952148"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b94445d2-2a46-4325-82fd-14b702d67c77",
+    "name": "Bird Rock",
+    "location": {
+      "country": "Thailand",
+      "region": "Miang Island, Similan Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.543676631365253",
+      "lng": "97.63790130615234"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bafc9a0c-4ac0-4834-9d2e-42318e09f318",
+    "name": "South Rock",
+    "location": {
+      "country": "Thailand",
+      "region": "Pattaya, Bang Lamung District",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.78769634352248",
+      "lng": "100.71441650390625"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bb71b512-88e8-44fe-8656-38dcea3568ab",
+    "name": "Shark Fin Rock",
+    "location": {
+      "country": "Thailand",
+      "region": "Pattaya, Bang Lamung District",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.572659032613496",
+      "lng": "100.92315673828125"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bcb68b41-7e6e-499c-bd4f-95a55fc9eb49",
+    "name": "Koh Mong",
+    "location": {
+      "country": "Thailand",
+      "region": "Thailand, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.697775229095312",
+      "lng": "98.40454101562501"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bf2541be-3153-4c5c-bb89-16817c850105",
+    "name": "Mango Bay",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Tao, Surat Thani",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.12486434308543",
+      "lng": "99.83224868774414"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bf531bc8-3d7a-4190-8ca0-a90c43831fea",
+    "name": "Southern Drift",
+    "location": {
+      "country": "Thailand",
+      "region": "Rok Noi Island, Ko Libong",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.199852263684099",
+      "lng": "99.05196189880371"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c1c16da6-a6f3-4f97-9460-2c0a3070afcf",
+    "name": "Koh Khrok",
+    "location": {
+      "country": "Thailand",
+      "region": "Pattaya, Bang Lamung District",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.924427947538392",
+      "lng": "100.80848693847658"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c2da2fed-a217-4674-bc7c-ba09019edc23",
+    "name": "Tanote Bay",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Tao, Surat Thani",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.083882117247983",
+      "lng": "99.84872817993165"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c31b813a-3ca7-4a82-9301-4afd562027db",
+    "name": "Mae Haad Bay",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Tao, Surat Thani",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.081093446231318",
+      "lng": "99.81654167175293"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c47ed20d-3837-4ebe-a67b-45625b4d1a4f",
+    "name": "Racha Noi West Side",
+    "location": {
+      "country": "Thailand",
+      "region": "Racha Noi Island, Phuket",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.518554853130154",
+      "lng": "98.32265853881837"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c4d8429b-8f4a-40fc-9112-8481bd7207f9",
+    "name": "Barracuda Point",
+    "location": {
+      "country": "Thailand",
+      "region": "Ha Island, Similan Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.569754570975793",
+      "lng": "97.64498233795167"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c7a4c82c-40aa-495f-b1c0-540552061287",
+    "name": "Shark Bay",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Tao, Surat Thani",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.062079137378843",
+      "lng": "99.83327865600586"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c7e68291-6722-4c00-a762-24ef7ed36457",
+    "name": "Hin Farang",
+    "location": {
+      "country": "Thailand",
+      "region": "Rayong Province, Thailand",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.578185170611116",
+      "lng": "101.69898033142091"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cd110d84-b051-4ab2-b101-0202d1552275",
+    "name": "Viking Cave",
+    "location": {
+      "country": "Thailand",
+      "region": "Phi Phi Lee Island, Koh Phi Phi",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.695879233035546",
+      "lng": "98.76694830483757"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cdf8e44e-da80-49db-acf1-9d46ec776e53",
+    "name": "Hardeep Wreck",
+    "location": {
+      "country": "Thailand",
+      "region": "Pattaya, Bang Lamung District",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.53043421029691",
+      "lng": "100.9416961669922"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ce2cc454-ed63-4113-ae29-0fe6fe6e7677",
+    "name": "Hin Ao Yai",
+    "location": {
+      "country": "Thailand",
+      "region": "Kut Island, Trat",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.614321926491867",
+      "lng": "102.59863615036012"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ce350f5b-62c4-4092-b2b7-4e1fff009289",
+    "name": "Express Way",
+    "location": {
+      "country": "Thailand",
+      "region": "Adang Island, Adang-Rawi Archipelago",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.552490160456755",
+      "lng": "99.27201032638551"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cee32670-79c3-45c2-9d9d-e61ff5e06d31",
+    "name": "Hin Kuak Ma",
+    "location": {
+      "country": "Thailand",
+      "region": "Rang Island, Trat",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.777964372423966",
+      "lng": "102.43154525756837"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cf9d5926-388d-49dc-bf1f-ea53901cfc27",
+    "name": "House Reef",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Phi Phi, Krabi",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.764912804361626",
+      "lng": "98.78219604492188"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d142bf10-cc80-4c22-abe5-4dca05515320",
+    "name": "Jabang",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Lipe, Adang-Rawi Archipelago",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.519319021923569",
+      "lng": "99.26765441894531"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d1dcb8fa-2df9-47fe-b0d4-bfbd2f23912d",
+    "name": "Koh Bon Pinnacle",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Bon, Phang Nga",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.83321235410455",
+      "lng": "97.79707431793213"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d6e8e01b-4787-44e2-b272-78e078fc02c5",
+    "name": "Mae Haad/koh Ma",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Phangan, Ko Phangan District",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.798151519309549",
+      "lng": "99.9780321121216"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d7bf0c4e-a025-416c-b3ef-5e1465472590",
+    "name": "Freedom Bay",
+    "location": {
+      "country": "Thailand",
+      "region": "Phuket, Southern Thailand",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.874604772765967",
+      "lng": "98.26377868652345"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d7c39dea-569e-4be0-854e-e9ba5cc3dbe3",
+    "name": "The Ridge",
+    "location": {
+      "country": "Thailand",
+      "region": "Ko Ha Yai, Ko Tu Kon Li Ma",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.425240652719834",
+      "lng": "98.89137268066408"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "da4ff516-b89e-458b-a921-2ffac30f4a05",
+    "name": "Bluberry Hill",
+    "location": {
+      "country": "Thailand",
+      "region": "Khlum Island, Trat",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.9067",
+      "lng": "102.3156"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dba88e90-b11c-4278-9920-93e344fce918",
+    "name": "North Rock",
+    "location": {
+      "country": "Thailand",
+      "region": "Pattaya, Bang Lamung District",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.80945787866937",
+      "lng": "100.71098327636719"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "de360030-620b-4135-a3e7-f9b2aad52b33",
+    "name": "Koh Bida Nai",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Phi Phi, Krabi",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.623036132551694",
+      "lng": "98.79730224609376"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "deeb85f3-c69d-4025-9dd8-69d9920951d5",
+    "name": "Surin Corner",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Surin, Phang Nga",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.411129312441545",
+      "lng": "97.88131713867189"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dffc5da2-e273-4c28-a257-055e3f78d99d",
+    "name": "Coral Garden",
+    "location": {
+      "country": "Thailand",
+      "region": "Huyong Island, Similan Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.482050079392366",
+      "lng": "97.64802932739258"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e10d5513-d747-4f1f-96e9-ae0ff8e0f2a7",
+    "name": "Ao Yai Reef",
+    "location": {
+      "country": "Thailand",
+      "region": "Kut Island, Trat",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.609697856569316",
+      "lng": "102.60284185409547"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e4c10bf3-5a92-42a8-a768-b14440e59cfa",
+    "name": "Bitsi",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Lipe, Adang-Rawi Archipelago",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.569970207851596",
+      "lng": "99.34043884277345"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e52728b9-99af-452a-bbcd-b47a0f860f1c",
+    "name": "Sail Rock",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Tao, Surat Thani",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.943151011771802",
+      "lng": "99.99481201171876"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e65f3781-e921-4fd0-bd10-6e73c2186232",
+    "name": "Hin Pueng",
+    "location": {
+      "country": "Thailand",
+      "region": "Thailand, Asia",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.42813333333333",
+      "lng": "101.66626666666667"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e7a2f3fd-a103-449e-a25d-463a1405e33a",
+    "name": "Ao Kalang Reef",
+    "location": {
+      "country": "Thailand",
+      "region": "Kut Island, Trat",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.559837111622773",
+      "lng": "102.5987219810486"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e8daac3f-b85a-4a99-b843-bf8b6d0b8c1d",
+    "name": "Usen",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Lipe, Adang-Rawi Archipelago",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.484866467459883",
+      "lng": "99.31297302246094"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e91cafa3-c3f0-4fcb-baf5-35227a5f4ae6",
+    "name": "The Drop Off",
+    "location": {
+      "country": "Thailand",
+      "region": "Ko Ha Yai, Ko Tu Kon Li Ma",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.4219851471965494",
+      "lng": "98.89053583145143"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ebfe172e-667c-4774-bcfd-cfbcde5efb1e",
+    "name": "Southeast Point",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Surin, Phang Nga",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.42586252543015",
+      "lng": "97.8936767578125"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ec28bb93-0c04-47dd-96a6-0eb81f4a6e2a",
+    "name": "Koh Bon Ridge",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Bon, Phang Nga",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.829947050828233",
+      "lng": "97.79634475708008"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "edb7563f-c54b-483e-97b1-38d8bef4eb02",
+    "name": "Coral Beach",
+    "location": {
+      "country": "Thailand",
+      "region": "Ko Ha Yai, Ko Tu Kon Li Ma",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.423751208739365",
+      "lng": "98.89085769653322"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "efaa6acf-2eb5-4007-a62f-30e767898c8c",
+    "name": "Elephant Head",
+    "location": {
+      "country": "Thailand",
+      "region": "Similan Islands, Phang Nga",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.61921074162583",
+      "lng": "97.64279365539551"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f08da716-781a-4ea1-96c2-a7604e012109",
+    "name": "Pethra Wreck",
+    "location": {
+      "country": "Thailand",
+      "region": "Pattaya, Bang Lamung District",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.903513010243165",
+      "lng": "100.7930374145508"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f1116996-999c-45fc-bc08-1f9cb7f6e587",
+    "name": "South Point",
+    "location": {
+      "country": "Thailand",
+      "region": "Rok Noi Island, Ko Libong",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.195935166654709",
+      "lng": "99.06028747558594"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f1d65215-6538-4e2a-b76f-3764a6a8d4c3",
+    "name": "Cliffjump Cove",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Haa Lagoon, Ko Tu Kon Li Ma",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.429325958875786",
+      "lng": "98.89467716217042"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f27b0273-2555-4dd0-9f0e-f7ea77b0d2f7",
+    "name": "Deep Six",
+    "location": {
+      "country": "Thailand",
+      "region": "Payu Island, Similan Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.59858887569926",
+      "lng": "97.63605594635011"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f3ce1a98-a74b-46ad-b3f3-efcc8764dcce",
+    "name": "North Pinnacle",
+    "location": {
+      "country": "Thailand",
+      "region": "Racha Noi Island, Phuket",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.520086520153129",
+      "lng": "98.33673477172853"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f482c368-c0bf-4ad8-88f4-29efbe4faed8",
+    "name": "Wreck",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Lipe, Adang-Rawi Archipelago",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.493053426847653",
+      "lng": "99.27190303802492"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f6ac0de0-e650-4847-8710-0a1c615e0809",
+    "name": "Sail Rock",
+    "location": {
+      "country": "Thailand",
+      "region": "Batong Island, Adang-Rawi Archipelago",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.516249088211123",
+      "lng": "99.16686773300172"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f8b8bc55-1338-4f4b-96f2-dad20d71ff89",
+    "name": "Hin Daeng",
+    "location": {
+      "country": "Thailand",
+      "region": "Thailand, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.1540371481456155",
+      "lng": "98.82476806640625"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f8e5541c-b1f3-4e66-a3e0-8ea07f504554",
+    "name": "Point",
+    "location": {
+      "country": "Thailand",
+      "region": "Racha Noi Island, Phuket",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.493026274639559",
+      "lng": "98.32729339599611"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f9168835-e214-41b0-b8a7-352fe4b9f7c7",
+    "name": "Anemone Reef",
+    "location": {
+      "country": "Thailand",
+      "region": "Phuket, Southern Thailand",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.674246491629013",
+      "lng": "98.3049774169922"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f99464ad-81fc-4a69-b100-5204ce4714db",
+    "name": "West Of Eden",
+    "location": {
+      "country": "Thailand",
+      "region": "Payu Island, Similan Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.592733079428799",
+      "lng": "97.63412475585938"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fdbfdeee-7631-458e-a3dd-abd6deaa3f25",
+    "name": "Red Rock",
+    "location": {
+      "country": "Thailand",
+      "region": "Nang Yuan, Ko Phangan District",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.126558440175673",
+      "lng": "99.81416062408448"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fec87737-0289-4cb7-8ab6-50a23d8c630d",
+    "name": "Shark Point",
+    "location": {
+      "country": "Thailand",
+      "region": "Koh Phi Phi, Krabi",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.829370960701883",
+      "lng": "98.65447998046875"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "feda47e6-7768-4564-8b8e-8f9bd0be14d5",
+    "name": "Donald Duck Bay",
+    "location": {
+      "country": "Thailand",
+      "region": "Similan Islands, Phang Nga",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.668045277892238",
+      "lng": "97.64639854431154"
+    },
+    "additionalInfo": {}
+  }
+]

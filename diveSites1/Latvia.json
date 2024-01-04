@@ -1,0 +1,59 @@
+[
+  {
+    "id": "2ccb4637-a97c-4530-868b-771e34e16610",
+    "name": "Tyres",
+    "location": {
+      "country": "Latvia",
+      "region": "Pavilosta, Pāvilostas Pilsēt",
+      "ocean": [
+        "Europe",
+        "Latvia",
+        "Pāvilostas Pilsēt",
+        "Pavilosta"
+      ]
+    },
+    "coordinates": {
+      "lat": "56.8927",
+      "lng": "21.0496"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2dba2576-ec29-42e7-855a-9ed470f89aab",
+    "name": "Sloka",
+    "location": {
+      "country": "Latvia",
+      "region": "Jurmala, Jurmalas Pilsetas",
+      "ocean": [
+        "Europe",
+        "Latvia",
+        "Jurmalas Pilsetas",
+        "Jurmala"
+      ]
+    },
+    "coordinates": {
+      "lat": "56.9348",
+      "lng": "23.6042"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "651e84cf-2143-4c01-831b-a7699a76f530",
+    "name": "Wreck Kathe (Vesta)",
+    "location": {
+      "country": "Latvia",
+      "region": "Pavilosta, Pāvilostas Pilsēt",
+      "ocean": [
+        "Europe",
+        "Latvia",
+        "Pāvilostas Pilsēt",
+        "Pavilosta"
+      ]
+    },
+    "coordinates": {
+      "lat": "56.9039",
+      "lng": "21.0324"
+    },
+    "additionalInfo": {}
+  }
+]

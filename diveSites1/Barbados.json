@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ec2c2826-8559-41fa-9c09-95926ae2f23c",
+    "name": "Lobster Reef",
+    "location": {
+      "country": "Barbados",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "13.074685942179418",
+      "lng": "-59.606928247958436"
+    },
+    "additionalInfo": {}
+  }
+]

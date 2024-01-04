@@ -1,0 +1,488 @@
+[
+  {
+    "id": "06b7801f-d394-4dd8-ab9c-9b71cb1d7652",
+    "name": "Three Bears",
+    "location": {
+      "country": "Cambodia",
+      "region": "Kaoh Tang, Koh Kong",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.267289536986077",
+      "lng": "103.14145088195802"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0760a57a-13ce-4772-a476-b188eb018e04",
+    "name": "Ecosea Shipwreck",
+    "location": {
+      "country": "Cambodia",
+      "region": "Koh Rong Samloem, Krong Preah Sihanouk",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.621129938826385",
+      "lng": "103.30515146255495"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "12797f2d-3108-4dff-ba1e-efb64a73e3fd",
+    "name": "Coral",
+    "location": {
+      "country": "Cambodia",
+      "region": "Koh Koun, Krong Preah Sihanouk",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.635175587357974",
+      "lng": "103.30500125885011"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "16a21ea2-0389-4347-bb77-d58e55be95a7",
+    "name": "Fiy By Reef",
+    "location": {
+      "country": "Cambodia",
+      "region": "Kaoh Tang, Koh Kong",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.329443237977529",
+      "lng": "103.13441276550294"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1a7b98c9-6d2f-43de-a3d0-7643f551308e",
+    "name": "Night Dive",
+    "location": {
+      "country": "Cambodia",
+      "region": "Koh Rong Samloem, Krong Preah Sihanouk",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.619105287574126",
+      "lng": "103.30143928527833"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2bdeb011-31e5-4e43-832c-25fc412e33c5",
+    "name": "Cobia Cave",
+    "location": {
+      "country": "Cambodia",
+      "region": "Koh Rong Samloem, Krong Preah Sihanouk",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.599111136575496",
+      "lng": "103.27847957611085"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3839f657-d78a-4c4c-80c3-89819dacfb18",
+    "name": "Corner Bar",
+    "location": {
+      "country": "Cambodia",
+      "region": "Koh Koun, Krong Preah Sihanouk",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.632054387973353",
+      "lng": "103.2963538169861"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3c9577c7-2679-4a02-aa6a-16965088a2cd",
+    "name": "Monkey Bay",
+    "location": {
+      "country": "Cambodia",
+      "region": "Koh Rong Samloem, Krong Preah Sihanouk",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.574475197566478",
+      "lng": "103.29101085662843"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "502c9a86-a6a9-49a2-a125-3c7c7d268ece",
+    "name": "Giraffe Lopkout",
+    "location": {
+      "country": "Cambodia",
+      "region": "Kaoh Tang, Koh Kong",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.27641068345194",
+      "lng": "103.14093589782716"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5dbbf251-9d98-4dcf-9e07-04bef8654854",
+    "name": "Khmer Garden",
+    "location": {
+      "country": "Cambodia",
+      "region": "Koh Rong, Krong Preah Sihanouk",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.68797805976549",
+      "lng": "103.24916839599611"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "80765b7d-0c36-40bd-aa99-b8b165b3246c",
+    "name": "Explosion Reef",
+    "location": {
+      "country": "Cambodia",
+      "region": "Kaoh Tang, Koh Kong",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.265431493414317",
+      "lng": "103.15278053283693"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8d5330b0-e3dc-4a76-b36f-490c1b304b5d",
+    "name": "Bready-Eye Bay",
+    "location": {
+      "country": "Cambodia",
+      "region": "Kaoh Tang, Koh Kong",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.309177073333665",
+      "lng": "103.12308311462402"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8e09a8a1-a8d6-4f1c-b036-11c83091c877",
+    "name": "Back Door",
+    "location": {
+      "country": "Cambodia",
+      "region": "Koh Rong Samloem, Krong Preah Sihanouk",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.611765814355323",
+      "lng": "103.27753543853761"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "91b8381b-7eab-4283-a17d-e761312502d5",
+    "name": "The Steps",
+    "location": {
+      "country": "Cambodia",
+      "region": "Kaoh Tang, Koh Kong",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.297523438045962",
+      "lng": "103.12188148498537"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9756b172-a592-4f1c-8cbc-3409a4889112",
+    "name": "Atlantis",
+    "location": {
+      "country": "Cambodia",
+      "region": "Kaoh Tang, Koh Kong",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.284011437752964",
+      "lng": "103.13853263854982"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9bf26301-a330-4fcc-9a85-f97e8c790fd5",
+    "name": "Buda Reef",
+    "location": {
+      "country": "Cambodia",
+      "region": "Koh Rong, Krong Preah Sihanouk",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.660439255039702",
+      "lng": "103.25680732727052"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9d582043-be8b-41d7-803d-bbab132b565f",
+    "name": "First Tree",
+    "location": {
+      "country": "Cambodia",
+      "region": "Koh Koun, Krong Preah Sihanouk",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.637157954172554",
+      "lng": "103.30332756042482"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9e29ee98-c8a9-46a9-ba0c-dd23d6e21983",
+    "name": "Light House",
+    "location": {
+      "country": "Cambodia",
+      "region": "Koh Rong Samloem, Krong Preah Sihanouk",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.54021783236565",
+      "lng": "103.31371307373048"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a8302c14-5cbd-4edf-9884-21fe3e447960",
+    "name": "Broken Heart Bay",
+    "location": {
+      "country": "Cambodia",
+      "region": "Koh Rong, Krong Preah Sihanouk",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.673260080930602",
+      "lng": "103.2499408721924"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "aad1c847-809f-45f7-b35e-f156f17a704b",
+    "name": "House Reef",
+    "location": {
+      "country": "Cambodia",
+      "region": "Koh Rong Samloem, Krong Preah Sihanouk",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.616574454645614",
+      "lng": "103.28096866607667"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b55d65d9-c874-4887-872b-b622d1812bac",
+    "name": "Boulder City",
+    "location": {
+      "country": "Cambodia",
+      "region": "Koh Rong Samloem, Krong Preah Sihanouk",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.587384001570904",
+      "lng": "103.2801103591919"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dfbff07d-fa7b-489a-b592-5dbda5745885",
+    "name": "Sting Ray Aley",
+    "location": {
+      "country": "Cambodia",
+      "region": "Kaoh Tang, Koh Kong",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.288402901304162",
+      "lng": "103.12960624694826"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e044f6d6-b4c9-4324-a7ba-a5d44d5b1c2e",
+    "name": "Small Island",
+    "location": {
+      "country": "Cambodia",
+      "region": "Koh Rong, Krong Preah Sihanouk",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.669422324587897",
+      "lng": "103.29199790954591"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e05d1dcf-5035-4136-80ad-a4210942dc9e",
+    "name": "Bai Cheap Bay",
+    "location": {
+      "country": "Cambodia",
+      "region": "Koh Rong, Krong Preah Sihanouk",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.71930937343816",
+      "lng": "103.19449424743654"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f0084b69-6eeb-4eb0-bfb5-707bd8b286cf",
+    "name": "Vietnamese Bay",
+    "location": {
+      "country": "Cambodia",
+      "region": "Koh Rong Samloem, Krong Preah Sihanouk",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.622057899500028",
+      "lng": "103.31950664520264"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f2251ea0-c559-4596-9a9f-0e5a480f9e53",
+    "name": "Last Tree",
+    "location": {
+      "country": "Cambodia",
+      "region": "Koh Koun, Krong Preah Sihanouk",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.635091231037608",
+      "lng": "103.29796314239503"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "facbb473-eb02-4819-9204-810c18cd058c",
+    "name": "Claude 1",
+    "location": {
+      "country": "Cambodia",
+      "region": "Koh Koun, Krong Preah Sihanouk",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea",
+        "Gulf Of Thailand"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.635555190511045",
+      "lng": "103.29764127731325"
+    },
+    "additionalInfo": {}
+  }
+]

@@ -1,0 +1,801 @@
+[
+  {
+    "id": "056bac25-4b12-4a59-b687-6a042fd5cb4c",
+    "name": "Logan Reef",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.36038488536515",
+      "lng": "37.83691406250001"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0fae5d18-b135-4ff3-8c23-fce51c700146",
+    "name": "Seil Adakebir",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.219423905664407",
+      "lng": "37.8200912475586"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "119ea568-c1b9-43db-9889-f3b32ceefa7a",
+    "name": "Wingate Reef - Umbria Wreck",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.628359764777667",
+      "lng": "37.29721069335938"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "148bf0d8-fa4c-4559-993d-fc62842ce5f1",
+    "name": "Barra Musa Saqir",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.05692585554253",
+      "lng": "38.20907592773438"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "165547a8-cf4f-47c8-b772-a91210d0549d",
+    "name": "Andrew Reef",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.56457474117201",
+      "lng": "38.8198471069336"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "198d0563-d2c9-4058-ada5-45045aa6626c",
+    "name": "Sand Cay",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.268044846623134",
+      "lng": "37.868156433105476"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1e252a03-03c0-493c-8856-3de56f86f27f",
+    "name": "Sha&#039;ab Nick",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.475050317494738",
+      "lng": "38.706893920898445"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1e8d3a83-960b-491b-ac43-f5c10f0f46fa",
+    "name": "Protector",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.219099717744008",
+      "lng": "38.01818847656251"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "389b8938-3fee-4c9d-b432-18aa91631bfb",
+    "name": "Eli&#039;s Reef",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.630304598192915",
+      "lng": "38.73092651367188"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "39f09950-8a0d-43f1-aa8b-4a72413952e4",
+    "name": "Pinnacle",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.18538068428797",
+      "lng": "37.60139465332032"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3f51f9cb-c49a-4684-8d6e-393df91fa1a5",
+    "name": "Tawil",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.151006101333085",
+      "lng": "37.63504028320313"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "44c46de7-0747-4084-88ee-499f61de9fc0",
+    "name": "Masamirit",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.841313810317015",
+      "lng": "38.76045227050782"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "453166e5-40e6-434a-bbf0-7cad58e7acb8",
+    "name": "Keary Reef",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.311143355064655",
+      "lng": "37.83828735351563"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5fb48947-6a6e-43e9-85ee-ae463f721797",
+    "name": "Ghab Abi&#039;isa",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.603950623880834",
+      "lng": "38.78311157226563"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "61936cbf-9510-44ed-813c-1d7175ea6d7c",
+    "name": "Marcel Reef",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.921551419301615",
+      "lng": "38.54742050170899"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "663ef409-e8b3-44a9-9539-5469815019e5",
+    "name": "Abingtion",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.89858840588033",
+      "lng": "37.45033264160157"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6a63a3c5-b403-4933-9169-c7de9958e780",
+    "name": "Sanganeb West",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.724049534671522",
+      "lng": "37.43453979492188"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6e34d09f-e51d-475e-b02e-cf56bb3abd44",
+    "name": "Sha&#039;ab Ambar South",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.252811834814914",
+      "lng": "37.72705078125001"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6eac24e1-2deb-40bf-9576-50eb2e369636",
+    "name": "Habili Dahrat Qab",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.570107439223985",
+      "lng": "38.74877929687501"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6eb5ad60-4249-4fd4-adb9-ef315e66c45c",
+    "name": "Barra Musa Kebir",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.214561019719497",
+      "lng": "38.19328308105469"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "704409bb-ac3b-4962-b574-0dd6ba6ce114",
+    "name": "Safina",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.408609251643206",
+      "lng": "38.77796173095704"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "756fe510-4f51-45f8-8269-8ac9c6cb43d7",
+    "name": "Daik Hillat",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.554159763983392",
+      "lng": "38.79890441894532"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7708124e-70e3-4c4c-82f5-cc1be4644942",
+    "name": "Conshelf Ii",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.93978728199504",
+      "lng": "37.39746093750001"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "89349188-39c2-4bf8-a89d-0d1d705c29fe",
+    "name": "Ed Domesh",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.62574988222611",
+      "lng": "38.85177612304688"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "939b5bf0-deb0-4ef0-ba1a-238a8933f79a",
+    "name": "Dahrat Qab",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.570107439223985",
+      "lng": "38.72200012207032"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "96e883d8-9b9d-4079-8149-40671e9010ce",
+    "name": "Sanganeb South Point",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.71047541288554",
+      "lng": "37.44483947753907"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9a21917d-e886-4a8a-9a58-6aefb70be37c",
+    "name": "Franci&#039;s Reef",
+    "location": {
+      "country": "Sudan",
+      "region": "Sudan, Africa",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.132801356084773",
+      "lng": "39.54803466796876"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9e789e3d-faef-41cf-8953-f094c886271b",
+    "name": "Darraka",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.46430424052439",
+      "lng": "38.73676300048829"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9fcff14d-ca3b-4b04-862d-c46f7e3cddc6",
+    "name": "Munkar",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.11727313339193",
+      "lng": "37.821807861328125"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a0d19fc9-5f28-4bd2-8cc8-25d363152077",
+    "name": "Sha&#039;ab Rumi - Precontinent",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.944951054874977",
+      "lng": "37.41806030273438"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a8b4c65a-c6f3-433b-9d66-ac43bd2006f2",
+    "name": "Angarosh",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.86009507184941",
+      "lng": "37.43453979492188"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c100d478-0c76-4b39-b9fb-23bd7a141e17",
+    "name": "Pender Reef",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.172409985796943",
+      "lng": "37.860946655273445"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c1f53828-0f53-4607-83a5-e81e55e097e9",
+    "name": "Dahrat Abid",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.491982163072823",
+      "lng": "38.79753112792969"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c55e7527-8a3a-439a-bb61-514d856fadc2",
+    "name": "Mao Reef",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.182138105418908",
+      "lng": "38.020248413085945"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c5775c37-87e9-4693-9f57-64fe1b9cc503",
+    "name": "Dibsel",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.898491104062323",
+      "lng": "38.58123779296876"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cddd186e-3ebf-42a4-b81e-7c86bbea22be",
+    "name": "Owen",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.341597106309134",
+      "lng": "37.96686172485352"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d47a91cf-1fd3-4c63-b458-ef2fb5976c72",
+    "name": "Sha&#039;ab Jibna",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.44716924661301",
+      "lng": "37.72430419921876"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d4c9b23a-745a-4cbf-9285-2504ce48f590",
+    "name": "Nakhala",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.182786626300352",
+      "lng": "37.61856079101563"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d8375fc9-dbf3-4ee8-aced-a1e70d73fb66",
+    "name": "Peshwa",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.384352357301474",
+      "lng": "37.909355163574226"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "da2beaf4-6803-41e4-9708-5823ba7490e5",
+    "name": "Sha&#039;ab Suedi - Blue Belt Wreck",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.21452239392733",
+      "lng": "37.31643676757813"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "da3f7cbe-7b54-400c-9c5d-ef866200ff83",
+    "name": "Karam Masamirit",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.80589310300918",
+      "lng": "38.782768249511726"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e7e89878-aa85-4e3e-95de-2603003c5f70",
+    "name": "Sha&#039;ab Loka",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.736654974306546",
+      "lng": "38.49472045898438"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e89b8d90-aff1-455e-9fbf-bc7a1ca1ace8",
+    "name": "Qita&#039;el Banna",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "20.69510393844754",
+      "lng": "37.38716125488282"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e93b454b-b9f6-4376-ad69-8b8c04ade5b2",
+    "name": "Loka Island",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.851711132087274",
+      "lng": "38.64578247070313"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f8918423-2020-4d0a-866f-1eaea3210704",
+    "name": "Sanganeb North",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.780919023255173",
+      "lng": "37.44415283203126"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fb79dcd6-2be1-482c-b5d9-2c89b79ec2bc",
+    "name": "Padulo",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.12570702128234",
+      "lng": "38.15277099609376"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fff119f4-eec2-4fd4-a273-82339e2fb821",
+    "name": "Miyum (Qab. Habili)",
+    "location": {
+      "country": "Sudan",
+      "region": "Al Bahr Al Ahmar, Sudan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.503052080569763",
+      "lng": "38.83941650390625"
+    },
+    "additionalInfo": {}
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "01f30674-77dc-4483-830f-9cc9a64dabd4",
+    "name": "Roche Jerome",
+    "location": {
+      "country": "Mauritius",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.013919621042184",
+      "lng": "57.53883361816407"
+    },
+    "additionalInfo": {}
+  }
+]

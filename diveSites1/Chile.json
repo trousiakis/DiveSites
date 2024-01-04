@@ -1,0 +1,530 @@
+[
+  {
+    "id": "04e4022e-509e-4f81-8bbd-87f105bd1d7a",
+    "name": "Roca La Baja",
+    "location": {
+      "country": "Chile",
+      "region": "Valparaiso, Chile",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-33.01969113164484",
+      "lng": "-71.63195371627809"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "08441287-dcda-407b-a3c4-e804e7b693a1",
+    "name": "El Falucho",
+    "location": {
+      "country": "Chile",
+      "region": "Valparaiso, Chile",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-33.18860084843382",
+      "lng": "-71.70295715332033"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0d790804-7056-4dac-8220-ae8e54c79afa",
+    "name": "La Caldera",
+    "location": {
+      "country": "Chile",
+      "region": "Valparaiso, Chile",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-33.19136623691186",
+      "lng": "-71.70171260833742"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0e4dead2-60f4-4265-895f-3d4d52c616db",
+    "name": "The Abyss",
+    "location": {
+      "country": "Chile",
+      "region": "Antofagasta, Chile",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.467793132248804",
+      "lng": "-70.6189799308777"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1707b3cd-267d-4b3b-a633-2829b6dbdec5",
+    "name": "El Acuario De Santa Maria",
+    "location": {
+      "country": "Chile",
+      "region": "Antofagasta, Chile",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.474268608272848",
+      "lng": "-70.62174797058107"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2dc9d943-e67e-4ac9-9465-54a727e6f3d2",
+    "name": "Jardines De Copeton",
+    "location": {
+      "country": "Chile",
+      "region": "Antofagasta, Chile",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.32901579643034",
+      "lng": "-70.59539794921876"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "36faa3c1-4299-4dd5-8ba8-150aec9adabe",
+    "name": "Lobera De Curaumilla",
+    "location": {
+      "country": "Chile",
+      "region": "Valparaiso, Chile",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-33.100745405144245",
+      "lng": "-71.75342559814455"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4f7e7304-1f3c-4275-a519-4ab040e9ba8c",
+    "name": "Anakena",
+    "location": {
+      "country": "Chile",
+      "region": "Easter Island, Chile",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.059584396147315",
+      "lng": "-109.34125900268556"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5176a9d0-2840-4299-aa58-6ef1b856ab7b",
+    "name": "Pared Sur",
+    "location": {
+      "country": "Chile",
+      "region": "Antofagasta, Chile",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.455451451701833",
+      "lng": "-70.61307907104494"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "55eff57b-a189-4b33-adcb-82f5b44c07cd",
+    "name": "Vianpu",
+    "location": {
+      "country": "Chile",
+      "region": "Easter Island, Chile",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.177843519301398",
+      "lng": "-109.40013885498048"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "630251e5-9879-418f-81c3-53b3785bc694",
+    "name": "Maria Elizabeth",
+    "location": {
+      "country": "Chile",
+      "region": "Antofagasta, Chile",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.611182819312603",
+      "lng": "-70.40863037109376"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6484ec53-02e9-4023-bdcf-e16cfc7cd9c6",
+    "name": "Mataveri",
+    "location": {
+      "country": "Chile",
+      "region": "Easter Island, Chile",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.15073442116805",
+      "lng": "-109.44356918334962"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6fcaa69a-9869-4a6f-bbc4-014d49bacf8a",
+    "name": "La Portada",
+    "location": {
+      "country": "Chile",
+      "region": "Antofagasta, Chile",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.50040346877795",
+      "lng": "-70.43540954589845"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7f4a7310-1de3-4af2-a470-6b9c36de1bc3",
+    "name": "Ovahe",
+    "location": {
+      "country": "Chile",
+      "region": "Easter Island, Chile",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.072883321771968",
+      "lng": "-109.30658340454103"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "94b6ee75-b20b-4cf6-b0e0-8a9e3b63fb93",
+    "name": "Akahanga",
+    "location": {
+      "country": "Chile",
+      "region": "Easter Island, Chile",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.146992085128364",
+      "lng": "-109.31259155273439"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "95925212-52ab-452e-83a3-a89fd06aee2f",
+    "name": "Motu Tautara",
+    "location": {
+      "country": "Chile",
+      "region": "Easter Island, Chile",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.109867436716712",
+      "lng": "-109.42554473876955"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "98bb4a1a-2b29-45b2-8ba1-c9ec1f3a9a4d",
+    "name": "Hanga Roa",
+    "location": {
+      "country": "Chile",
+      "region": "Easter Island, Chile",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.13507687448669",
+      "lng": "-109.43069458007812"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a2489813-ad63-41b2-b8e0-7a3356ecbb13",
+    "name": "Vapor Lima",
+    "location": {
+      "country": "Chile",
+      "region": "Antofagasta, Chile",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.36195582948359",
+      "lng": "-70.62355041503908"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a85ade42-30fd-42ea-b6ba-0617319b991a",
+    "name": "Motu Nui",
+    "location": {
+      "country": "Chile",
+      "region": "Easter Island, Chile",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.203495643131834",
+      "lng": "-109.4509506225586"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a8ceb9f6-2350-413e-8f86-f37038325a43",
+    "name": "Los Jardines",
+    "location": {
+      "country": "Chile",
+      "region": "Valparaiso, Chile",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-33.18669734849276",
+      "lng": "-71.7015838623047"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ad68b898-4bf0-427d-afd5-dff6f0a4a6da",
+    "name": "Colin&#039;s Double Strike",
+    "location": {
+      "country": "Chile",
+      "region": "Antofagasta, Chile",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.49772724527954",
+      "lng": "-70.62320709228517"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b63e37b4-a39a-47d4-9c2b-745662d952de",
+    "name": "La Perouse",
+    "location": {
+      "country": "Chile",
+      "region": "Easter Island, Chile",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.087250502803684",
+      "lng": "-109.27431106567384"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c00553eb-71be-491d-8d15-1fa10e57eede",
+    "name": "Omohi",
+    "location": {
+      "country": "Chile",
+      "region": "Easter Island, Chile",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.05255214290662",
+      "lng": "-109.38743591308594"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cd438b76-c63d-4843-b9c0-b58c02266dfd",
+    "name": "El Buey",
+    "location": {
+      "country": "Chile",
+      "region": "Antofagasta, Chile",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.40071687304207",
+      "lng": "-70.61634063720705"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d04fe53e-ec00-423d-8dfb-af577c902e4c",
+    "name": "Te Peu",
+    "location": {
+      "country": "Chile",
+      "region": "Easter Island, Chile",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.077621638225576",
+      "lng": "-109.40717697143556"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d1357d44-7dbf-4b60-bd2e-d0041d3be74f",
+    "name": "Anemone Wall",
+    "location": {
+      "country": "Chile",
+      "region": "Antofagasta, Chile",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.47035186895632",
+      "lng": "-70.62003135681154"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d25115b9-5b76-47ca-808d-8d97d6169558",
+    "name": "Hotu Iti",
+    "location": {
+      "country": "Chile",
+      "region": "Easter Island, Chile",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.1340074986018",
+      "lng": "-109.26795959472658"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "da5d0857-ea59-4f4d-8f24-8338d78cd52b",
+    "name": "Vaihu",
+    "location": {
+      "country": "Chile",
+      "region": "Easter Island, Chile",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.16318251444117",
+      "lng": "-109.34314727783205"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e3813048-b470-43ff-90cc-9a6a8aeb3dfc",
+    "name": "The Sunken Reef",
+    "location": {
+      "country": "Chile",
+      "region": "Antofagasta, Chile",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.46960393566565",
+      "lng": "-70.6196451187134"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e5214aca-b7bd-4525-818b-2dd4c0ee65cf",
+    "name": "Motu Kao Kao",
+    "location": {
+      "country": "Chile",
+      "region": "Easter Island, Chile",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.187005669376603",
+      "lng": "-109.45146560668947"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ec0cb76c-12c7-47fb-8851-271853b55717",
+    "name": "Roca Chungungo",
+    "location": {
+      "country": "Chile",
+      "region": "Antofagasta, Chile",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.46415176755557",
+      "lng": "-70.61728477478029"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ee2c4b8c-a719-4b59-8910-634917d1b4ba",
+    "name": "Caupolican",
+    "location": {
+      "country": "Chile",
+      "region": "Valparaiso, Chile",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-33.0233063440049",
+      "lng": "-71.63051605224611"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ff112b8b-c34c-466a-a3ab-ae95c56e1e8c",
+    "name": "El Fraile",
+    "location": {
+      "country": "Chile",
+      "region": "Valparaiso, Chile",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-33.17965763091295",
+      "lng": "-71.71291351318361"
+    },
+    "additionalInfo": {}
+  }
+]

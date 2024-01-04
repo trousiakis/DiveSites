@@ -1,0 +1,20 @@
+[
+  {
+    "id": "c1aa6228-ac30-496d-8541-bc98f78dd4e8",
+    "name": "Lake Khövsgöl",
+    "location": {
+      "country": "Mongolia",
+      "region": "Lake Khövsgöl, Mongolia",
+      "ocean": [
+        "Asia",
+        "Mongolia",
+        "Lake Khövsgöl"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.680797145321655",
+      "lng": "100.32714843750001"
+    },
+    "additionalInfo": {}
+  }
+]

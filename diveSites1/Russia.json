@@ -1,0 +1,681 @@
+[
+  {
+    "id": "01837cc4-c215-4339-acc3-4b7b67744398",
+    "name": "Orda Cave",
+    "location": {
+      "country": "Russia",
+      "region": "Orda, Perm Krai",
+      "ocean": [
+        "Europe",
+        "Russia",
+        "Perm Krai",
+        "Orda"
+      ]
+    },
+    "coordinates": {
+      "lat": "57.1814",
+      "lng": "56.8884"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "07233c22-fdee-4d2f-b461-058b4593d343",
+    "name": "Svytoe Lake",
+    "location": {
+      "country": "Russia",
+      "region": "Polevoy, Ryazan Oblast",
+      "ocean": [
+        "Europe",
+        "Russia",
+        "Ryazan Oblast",
+        "Polevoy"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.6286",
+      "lng": "41.0993"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "08d23d44-acb3-47f6-ba4c-4daa58f2d945",
+    "name": "Сухогруз Сакко И Ванцетти / Dry Cargo Ship Sacco And Vanzetti ",
+    "location": {
+      "country": "Russia",
+      "region": "Gelendzhik, Krasnodar Region",
+      "ocean": [
+        "Atlantic Ocean",
+        "Black Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.531384201104544",
+      "lng": "38.03792953491212"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "16d89fbc-6d68-4c92-ab9d-ca53bfc2b4aa",
+    "name": "Rachiy Kar&#039;er",
+    "location": {
+      "country": "Russia",
+      "region": "Tolstyakovo, Moscow Oblast",
+      "ocean": [
+        "Europe",
+        "Russia",
+        "Moscow Oblast",
+        "Tolstyakovo"
+      ]
+    },
+    "coordinates": {
+      "lat": "56.2738",
+      "lng": "36.9838"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1796894d-ee5e-4112-a973-770d868a6235",
+    "name": "Мыс Видный",
+    "location": {
+      "country": "Russia",
+      "region": "Sochi, Krasnodar Krai",
+      "ocean": [
+        "Europe",
+        "Russia",
+        "North Caucasus",
+        "Krasnodar Krai",
+        "Sochi"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.51055736980905",
+      "lng": "39.850566387176514"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "299ce992-645a-425f-89f3-f42d91eb5935",
+    "name": "Goluboye Lake",
+    "location": {
+      "country": "Russia",
+      "region": "Babugent, Kabardino-Balkaria Republic",
+      "ocean": [
+        "Europe",
+        "Russia",
+        "Kabardino-balkaria Republic",
+        "Babugent"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.2325",
+      "lng": "43.5398"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2f3d289d-9a15-493e-8ebd-6fa1e8c5deac",
+    "name": "Black Rock",
+    "location": {
+      "country": "Russia",
+      "region": "Divnomorskoe, Krasnodar Region",
+      "ocean": [
+        "Europe",
+        "Russia",
+        "Krasnodar Region",
+        "Divnomorskoe"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.496",
+      "lng": "38.1339"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "397442bd-e940-4085-8bc7-ce37bc279fd7",
+    "name": "Red Stone",
+    "location": {
+      "country": "Russia",
+      "region": "Uvildy, Chelyabinsk Oblast",
+      "ocean": [
+        "Asia",
+        "Russia",
+        "Chelyabinsk Oblast",
+        "Uvildy"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.5327",
+      "lng": "60.4446"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "42d85843-5a10-47d4-a612-d33d8c9cd89b",
+    "name": "Ruskeala",
+    "location": {
+      "country": "Russia",
+      "region": "Moscow, Central Economic Region",
+      "ocean": [
+        "Europe",
+        "Russia",
+        "Central Economic Region",
+        "Moscow"
+      ]
+    },
+    "coordinates": {
+      "lat": "61.945035963241416",
+      "lng": "30.580239464416994"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "43a6e06b-d8f9-4bfd-a06a-db6be34540b4",
+    "name": "Sadko",
+    "location": {
+      "country": "Russia",
+      "region": "Ryazan Oblast, Russia",
+      "ocean": [
+        "Europe",
+        "Russia",
+        "Ryazan Oblast"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.04344018540579",
+      "lng": "39.75801944732667"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4e0a6e5b-79a7-42df-9e2a-99350c6bcf6e",
+    "name": "Zaboy Lake",
+    "location": {
+      "country": "Russia",
+      "region": "Gorny, Novosibirsk Oblast",
+      "ocean": [
+        "Europe",
+        "Russia",
+        "Novosibirsk Oblast",
+        "Gorny"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.1248",
+      "lng": "83.9179"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "52e5119a-4c6e-4828-a21d-c9b51e3c1939",
+    "name": "Baikal",
+    "location": {
+      "country": "Russia",
+      "region": "Listvyanka, Irkutsk",
+      "ocean": [
+        "Asia",
+        "Russia",
+        "East Siberian",
+        "Irkutsk",
+        "Listvyanka"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.851049381288895",
+      "lng": "104.85488891601564"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "579ae018-1f4a-4af8-8285-c77989006ccb",
+    "name": "Convent Bridge",
+    "location": {
+      "country": "Russia",
+      "region": "Valdai, Novgorod Region",
+      "ocean": [
+        "Europe",
+        "Russia",
+        "Novgorod Region",
+        "Valdai"
+      ]
+    },
+    "coordinates": {
+      "lat": "57.9659",
+      "lng": "33.3029"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "60e7f3c2-7da3-4a6b-aace-b6b8d5b0fd90",
+    "name": "Lake Baikal- Shaman Rock",
+    "location": {
+      "country": "Russia",
+      "region": "Olkhon Island, East Siberian",
+      "ocean": [
+        "Asia",
+        "Russia",
+        "East Siberian",
+        "Olkhon Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.595515608493464",
+      "lng": "108.53393554687501"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "689bcac7-0189-49d6-8bd4-f0ca086c980a",
+    "name": "Spas-Kamenka",
+    "location": {
+      "country": "Russia",
+      "region": "Moscow, Central Economic Region",
+      "ocean": [
+        "Europe",
+        "Russia",
+        "Central Economic Region",
+        "Moscow"
+      ]
+    },
+    "coordinates": {
+      "lat": "56.1451669788063",
+      "lng": "37.46749877929688"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6ee4b15b-13f1-4884-bbab-b521f57a5e40",
+    "name": "Valday Lake Eagles",
+    "location": {
+      "country": "Russia",
+      "region": "Usadie, Novgorod Region",
+      "ocean": [
+        "Europe",
+        "Russia",
+        "Novgorod Region",
+        "Usadie"
+      ]
+    },
+    "coordinates": {
+      "lat": "58.0128",
+      "lng": "33.259"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6ff4dc33-15c8-461b-b40d-f0428386965b",
+    "name": "White Sea",
+    "location": {
+      "country": "Russia",
+      "region": "Russia, Asia",
+      "ocean": [
+        "Arctic Ocean",
+        "Barents Sea",
+        "White Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "65.44913291147593",
+      "lng": "36.12304687500001"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "789f254d-1584-4591-bf90-84828bf6b08d",
+    "name": "Bolshoy Utrish Cape",
+    "location": {
+      "country": "Russia",
+      "region": "Bol&#039;shoy Utrish, Krasnodar Krai",
+      "ocean": [
+        "Atlantic Ocean",
+        "Black Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.75892378350202",
+      "lng": "37.375316619873054"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "78ec125a-773d-4b2a-bcb6-3f988273a4ec",
+    "name": "Wreck &quot;червоный Казак&quot;",
+    "location": {
+      "country": "Russia",
+      "region": "Bol&#039;shoy Utrish, Krasnodar Krai",
+      "ocean": [
+        "Atlantic Ocean",
+        "Black Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.64349834733399",
+      "lng": "37.792797088623054"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "81265e4c-bc42-429b-ad3c-f4567a0eede3",
+    "name": "Quarry Nickel",
+    "location": {
+      "country": "Russia",
+      "region": "Treka, Sverdlovsk Oblast",
+      "ocean": [
+        "Asia",
+        "Russia",
+        "Sverdlovsk Oblast",
+        "Treka"
+      ]
+    },
+    "coordinates": {
+      "lat": "57.1087",
+      "lng": "59.4673"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "876f0786-3c1f-4dc0-9fc5-c8b79d5b58af",
+    "name": "Kisegach Lake",
+    "location": {
+      "country": "Russia",
+      "region": "Kisegach, Chelyabinsk Oblast",
+      "ocean": [
+        "Asia",
+        "Russia",
+        "Chelyabinsk Oblast",
+        "Kisegach"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.0429",
+      "lng": "60.3143"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8c8f1977-3481-477b-8e18-19764087aa1e",
+    "name": "Fifth Element",
+    "location": {
+      "country": "Russia",
+      "region": "Moscow, Central Economic Region",
+      "ocean": [
+        "Europe",
+        "Russia",
+        "Central Economic Region",
+        "Moscow"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.92095487533347",
+      "lng": "38.03638458251954"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9e5e677e-ce8e-49a2-bc96-089990c09628",
+    "name": "Ingol Lake",
+    "location": {
+      "country": "Russia",
+      "region": "Ivanovka, Krasnoyarsk Region",
+      "ocean": [
+        "Asia",
+        "Russia",
+        "Krasnoyarsk Region",
+        "Ivanovka"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.5339",
+      "lng": "88.8262"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9ecd7a6f-e0df-4fc1-94bf-097c7ad9b802",
+    "name": "Teletskoye Lake",
+    "location": {
+      "country": "Russia",
+      "region": "Yaylu, Altai Republic",
+      "ocean": [
+        "Asia",
+        "Russia",
+        "Altai Republic",
+        "Yaylu"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.7428",
+      "lng": "87.4773"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a6fcc4dd-7c1b-4112-b457-3034a21b9419",
+    "name": "Quarry Turquoise",
+    "location": {
+      "country": "Russia",
+      "region": "Kurgan Oblast, Russia",
+      "ocean": [
+        "Asia",
+        "Russia",
+        "Kurgan Oblast"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.7183",
+      "lng": "64.3271"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a92929e8-8d79-4e21-8a5e-8da66fe7ea25",
+    "name": "Shchyolkovo Dolomite Pit",
+    "location": {
+      "country": "Russia",
+      "region": "Moscow, Central Economic Region",
+      "ocean": [
+        "Europe",
+        "Russia",
+        "Central Economic Region",
+        "Moscow"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.92102701631736",
+      "lng": "38.046941757202156"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b48d9fe4-f7c1-47d0-b6ed-2e6004d2ab3f",
+    "name": "Quarry Lazurniy",
+    "location": {
+      "country": "Russia",
+      "region": "Anatolskaya, Sverdlovsk Oblast",
+      "ocean": [
+        "Asia",
+        "Russia",
+        "Sverdlovsk Oblast",
+        "Anatolskaya"
+      ]
+    },
+    "coordinates": {
+      "lat": "57.714",
+      "lng": "60.2"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c71b2ff2-c703-4dd3-af4b-b4d9f630a42c",
+    "name": "Tver Lake",
+    "location": {
+      "country": "Russia",
+      "region": "Tver, Tver Oblast",
+      "ocean": [
+        "Europe",
+        "Russia",
+        "Tver Oblast",
+        "Tver"
+      ]
+    },
+    "coordinates": {
+      "lat": "56.8493",
+      "lng": "36.0078"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c7eb4243-40e1-4844-afc1-c21a4c61417e",
+    "name": "Quarry Comfort",
+    "location": {
+      "country": "Russia",
+      "region": "Kamenka, Sverdlovsk Oblast",
+      "ocean": [
+        "Asia",
+        "Russia",
+        "Sverdlovsk Oblast",
+        "Kamenka"
+      ]
+    },
+    "coordinates": {
+      "lat": "56.9089",
+      "lng": "61.3804"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c8e35cb8-2125-4c63-a19f-b3ee41cdd019",
+    "name": "Poligon",
+    "location": {
+      "country": "Russia",
+      "region": "Listvyanka, Irkutsk",
+      "ocean": [
+        "Asia",
+        "Russia",
+        "East Siberian",
+        "Irkutsk",
+        "Listvyanka"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.86419599905765",
+      "lng": "104.84321594238283"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cb996216-059f-405e-8b52-d11f9de3697f",
+    "name": "Round Lake",
+    "location": {
+      "country": "Russia",
+      "region": "Bryansk, Bryansk Oblast",
+      "ocean": [
+        "Europe",
+        "Russia",
+        "Bryansk Oblast",
+        "Bryansk"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.43694374671193",
+      "lng": "34.29110649973154"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d127c2ef-3e57-436a-b921-906084e0c9bd",
+    "name": "Сапёрное",
+    "location": {
+      "country": "Russia",
+      "region": "Sapernoye Ozero, Leningrad Oblast",
+      "ocean": [
+        "Asia",
+        "Russia",
+        "Leningrad Oblast",
+        "Sapernoye Ozero"
+      ]
+    },
+    "coordinates": {
+      "lat": "60.72530641176153",
+      "lng": "29.955146312713627"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "db8d92d8-ae1e-4770-a7c4-b40782ad9fc4",
+    "name": "Krestoviy",
+    "location": {
+      "country": "Russia",
+      "region": "Nilmoguba, Republic Of Karelia",
+      "ocean": [
+        "Europe",
+        "Russia",
+        "Republic Of Karelia",
+        "Nilmoguba"
+      ]
+    },
+    "coordinates": {
+      "lat": "66.5046",
+      "lng": "33.1428"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e0294f92-90f1-4940-a8ce-013444b8843b",
+    "name": "Wreck Pervanshe",
+    "location": {
+      "country": "Russia",
+      "region": "Sochi, Krasnodar Krai",
+      "ocean": [
+        "Europe",
+        "Russia",
+        "North Caucasus",
+        "Krasnodar Krai",
+        "Sochi"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.549450138980596",
+      "lng": "39.74450111389161"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ebb21e1f-0cbc-49d7-8113-92b5d4263df8",
+    "name": "Keramzit Quarry",
+    "location": {
+      "country": "Russia",
+      "region": "Bryansk, Bryansk Oblast",
+      "ocean": [
+        "Europe",
+        "Russia",
+        "Bryansk Oblast",
+        "Bryansk"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.24110051109388",
+      "lng": "34.478953331708915"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f37a7a23-cdf8-4478-93fb-e389e52da5f8",
+    "name": "Vad Lake",
+    "location": {
+      "country": "Russia",
+      "region": "Vad, Nizhny Novgorod Oblast",
+      "ocean": [
+        "Europe",
+        "Russia",
+        "Nizhny Novgorod Oblast",
+        "Vad"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.5434",
+      "lng": "44.197"
+    },
+    "additionalInfo": {}
+  }
+]

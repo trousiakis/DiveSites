@@ -1,0 +1,6376 @@
+[
+  {
+    "id": "0028f627-5e99-4e9a-b265-20d29e8671dd",
+    "name": "L&#039;esquillade",
+    "location": {
+      "country": "France",
+      "region": "Levant Island, Hyeres",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.05785119934999",
+      "lng": "6.512832641601563"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "00817a25-f44b-4435-a12e-5ac34bd6002b",
+    "name": "Lou Baillou",
+    "location": {
+      "country": "France",
+      "region": "Beaulieu Sur Mer, Alpes Maritimes",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.70318815368633",
+      "lng": "7.345304489135743"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "00d86456-df32-4a2d-ab48-4ce12bb298f9",
+    "name": "Hms Lord Austin",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.380584708211565",
+      "lng": "-0.37628173828125006"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0142edd2-651b-4d45-afcc-80d14d6f708f",
+    "name": "Empire Broadsword",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.36627773550062",
+      "lng": "-0.75531005859375"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "01e54557-9676-4c19-8978-b289bc099e81",
+    "name": "Hms Isis",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.450717967273384",
+      "lng": "-0.17578125"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "029bf4ce-5d16-4c04-b85a-d958e211c075",
+    "name": "Les Ameriques",
+    "location": {
+      "country": "France",
+      "region": "Palavas Les Flots, Herault Department",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.492284671583754",
+      "lng": "3.923749923706055"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "02d6b4e7-27f9-447f-ba52-95902462d6e4",
+    "name": "Le Sec Du Maupertuis",
+    "location": {
+      "country": "France",
+      "region": "Levant Island, Hyeres",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.99686342211898",
+      "lng": "6.443481445312501"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "02e259e3-54f7-4461-99fa-084e491de869",
+    "name": "L&#039;imperial De Terre",
+    "location": {
+      "country": "France",
+      "region": "Marseille, Provence-Alpes-Cote D&#039;azur",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.1700681184122",
+      "lng": "5.392870903015137"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "03360425-b34a-4989-9437-1981cb65bcdc",
+    "name": "Source De La Tirounère",
+    "location": {
+      "country": "France",
+      "region": " Saint-Paul-De-Fenouillet, Pyrenees-Orientales",
+      "ocean": [
+        "Europe",
+        "France",
+        "Occitanie",
+        "Pyrenees-orientales",
+        " Saint-paul-de-fenouillet"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.833413882207694",
+      "lng": "2.478575706481934"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "03ba3d99-dbe8-48d1-bac2-cfdc643a47f1",
+    "name": "Le Pionier",
+    "location": {
+      "country": "France",
+      "region": "Ramatuelle, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.17031851215856",
+      "lng": "6.6475868225097665"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "03f83ff1-ca62-4f83-9339-98df3f2ad501",
+    "name": "Le Zod De Xav",
+    "location": {
+      "country": "France",
+      "region": "Cerbere, Pyrenees-Orientales",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.453433725085574",
+      "lng": "3.1613373756408696"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "05100e42-4238-4d73-8657-845b689adde0",
+    "name": "Lct",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.359346298536956",
+      "lng": "-0.6471633911132814"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "062986c1-f141-487a-9abf-c238750d97d2",
+    "name": "Maguelone",
+    "location": {
+      "country": "France",
+      "region": "Palavas Les Flots, Herault Department",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.50685347076445",
+      "lng": "3.8916492462158203"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "064c9c0f-0ba4-4629-a5e1-6e172c020247",
+    "name": "Hms Berkley",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.11177210242299",
+      "lng": "1.1247253417968752"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "07a50e36-d58e-46ba-aabd-92c3562e6b27",
+    "name": "Grotte Rouceau",
+    "location": {
+      "country": "France",
+      "region": "Ramatuelle, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.23157150906517",
+      "lng": "6.708183288574219"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "09135a27-4545-4f3d-bdf6-03de200f26d0",
+    "name": "Le Canon",
+    "location": {
+      "country": "France",
+      "region": "Ramatuelle, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.193037471017256",
+      "lng": "6.68818473815918"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0a0b0b1b-6fc1-4bfe-ada6-56757fd4fb05",
+    "name": "Hms Svenner",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.48597005571962",
+      "lng": "-0.33920288085937506"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0aa69399-1ec7-42f6-bc6e-5f1a7a1bddcc",
+    "name": "Ss Dulwich",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.087987824055475",
+      "lng": "0.18402099609375"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0b1cf8c9-1f38-4e7c-93cd-5c70691309ea",
+    "name": "Norfalk",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.47615556684206",
+      "lng": "-1.0588073730468752"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0bac8888-cc91-4973-8288-d36fd919e139",
+    "name": "Anse Aux Bles",
+    "location": {
+      "country": "France",
+      "region": "Hyeres, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.02673743559375",
+      "lng": "6.107368469238282"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0e6722b9-8448-4455-b3ce-c37a39719944",
+    "name": "Kings Dyke",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.11881702842054",
+      "lng": "-1.1604309082031252"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0f442737-e5b3-430f-a0e7-9f496a1a4a64",
+    "name": "Ss Temple",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.74799973900057",
+      "lng": "-1.2792205810546877"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "105f4ac4-1f67-4c46-bd3f-594e41876940",
+    "name": "Calafate",
+    "location": {
+      "country": "France",
+      "region": "Juan Les Pins, Antibes",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.53993150737099",
+      "lng": "7.123260498046876"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "10b22e1f-7352-46e1-97a1-b045fbf761fb",
+    "name": "Morning Star",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.72004007061398",
+      "lng": "-1.1659240722656252"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "10cfe9e5-2edf-43e6-9044-aeff911a327a",
+    "name": "Ammo Wk",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.85834939327646",
+      "lng": "0.3900146484375"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "11b11e97-20ce-41de-a52a-c069b71b6e4b",
+    "name": "Tunnels Et Failles Du Tiboulen De Maire",
+    "location": {
+      "country": "France",
+      "region": "Tiboulen De Marie Island, Marseille",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.21418416226072",
+      "lng": "5.323820114135743"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "14404189-9bf2-4e8c-93ee-162d6b96686a",
+    "name": "La Bronde Du Bateguier",
+    "location": {
+      "country": "France",
+      "region": "Cannes, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.52932237272168",
+      "lng": "7.029190063476563"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "147d0406-353c-4d68-babe-24568c294194",
+    "name": "La Grosse Minouche",
+    "location": {
+      "country": "France",
+      "region": "Cannes, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.53734939718939",
+      "lng": "7.058286666870118"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "152c7b5f-f31f-4189-8dde-f97b42de62a1",
+    "name": "Le Tlaloc And Rock",
+    "location": {
+      "country": "France",
+      "region": "Saint-Tropez, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.27045617360653",
+      "lng": "6.707625389099122"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "16e0d19d-0279-416d-9eec-c3728a1f2ab9",
+    "name": "Destroyer",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.872070099704864",
+      "lng": "-1.8697357177734377"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "17b8c71e-4bb9-48c2-aa07-e2422e8ca065",
+    "name": "Uss Sesame",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.50826839701882",
+      "lng": "-0.9104919433593751"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "17f3a36b-c90f-4f16-bdb4-5cfdb943dfcc",
+    "name": "St. Nicholas",
+    "location": {
+      "country": "France",
+      "region": "Ile De Groix, Brittany",
+      "ocean": [
+        "Atlantic Ocean",
+        "Bay Of Biscay"
+      ]
+    },
+    "coordinates": {
+      "lat": "47.63057806980644",
+      "lng": "-3.4898757934570317"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "180ad45a-2c15-493a-961b-941ad0beb4a6",
+    "name": "Grande Baie",
+    "location": {
+      "country": "France",
+      "region": "Saint Jean Cap Ferrat, Alpes Maritimes",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.683887663283926",
+      "lng": "7.32015609741211"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "18604233-6aef-4666-b464-2f443b5bbf8c",
+    "name": "La Galere",
+    "location": {
+      "country": "France",
+      "region": "Port-Cross, Hyeres",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.02698841615476",
+      "lng": "6.409149169921876"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "195e1e9e-ce70-4004-8c98-7f0c5038c38b",
+    "name": "Jardin",
+    "location": {
+      "country": "France",
+      "region": "Marseille, Provence-Alpes-Cote D&#039;azur",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.19960749428115",
+      "lng": "5.492820739746095"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1a4b3e30-9e41-401c-9556-bcad656ee368",
+    "name": "Bronde Nord De La Fourmigue",
+    "location": {
+      "country": "France",
+      "region": "La Levandou, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.12805003869859",
+      "lng": "6.385116577148438"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1a5ffcaa-a394-471e-a72d-2ea1a6a4c28a",
+    "name": "Bilitis",
+    "location": {
+      "country": "France",
+      "region": "Cannes, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.50573291871012",
+      "lng": "7.060046195983888"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1abb283d-c0f6-41c1-bcdf-1cb5a6d0ff09",
+    "name": "L&#039;enfer De Dante",
+    "location": {
+      "country": "France",
+      "region": "Juan Les Pins, Antibes",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.545188715222416",
+      "lng": "7.078413963317872"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1b88d11b-a5a0-43d5-ac8c-91c26a20b980",
+    "name": "Susan B Anthony",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.55639814511971",
+      "lng": "-0.8253479003906251"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1c63e253-ba92-4414-b876-90e6f89a04f7",
+    "name": "Le Bananier",
+    "location": {
+      "country": "France",
+      "region": "Port-Vendres, Pyrenees-Orientales",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.58531786830288",
+      "lng": "3.1199455261230473"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1c91acd1-0ea8-4e83-8625-de1656928ef4",
+    "name": "Hms Hussar",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.87251263825472",
+      "lng": "-0.07690429687500001"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1de8edfc-5129-4b57-97ab-5d6eb913f600",
+    "name": "Cap Negre",
+    "location": {
+      "country": "France",
+      "region": "La Levandou, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.140326562501784",
+      "lng": "6.437644958496094"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1ec1299f-bddb-402e-a87b-6853a2daf503",
+    "name": "La Basse De Groix",
+    "location": {
+      "country": "France",
+      "region": "Ile De Groix, Brittany",
+      "ocean": [
+        "Atlantic Ocean",
+        "Bay Of Biscay"
+      ]
+    },
+    "coordinates": {
+      "lat": "47.655906726878456",
+      "lng": "-3.5279846191406254"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1f4df224-67cd-4bca-bcf6-8cc6b75dc5ee",
+    "name": "Hms Capel",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.974188803210936",
+      "lng": "-1.8443298339843752"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1f9750de-5814-4db8-bc97-2e7b1d9e7a26",
+    "name": "Les Moulieres",
+    "location": {
+      "country": "France",
+      "region": "Ile De Groix, Brittany",
+      "ocean": [
+        "Atlantic Ocean",
+        "Bay Of Biscay"
+      ]
+    },
+    "coordinates": {
+      "lat": "47.649575713935256",
+      "lng": "-3.4512519836425786"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "20ce30ed-b2f1-40c2-84b5-0ca2a7b02f2d",
+    "name": "Partridge",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.605370475253196",
+      "lng": "-0.81298828125"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "20f364c2-11f2-4804-aec5-7be0ef3b5ef9",
+    "name": "Les Chenes",
+    "location": {
+      "country": "France",
+      "region": "Var Department, Provence-Alpes-Cote D&#039;azur",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.33291966770803",
+      "lng": "6.687841415405274"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "21fe8041-b2ac-4a46-a848-e1eb2c04ca25",
+    "name": "Le Junker",
+    "location": {
+      "country": "France",
+      "region": "Les Iles, Marseille",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.27145609469072",
+      "lng": "5.281248092651368"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2264fafc-6d70-402c-8e67-77fe74af8cc0",
+    "name": "Le Lat Ecoere",
+    "location": {
+      "country": "France",
+      "region": "Marseille, Provence-Alpes-Cote D&#039;azur",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.19860639356178",
+      "lng": "5.28618335723877"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "235c405a-93b5-48a1-9e2d-0008557eeaf6",
+    "name": "Le Donator",
+    "location": {
+      "country": "France",
+      "region": "Hyeres Island, Hyeres",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.99585900117211",
+      "lng": "6.264953613281251"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "23beacf5-8de6-4f03-a2f0-3ceb6b6f587d",
+    "name": "Cimentier",
+    "location": {
+      "country": "France",
+      "region": "Hyeres, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.008413082981924",
+      "lng": "6.147794723510743"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "24cb2a8b-e6ec-4257-98a4-2cf51b095b5a",
+    "name": "La Pointe Carbonel",
+    "location": {
+      "country": "France",
+      "region": "Cannes, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.51360746894684",
+      "lng": "7.070302963256837"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "27daca9e-6836-4529-be45-e4b97ec7140e",
+    "name": "Dromadaire",
+    "location": {
+      "country": "France",
+      "region": "Marseille, Provence-Alpes-Cote D&#039;azur",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.204049680560274",
+      "lng": "5.483551025390626"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "28135a46-7d92-4a61-9e15-e1465826a422",
+    "name": "Leopoldville",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.82558098327032",
+      "lng": "-1.550445556640625"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2816c7bd-6d98-4e8a-8ef9-3f1766c75c8b",
+    "name": "Cap Caveau",
+    "location": {
+      "country": "France",
+      "region": "Les Iles, Marseille",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.25783075700723",
+      "lng": "5.289316177368165"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2868b34d-14ee-4852-9e49-00b2d06665c6",
+    "name": "Le Dalton",
+    "location": {
+      "country": "France",
+      "region": "Marseille, Provence-Alpes-Cote D&#039;azur",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.196353856888166",
+      "lng": "5.288071632385254"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "291ed6aa-a01e-4bf0-9097-103402ceb743",
+    "name": "Secca Di Ponente",
+    "location": {
+      "country": "France",
+      "region": "Lavezzi Islands, Corsica",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Bonifacio"
+      ]
+    },
+    "coordinates": {
+      "lat": "41.33699377698347",
+      "lng": "9.251346588134767"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2945bf9a-98eb-44d3-8c25-19f66cebcc46",
+    "name": "Jeaune Garde Pinnacle",
+    "location": {
+      "country": "France",
+      "region": "Hyeres Island, Hyeres",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.007973733440025",
+      "lng": "6.159510612487794"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2966b174-8392-4c25-82fc-24e97a8960d3",
+    "name": "Le Secanion",
+    "location": {
+      "country": "France",
+      "region": "Juan Les Pins, Antibes",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.547241701502756",
+      "lng": "7.091932296752931"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2a5b0b6a-ff63-4922-912e-f6f16290f9a0",
+    "name": "Le Plateaudes Aresquiers",
+    "location": {
+      "country": "France",
+      "region": "Palavas Les Flots, Herault Department",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.46326112204825",
+      "lng": "3.8522529602050786"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2c625b19-385f-4008-8615-23f20927fe01",
+    "name": "Soldat",
+    "location": {
+      "country": "France",
+      "region": "Marseille, Provence-Alpes-Cote D&#039;azur",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.203173782105814",
+      "lng": "5.472908020019532"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2cb0a9c0-95dc-4a45-9b67-a2d1f8f6c04e",
+    "name": "Pointe Caramassaigne",
+    "location": {
+      "country": "France",
+      "region": "Marseille, Provence-Alpes-Cote D&#039;azur",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.171946046488436",
+      "lng": "5.399136543273927"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2d34ec61-354d-4471-ba99-cff3e438c048",
+    "name": "Ponton Port Winston",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.355501792753564",
+      "lng": "-0.6273150444030763"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "30394a47-c4d1-4499-8751-04b4df47ddca",
+    "name": "La Fouillee",
+    "location": {
+      "country": "France",
+      "region": "Cannes, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.54276236856476",
+      "lng": "7.002668380737306"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "305d5588-404c-4f01-be80-5a795978d332",
+    "name": "Pierre Aux Loups",
+    "location": {
+      "country": "France",
+      "region": "Palavas Les Flots, Herault Department",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.51668853502909",
+      "lng": "3.9768791198730473"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "308621be-bc26-42bc-be99-5c642db8492a",
+    "name": "Laura C Anderson",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.82380908513249",
+      "lng": "-0.9750366210937501"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3281c048-9fbe-4d8e-b429-027062bc4c11",
+    "name": "L&#039;imperial Du Milieu",
+    "location": {
+      "country": "France",
+      "region": "Marseille, Provence-Alpes-Cote D&#039;azur",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.17182085307976",
+      "lng": "5.391669273376465"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "330d6da2-00d7-46a8-b9e8-148aba65582b",
+    "name": "Uss Rich",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.50470134513088",
+      "lng": "-1.1631774902343752"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "33ae41c2-ffe4-4e07-900f-5ee58bb5a05d",
+    "name": "Les Fromages",
+    "location": {
+      "country": "France",
+      "region": "Provence-Alpes-Cote D&#039;azur, France",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.21005550261366",
+      "lng": "5.340986251831056"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3657848a-d1c7-4b81-8258-9a4dde24db71",
+    "name": "Cap Gros",
+    "location": {
+      "country": "France",
+      "region": "Antibes, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.554395501238666",
+      "lng": "7.1442461013793945"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "375cd8d1-6a22-44fb-aa2b-8a34880716bd",
+    "name": "Le Petit Sec",
+    "location": {
+      "country": "France",
+      "region": "La Croix-Valmer, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.15610704321716",
+      "lng": "6.620378494262696"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "37940dd8-5c4e-4079-9bfe-ffa24f31f338",
+    "name": "Pierre A Joseph",
+    "location": {
+      "country": "France",
+      "region": "Calseraigne, Marseille",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.184213755613996",
+      "lng": "5.388493537902833"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "37f65e93-64b5-4da0-a01d-e267390490c9",
+    "name": "Fratton",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.37522008143603",
+      "lng": "-0.49575805664062506"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "38006b18-eadf-425a-81bf-60d3d12d87b3",
+    "name": "Medes Rock",
+    "location": {
+      "country": "France",
+      "region": "Hyeres Island, Hyeres",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.02905896662793",
+      "lng": "6.241393089294434"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "38cb69a2-e230-490b-9f50-8eb7378c9829",
+    "name": "Tombant",
+    "location": {
+      "country": "France",
+      "region": "Cassis, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.19651028573279",
+      "lng": "5.529255867004395"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "39ac7fa3-d105-4b83-9128-c85e3a8e0422",
+    "name": "Le Saint-Dominique",
+    "location": {
+      "country": "France",
+      "region": "Marseille, Provence-Alpes-Cote D&#039;azur",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.253329975544275",
+      "lng": "5.349311828613281"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "39c9384e-0337-4b43-bc49-cc62b8d9b4c3",
+    "name": "F614",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.767961069424956",
+      "lng": "-0.81298828125"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3a9a6cc7-b460-4607-8054-f3b94c28bf6c",
+    "name": "Roche De Corailleurs",
+    "location": {
+      "country": "France",
+      "region": "La Croix-Valmer, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.15754712229837",
+      "lng": "6.643037796020509"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3ab26b8d-94a1-40bd-b902-802ff95353e0",
+    "name": "Patrol Boat",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.216458431918326",
+      "lng": "0.26092529296875006"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3afa641e-6d9b-4e94-9b5f-f8ce9471a709",
+    "name": "Le Sec Du Sarranier",
+    "location": {
+      "country": "France",
+      "region": "Port-Cross, Hyeres",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.00715779023924",
+      "lng": "6.3315582275390625"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3dd748ae-220d-44d3-a091-ca05f4235b61",
+    "name": "Isoletta",
+    "location": {
+      "country": "France",
+      "region": "Eze, Alpes Maritimes",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.71510046781732",
+      "lng": "7.353286743164063"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3f5d8b0d-a55b-4f8b-a602-138ece7b0d0a",
+    "name": "Le Masque",
+    "location": {
+      "country": "France",
+      "region": "Cannes, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.508534259843785",
+      "lng": "7.063436508178711"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "41069155-691d-4d27-9c59-dad2b99960ca",
+    "name": "Basse Laurent",
+    "location": {
+      "country": "France",
+      "region": "Ile De Groix, Brittany",
+      "ocean": [
+        "Atlantic Ocean",
+        "Bay Of Biscay"
+      ]
+    },
+    "coordinates": {
+      "lat": "47.629074156073706",
+      "lng": "-3.510990142822266"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "41813220-9191-47a9-8d4a-e20ed84e3c8d",
+    "name": "Braga 1938",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.30863837348728",
+      "lng": "0.8308410644531251"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4203351f-4fa6-4e42-8e9c-d9c23e03a322",
+    "name": "Citta Delle Cernie",
+    "location": {
+      "country": "France",
+      "region": "Lavezzi Islands, Corsica",
+      "ocean": [
+        "Europe",
+        "France",
+        "Corsica",
+        "Lavezzi Islands"
+      ]
+    },
+    "coordinates": {
+      "lat": "41.3438568002625",
+      "lng": "9.273405075073244"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "42d8db21-f1d9-4089-83fb-d527657bca69",
+    "name": "Smb 2",
+    "location": {
+      "country": "France",
+      "region": "Toulon, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.05308479146335",
+      "lng": "5.938110351562501"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "43b1ca4c-b317-4760-bc50-9e14f123f43a",
+    "name": "Emergence Du Ressel",
+    "location": {
+      "country": "France",
+      "region": "La Balme, Marcilhac-Sur-Célé",
+      "ocean": [
+        "Europe",
+        "France",
+        "Occitanie",
+        "Lot Department",
+        "Marcilhac-sur-célé",
+        "La Balme"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.561854244522806",
+      "lng": "1.7726826667785647"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4437f144-2961-4f94-970b-9445b9ebd6d6",
+    "name": "Maine",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.369992582877195",
+      "lng": "0.30624389648437506"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "44a127fb-6708-4583-901a-61051f2ce712",
+    "name": "Les Failles Du Vengeur",
+    "location": {
+      "country": "France",
+      "region": "Cannes, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.52714431360086",
+      "lng": "7.078285217285157"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "44f548ae-d46b-487c-9594-dbe9a4dfd75f",
+    "name": "New Wreck",
+    "location": {
+      "country": "France",
+      "region": "Ramatuelle, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.18314981723581",
+      "lng": "6.715822219848634"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "46ce65b1-210b-485c-aed6-e5c6f59d2a31",
+    "name": "Piriapolis",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.6587387884743",
+      "lng": "-0.05218505859375001"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "47035c1a-422d-4995-ac00-d33b390c8f32",
+    "name": "Antique Wreck",
+    "location": {
+      "country": "France",
+      "region": "Ramatuelle, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.186967392373255",
+      "lng": "6.667327880859376"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "485eed0c-7c37-45b1-aceb-f4e2378b92d0",
+    "name": "Petite Quairolle",
+    "location": {
+      "country": "France",
+      "region": "La Croix-Valmer, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.15498000113249",
+      "lng": "6.627631187438966"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "495e6212-e29f-4923-b887-74cbbd34c9fa",
+    "name": "British Commerce",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.25598596571478",
+      "lng": "-0.9489440917968751"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4b0c45c4-d33a-476f-aca9-be12f33ce6e3",
+    "name": "Le Tombant Du Monastere",
+    "location": {
+      "country": "France",
+      "region": "Cannes, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.5052660158816",
+      "lng": "7.058844566345216"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4b0f0f6a-dbfe-462c-a362-5531cb86bfb3",
+    "name": "Les Mameles",
+    "location": {
+      "country": "France",
+      "region": "Hyeres Island, Hyeres",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.00941729870574",
+      "lng": "6.300315856933595"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4bf11c70-9b29-4c11-a6bb-4757d35e6376",
+    "name": "Pointe De Penhir",
+    "location": {
+      "country": "France",
+      "region": "Camaret-Sur-Mer, Finistere",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.25416973883142",
+      "lng": "-4.629364013671876"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4c4a687b-b3c0-4fcb-9f2a-0d6e49ac82a7",
+    "name": "Rocher De Cousanca",
+    "location": {
+      "country": "France",
+      "region": "Palavas Les Flots, Herault Department",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.51370083689698",
+      "lng": "3.956966400146485"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4c528b65-7073-4670-85c9-9e73ecca5344",
+    "name": "Sec Des Filieres",
+    "location": {
+      "country": "France",
+      "region": "Palavas Les Flots, Herault Department",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.47335243465978",
+      "lng": "3.904781341552735"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4d006ec5-403c-4dc3-b85a-8e612671bcf5",
+    "name": "Rabiou L&#039;arche",
+    "location": {
+      "country": "France",
+      "region": "Saint-Tropez, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.287764987651734",
+      "lng": "6.657757759094238"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4d116391-19f7-4aeb-a088-908087ab35b0",
+    "name": "Dornier 24",
+    "location": {
+      "country": "France",
+      "region": "Toulon, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.063369735115884",
+      "lng": "5.931243896484375"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4e5a56a8-2dee-41a7-b570-478df9e508c7",
+    "name": "Le Ponton",
+    "location": {
+      "country": "France",
+      "region": "Languedoc - Roussillon, Occitanie",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea",
+        "Bassin De Thau"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.42490500308399",
+      "lng": "3.6994743347167973"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4e8e877c-792e-45f6-ad3e-ba4b1bb97a45",
+    "name": "Chaland",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.3747730027723",
+      "lng": "-0.7202911376953126"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4f76c4c0-23db-448e-9b6f-376677ab3799",
+    "name": "Homardstone",
+    "location": {
+      "country": "France",
+      "region": "Palavas Les Flots, Herault Department",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.49514890116055",
+      "lng": "3.919029235839844"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5066d024-92c7-4593-ae01-9a08fad3035e",
+    "name": "M39",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.58489711636855",
+      "lng": "-0.6976318359375"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "510fd667-a56c-4afe-9cff-a0458940601b",
+    "name": "Arche Des Farillons",
+    "location": {
+      "country": "France",
+      "region": "Provence-Alpes-Cote D&#039;azur, France",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.205801439741855",
+      "lng": "5.340642929077149"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "51e5c657-8c84-4189-9770-6543c0bb78e4",
+    "name": "Le Danae",
+    "location": {
+      "country": "France",
+      "region": "Saint-Tropez, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.2756430858018",
+      "lng": "6.635870933532716"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "52455c07-637e-4e68-836b-7d97b6607c4a",
+    "name": "Vieille",
+    "location": {
+      "country": "France",
+      "region": "Cassis, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.195821995816864",
+      "lng": "5.530714988708496"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "526166f8-7b97-4ab2-97df-0626f3585905",
+    "name": "Calanque Des Contrebandiers",
+    "location": {
+      "country": "France",
+      "region": "Marseille, Provence-Alpes-Cote D&#039;azur",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.17344834737533",
+      "lng": "5.383601188659668"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "531ee6a0-5f95-4d81-b438-9ecd11dfa809",
+    "name": "La Caille A Sars",
+    "location": {
+      "country": "France",
+      "region": "Palavas Les Flots, Herault Department",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.51625283826448",
+      "lng": "3.959712982177735"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5380b1aa-581f-4ccf-abef-df355f2e7baa",
+    "name": "Les Brises",
+    "location": {
+      "country": "France",
+      "region": "Ramatuelle, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.17188344981616",
+      "lng": "6.666641235351563"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "544226a5-0314-4581-99de-7a42fb4f3f8a",
+    "name": "Hms Daffodil",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.16634316943975",
+      "lng": "1.2400817871093752"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "549a24a4-f201-4092-a91d-6819cae7bf3d",
+    "name": "Saphis",
+    "location": {
+      "country": "France",
+      "region": "Bormes Les Mimosas, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.11201168384308",
+      "lng": "6.375331878662109"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "54a204dd-ff5d-4a21-9418-d3c11a249858",
+    "name": "Le Pythéas",
+    "location": {
+      "country": "France",
+      "region": "Port-Vendres, Pyrenees-Orientales",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.52183820000268",
+      "lng": "3.1234216690063477"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "555404da-a5a4-4b81-95c9-c4f6010c79c9",
+    "name": "L&#039;astrée",
+    "location": {
+      "country": "France",
+      "region": "Port-Vendres, Pyrenees-Orientales",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.52749961640942",
+      "lng": "3.1361675262451176"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "55562236-e57a-4339-9f08-76045b5c2967",
+    "name": "Les Fillettes",
+    "location": {
+      "country": "France",
+      "region": "Camaret-Sur-Mer, Finistere",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.33263138315523",
+      "lng": "-4.58782196044922"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "56375f43-5060-4f94-9808-9f5d701bce3d",
+    "name": "Le Barrage",
+    "location": {
+      "country": "France",
+      "region": "Ile De Groix, Brittany",
+      "ocean": [
+        "Atlantic Ocean",
+        "Bay Of Biscay"
+      ]
+    },
+    "coordinates": {
+      "lat": "47.650558661252184",
+      "lng": "-3.475370407104492"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5657126a-6315-4666-be07-7298337809bd",
+    "name": "Michael C",
+    "location": {
+      "country": "France",
+      "region": "Hyeres, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.02303535312267",
+      "lng": "6.155004501342774"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "575d5ea4-530b-43f2-894c-ff416901c7cb",
+    "name": "Cap Estel",
+    "location": {
+      "country": "France",
+      "region": "Eze, Alpes Maritimes",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.7168374824867",
+      "lng": "7.374701499938966"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "577700a0-7bfb-4743-9047-76c45bb67373",
+    "name": "St Catherine",
+    "location": {
+      "country": "France",
+      "region": "Port-Vendres, Pyrenees-Orientales",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.51438901870261",
+      "lng": "3.1396222114562993"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "589526d7-0b26-4998-98ff-1ce781d5fe02",
+    "name": "Tunnel De La Moyade",
+    "location": {
+      "country": "France",
+      "region": "Marseille, Provence-Alpes-Cote D&#039;azur",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.17588950749866",
+      "lng": "5.373816490173341"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "599113e3-2277-4854-ad27-ebe4ea078502",
+    "name": "L&#039;interdite",
+    "location": {
+      "country": "France",
+      "region": "Saint Jean Cap Ferrat, Alpes Maritimes",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.67345909090867",
+      "lng": "7.323760986328126"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "59b063a3-ccb3-4e0b-8cb2-a8b47a1985e0",
+    "name": "Uss Glennon",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.602700524527826",
+      "lng": "-1.2002563476562502"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5a3bc4c1-120e-4328-9107-3b72b0af5e59",
+    "name": "Secca Del Banco 1",
+    "location": {
+      "country": "France",
+      "region": "Lavezzi Islands, Corsica",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Bonifacio"
+      ]
+    },
+    "coordinates": {
+      "lat": "41.318559919677945",
+      "lng": "9.268341064453127"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5addd9ab-4270-41d6-a122-170f6683558d",
+    "name": "Jouvente",
+    "location": {
+      "country": "France",
+      "region": "Saint-Malo, Brittany",
+      "ocean": [
+        "Europe",
+        "France",
+        "Brittany",
+        "Saint-malo"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.5959394533979",
+      "lng": "-2.017171382904053"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5b93f0bb-86ad-4c4b-80ae-689e56b14808",
+    "name": "La Gabiniere",
+    "location": {
+      "country": "France",
+      "region": "Port-Cross, Hyeres",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.99058552185121",
+      "lng": "6.374816894531251"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5b9aad23-ca6f-4d93-b075-888163d82194",
+    "name": "Les Grottes De Palavas",
+    "location": {
+      "country": "France",
+      "region": "Palavas Les Flots, Herault Department",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.50529714284919",
+      "lng": "3.9317321777343754"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5c31267e-4158-4cb0-9998-0b9f4578949b",
+    "name": "Tombant D&#039;elios",
+    "location": {
+      "country": "France",
+      "region": "Palavas Les Flots, Herault Department",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.51525694813222",
+      "lng": "3.964948654174805"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5c326cb3-0c04-4481-9993-e8d49fdcf6bd",
+    "name": "Vallee Des Gorgones",
+    "location": {
+      "country": "France",
+      "region": "Saint Jean Cap Ferrat, Alpes Maritimes",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.67296244701336",
+      "lng": "7.333030700683595"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5db289a6-9952-4bbf-ac50-30e0ae1c9440",
+    "name": "Red Rose",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.25335181632928",
+      "lng": "-0.46279907226562506"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5df151e6-589e-44d7-83a1-aceb8f6a2ba6",
+    "name": "Caussigniere",
+    "location": {
+      "country": "France",
+      "region": "Saint Jean Cap Ferrat, Alpes Maritimes",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.67941849706759",
+      "lng": "7.337837219238281"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5ef8bbec-cec0-4cf1-8648-e000d253c2d9",
+    "name": "Le Graillon",
+    "location": {
+      "country": "France",
+      "region": "Juan Les Pins, Antibes",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.54853255858643",
+      "lng": "7.115643024444581"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6071cb52-0528-4d25-a022-b0a70401e00a",
+    "name": "St Computator",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.83266792683253",
+      "lng": "-0.5561828613281251"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "619800e9-c29d-4872-9ca4-1a8cfd4adfca",
+    "name": "Danger Du Toro",
+    "location": {
+      "country": "France",
+      "region": "Porto Vecchio, Corsica",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "41.50844874757092",
+      "lng": "9.390048980712892"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "62c23508-3e3d-4b91-abb5-9432e0893ebc",
+    "name": "Hms Dragon",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.450717967273384",
+      "lng": "-0.39413452148437506"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "63739c90-0ae7-476c-9d37-6faa103199d4",
+    "name": "La Dorsale 80",
+    "location": {
+      "country": "France",
+      "region": "La Croix-Valmer, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.17588950749866",
+      "lng": "6.568708419799806"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "638a36f5-b79c-4324-90ca-170baa160fd0",
+    "name": "La Tartane",
+    "location": {
+      "country": "France",
+      "region": "Saint-Tropez, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.27957984451011",
+      "lng": "6.686854362487793"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "64790dc3-7a5f-4bd1-9993-6b3a86a44ff9",
+    "name": "Scherazzade",
+    "location": {
+      "country": "France",
+      "region": "Saint Jean Cap Ferrat, Alpes Maritimes",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.689970160120666",
+      "lng": "7.343416213989259"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6504d918-000b-4472-962e-abbd03f2e3ff",
+    "name": "Chaland Barge",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.3624767458961",
+      "lng": "-0.41370391845703125"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "652aa817-06a1-4ef5-9386-fa1127ecc156",
+    "name": "Torpilleur",
+    "location": {
+      "country": "France",
+      "region": "La Croix-Valmer, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.17288498887337",
+      "lng": "6.598148345947266"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "65359a38-1de0-4389-b747-e5567f3a3612",
+    "name": "La Pointe Du Dragon",
+    "location": {
+      "country": "France",
+      "region": "Cannes, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.51681301924114",
+      "lng": "7.036399841308595"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6589f86a-0cc3-46c3-9249-b1edbe680b99",
+    "name": "Couloir Aux Gorgones",
+    "location": {
+      "country": "France",
+      "region": "Le Grand Congloue, Marseille",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.17476283033681",
+      "lng": "5.402483940124512"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "65dea05a-bbdd-4394-8018-8cde6710d717",
+    "name": "La Grotte Du Vengeur",
+    "location": {
+      "country": "France",
+      "region": "Cannes, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.524343836307885",
+      "lng": "7.063779830932618"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "65eb896a-a990-4d3f-b64e-6642a7c61f5d",
+    "name": "Le Prophete",
+    "location": {
+      "country": "France",
+      "region": "La Croix-Valmer, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.164371383364106",
+      "lng": "6.637372970581056"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "665415ba-14ee-42c9-8503-62dcbb72ceda",
+    "name": "Playa De Finistere",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.36561276727897",
+      "lng": "0.6578063964843751"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "669c6073-1a73-47b3-85a8-2987c26b67bd",
+    "name": "Grotte Du Semaphore",
+    "location": {
+      "country": "France",
+      "region": "Saint Jean Cap Ferrat, Alpes Maritimes",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.68165312179054",
+      "lng": "7.321529388427735"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "67770e32-b688-4700-8391-9d1b8d0558d2",
+    "name": "Ss St Brandan",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.73956915445477",
+      "lng": "-1.6500091552734377"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "67a1e171-972f-4439-9ec6-357f87520854",
+    "name": "Tombant Du Large",
+    "location": {
+      "country": "France",
+      "region": "Palavas Les Flots, Herault Department",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.51463450845326",
+      "lng": "3.9694118499755864"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "67b843d6-30f6-4ebf-a5d7-0daa8ac8b662",
+    "name": "Amsterdam",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.50871426021843",
+      "lng": "-0.7044982910156251"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "67bf8b4b-1158-436b-ad36-b411418c0296",
+    "name": "Murene Reef",
+    "location": {
+      "country": "France",
+      "region": "Palavas Les Flots, Herault Department",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.51444777529765",
+      "lng": "3.939456939697266"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6872c440-120c-48b0-9523-97c4fbcffb40",
+    "name": "La Roche Amaud",
+    "location": {
+      "country": "France",
+      "region": "Cavalaire-Sur-Mer, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.1574845108701",
+      "lng": "6.542701721191407"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "68d7c6fe-e42c-4002-81eb-c2daa7bb5055",
+    "name": "Hms Plyade",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.407845840728164",
+      "lng": "-0.20530700683593753"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "693fcd82-f38a-4807-8b44-243a2661df3c",
+    "name": "Ss Tajo",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.707164332873155",
+      "lng": "-1.4550018310546875"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6a64929c-b057-4f1e-acc0-fcdc9ea038c4",
+    "name": "Grec",
+    "location": {
+      "country": "France",
+      "region": "Hyeres Island, Hyeres",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.01067254527255",
+      "lng": "6.263580322265626"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6a85cbac-76fc-43f8-911f-0ee62cd6c51f",
+    "name": "Pointe Cacau",
+    "location": {
+      "country": "France",
+      "region": "Cassis, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.19647899999596",
+      "lng": "5.5105018615722665"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6b0970c1-6003-45e5-8d95-0c240f6d344e",
+    "name": "Les Salins",
+    "location": {
+      "country": "France",
+      "region": "Saint-Tropez, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.25032926976227",
+      "lng": "6.696252822875977"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6e341045-2246-4a29-ae9d-1f37a2370736",
+    "name": "Comouailles",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.76707407366792",
+      "lng": "-1.7207336425781252"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6eac96f9-c6b1-4260-8a57-67241c21f678",
+    "name": "La Seiche Saint-Pierre",
+    "location": {
+      "country": "France",
+      "region": "Juan Les Pins, Antibes",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.541066978649965",
+      "lng": "7.122466564178468"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6f461136-f4ec-4b44-9c26-003d97f920e3",
+    "name": "Bronde Sud De La Fourmigue",
+    "location": {
+      "country": "France",
+      "region": "Bormes Les Mimosas, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.10298826174054",
+      "lng": "6.385459899902345"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7081578c-ae4f-443c-98ae-17ee9c475e31",
+    "name": "St. Hospice",
+    "location": {
+      "country": "France",
+      "region": "Saint Jean Cap Ferrat, Alpes Maritimes",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.68748758284681",
+      "lng": "7.351655960083009"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "70a0a86d-4e86-44cc-b2fb-086b1c2b2835",
+    "name": "San Domenico Wreck (Saint-Dominique)",
+    "location": {
+      "country": "France",
+      "region": "Marseille, Provence-Alpes-Cote D&#039;azur",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.31022161171083",
+      "lng": "5.349569320678712"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "70d2d8d4-5e99-4764-bfff-fe8db19f9872",
+    "name": "Hms Eden",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.960055395800424",
+      "lng": "-0.13458251953125003"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "732079fe-7305-4210-bf7e-10d245b03547",
+    "name": "Ss Chanzi",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.79855248452189",
+      "lng": "-1.3925170898437502"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "74bc5a6c-5659-4e68-ab3b-e88513bb8716",
+    "name": "La Piramide",
+    "location": {
+      "country": "France",
+      "region": "Lavezzi Islands, Corsica",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Bonifacio"
+      ]
+    },
+    "coordinates": {
+      "lat": "41.33503886037818",
+      "lng": "9.239158630371096"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "74c1ccc0-e5ba-43d8-a352-1cf7bfab0df9",
+    "name": "Cap Gros",
+    "location": {
+      "country": "France",
+      "region": "Port-Vendres, Pyrenees-Orientales",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.525364785003376",
+      "lng": "3.1104826927185063"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "75280f62-782a-4a98-8d8b-0a97cfbf7d3a",
+    "name": "Fort Norfolk",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.40360124918175",
+      "lng": "-0.46348571777343756"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "75465687-7868-426f-ade6-79be7a713e26",
+    "name": "Scarface",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.62227676793601",
+      "lng": "-0.33439636230468756"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7568b907-ff92-4e23-af4a-209db4699379",
+    "name": "Pierre A Jacques",
+    "location": {
+      "country": "France",
+      "region": "Palavas Les Flots, Herault Department",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.51619059561274",
+      "lng": "3.9787673950195317"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "75ff607e-6f8b-43c7-8d94-3402bf3ac59f",
+    "name": "Chantereyne",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.76751757357524",
+      "lng": "-1.5607452392578127"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7710ac7b-1fb9-4cda-acb9-fd43f1f371e8",
+    "name": "La Grotte A Corail",
+    "location": {
+      "country": "France",
+      "region": "Cannes, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.513825327272436",
+      "lng": "7.06923007965088"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "771448a4-71c0-437a-aaf4-7575bff28ab6",
+    "name": "Le Petit Sec",
+    "location": {
+      "country": "France",
+      "region": "Ile De Groix, Brittany",
+      "ocean": [
+        "Atlantic Ocean",
+        "Bay Of Biscay"
+      ]
+    },
+    "coordinates": {
+      "lat": "47.652553409233406",
+      "lng": "-3.4833526611328125"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "79ae607e-af3c-48fe-89a5-1e4ffd9e7e3e",
+    "name": "Biou Biou",
+    "location": {
+      "country": "France",
+      "region": "Palavas Les Flots, Herault Department",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.54170469971639",
+      "lng": "3.9866638183593754"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7aa2dbf6-9677-4d3d-89cb-2f188d7afb2f",
+    "name": "Suffolk Coast",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.65784979573711",
+      "lng": "-1.0107421875000002"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7d1f7435-bd16-4aa5-abb8-aec296361666",
+    "name": "La Drome",
+    "location": {
+      "country": "France",
+      "region": "Marseille, Provence-Alpes-Cote D&#039;azur",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.2354485863666",
+      "lng": "5.323305130004884"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7d7c079f-8393-4ce6-b8df-ceba2a112b01",
+    "name": "Le Tombant Du Vengeur",
+    "location": {
+      "country": "France",
+      "region": "Cannes, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.5254018096767",
+      "lng": "7.0684146881103525"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7d848de3-d05a-4a6f-87f4-561ab63e3607",
+    "name": "Tromblon",
+    "location": {
+      "country": "France",
+      "region": "Toulon, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.06236640192197",
+      "lng": "5.893821716308595"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7e652943-4baa-4565-9285-306de9cd9bb9",
+    "name": "U Boat",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.771508890149846",
+      "lng": "-1.1192321777343752"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7e9322a7-64dd-466f-ae5f-3217a4446e89",
+    "name": "Le Lagoubran",
+    "location": {
+      "country": "France",
+      "region": "Les Iles, Marseille",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.247578492918294",
+      "lng": "5.277471542358398"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7e9b0127-2a8c-4b09-a4a1-ae7f9d9c1043",
+    "name": "Les Roches De La Nuit",
+    "location": {
+      "country": "France",
+      "region": "La Croix-Valmer, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.17451245481122",
+      "lng": "6.5877628326416025"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7f49f8d6-c852-46b4-a26d-fe139e13cb0c",
+    "name": "Malakita",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.6893990930812",
+      "lng": "0.021286010742187503"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7f908480-52c4-4092-b522-4e295ed36388",
+    "name": "Le Tell",
+    "location": {
+      "country": "France",
+      "region": "Ramatuelle, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.20192247678438",
+      "lng": "6.687841415405274"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7fabadcf-d5ab-421a-a0f8-5c2692c9fa6e",
+    "name": "Finnity",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.58578744112238",
+      "lng": "-0.29045104980468756"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8046418e-4f8f-49bd-94c9-4bbe17334381",
+    "name": "Le Sec Du Jarron",
+    "location": {
+      "country": "France",
+      "region": "Jarre Island, Marseille",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.19791812728923",
+      "lng": "5.359869003295898"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "80728a58-4a76-417b-8702-fbca339552ad",
+    "name": "Hms Turquoise",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.66407240384585",
+      "lng": "-1.1494445800781252"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "81ee11ca-7fa8-48a0-8100-d388882fcffc",
+    "name": "Les Roches De Port Lay",
+    "location": {
+      "country": "France",
+      "region": "Ile De Groix, Brittany",
+      "ocean": [
+        "Atlantic Ocean",
+        "Bay Of Biscay"
+      ]
+    },
+    "coordinates": {
+      "lat": "47.64714717654514",
+      "lng": "-3.457260131835938"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8226f33a-e913-4d78-8477-e23aa2d84054",
+    "name": "Secca Del Banco 2",
+    "location": {
+      "country": "France",
+      "region": "Lavezzi Islands, Corsica",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Bonifacio"
+      ]
+    },
+    "coordinates": {
+      "lat": "41.30695551725353",
+      "lng": "9.27349090576172"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8234830b-3517-43b1-9ccc-038392a1d858",
+    "name": "La Petite Francoise",
+    "location": {
+      "country": "France",
+      "region": "Cannes, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.51843129062834",
+      "lng": "7.072448730468751"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8395e8f9-d145-49e3-9fae-ce9f44f016c2",
+    "name": "Uss Cony",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.55728898983402",
+      "lng": "-1.1851501464843752"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "83bf1aea-65a0-4cab-8f19-212c98e40b7d",
+    "name": "Uss Tide",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.41276017251568",
+      "lng": "-1.0780334472656252"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8588ea1c-e63a-49c9-ae3d-ee97ef8f6413",
+    "name": "La Grotte De Miro",
+    "location": {
+      "country": "France",
+      "region": "Juan Les Pins, Antibes",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.54546867201419",
+      "lng": "7.079615592956544"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "85d219fa-3e62-409a-a5ef-cb6eeb6a7e5b",
+    "name": "Magicien",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.89994210918597",
+      "lng": "-0.79376220703125"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8614029d-e9bd-4131-8b0f-7e7913f036a2",
+    "name": "Les Roches De Gigaro",
+    "location": {
+      "country": "France",
+      "region": "La Croix-Valmer, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.181459994642324",
+      "lng": "6.5871620178222665"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "86ea5ac6-5059-4bc9-8770-67e038fce78b",
+    "name": "Cargo",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.37119622706479",
+      "lng": "-0.4734420776367188"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8727f080-9438-4455-897d-60e242e9a9c8",
+    "name": "Pointe De L&#039;etoile",
+    "location": {
+      "country": "France",
+      "region": "Nice, Alpes Maritimes",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.686246255677304",
+      "lng": "7.310714721679688"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "87b8b21c-fd7a-4887-94d7-83e64f458340",
+    "name": "Le Granville",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.00244316883108",
+      "lng": "0.45043945312500006"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "87e7ca90-9e31-4783-b020-13c978bd191b",
+    "name": "La Traille",
+    "location": {
+      "country": "France",
+      "region": "Cannes, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.53878045986526",
+      "lng": "7.006187438964845"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "88297322-ea32-4a78-8abb-28f4d29ce371",
+    "name": "Rye",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.03861982057644",
+      "lng": "-0.030212402343750003"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "882fb07e-3bb5-4476-9ff6-01e83c9ad221",
+    "name": "Empire Javlin",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.06066538593667",
+      "lng": "-1.0478210449218752"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8a68e7b3-91be-4793-ba68-6c032653db7e",
+    "name": "Le Rascoui",
+    "location": {
+      "country": "France",
+      "region": "Juan Les Pins, Antibes",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.54584194571407",
+      "lng": "7.11815357208252"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8ad61beb-1bdd-4324-8c2a-c0561391f11d",
+    "name": "Les Petites Tynes",
+    "location": {
+      "country": "France",
+      "region": "Cerbere, Pyrenees-Orientales",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.45938628621638",
+      "lng": "3.1639337539672856"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8c2d9fdf-fedd-4331-aabe-369b80d82234",
+    "name": "Agay",
+    "location": {
+      "country": "France",
+      "region": "Saint-Raphaël, French Riviera",
+      "ocean": [
+        "Europe",
+        "France",
+        "Provence-alpes-cote D'azur",
+        "Var Department",
+        "French Riviera",
+        "Saint-raphaël"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.42512096094258",
+      "lng": "6.859781742095948"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8d2d167b-0fe6-42b3-a9c1-71788ea045f7",
+    "name": "Roche De Meme",
+    "location": {
+      "country": "France",
+      "region": "La Croix-Valmer, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.15366509242888",
+      "lng": "6.650762557983399"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8d549185-7f5d-4cda-bfc2-877faee2e42c",
+    "name": "Grotte A Perez",
+    "location": {
+      "country": "France",
+      "region": "Calseraigne, Marseille",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.186842229760714",
+      "lng": "5.390896797180177"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8e2acced-a1fd-4b41-aa76-58534c73f7ae",
+    "name": "La Mauresque",
+    "location": {
+      "country": "France",
+      "region": "Port-Vendres, Pyrenees-Orientales",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.52405222281225",
+      "lng": "3.1106328964233403"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8e4b5c92-c4bc-4358-b2f4-461da327ecfd",
+    "name": "Gli Sperduti",
+    "location": {
+      "country": "France",
+      "region": "Perduto Island, Corsica",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Bonifacio"
+      ]
+    },
+    "coordinates": {
+      "lat": "41.36585870590931",
+      "lng": "9.31520462036133"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8e4e87ee-458e-41a2-964d-6cbee8cbade7",
+    "name": "Le Grande Boule",
+    "location": {
+      "country": "France",
+      "region": "Juan Les Pins, Antibes",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.54263793789861",
+      "lng": "7.118282318115235"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8ea29d3d-0db4-479b-9945-fd9618599aa3",
+    "name": "Bloc Ciment",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.36404189484723",
+      "lng": "-0.6787490844726562"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8f6cb518-60d0-4315-9ec8-97c1b66a344b",
+    "name": "Christaou Du Cap Benat",
+    "location": {
+      "country": "France",
+      "region": "Bormes Les Mimosas, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.095342377156406",
+      "lng": "6.37035369873047"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8fa5ef3c-449f-4b80-aedf-397e2e5d73e1",
+    "name": "Les Ducks",
+    "location": {
+      "country": "France",
+      "region": "Cavalaire-Sur-Mer, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.18471442608191",
+      "lng": "6.553387641906739"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "90cb3e14-8b0d-411a-b74e-6f751a4a430b",
+    "name": "Le Petite Congloue",
+    "location": {
+      "country": "France",
+      "region": "Le Petit Congloue, Marseille",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.179425886894315",
+      "lng": "5.3952956199646005"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "91456e42-2e84-4ff0-8512-1bdaed814f7a",
+    "name": "Le Dornier",
+    "location": {
+      "country": "France",
+      "region": "Port-Cross, Hyeres",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.04605993615532",
+      "lng": "6.399536132812501"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "915f2f98-ece6-4edd-a093-bf134700afa1",
+    "name": "Cerons",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.01303427698978",
+      "lng": "0.9970092773437501"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "92520207-e8a6-48c9-81e3-e9da197f6d34",
+    "name": "La Cabane A Ciment",
+    "location": {
+      "country": "France",
+      "region": "Ile De Groix, Brittany",
+      "ocean": [
+        "Atlantic Ocean",
+        "Bay Of Biscay"
+      ]
+    },
+    "coordinates": {
+      "lat": "47.65486606513661",
+      "lng": "-3.4926223754882812"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "92896a97-4905-431f-aafb-ce8a42b0be3c",
+    "name": "Le France",
+    "location": {
+      "country": "France",
+      "region": "Lake Annecy, Haute-Savoie",
+      "ocean": [
+        "Europe",
+        "France",
+        "Auvergne-rhône-alpes",
+        "Haute-savoie",
+        "Lake Annecy"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.89120297426037",
+      "lng": "6.156806945800782"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "93680586-f7f0-4341-9ad5-8f8e9c03c5e4",
+    "name": "Baton Rouge",
+    "location": {
+      "country": "France",
+      "region": "Ile De Groix, Brittany",
+      "ocean": [
+        "Atlantic Ocean",
+        "Bay Of Biscay"
+      ]
+    },
+    "coordinates": {
+      "lat": "47.646366551259916",
+      "lng": "-3.438377380371094"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "936e9609-e521-4867-bb4c-b667a9a3c589",
+    "name": "Les Arches",
+    "location": {
+      "country": "France",
+      "region": "Porto Vecchio, Corsica",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "41.52875646087548",
+      "lng": "9.388675689697267"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "93d022a9-604f-4897-a5c5-697f0d77a60b",
+    "name": "Uss Meredith",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.46098385110948",
+      "lng": "-0.9640502929687501"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "94611446-e578-4c7b-9231-7524011e14d8",
+    "name": "Le Bateguier",
+    "location": {
+      "country": "France",
+      "region": "Cannes, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.51868025160499",
+      "lng": "7.026872634887696"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9728ae69-4a68-4282-9ec9-710344db6c10",
+    "name": "Arroyo",
+    "location": {
+      "country": "France",
+      "region": "Toulon, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.04756533002391",
+      "lng": "5.876312255859376"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "99b1d0c9-a8db-40b0-9748-60d40f623be9",
+    "name": "Salta",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.50960597442686",
+      "lng": "-0.07209777832031251"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "99b9c104-20c6-4df8-ad9c-ba2922e6538d",
+    "name": "Grande Quairolle",
+    "location": {
+      "country": "France",
+      "region": "La Croix-Valmer, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.14658914559456",
+      "lng": "6.6311073303222665"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9c752fbd-eab1-46bf-8d44-918fbc62eba5",
+    "name": "L&#039;ideal",
+    "location": {
+      "country": "France",
+      "region": "Saint-Tropez, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.27508067090884",
+      "lng": "6.646900177001954"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9cdfe2b6-68c1-4059-9792-e1cd897a3522",
+    "name": "3 Tugs",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.712936637433735",
+      "lng": "-1.770172119140625"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9e981d2c-e33f-4f46-bdd8-6d7717e9d47b",
+    "name": "Ikaria",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.66051672522669",
+      "lng": "-0.24787902832031253"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9eaa129d-82ab-4d5c-8044-8508d3621486",
+    "name": "Le Robuste",
+    "location": {
+      "country": "France",
+      "region": "Juan Les Pins, Antibes",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.549792284026665",
+      "lng": "7.081117630004884"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9eb52784-edb2-4298-9eb1-53440021d924",
+    "name": "Tartane",
+    "location": {
+      "country": "France",
+      "region": "Bormes Les Mimosas, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.08819699915607",
+      "lng": "6.38134002685547"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a1215d8f-7b1f-4112-96b9-62f44b45356c",
+    "name": "Le Trafik",
+    "location": {
+      "country": "France",
+      "region": "Ramatuelle, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.15986370004243",
+      "lng": "6.662607192993165"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a171fd47-9a90-4f61-b2c9-17161935f8cc",
+    "name": "Les Roches De Julliet",
+    "location": {
+      "country": "France",
+      "region": "La Croix-Valmer, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.158924557488625",
+      "lng": "6.593084335327149"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a1a47c3f-f7d6-465f-ac01-57d24648907b",
+    "name": "La Pierre Qui Tramole",
+    "location": {
+      "country": "France",
+      "region": "Calseraigne, Marseille",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.190784728772485",
+      "lng": "5.383172035217286"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a1cc93c5-6da6-467f-86c9-5ab51b1bdcec",
+    "name": "L&#039;etang De Thau",
+    "location": {
+      "country": "France",
+      "region": "Palavas Les Flots, Herault Department",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.4702380117524",
+      "lng": "3.8422966003417973"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a2a1151d-d3e7-427c-8839-13e55144630c",
+    "name": "Passe De Maire",
+    "location": {
+      "country": "France",
+      "region": "Tiboulen De Marie Island, Marseille",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.212557753946484",
+      "lng": "5.327596664428712"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a2b9c11b-1d74-4fba-8adb-b9e4d489aa3b",
+    "name": "Le Relax",
+    "location": {
+      "country": "France",
+      "region": "Saint-Tropez, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.2855782251576",
+      "lng": "6.6405487060546875"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a2ee8b70-31d1-4bd2-9fe4-8db47fa86547",
+    "name": "Canyon",
+    "location": {
+      "country": "France",
+      "region": "Palavas Les Flots, Herault Department",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.502806934723644",
+      "lng": "3.8853836059570317"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a4bc9e78-3da2-421d-9d0b-b0399261d28d",
+    "name": "Lcm",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.384160800744986",
+      "lng": "-0.7254409790039064"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a534a4e8-1b25-40df-99fc-63f04b4ae2cb",
+    "name": "Pointe Parqueres",
+    "location": {
+      "country": "France",
+      "region": "Palavas Les Flots, Herault Department",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.51980056328787",
+      "lng": "3.971042633056641"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a583e34c-e952-49b2-9447-96e8d0b4fd2e",
+    "name": "Figuere",
+    "location": {
+      "country": "France",
+      "region": "Marseille, Provence-Alpes-Cote D&#039;azur",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.19773041695842",
+      "lng": "5.506639480590821"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a655e90d-d0df-43c4-a004-751ca97622de",
+    "name": "Hms Glen Avon",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.352861166502116",
+      "lng": "-0.46005249023437506"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a6ac666d-fb7e-4f96-825f-9048006db888",
+    "name": "Roseberry",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.36180595252358",
+      "lng": "-0.6076812744140626"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a7744956-08fc-4c9d-96e2-1f566a690159",
+    "name": "La Pointe Du Vaisseau",
+    "location": {
+      "country": "France",
+      "region": "Port-Cross, Hyeres",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.99359899401497",
+      "lng": "6.4125823974609375"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a7e46c9f-665b-410f-81b4-b365f1b692e5",
+    "name": "Le Prairial",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.550607258376715",
+      "lng": "-0.22109985351562503"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a8883c37-a708-407c-9436-47230a7a562d",
+    "name": "La Cathedrale",
+    "location": {
+      "country": "France",
+      "region": "Saint-Tropez, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.28895205437037",
+      "lng": "6.67346477508545"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a99d0241-2db4-4c04-ae8c-b836ed917eaa",
+    "name": "Oule",
+    "location": {
+      "country": "France",
+      "region": "Marseille, Provence-Alpes-Cote D&#039;azur",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.202235305520816",
+      "lng": "5.4940223693847665"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a9e524e9-7e42-42da-8790-2451808dab7d",
+    "name": "Le Chaouen",
+    "location": {
+      "country": "France",
+      "region": "Marseille, Provence-Alpes-Cote D&#039;azur",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.19453925298485",
+      "lng": "5.285496711730957"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "aa44e98a-167e-4a89-a727-bb96e52493d8",
+    "name": "Ss St Herbert",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.700947237725515",
+      "lng": "-1.8038177490234377"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "aa5654b4-7e63-4414-913d-cc137f25ec2e",
+    "name": "La Fourmigue",
+    "location": {
+      "country": "France",
+      "region": "Juan Les Pins, Antibes",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.546277428775944",
+      "lng": "7.078671455383302"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "aa648226-670b-4150-906e-c058a45341a6",
+    "name": "Hms Minster",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.44670029695474",
+      "lng": "-1.1521911621093752"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "aa69c187-cdb4-43d8-9a6e-e9a7f30af254",
+    "name": "Cap L&#039;abeille",
+    "location": {
+      "country": "France",
+      "region": "Cerbere, Pyrenees-Orientales",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.47830090850466",
+      "lng": "3.15633773803711"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "aa9a0e43-3904-43f5-9088-c2d16b3b9af0",
+    "name": "Pequerolles",
+    "location": {
+      "country": "France",
+      "region": "Antibes, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.57199645334147",
+      "lng": "7.147722244262696"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ab224429-010b-408c-bc4b-2c814481d058",
+    "name": "Muchachas",
+    "location": {
+      "country": "France",
+      "region": "Palavas Les Flots, Herault Department",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.51438553078405",
+      "lng": "3.962802886962891"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "acf3ce23-be67-43bf-a291-dbc470e411ca",
+    "name": "Disneyland",
+    "location": {
+      "country": "France",
+      "region": "Ile De Groix, Brittany",
+      "ocean": [
+        "Atlantic Ocean",
+        "Bay Of Biscay"
+      ]
+    },
+    "coordinates": {
+      "lat": "47.63358576744453",
+      "lng": "-3.4972572326660156"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ad847163-bff4-4cf1-be3d-74e2f6767a9d",
+    "name": "Maupertuis",
+    "location": {
+      "country": "France",
+      "region": "Levant Island, Hyeres",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.000629854450025",
+      "lng": "6.434211730957032"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ae5e9673-e4ef-47ef-977b-0481a386c287",
+    "name": "La Lauve",
+    "location": {
+      "country": "France",
+      "region": "Antibes, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.547894909747164",
+      "lng": "7.141671180725098"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ae5f40f3-45d5-4411-ae12-570c1ecdef05",
+    "name": "Le Seiche Saint-Pierre",
+    "location": {
+      "country": "France",
+      "region": "Juan Les Pins, Antibes",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.541455833761304",
+      "lng": "7.12090015411377"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ae8c2a7a-d24a-485f-8f1e-28b3881ed337",
+    "name": "Comucopia",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.712048635226786",
+      "lng": "-0.9201049804687501"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b04d690d-cf62-4476-897b-348ac958cc74",
+    "name": "Wildcat",
+    "location": {
+      "country": "France",
+      "region": "La Levandou, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.12566961111021",
+      "lng": "6.370525360107423"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b074de4e-4b3f-4c20-a3de-f8668218e331",
+    "name": "L&#039;avion",
+    "location": {
+      "country": "France",
+      "region": "Saint Jean Cap Ferrat, Alpes Maritimes",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.686122121547484",
+      "lng": "7.3191261291503915"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b0f86924-19f3-4054-98c0-774407438b10",
+    "name": "Ti-Boulen Du Frioul",
+    "location": {
+      "country": "France",
+      "region": "Les Iles, Marseille",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.280454645189735",
+      "lng": "5.28691291809082"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b18ffcdc-1610-4c1e-ab4f-35113ee3cd74",
+    "name": "Le Tongo",
+    "location": {
+      "country": "France",
+      "region": "La Croix-Valmer, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.165373045602905",
+      "lng": "6.58956527709961"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b398d26e-9aaf-46e2-be87-7e8477743a3d",
+    "name": "Hms Britomart",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.82380908513249",
+      "lng": "-0.17303466796875003"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b3e1871d-b5a6-4bda-8c17-3245f40bf73f",
+    "name": "La Moutte",
+    "location": {
+      "country": "France",
+      "region": "Saint-Tropez, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.284890940709275",
+      "lng": "6.69243335723877"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b4e25d5d-eb98-41b6-a391-4c24fd9449fc",
+    "name": "Roches Mysterieuses",
+    "location": {
+      "country": "France",
+      "region": "Eze, Alpes Maritimes",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.717892073970305",
+      "lng": "7.38384246826172"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b5d372c1-eb05-4ef2-acfc-6d9490a23bbe",
+    "name": "Le Canal",
+    "location": {
+      "country": "France",
+      "region": "Capbreton, Landes",
+      "ocean": [
+        "Atlantic Ocean",
+        "Bay Of Biscay"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.65514262872613",
+      "lng": "-1.439187526702881"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b667e7a2-05a6-4d28-8bd1-8396e61a9b3b",
+    "name": "3 Arches",
+    "location": {
+      "country": "France",
+      "region": "Palavas Les Flots, Herault Department",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.529509059843846",
+      "lng": "3.953361511230469"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b6c5cfc9-ca21-4b0f-a386-8acf921b3ed9",
+    "name": "B17 Bomber Wreck",
+    "location": {
+      "country": "France",
+      "region": "Corsica, France",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.570765612432005",
+      "lng": "8.761575222015383"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b731e24d-9e27-41d4-9200-0764fb3a6fab",
+    "name": "Les Failles De Cousanca",
+    "location": {
+      "country": "France",
+      "region": "Palavas Les Flots, Herault Department",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.51370083689698",
+      "lng": "3.960056304931641"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b7dca4cc-d611-4b44-a3b5-f770c923e853",
+    "name": "La Grotte Mysterieuse",
+    "location": {
+      "country": "France",
+      "region": "Jarre Island, Marseille",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.1944141058991",
+      "lng": "5.366606712341309"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b7f3a216-fd55-44a2-8b6b-dacef5b6a21e",
+    "name": "Rock Dive",
+    "location": {
+      "country": "France",
+      "region": "Ramatuelle, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.19541527539921",
+      "lng": "6.701917648315431"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b914f02a-103b-4a65-8cc7-9f6bf743cccd",
+    "name": "Hms Cato",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.316170534557614",
+      "lng": "-0.23345947265625003"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b97c0d72-251b-4562-810d-973f21967a96",
+    "name": "Polyester",
+    "location": {
+      "country": "France",
+      "region": "La Levandou, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.14283167272298",
+      "lng": "6.417732238769531"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b98c419f-8aa8-4494-9f27-6e6b616abd5e",
+    "name": "Le Saumur",
+    "location": {
+      "country": "France",
+      "region": "Port-Vendres, Pyrenees-Orientales",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.52522246031566",
+      "lng": "3.134021759033203"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bae4dd0d-ed64-479c-9180-29bd08feaed4",
+    "name": "Ariane",
+    "location": {
+      "country": "France",
+      "region": "Toulon, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.07816699239221",
+      "lng": "5.960426330566406"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bb3b50f7-33ca-4bd3-9303-d50e9b2856a6",
+    "name": "La Planier",
+    "location": {
+      "country": "France",
+      "region": "Palavas Les Flots, Herault Department",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.45690646829031",
+      "lng": "3.8319969177246094"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bc3dd715-525e-4f4a-abfc-7603ec76428f",
+    "name": "Le Tombant De Saint-Ferreol",
+    "location": {
+      "country": "France",
+      "region": "Cannes, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.508814386806726",
+      "lng": "7.061934471130372"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bc81d4fd-9978-442a-8d75-d83fe1be2fd0",
+    "name": "Hms Melbreack",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.15226627256271",
+      "lng": "-0.47790527343750006"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bd86d80c-66ef-4dc7-87b2-fe8458e50dd1",
+    "name": "Grief",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.542142419621236",
+      "lng": "-0.6111145019531251"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bec53757-b888-48b6-8fd6-4c91bfa2891d",
+    "name": "Grotte Du Lido",
+    "location": {
+      "country": "France",
+      "region": "Saint Jean Cap Ferrat, Alpes Maritimes",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.695059122297245",
+      "lng": "7.320327758789063"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bf134542-05eb-47ef-a2c6-5039d5188ea8",
+    "name": "La Pierre De Briancon",
+    "location": {
+      "country": "France",
+      "region": "Jarre Island, Marseille",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.19604099799587",
+      "lng": "5.362658500671387"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bfb4e147-6944-4eab-9505-ca0477b76e9d",
+    "name": "Les Pyramides",
+    "location": {
+      "country": "France",
+      "region": "Ile De Groix, Brittany",
+      "ocean": [
+        "Atlantic Ocean",
+        "Bay Of Biscay"
+      ]
+    },
+    "coordinates": {
+      "lat": "47.65024065090939",
+      "lng": "-3.4692764282226567"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c0ef84c3-e787-4d4b-b4cf-bf99d3c1276f",
+    "name": "Canons",
+    "location": {
+      "country": "France",
+      "region": "Marseille, Provence-Alpes-Cote D&#039;azur",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.20017060621766",
+      "lng": "5.449562072753907"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c1057e97-5832-40d3-bf14-86636a57f260",
+    "name": "Lee Warden",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "Bay Of Biscay"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.29986701674912",
+      "lng": "1.3005065917968752"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c1457aea-09d2-481b-9b8d-8380641aa0e8",
+    "name": "Le Tombant A Meme",
+    "location": {
+      "country": "France",
+      "region": "La Croix-Valmer, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.143332682449795",
+      "lng": "6.636171340942384"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c159c77f-9e97-425b-b500-8861f492c691",
+    "name": "Coonagh",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.1056069418592",
+      "lng": "0.76080322265625"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c18979af-c22e-4e42-8354-bc592b14e991",
+    "name": "Le Liban",
+    "location": {
+      "country": "France",
+      "region": "Provence-Alpes-Cote D&#039;azur, France",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.2069275440811",
+      "lng": "5.336179733276367"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c492c792-ea8c-467f-939a-36e9259e343d",
+    "name": "Roger Mado",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.830010444680674",
+      "lng": "-1.7935180664062502"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c493e951-3237-4d6e-8333-a83d57482ad5",
+    "name": "Uss Alabama",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.856578695670265",
+      "lng": "-1.7015075683593752"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c4c2a282-60e6-4aa9-816b-4a31be62cd91",
+    "name": "Eissadon",
+    "location": {
+      "country": "France",
+      "region": "Marseille, Provence-Alpes-Cote D&#039;azur",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.20273582816269",
+      "lng": "5.4891300201416025"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c74e3bd8-e5e0-4339-9c15-a959ccb53e1f",
+    "name": "L&#039;aritay",
+    "location": {
+      "country": "France",
+      "region": "Saint-Tropez, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.28764003191265",
+      "lng": "6.651148796081543"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c77ddadb-494c-4cf4-a8ca-79cc07109bb4",
+    "name": "Hms Magic",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.359122687528746",
+      "lng": "-0.14007568359375003"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c833d657-629a-4107-a05f-d6c48cd6077f",
+    "name": "Marcel",
+    "location": {
+      "country": "France",
+      "region": "Hyeres, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.067006680295776",
+      "lng": "6.1998939514160165"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cb0406a9-d6cb-425f-aa0f-f91da3dd3a6c",
+    "name": "Grotte A Corail",
+    "location": {
+      "country": "France",
+      "region": "Nice, Alpes Maritimes",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.691087286370454",
+      "lng": "7.311573028564454"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cb178547-a5af-494b-9d05-e90b5e517fec",
+    "name": "Le Tombant De Chindrieux ",
+    "location": {
+      "country": "France",
+      "region": "Lac Du Bourget, Savoie",
+      "ocean": [
+        "Europe",
+        "France",
+        "Auvergne-rhône-alpes",
+        "Savoie",
+        "Lac Du Bourget"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.798977366025305",
+      "lng": "5.84026336669922"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cb4d992e-1362-4fb0-b235-4cc56234150b",
+    "name": "La Pointe De La Croix",
+    "location": {
+      "country": "France",
+      "region": "Port-Cross, Hyeres",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.987823042567975",
+      "lng": "6.395416259765626"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cb500698-770c-49b4-84d8-166432989616",
+    "name": "Ss Swansea Vale",
+    "location": {
+      "country": "France",
+      "region": "Camaret-Sur-Mer, Finistere",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.300781586646245",
+      "lng": "-4.634857177734376"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cc82903e-b335-437f-8875-b3c1a62eb0e8",
+    "name": "Il D&#039;or",
+    "location": {
+      "country": "France",
+      "region": "Saint-Raphaël, French Riviera",
+      "ocean": [
+        "Europe",
+        "France",
+        "Provence-alpes-cote D'azur",
+        "Var Department",
+        "French Riviera",
+        "Saint-raphaël"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.4099238286352",
+      "lng": "6.847593784332276"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cceb2c99-9d30-4704-ae40-b73878fe6b01",
+    "name": "Gaspard De La Nuit",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.76441298901348",
+      "lng": "-1.9335937500000002"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cd71c3dc-31c7-47c6-acb4-1470a8b092c9",
+    "name": "Bigue",
+    "location": {
+      "country": "France",
+      "region": "Cassis, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.19566556520782",
+      "lng": "5.52788257598877"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cdbef111-bffc-40fe-bbf2-81cb7d763d7f",
+    "name": "Broadsword",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.42884000063522",
+      "lng": "-0.9008789062500001"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cdf9d708-606e-4367-91bb-f8762e2231af",
+    "name": "L&#039;arenas",
+    "location": {
+      "country": "France",
+      "region": "Antibes, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.546464063410795",
+      "lng": "7.148280143737793"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cf46ccec-66dc-4012-b213-af4afd27be37",
+    "name": "Alberville",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.61426925505115",
+      "lng": "-0.019226074218750003"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cfd1ea15-f1d1-4ffb-8768-a671825a7a56",
+    "name": "Martine Et Yvan",
+    "location": {
+      "country": "France",
+      "region": "Saint-Tropez, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.27670541086202",
+      "lng": "6.661534309387208"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d0b6d07b-655b-44b9-8d3c-3e22f56fd622",
+    "name": "Alicia",
+    "location": {
+      "country": "France",
+      "region": "Juan Les Pins, Antibes",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.55112974148007",
+      "lng": "7.091975212097169"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d0c64d03-31a7-4337-b546-5d728134675a",
+    "name": "Ruth",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.293726104506696",
+      "lng": "0.087890625"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d17a2225-5129-42ed-b215-71952c925030",
+    "name": "Le Coulombrey",
+    "location": {
+      "country": "France",
+      "region": "Palavas Les Flots, Herault Department",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.46687425474793",
+      "lng": "3.9439201354980473"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d183a082-e4a1-4349-9e06-01f6b335ccd7",
+    "name": "Escampo Barriou",
+    "location": {
+      "country": "France",
+      "region": "Hyeres, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.032258770888234",
+      "lng": "6.132087707519532"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d1c30d48-1ccb-49f2-90fb-53bb57777d32",
+    "name": "Lst 523",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.55996142647716",
+      "lng": "-1.0011291503906252"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d1db1c3c-475f-48ef-81a6-67b7e942a5c6",
+    "name": "Le Miquelon",
+    "location": {
+      "country": "France",
+      "region": "Marseille, Provence-Alpes-Cote D&#039;azur",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.23907530634926",
+      "lng": "5.314807891845703"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d28e0d0e-32b6-422b-8fd2-d8f1f7936d84",
+    "name": "Crau De Nao",
+    "location": {
+      "country": "France",
+      "region": "Saint Jean Cap Ferrat, Alpes Maritimes",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.67755624622057",
+      "lng": "7.322044372558595"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d3207e51-c69c-4c8c-bf69-d7ec1cfa917b",
+    "name": "Hellcat",
+    "location": {
+      "country": "France",
+      "region": "La Levandou, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.14233065889034",
+      "lng": "6.460132598876953"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d3d6f278-aa71-4c06-ad48-3db47790892d",
+    "name": "Tougues",
+    "location": {
+      "country": "France",
+      "region": "Lake Geneva, Haute-Savoie",
+      "ocean": [
+        "Europe",
+        "France",
+        "Auvergne-rhône-alpes",
+        "Haute-savoie",
+        "Lake Geneva"
+      ]
+    },
+    "coordinates": {
+      "lat": "46.32393452582615",
+      "lng": "6.255083084106446"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d5916359-e90c-4db2-9235-9fcb3a8dd443",
+    "name": "Harpagus",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.352861166502116",
+      "lng": "-0.6258773803710939"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d5f91d09-7333-4f2e-9f83-e6f168e6ad24",
+    "name": "Le Pigeonnier",
+    "location": {
+      "country": "France",
+      "region": "Cannes, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.54176691604463",
+      "lng": "7.011079788208009"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d672f161-2d9a-46fb-8472-d42bed31b591",
+    "name": "Ramon Membru",
+    "location": {
+      "country": "France",
+      "region": "Cavalaire-Sur-Mer, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.166625100305",
+      "lng": "6.542530059814453"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d790df36-a269-41cd-bf3f-b1c411931fe9",
+    "name": "Puissante",
+    "location": {
+      "country": "France",
+      "region": "Levant Island, Hyeres",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.03426640603482",
+      "lng": "6.439361572265626"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d7afb5ae-2cdf-4a15-b49d-f8506440655e",
+    "name": "La Batavia",
+    "location": {
+      "country": "France",
+      "region": "Jarre Island, Marseille",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.19197368643024",
+      "lng": "5.375704765319824"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "db24ba9b-74ce-45f3-8396-003279b786cd",
+    "name": "Ville De Grasse",
+    "location": {
+      "country": "France",
+      "region": "Hyeres, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.01676012719479",
+      "lng": "6.158008575439453"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dd219e80-0366-46d2-976c-0925dfa48950",
+    "name": "Normandy",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.90126894632377",
+      "lng": "-1.7832183837890627"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dd77df28-fde3-434c-a26d-266aefa6af3d",
+    "name": "Les Grottes De Pen Men",
+    "location": {
+      "country": "France",
+      "region": "Ile De Groix, Brittany",
+      "ocean": [
+        "Atlantic Ocean",
+        "Bay Of Biscay"
+      ]
+    },
+    "coordinates": {
+      "lat": "47.65035629125809",
+      "lng": "-3.5187149047851567"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "de190887-cc9c-4042-994d-c4f20b96bce7",
+    "name": "Tombant",
+    "location": {
+      "country": "France",
+      "region": "Marseille, Provence-Alpes-Cote D&#039;azur",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.20342404009035",
+      "lng": "5.4581451416015625"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "de3e18e4-4560-4045-bab4-7079121408aa",
+    "name": "Le Vivier",
+    "location": {
+      "country": "France",
+      "region": "Ile De Groix, Brittany",
+      "ocean": [
+        "Atlantic Ocean",
+        "Bay Of Biscay"
+      ]
+    },
+    "coordinates": {
+      "lat": "47.64925769760719",
+      "lng": "-3.4624958038330083"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "df161088-3c1d-46c3-8683-dd7a385ccff2",
+    "name": "Cap Castell",
+    "location": {
+      "country": "France",
+      "region": "Cerbere, Pyrenees-Orientales",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.49051719044582",
+      "lng": "3.133506774902344"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "df8e6afd-cb0d-4138-a0b1-ab820e94a0a9",
+    "name": "Montremian",
+    "location": {
+      "country": "France",
+      "region": "Port-Cross, Hyeres",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.02447856436695",
+      "lng": "6.367263793945313"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dfe6376a-1101-4315-b7cf-4069e9595aa1",
+    "name": "Kervedan",
+    "location": {
+      "country": "France",
+      "region": "Ile De Groix, Brittany",
+      "ocean": [
+        "Atlantic Ocean",
+        "Bay Of Biscay"
+      ]
+    },
+    "coordinates": {
+      "lat": "47.636246278753234",
+      "lng": "-3.502922058105469"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e0e907a5-4be4-4a5e-82fe-ac029015e957",
+    "name": "Seccca Del Pilone",
+    "location": {
+      "country": "France",
+      "region": "Lavezzi Islands, Corsica",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Bonifacio"
+      ]
+    },
+    "coordinates": {
+      "lat": "41.32835758409143",
+      "lng": "9.25804138183594"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e120c254-e760-4be1-9c83-af783b3375ce",
+    "name": "Camaret Le Trez Roux",
+    "location": {
+      "country": "France",
+      "region": "Camaret-Sur-Mer, Finistere",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.295985271707664",
+      "lng": "-4.572715759277345"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e197b8b5-f046-48f8-8d44-141187639af5",
+    "name": "Hms Lawford",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.4225873602393",
+      "lng": "-0.44357299804687506"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e19ef3f0-5f48-483d-adb2-ada8db466927",
+    "name": "Le Sec Du Gendarme",
+    "location": {
+      "country": "France",
+      "region": "Hyeres, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.043299951444496",
+      "lng": "6.234397888183595"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e1fc0664-ebc7-4a3f-b7d4-89caba08fe48",
+    "name": "Ponton",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.41231343540938",
+      "lng": "-0.5379867553710939"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e27f0d8c-6cb6-484d-b6c0-33e48b43c9f6",
+    "name": "Les Éboulis / Cap Bear",
+    "location": {
+      "country": "France",
+      "region": "Port-Vendres, Pyrenees-Orientales",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.51633443197437",
+      "lng": "3.140373229980469"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e2a1e754-455d-4153-b556-bdb5d2baf29c",
+    "name": "Gauss",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "Bay Of Biscay"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.226123744371364",
+      "lng": "1.2936401367187502"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e2a8460b-74eb-4bc6-93c5-cc88aca16998",
+    "name": "Epaves Amphores",
+    "location": {
+      "country": "France",
+      "region": "Les Iles, Marseille",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.26501881519278",
+      "lng": "5.298542976379395"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e497c892-0daa-459d-b0e7-b21e864f6fc9",
+    "name": "Gerfer",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.2270023120296",
+      "lng": "0.8871459960937501"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e565bd77-2ecf-44c8-b67d-d6083c471325",
+    "name": "La Grotte Arc En Ciel",
+    "location": {
+      "country": "France",
+      "region": "Jarre Island, Marseille",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.19491469270229",
+      "lng": "5.364890098571778"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e68f78b3-4f77-43d3-bb9d-1f6892a12438",
+    "name": "Ss Romny",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.86189059382879",
+      "lng": "-1.2593078613281252"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e6cdfd9e-da2d-474b-b65e-ba80d66bc970",
+    "name": "Grotte A Corail",
+    "location": {
+      "country": "France",
+      "region": "Marseille, Provence-Alpes-Cote D&#039;azur",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.19622871352371",
+      "lng": "5.498399734497071"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e6f29f4d-1a37-4610-a873-a39868e08f3c",
+    "name": "La Faille De Lunel",
+    "location": {
+      "country": "France",
+      "region": "Palavas Les Flots, Herault Department",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.519676085239226",
+      "lng": "3.9509582519531254"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e7ca165f-8629-4598-95bc-260abf2feabc",
+    "name": "Ferrando",
+    "location": {
+      "country": "France",
+      "region": "Hyeres, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.0756592341246",
+      "lng": "6.1804962158203125"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e8005f76-6a1a-4448-bb43-465fbc102a4a",
+    "name": "Le Ker-Bihan",
+    "location": {
+      "country": "France",
+      "region": "Marseille, Provence-Alpes-Cote D&#039;azur",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.234323008688925",
+      "lng": "5.316953659057618"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e98697a5-f6f0-43d0-9285-b50319ed89b1",
+    "name": "Le Rubis",
+    "location": {
+      "country": "France",
+      "region": "Ramatuelle, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.18602866652366",
+      "lng": "6.695222854614259"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ea3c5fb9-d6e4-4bd4-b89e-5c2bcee21f79",
+    "name": "Castel Vieil",
+    "location": {
+      "country": "France",
+      "region": "Marseille, Provence-Alpes-Cote D&#039;azur",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.19685442777945",
+      "lng": "5.50217628479004"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eb5a38e2-a2af-461a-ae2b-22abc09b4540",
+    "name": "L&#039;espignole",
+    "location": {
+      "country": "France",
+      "region": "La Croix-Valmer, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.157359287821116",
+      "lng": "6.6022682189941415"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ecb402bd-ead6-4639-ae35-f04969d06180",
+    "name": "Le Petit Barbier",
+    "location": {
+      "country": "France",
+      "region": "Cannes, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.51071299084373",
+      "lng": "7.034339904785156"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eced2ec2-c673-4d8e-a5a3-b07d66a10da5",
+    "name": "Le Tombant Des Corailleurs",
+    "location": {
+      "country": "France",
+      "region": "La Croix-Valmer, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.14909399920127",
+      "lng": "6.609992980957031"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ee7df803-a6df-41c4-8c2e-c40b5ca765a8",
+    "name": "Le Poursuivante",
+    "location": {
+      "country": "France",
+      "region": "Ramatuelle, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.18302464679583",
+      "lng": "6.658444404602052"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ef2fb072-1c4d-47d3-b392-8abfd4dcfe5e",
+    "name": "General Metzinger",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.555507284155276",
+      "lng": "0.020599365234375003"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ef78f893-8063-4647-aa9f-e132c273d5a4",
+    "name": "Tremes",
+    "location": {
+      "country": "France",
+      "region": "Cassis, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.20029574149778",
+      "lng": "5.513935089111329"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ef9b7fad-b5a3-43ac-a001-513c7541c91c",
+    "name": "La Roche De Bois",
+    "location": {
+      "country": "France",
+      "region": "Cannes, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.54431773022226",
+      "lng": "7.068500518798829"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "efeb1d68-c8f6-4199-b042-ebac897f8837",
+    "name": "Canadell",
+    "location": {
+      "country": "France",
+      "region": "Cerbere, Pyrenees-Orientales",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Balearic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.448858100702154",
+      "lng": "3.1707572937011723"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f03c00b9-1c4b-47bc-b7fd-6ebde2fdb80d",
+    "name": "La Basse Du Grogon",
+    "location": {
+      "country": "France",
+      "region": "Ile De Groix, Brittany",
+      "ocean": [
+        "Atlantic Ocean",
+        "Bay Of Biscay"
+      ]
+    },
+    "coordinates": {
+      "lat": "47.65532858402682",
+      "lng": "-3.501033782958985"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f137b316-3fbc-4ff6-867e-1c586089f9b2",
+    "name": "Les Verhuges",
+    "location": {
+      "country": "France",
+      "region": "Saint-Tropez, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.26395628613214",
+      "lng": "6.717796325683595"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f1fffff1-d1f3-4703-a87c-8acdc2829e4d",
+    "name": "La Roure",
+    "location": {
+      "country": "France",
+      "region": "Cannes, French Riviera",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.5418913485085",
+      "lng": "7.006702423095704"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f3223a7f-41dd-4463-921f-9aa2647aa0c4",
+    "name": "Ostro",
+    "location": {
+      "country": "France",
+      "region": "Lavezzi Islands, Corsica",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Strait Of Bonifacio"
+      ]
+    },
+    "coordinates": {
+      "lat": "41.32384568478621",
+      "lng": "9.261646270751955"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f4755ed6-9ab7-4fc5-8434-35aa1ddf5013",
+    "name": "Barsac",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.672071730695734",
+      "lng": "-0.703125"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f76ec9a1-7e70-487a-ab0d-8b4defa7c48c",
+    "name": "Paluel",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.14170587960567",
+      "lng": "0.38589477539062506"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f785b4bb-d216-46a9-81fc-4a829b2845f7",
+    "name": "Messerschmitt Bf 109",
+    "location": {
+      "country": "France",
+      "region": "Marseille, Provence-Alpes-Cote D&#039;azur",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.19766784671981",
+      "lng": "5.2836084365844735"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f7b175e1-a9e0-4c20-a1ed-370bebfa5029",
+    "name": "La Calanque Du Pouar",
+    "location": {
+      "country": "France",
+      "region": "Calseraigne, Marseille",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.188469323705874",
+      "lng": "5.3853178024292"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f831ba75-ec92-433a-85c2-b0889e8b2ccf",
+    "name": "Boulgaria",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.044793599665226",
+      "lng": "-1.3746643066406252"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f964c42a-dbfc-4809-8733-23e3eccb75d4",
+    "name": "Pierre A Oeil",
+    "location": {
+      "country": "France",
+      "region": "Les Iles, Marseille",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.28176682262573",
+      "lng": "5.2963972091674805"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "faa059db-393a-4a8e-a8c7-ae32bbf2843d",
+    "name": "Cap De Nice",
+    "location": {
+      "country": "France",
+      "region": "Nice, Alpes Maritimes",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Ligurian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.682646261618416",
+      "lng": "7.2901153564453125"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fc730ac1-a2b1-4a42-a374-ff6a6a6879cf",
+    "name": "Heliport",
+    "location": {
+      "country": "France",
+      "region": "Ile De Groix, Brittany",
+      "ocean": [
+        "Atlantic Ocean",
+        "Bay Of Biscay"
+      ]
+    },
+    "coordinates": {
+      "lat": "47.64680023341425",
+      "lng": "-3.4463167190551762"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fe5847f8-59c0-45ea-b85a-53447c55a2d3",
+    "name": "Samlong",
+    "location": {
+      "country": "France",
+      "region": "Calvados, Normandy",
+      "ocean": [
+        "Atlantic Ocean",
+        "English Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.38952445158216",
+      "lng": "-0.4851150512695313"
+    },
+    "additionalInfo": {}
+  }
+]

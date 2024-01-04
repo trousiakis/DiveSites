@@ -1,0 +1,55 @@
+[
+  {
+    "id": "0a8b5e6c-9f11-4fbf-96f8-cb60a6dafd2c",
+    "name": "Kleifarvatn",
+    "location": {
+      "country": "Iceland",
+      "region": "Reykjanes Peninsula, Iceland",
+      "ocean": [
+        "Europe",
+        "Iceland",
+        "Reykjanes Peninsula"
+      ]
+    },
+    "coordinates": {
+      "lat": "63.92500085860729",
+      "lng": "-21.97540283203125"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "80437838-2c58-4a2f-bf3d-0fe342011945",
+    "name": "Strytan",
+    "location": {
+      "country": "Iceland",
+      "region": "Northeastern Region, Iceland",
+      "ocean": [
+        "Arctic Ocean",
+        "Greenland Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "65.77574383263962",
+      "lng": "-18.127441406250004"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a95eb334-ed85-46b9-9fac-35b76f1db23e",
+    "name": "Silfra",
+    "location": {
+      "country": "Iceland",
+      "region": "Suourland, Iceland",
+      "ocean": [
+        "Europe",
+        "Iceland",
+        "Suourland"
+      ]
+    },
+    "coordinates": {
+      "lat": "64.25510092692329",
+      "lng": "-21.117031574249268"
+    },
+    "additionalInfo": {}
+  }
+]

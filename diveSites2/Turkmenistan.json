@@ -1,0 +1,40 @@
+[
+  {
+    "id": "52fbacd4-a19f-444d-9c74-6af7f271e427",
+    "name": "Kutuzov Lake",
+    "location": {
+      "country": "Turkmenistan",
+      "region": "Karlyuk, Lebap",
+      "ocean": [
+        "Asia",
+        "Turkmenistan",
+        "Lebap",
+        "Karlyuk"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.65591444252159",
+      "lng": "66.3463068008423"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e7d7624d-eaf0-496d-be1f-daab521501db",
+    "name": "Bulak Dara Sinkholes",
+    "location": {
+      "country": "Turkmenistan",
+      "region": "Karlyuk, Lebap",
+      "ocean": [
+        "Asia",
+        "Turkmenistan",
+        "Lebap",
+        "Karlyuk"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.596960012296094",
+      "lng": "66.40608787536623"
+    },
+    "additionalInfo": {}
+  }
+]

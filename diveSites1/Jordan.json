@@ -1,0 +1,380 @@
+[
+  {
+    "id": "00951297-65c8-474b-9341-e630d73368e2",
+    "name": "Gorgon Ii",
+    "location": {
+      "country": "Jordan",
+      "region": "Aqaba Qasabah, Jordan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.420049150115126",
+      "lng": "34.970061779022224"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "15b624ff-5f4b-425d-933e-279bee0e5d3a",
+    "name": "Seven Sisters",
+    "location": {
+      "country": "Jordan",
+      "region": "Aqaba Qasabah, Jordan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.417918406989997",
+      "lng": "34.9701476097107"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "20345cbf-269c-44d1-a626-283f34420668",
+    "name": "Eel Canyon",
+    "location": {
+      "country": "Jordan",
+      "region": "Aqaba Qasabah, Jordan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.41481566604546",
+      "lng": "34.9721646308899"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "289be468-c87e-43c8-8f36-fd89b644794e",
+    "name": "Power Station",
+    "location": {
+      "country": "Jordan",
+      "region": "Aqaba Qasabah, Jordan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.462467799118546",
+      "lng": "34.97042655944825"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "29d9cd49-41a8-4661-9b26-b6e0f9bfa2fb",
+    "name": "Kiwi Reef",
+    "location": {
+      "country": "Jordan",
+      "region": "Aqaba Qasabah, Jordan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.40681539094404",
+      "lng": "34.97482538223267"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3645dbdf-ffa2-4b8e-9b8d-6980d4c617e5",
+    "name": "Black Rock",
+    "location": {
+      "country": "Jordan",
+      "region": "Aqaba Qasabah, Jordan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.43705611150339",
+      "lng": "34.967787265777595"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "38e20195-a4eb-4eb7-a881-af8d0fbb70cf",
+    "name": "Cedar Pride Wreck",
+    "location": {
+      "country": "Jordan",
+      "region": "Aqaba Qasabah, Jordan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.430926458062313",
+      "lng": "34.971778392791755"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5946b08c-b61e-4956-a708-5c688c477ea4",
+    "name": "King Abdullah Reef",
+    "location": {
+      "country": "Jordan",
+      "region": "Aqaba Qasabah, Jordan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.440718776568342",
+      "lng": "34.96733665466309"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6dd3a43b-a6cc-4ee2-862b-8159c1dc48c6",
+    "name": "Aquarium",
+    "location": {
+      "country": "Jordan",
+      "region": "Aqaba Qasabah, Jordan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.401842940070118",
+      "lng": "34.966070652008064"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "767fceae-dc2c-47f0-a240-1a7ef54d4709",
+    "name": "Blue Coral",
+    "location": {
+      "country": "Jordan",
+      "region": "Aqaba Qasabah, Jordan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.411376372610018",
+      "lng": "34.9747395515442"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7768a62f-5ea1-4793-a772-42f806290afc",
+    "name": "Moon Valley",
+    "location": {
+      "country": "Jordan",
+      "region": "Aqaba Qasabah, Jordan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.405245169573696",
+      "lng": "34.97122049331666"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7c71fbcb-aee9-4580-8285-ebe9a6cd7d43",
+    "name": "Rainbow Reef",
+    "location": {
+      "country": "Jordan",
+      "region": "Aqaba Qasabah, Jordan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.43380445118502",
+      "lng": "34.9707055091858"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "87ee63d4-9e87-40b7-8c47-f0e256dc21e6",
+    "name": "Coral Garden",
+    "location": {
+      "country": "Jordan",
+      "region": "Aqaba Qasabah, Jordan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.399263151699802",
+      "lng": "34.96345281600953"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9c48129d-22a8-48de-b773-0328ec327f53",
+    "name": "Yellow Stone Reef",
+    "location": {
+      "country": "Jordan",
+      "region": "Aqaba Qasabah, Jordan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.412796964442155",
+      "lng": "34.97340917587281"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a25f9906-5af4-46db-a7df-321f7f0a7bf1",
+    "name": "First Bay-South",
+    "location": {
+      "country": "Jordan",
+      "region": "Aqaba Qasabah, Jordan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.449463789278244",
+      "lng": "34.96832370758057"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ba37aab5-6faa-48e2-adfc-b4bed9c82f09",
+    "name": "New Canyon",
+    "location": {
+      "country": "Jordan",
+      "region": "Aqaba Qasabah, Jordan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.416124062332962",
+      "lng": "34.97083425521851"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cbba736e-4a2c-4886-a064-9a8d8cf2a780",
+    "name": "Ras Al-Yamaniya",
+    "location": {
+      "country": "Jordan",
+      "region": "Aqaba Qasabah, Jordan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.443372257485343",
+      "lng": "34.96686458587647"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d336be19-9f69-4714-8650-64669d76e060",
+    "name": "First Bay-North",
+    "location": {
+      "country": "Jordan",
+      "region": "Aqaba Qasabah, Jordan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.45305126882041",
+      "lng": "34.96961116790772"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dcdd3ad2-f362-491b-9ddd-b04b647045ae",
+    "name": "Gorgon I",
+    "location": {
+      "country": "Jordan",
+      "region": "Aqaba Qasabah, Jordan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.42434788180132",
+      "lng": "34.96920347213746"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dfdda224-6f0f-4600-931c-41d7e4080e5e",
+    "name": "Japanese Garden",
+    "location": {
+      "country": "Jordan",
+      "region": "Aqaba Qasabah, Jordan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.427674601460563",
+      "lng": "34.96971845626832"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e3200a10-3f13-487b-81f2-795f38ca255a",
+    "name": "Paradise",
+    "location": {
+      "country": "Jordan",
+      "region": "Aqaba Qasabah, Jordan",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea",
+        "Gulf Of Aqaba"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.404347889329923",
+      "lng": "34.96847391128541"
+    },
+    "additionalInfo": {}
+  }
+]

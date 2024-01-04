@@ -1,0 +1,898 @@
+[
+  {
+    "id": "01890284-6e69-4daf-81e0-dcf09596ca45",
+    "name": "Blue Coral",
+    "location": {
+      "country": "Tonga",
+      "region": "Vava&#039;u, Tonga",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-18.76493877182167",
+      "lng": "-174.03991699218753"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0b42af0d-03f2-43e1-92b5-1346affc9a2b",
+    "name": "Papua Passage",
+    "location": {
+      "country": "Tonga",
+      "region": "Rarotonga, Cook Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.266100231952368",
+      "lng": "-159.79923248291018"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0e93c856-b860-4580-92d1-15396b471ef6",
+    "name": "Coral Garden S",
+    "location": {
+      "country": "Tonga",
+      "region": "Vava&#039;u, Tonga",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-18.71779647742901",
+      "lng": "-174.10686492919925"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "11e1a65a-e992-4c42-b174-6161b03b27f7",
+    "name": "The Gap",
+    "location": {
+      "country": "Tonga",
+      "region": "Vava&#039;u, Tonga",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-18.68739085215074",
+      "lng": "-174.06755447387695"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1421d8aa-ae0b-4e81-9ce8-a8faa93d944e",
+    "name": "Little Knob",
+    "location": {
+      "country": "Tonga",
+      "region": "Vava&#039;u, Tonga",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-18.727551135090298",
+      "lng": "-174.00077819824222"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1b3ec3e1-cb65-495b-80fa-7255a11e929b",
+    "name": "Mushroom Forest",
+    "location": {
+      "country": "Tonga",
+      "region": "Rarotonga, Cook Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.20113717693503",
+      "lng": "-159.7679901123047"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1dfcb1f5-a737-4e65-bda0-7230d634d179",
+    "name": "Avaavaroa Passage",
+    "location": {
+      "country": "Tonga",
+      "region": "Rarotonga, Cook Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.271739146279312",
+      "lng": "-159.78060722351077"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1e5e772f-bc1d-420a-8fd0-da38110ee13f",
+    "name": "Fotula Rock",
+    "location": {
+      "country": "Tonga",
+      "region": "Vava&#039;u, Tonga",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-18.648522241184455",
+      "lng": "-174.06755447387695"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2344e5de-0e2d-40bd-a77d-cc8969e11d57",
+    "name": "The Abyss",
+    "location": {
+      "country": "Tonga",
+      "region": "Rarotonga, Cook Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.27257896609944",
+      "lng": "-159.7818946838379"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2f0bebc9-6663-4d82-b4ea-60707661bf3c",
+    "name": "Runway Cave",
+    "location": {
+      "country": "Tonga",
+      "region": "Rarotonga, Cook Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.201817357079285",
+      "lng": "-159.82232093811038"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "33977424-7973-4cba-8034-19298204065e",
+    "name": "North Shore",
+    "location": {
+      "country": "Tonga",
+      "region": "Vava&#039;u, Tonga",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-18.638600374331308",
+      "lng": "-174.06824111938477"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "34369ea9-2b4d-40ea-b6f1-05f34db2ac43",
+    "name": "Langito Nw",
+    "location": {
+      "country": "Tonga",
+      "region": "Vava&#039;u, Tonga",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-18.72299903156041",
+      "lng": "-174.0919303894043"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "369f50a1-e967-4b28-aace-887cc8548864",
+    "name": "Alberto&#039;s",
+    "location": {
+      "country": "Tonga",
+      "region": "Rarotonga, Cook Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.20257755471033",
+      "lng": "-159.7739124298096"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3e213bc3-c682-451b-8bc2-a38923399a2b",
+    "name": "Avana Dropoff",
+    "location": {
+      "country": "Tonga",
+      "region": "Rarotonga, Cook Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.243542415075364",
+      "lng": "-159.72207069396975"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3fff9e8d-a49d-4d1c-9c0a-7bc935a21bd8",
+    "name": "Swiss Reef",
+    "location": {
+      "country": "Tonga",
+      "region": "Rarotonga, Cook Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.200657047888562",
+      "lng": "-159.76395606994632"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "434a14b3-9dde-4c01-8125-71675b8134f7",
+    "name": "Croc Caverns",
+    "location": {
+      "country": "Tonga",
+      "region": "Rarotonga, Cook Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.202257471974146",
+      "lng": "-159.82378005981445"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4fe8957f-808f-4974-8cd2-8d136eed0d23",
+    "name": "Sea Fans",
+    "location": {
+      "country": "Tonga",
+      "region": "Vava&#039;u, Tonga",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-18.653401635153536",
+      "lng": "-174.05914306640625"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "53b771da-d726-4e74-8141-5dde08ed7b02",
+    "name": "Matavera Dropoff",
+    "location": {
+      "country": "Tonga",
+      "region": "Rarotonga, Cook Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.22474159644541",
+      "lng": "-159.7296237945557"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "554c0cbb-0ae7-46db-833f-fe9a3fe5217d",
+    "name": "Jade Reef",
+    "location": {
+      "country": "Tonga",
+      "region": "Rarotonga, Cook Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.21193966782641",
+      "lng": "-159.7374773025513"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5acddd2f-63f7-4bae-bd0f-05d23c2b2f85",
+    "name": "Bernies Reef",
+    "location": {
+      "country": "Tonga",
+      "region": "Rarotonga, Cook Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.201097166240753",
+      "lng": "-159.7768306732178"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5c15e5fa-a0b9-4d73-9311-98bba5b0a795",
+    "name": "The Pinnicle",
+    "location": {
+      "country": "Tonga",
+      "region": "Rarotonga, Cook Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.256581574517224",
+      "lng": "-159.82343673706058"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5dd5cd51-ab9c-43bc-87ad-82c9ca0ad4c9",
+    "name": "The Nursery",
+    "location": {
+      "country": "Tonga",
+      "region": "Vava&#039;u, Tonga",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-18.755511365991328",
+      "lng": "-174.04300689697266"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "663b23d1-1616-4376-be36-8827f5801c42",
+    "name": "Pagodas S",
+    "location": {
+      "country": "Tonga",
+      "region": "Vava&#039;u, Tonga",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-18.73502932470988",
+      "lng": "-174.0854072570801"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "674bdd5a-4d13-4198-8ea2-b008202917d0",
+    "name": "Edna&#039;s Anchor",
+    "location": {
+      "country": "Tonga",
+      "region": "Rarotonga, Cook Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.201937388544327",
+      "lng": "-159.77228164672854"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7f2ad65d-e3f6-41f5-95b5-9c5dcd874c7c",
+    "name": "Rutaki Drop Off",
+    "location": {
+      "country": "Tonga",
+      "region": "Rarotonga, Cook Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.264580487591964",
+      "lng": "-159.8051977157593"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7f3e43a1-d6e9-4df3-baf6-fa296ed6ff15",
+    "name": "Caddy Shack",
+    "location": {
+      "country": "Tonga",
+      "region": "Vava&#039;u, Tonga",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-18.67129154604106",
+      "lng": "-174.0854072570801"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7f4c3d00-ccfc-43e8-ba0d-5fe6ca4ac103",
+    "name": "Avaavaroa Drop Off",
+    "location": {
+      "country": "Tonga",
+      "region": "Rarotonga, Cook Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.272419000788904",
+      "lng": "-159.78073596954349"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8fdd6e3c-61ed-4c48-ab73-33566a9a8bd1",
+    "name": "Maritime Reef",
+    "location": {
+      "country": "Tonga",
+      "region": "Rarotonga, Cook Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.20281761630725",
+      "lng": "-159.82618331909183"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9b95baaf-ac79-4c5d-9a6d-3cb4945839f0",
+    "name": "White Patch",
+    "location": {
+      "country": "Tonga",
+      "region": "Vava&#039;u, Tonga",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-18.623309805613705",
+      "lng": "-174.06515121459964"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a240b1de-f373-4b9e-a080-c9b14da3f9bc",
+    "name": "Ngatangiia Drop Off",
+    "location": {
+      "country": "Tonga",
+      "region": "Rarotonga, Cook Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.221021150419354",
+      "lng": "-159.73069667816165"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a3119fae-e8e6-4804-b09f-88f4ad14e94a",
+    "name": "Sand River",
+    "location": {
+      "country": "Tonga",
+      "region": "Rarotonga, Cook Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.206818585475123",
+      "lng": "-159.7455453872681"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a73f6f86-3f4c-42b4-9b7b-4601f40a3edb",
+    "name": "Mariner&#039;s Cave",
+    "location": {
+      "country": "Tonga",
+      "region": "Vava&#039;u, Tonga",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-18.688854349586272",
+      "lng": "-174.07442092895508"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a8fbc4fc-81dc-4118-8d8d-30f1d29c8c4c",
+    "name": "Pagodas N",
+    "location": {
+      "country": "Tonga",
+      "region": "Vava&#039;u, Tonga",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-18.73242825281649",
+      "lng": "-174.0871238708496"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b342c411-5281-4f5e-be5d-a4a031ca233c",
+    "name": "Paradise 1",
+    "location": {
+      "country": "Tonga",
+      "region": "Rarotonga, Cook Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.200729880064376",
+      "lng": "-159.76920582354072"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b90d8f17-a06d-46ce-b2cf-5320c2cfa4cd",
+    "name": "The Plateau",
+    "location": {
+      "country": "Tonga",
+      "region": "Rarotonga, Cook Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.22074111305117",
+      "lng": "-159.83356475830078"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b924e4a7-78e7-4d0e-b426-98d43985a621",
+    "name": "Ovaka Wall",
+    "location": {
+      "country": "Tonga",
+      "region": "Vava&#039;u, Tonga",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-18.742019506967857",
+      "lng": "-174.10978317260745"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bc294af3-0710-4a31-a1b7-ddb0dbf3513c",
+    "name": "Dead Men&#039;s Gulch",
+    "location": {
+      "country": "Tonga",
+      "region": "Rarotonga, Cook Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.271539188472907",
+      "lng": "-159.77889060974124"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bc2d4fcf-dfa1-4c7a-a6f5-38bed23c8450",
+    "name": "Hunga Pass",
+    "location": {
+      "country": "Tonga",
+      "region": "Vava&#039;u, Tonga",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-18.695358629634143",
+      "lng": "-174.13845062255862"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c02b12d6-695b-4f1f-a182-bbecfad41b30",
+    "name": "Arorangi Passage",
+    "location": {
+      "country": "Tonga",
+      "region": "Rarotonga, Cook Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.231982195515187",
+      "lng": "-159.8306465148926"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c08091c4-4d42-431d-8e55-2112bb735cba",
+    "name": "Langito Se",
+    "location": {
+      "country": "Tonga",
+      "region": "Vava&#039;u, Tonga",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-18.729827140879575",
+      "lng": "-174.0896987915039"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c2624ce7-4993-4c6e-bfe3-57578535f5c8",
+    "name": "The Caves",
+    "location": {
+      "country": "Tonga",
+      "region": "Rarotonga, Cook Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.205218210815385",
+      "lng": "-159.82686996459964"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c30b083c-d20b-4382-a6e6-dbf5eedfa70d",
+    "name": "Swallows Cave",
+    "location": {
+      "country": "Tonga",
+      "region": "Vava&#039;u, Tonga",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-18.682675052185548",
+      "lng": "-174.04832839965823"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c892f706-4f9b-456c-b274-38074c3480d7",
+    "name": "Bella Beach",
+    "location": {
+      "country": "Tonga",
+      "region": "Rarotonga, Cook Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.277377844556625",
+      "lng": "-159.75365638732913"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c9123840-0a82-45b6-a1df-9437a4ef54b9",
+    "name": "Ta&#039;akonka",
+    "location": {
+      "country": "Tonga",
+      "region": "Rarotonga, Cook Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.266180218063063",
+      "lng": "-159.7310829162598"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c9a604c3-4c60-412d-b078-1c7a5411b90e",
+    "name": "Rarotongan",
+    "location": {
+      "country": "Tonga",
+      "region": "Rarotonga, Cook Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.262460817943154",
+      "lng": "-159.81905937194827"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d0c26912-819c-4074-a7ba-4ac56efc1a27",
+    "name": "Ngatangiia School",
+    "location": {
+      "country": "Tonga",
+      "region": "Rarotonga, Cook Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.23522234847628",
+      "lng": "-159.72619056701663"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d830c8d6-5fba-46ff-a0a9-2adfb6f40838",
+    "name": "Mushrooms",
+    "location": {
+      "country": "Tonga",
+      "region": "Vava&#039;u, Tonga",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-18.67015315338233",
+      "lng": "-174.0582847595215"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d8ea8558-cbf2-4f6f-8315-ba17ee89ab33",
+    "name": "Shark Tooth",
+    "location": {
+      "country": "Tonga",
+      "region": "Vava&#039;u, Tonga",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-18.678934841643358",
+      "lng": "-174.0648078918457"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "de1dbac6-9dbd-49df-aee5-5c184f5b297e",
+    "name": "Ovaka Coral Canyon",
+    "location": {
+      "country": "Tonga",
+      "region": "Vava&#039;u, Tonga",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-18.74299485823473",
+      "lng": "-174.11596298217776"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ef1012c8-0fa5-42be-a319-55800eba690a",
+    "name": "Avana Passage",
+    "location": {
+      "country": "Tonga",
+      "region": "Rarotonga, Cook Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.244182400747256",
+      "lng": "-159.72344398498538"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f046730d-d258-4085-89f3-c238bdf3fc60",
+    "name": "Rutaki Passage",
+    "location": {
+      "country": "Tonga",
+      "region": "Rarotonga, Cook Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.264020577820368",
+      "lng": "-159.80494022369385"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f14e7328-cf46-4df9-95ef-bd1ca2510ee2",
+    "name": "Coral Garden N",
+    "location": {
+      "country": "Tonga",
+      "region": "Vava&#039;u, Tonga",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-18.713731870636988",
+      "lng": "-174.1048049926758"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f72b9ced-98d2-440e-bdb0-7ba5df667864",
+    "name": "Mataora Wreck",
+    "location": {
+      "country": "Tonga",
+      "region": "Rarotonga, Cook Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.20113717693503",
+      "lng": "-159.76593017578128"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fa59b3e7-62b2-416d-884d-66ab38b2a320",
+    "name": "Clan Mcwilliam Wreck",
+    "location": {
+      "country": "Tonga",
+      "region": "Vava&#039;u, Tonga",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-18.67194205270013",
+      "lng": "-173.99013519287112"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fcf0d67f-d42b-4036-851a-b04849bb9488",
+    "name": "Arorangi Drop Off",
+    "location": {
+      "country": "Tonga",
+      "region": "Rarotonga, Cook Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.232222209287148",
+      "lng": "-159.8309898376465"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ff31b843-d5df-408e-94f8-876314ee6323",
+    "name": "Sunrise",
+    "location": {
+      "country": "Tonga",
+      "region": "Rarotonga, Cook Islands",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.239942443892335",
+      "lng": "-159.72421646118167"
+    },
+    "additionalInfo": {}
+  }
+]

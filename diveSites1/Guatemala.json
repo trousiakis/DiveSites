@@ -1,0 +1,18 @@
+[
+  {
+    "id": "82d22403-154d-4d7b-a9ee-75813fbe8199",
+    "name": "Lake Atitlán",
+    "location": {
+      "country": "Guatemala",
+      "region": "Guatemala, Central America",
+      "ocean": [
+        "Sierra Madre"
+      ]
+    },
+    "coordinates": {
+      "lat": "14.676596946649664",
+      "lng": "-91.1865234375"
+    },
+    "additionalInfo": {}
+  }
+]

@@ -1,0 +1,2479 @@
+[
+  {
+    "id": "058b0ccb-b701-4e4b-9b26-779f5f0180c7",
+    "name": "Rock Beauty",
+    "location": {
+      "country": "Belize",
+      "region": "Caye Caulker, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.733317859448153",
+      "lng": "-88.0023765563965"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "05c0de64-4d2e-4344-8c5b-6a984d99d28a",
+    "name": "Quebrada",
+    "location": {
+      "country": "Belize",
+      "region": "Long Caye, Lighthouse Reef",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.215453103440055",
+      "lng": "-87.61154651641847"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "06b9c8ab-72e8-4661-a963-afbf827044b8",
+    "name": "M&amp;m Caverns",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.91112251880016",
+      "lng": "-87.9543972015381"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0725c2c1-2309-4e3a-b251-58ce4f322be7",
+    "name": "Manta Wall",
+    "location": {
+      "country": "Belize",
+      "region": "Glover Reef, Belize",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.710191758192174",
+      "lng": "-87.84238815307619"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "088e2fc1-e1b5-4cc1-aafd-dc0a9bab3078",
+    "name": "Uno Coco",
+    "location": {
+      "country": "Belize",
+      "region": "Long Caye, Lighthouse Reef",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.20934509391743",
+      "lng": "-87.61497974395753"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "08be749b-26b7-460f-b481-b47acf26c360",
+    "name": "Toffee (Tuffy) Cut",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.891683784004076",
+      "lng": "-87.96306610107422"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "09a19db6-72f3-4e95-8d7a-ba1fbe0880d7",
+    "name": "Majestic Point",
+    "location": {
+      "country": "Belize",
+      "region": "Turneffe Atoll, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.17810500749892",
+      "lng": "-87.8815269470215"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0bd8710f-574e-4609-b440-7f20664f77a5",
+    "name": "Buena Vista Canyons",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.932029030771382",
+      "lng": "-87.94092178344728"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0c717bb7-3654-4eef-8ba6-1df98c1cf757",
+    "name": "Tobacco Reef",
+    "location": {
+      "country": "Belize",
+      "region": "Stann Creek, Belize",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea",
+        "Gulf Of Honduras"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.863033829999537",
+      "lng": "-88.06709289550781"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0d10556e-fede-4b24-9c3f-a605836144d6",
+    "name": "The Aquarium",
+    "location": {
+      "country": "Belize",
+      "region": "Glover Reef, Belize",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.733290295011646",
+      "lng": "-87.80209064483644"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0d2dc99d-5c7b-4fad-b594-b462856303c5",
+    "name": "Cypress Tunnels",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.88008486908197",
+      "lng": "-87.96838760375978"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0e9a0258-11df-4fe0-8328-a0617dc1ee23",
+    "name": "Emerald Forest",
+    "location": {
+      "country": "Belize",
+      "region": "Glover Reef, Belize",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.862869549828954",
+      "lng": "-87.8272819519043"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0fb09b8a-4e40-4bd1-985c-fd55be8f590d",
+    "name": "Spanish Bay Wall",
+    "location": {
+      "country": "Belize",
+      "region": "Belize, Central America",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.472502452750295",
+      "lng": "-88.04288864135744"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1230a93c-17e9-431a-a9e9-b434d33f4ff3",
+    "name": "Pinnacles",
+    "location": {
+      "country": "Belize",
+      "region": "Glover Reef, Belize",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.71709695200426",
+      "lng": "-87.89525985717775"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "12e7da8a-7bd3-4595-b643-9d205ab44f6a",
+    "name": "Alligator Reef",
+    "location": {
+      "country": "Belize",
+      "region": "Belize, Central America",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.184747041763956",
+      "lng": "-88.05593490600586"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "15f898cb-7953-425b-ba13-5dff5791de79",
+    "name": "Chain Wall",
+    "location": {
+      "country": "Belize",
+      "region": "Long Caye, Lighthouse Reef",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.204220769279647",
+      "lng": "-87.5648546218872"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "18458e8b-d4ea-4227-bc8e-8680e9ae9627",
+    "name": "Sand Trap",
+    "location": {
+      "country": "Belize",
+      "region": "Caye Chapel, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.691782829158587",
+      "lng": "-88.00512313842775"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1ca76b41-9456-47fa-b647-5794882e003a",
+    "name": "Middle Caye Wall",
+    "location": {
+      "country": "Belize",
+      "region": "Glover Reef, Belize",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.72876944931235",
+      "lng": "-87.81384944915773"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1e0ccfdd-0080-443b-a39b-d982d1fa2d0e",
+    "name": "Esmeralda",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.89434697241115",
+      "lng": "-87.96250116080047"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "288a34b5-530c-4b62-b09a-1857d3222a1a",
+    "name": "Grouper Flats",
+    "location": {
+      "country": "Belize",
+      "region": "Glover Reef, Belize",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.857283939085082",
+      "lng": "-87.72531509399415"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "28f34e83-9d7a-4b21-8ac2-6e978dca5e7e",
+    "name": "Hat Caye Drop-Off",
+    "location": {
+      "country": "Belize",
+      "region": "Lighthouse Reef, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.17269280358",
+      "lng": "-87.62738227844238"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "29baf295-b361-4d31-ab08-b5fca5ebfd4c",
+    "name": "Santa Rita Canyons",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.016283349673344",
+      "lng": "-87.8931999206543"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2a4f9210-1411-41e4-896c-11125e4dfc23",
+    "name": "Basil Jones Canyons",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.088259486948118",
+      "lng": "-87.86530494689941"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2b3e1edf-709b-4c42-a62a-df8b1f582699",
+    "name": "The Aquarium",
+    "location": {
+      "country": "Belize",
+      "region": "Long Caye, Lighthouse Reef",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.203687831369983",
+      "lng": "-87.61025905609131"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2ba149fc-78fe-4db3-90c9-6b3ac76c45cf",
+    "name": "Galles Point",
+    "location": {
+      "country": "Belize",
+      "region": "Turneffe Atoll, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.191470833908408",
+      "lng": "-87.86547660827638"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2cc2491e-087d-4d8f-8344-cd6f57f56e24",
+    "name": "Shark-Ray Alley",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.83417187631686",
+      "lng": "-87.98692703247072"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2d57cdc0-7b16-48de-a3a1-668fa3617038",
+    "name": "Cockroaches Caye Wall",
+    "location": {
+      "country": "Belize",
+      "region": "Turneffe Atoll, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.496734524616866",
+      "lng": "-87.76548385620117"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "318b95a0-815d-4958-82b1-a0f219b093fb",
+    "name": "The Aquarium",
+    "location": {
+      "country": "Belize",
+      "region": "Long Caye, Lighthouse Reef",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.22467622538197",
+      "lng": "-87.59450912475586"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "32eded2b-271b-4e30-811d-2f356605dafe",
+    "name": "Rendezvous Caye",
+    "location": {
+      "country": "Belize",
+      "region": "Belize, Central America",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.254269089702092",
+      "lng": "-88.05524826049806"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "331c3cbc-be53-472b-a8d1-8198cf968f42",
+    "name": "Sayonara Wreck",
+    "location": {
+      "country": "Belize",
+      "region": "Turneffe Atoll, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.190650872324778",
+      "lng": "-87.92521476745607"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "360dfe1a-d941-476e-a3d3-38cb722ba4f9",
+    "name": "Lb Caye North",
+    "location": {
+      "country": "Belize",
+      "region": "Taledo, Belize",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea",
+        "Gulf Of Honduras"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.47691323665894",
+      "lng": "-88.19583892822266"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "36e19fc9-42ca-4a60-8a86-f4dc1f20b474",
+    "name": "Shark Point",
+    "location": {
+      "country": "Belize",
+      "region": "Glover Reef, Belize",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.882746413551992",
+      "lng": "-87.69561767578126"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "39ff67fa-1bf6-4ce9-8859-868cf5cb68b1",
+    "name": "Front Porch",
+    "location": {
+      "country": "Belize",
+      "region": "Turneffe Atoll, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.18392705041593",
+      "lng": "-87.87405967712402"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3b44a707-59fd-4199-93f5-c4f7d287a749",
+    "name": "Elk Horn Forest",
+    "location": {
+      "country": "Belize",
+      "region": "Long Caye, Lighthouse Reef",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.20049017168178",
+      "lng": "-87.5782871246338"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3db966a5-d774-45ff-acbf-69c16969073d",
+    "name": "Bluefield Reef",
+    "location": {
+      "country": "Belize",
+      "region": "Belize, Central America",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.221478928553413",
+      "lng": "-88.05524826049806"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "41e680ea-e232-4ec5-abd6-ec56544e01b1",
+    "name": "J&amp;r Wall",
+    "location": {
+      "country": "Belize",
+      "region": "Belize, Central America",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.455800092541892",
+      "lng": "-88.03808212280273"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "435d1415-20af-4d30-9aa5-1eac3dd1d605",
+    "name": "Deadman&#039;s Caye",
+    "location": {
+      "country": "Belize",
+      "region": "Turneffe Atoll, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.197538436781194",
+      "lng": "-87.86187171936035"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "437858dd-b993-48ce-a8de-59c2bb70df7a",
+    "name": "Rocky Point Canyon",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.12366548587248",
+      "lng": "-87.82153129577638"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4558af63-3da7-45b3-8f39-4332aa87c7d1",
+    "name": "Tackle Box Canyons",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.896911216195576",
+      "lng": "-87.96117782592775"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4772de4e-c558-4706-b89b-7f0c2bde9b0c",
+    "name": "Hollywood",
+    "location": {
+      "country": "Belize",
+      "region": "Turneffe Atoll, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.22115099754639",
+      "lng": "-87.9466724395752"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "482219d8-2d0e-44ae-b5c9-3d2bc1d61a2e",
+    "name": "Site Y",
+    "location": {
+      "country": "Belize",
+      "region": "Lighthouse Reef, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.17490690610014",
+      "lng": "-87.6264810562134"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4a61a8c3-059e-4468-aa08-130b0c44ebf8",
+    "name": "Lb Caye South",
+    "location": {
+      "country": "Belize",
+      "region": "Taledo, Belize",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea",
+        "Gulf Of Honduras"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.412045284546636",
+      "lng": "-88.2085418701172"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4db2ca2f-a271-4e4a-8aa3-ea676995c339",
+    "name": "Cypress Canyons",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.882698775202332",
+      "lng": "-87.96667098999025"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4ddd9305-cc83-4cdf-85f4-6e6dfd36aeb4",
+    "name": "Southwest Caye Wall",
+    "location": {
+      "country": "Belize",
+      "region": "Glover Reef, Belize",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.701970963616578",
+      "lng": "-87.85251617431642"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "50b7ae56-84cf-41e8-8c08-cc2f38f7b55b",
+    "name": "North Cut",
+    "location": {
+      "country": "Belize",
+      "region": "Caye Caulker, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.790208488272096",
+      "lng": "-87.99465179443361"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5298cb6d-0b85-4747-b725-321f0bc318ac",
+    "name": "Pomplon Wall",
+    "location": {
+      "country": "Belize",
+      "region": "Belize, Central America",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.318492000655635",
+      "lng": "-88.11429977416994"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "52a7c3f0-c65e-45cf-80c6-37d10b69a765",
+    "name": "Long Caye Wall",
+    "location": {
+      "country": "Belize",
+      "region": "Caye Chapel, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.652201146851194",
+      "lng": "-88.02091598510744"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5636c430-1354-4fbd-b721-bd2f10d671dd",
+    "name": "Tres Cocos Cut",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.91716606090194",
+      "lng": "-87.94993400573732"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5643e5e1-6801-4342-8397-0f2b8fff1daf",
+    "name": "Toffee (Tuffy) Canyons",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.88988681862534",
+      "lng": "-87.963924407959"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "57fc6e3f-bda6-40ee-bebc-edfce88be434",
+    "name": "Silver Caves",
+    "location": {
+      "country": "Belize",
+      "region": "Long Caye, Lighthouse Reef",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.224184337162246",
+      "lng": "-87.60395050048828"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "58ba2936-3f00-4e1d-af66-6bc0fcbb70e2",
+    "name": "Sandy Slope",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.18630186678184",
+      "lng": "-87.83638000488281"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5a9ea072-07d9-47fb-97c7-5812331922e8",
+    "name": "Tres Cocos",
+    "location": {
+      "country": "Belize",
+      "region": "Long Caye, Lighthouse Reef",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.200572163645983",
+      "lng": "-87.61811256408693"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5deada01-34de-44be-956a-001a743df7ba",
+    "name": "Tarpon Caye",
+    "location": {
+      "country": "Belize",
+      "region": "Lighthouse Reef, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.204630720473403",
+      "lng": "-87.55863189697266"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5e70e1ae-5ccf-439e-824e-20bd11e4b275",
+    "name": "Shark Point",
+    "location": {
+      "country": "Belize",
+      "region": "Half Moon Caye, Lighthouse Reef",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.197784416487327",
+      "lng": "-87.53489971160889"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "60d99eaa-9ddf-4963-8e72-764c30d1efb2",
+    "name": "Paradise Canyons",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.900464148601248",
+      "lng": "-87.95997619628908"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6180636b-0c9f-4727-b875-6a75cdd05955",
+    "name": "Baking Swash Reef",
+    "location": {
+      "country": "Belize",
+      "region": "Glover Reef, Belize",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.791558495141402",
+      "lng": "-87.8624725341797"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "624ba4b3-f38a-43ae-bf93-6fc6a62c8d21",
+    "name": "South Gallows Pt",
+    "location": {
+      "country": "Belize",
+      "region": "Belize, Central America",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.522927725208806",
+      "lng": "-88.04838180541994"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6451b580-7953-4b9d-ac5a-ec40aa79fd5d",
+    "name": "Catalan Rocks",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.98330485814682",
+      "lng": "-87.91131019592287"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "653eb703-adea-40be-a4f4-1efe222e81ef",
+    "name": "Bev&#039;s Garden",
+    "location": {
+      "country": "Belize",
+      "region": "Glover Reef, Belize",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.737153478177547",
+      "lng": "-87.78676986694336"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "66d004b4-aabf-473c-bc0c-4729f8320537",
+    "name": "Permit Paradise",
+    "location": {
+      "country": "Belize",
+      "region": "Turneffe Atoll, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.20622952145069",
+      "lng": "-87.9408359527588"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "67bff570-1f06-40bd-af6a-89870ea2d720",
+    "name": "Glory Reef",
+    "location": {
+      "country": "Belize",
+      "region": "Southern Long Cay, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea",
+        "Gulf Of Honduras"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.088947549026066",
+      "lng": "-88.01130294799806"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6a3e6d1a-cb26-491d-bb02-0f3ae9c590c4",
+    "name": "Gladden Reef",
+    "location": {
+      "country": "Belize",
+      "region": "Placencia Reefs, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.663821848100287",
+      "lng": "-88.07327270507812"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6bedc277-e58a-4e4d-b26f-7fa420c2272e",
+    "name": "The Elbow",
+    "location": {
+      "country": "Belize",
+      "region": "Turneffe Atoll, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.16211394886238",
+      "lng": "-87.90392875671388"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6ce08b06-ceae-4678-aa41-5e4937850de2",
+    "name": "Shark Shute",
+    "location": {
+      "country": "Belize",
+      "region": "Belize, Central America",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.405438128129116",
+      "lng": "-88.02825450897217"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6e6e331f-a0a6-4b74-b8da-d26650630a40",
+    "name": "Boca Chica Canyon",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.8679950529231",
+      "lng": "-87.97319412231445"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "752d1c58-312b-4c88-b5d8-6fda4f14e812",
+    "name": "Pescador Tunnels",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.943297923599122",
+      "lng": "-87.93216705322267"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "75689e4f-a067-4d1b-ad7b-b59f7a1ce504",
+    "name": "Long Caye Ridge",
+    "location": {
+      "country": "Belize",
+      "region": "Long Caye, Lighthouse Reef",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.205163655667473",
+      "lng": "-87.61648178100586"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "75ed7690-1b39-44e7-9e7e-e86844e43cc4",
+    "name": "West Wall",
+    "location": {
+      "country": "Belize",
+      "region": "Glover Reef, Belize",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.771672061161784",
+      "lng": "-87.87380218505861"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "77b96463-b03f-4c50-b48d-7c9eff5285c2",
+    "name": "Mata Cut",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.969915790561952",
+      "lng": "-87.91603088378908"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "78f0a0b9-82ad-4b25-a728-03a95e8a0fd4",
+    "name": "Turtle Canyons",
+    "location": {
+      "country": "Belize",
+      "region": "Belize, Central America",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.471316349593423",
+      "lng": "-87.98915863037111"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7e0de995-399c-4ed3-9a65-f6c4907e2594",
+    "name": "The Wreck",
+    "location": {
+      "country": "Belize",
+      "region": "Taledo, Belize",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea",
+        "Gulf Of Honduras"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.443988051131818",
+      "lng": "-88.21025848388673"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8043728b-d9c7-4f09-b659-45f2818bfb40",
+    "name": "Bacalar Chico",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.1833662882438",
+      "lng": "-87.83552169799806"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "809772ca-f3dc-47f3-995b-5794e5ec2713",
+    "name": "Shark Pit",
+    "location": {
+      "country": "Belize",
+      "region": "Stann Creek, Belize",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea",
+        "Gulf Of Honduras"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.91099752698602",
+      "lng": "-88.06039810180664"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8663fa4f-af36-4e9a-9c7b-9f922bb7e7b0",
+    "name": "Long Caye Lagoon",
+    "location": {
+      "country": "Belize",
+      "region": "Glover Reef, Belize",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.778246319224014",
+      "lng": "-87.77870178222658"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8953b450-147d-4d50-a4e8-6ae7cad21270",
+    "name": "Long Coco Split",
+    "location": {
+      "country": "Belize",
+      "region": "Taledo, Belize",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea",
+        "Gulf Of Honduras"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.455183241385583",
+      "lng": "-88.20613861083986"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "89ade8a5-e169-4f9b-ac2f-40321e568119",
+    "name": "Lefty&#039;s Ledge",
+    "location": {
+      "country": "Belize",
+      "region": "Turneffe Atoll, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.173676852409006",
+      "lng": "-87.89028167724611"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8f98ea5f-1174-4f2d-9da3-67736875ef2e",
+    "name": "Franco Canyon",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.137532244263205",
+      "lng": "-87.8225612640381"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9043e61e-5959-4124-b0c4-cf40724e5176",
+    "name": "Lounge",
+    "location": {
+      "country": "Belize",
+      "region": "Belize, Central America",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.45162426319327",
+      "lng": "-88.03735256195068"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "906a5c0a-3cda-4725-aee2-790a6ce56942",
+    "name": "Southwest Cut",
+    "location": {
+      "country": "Belize",
+      "region": "Lighthouse Reef, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.237054981087752",
+      "lng": "-87.57820129394533"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9448e77e-a5a1-46c0-9acb-d0aebe154ffd",
+    "name": "Coral Gardens",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.903608638609807",
+      "lng": "-87.95997619628908"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9456bcb4-692c-4ebd-96c8-d0d2f44eeee7",
+    "name": "Princess Palace",
+    "location": {
+      "country": "Belize",
+      "region": "Belize, Central America",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.39569168883826",
+      "lng": "-88.02885532379152"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "954094cb-d8ef-4df2-a191-b6ff3a384937",
+    "name": "Long Caye Wall",
+    "location": {
+      "country": "Belize",
+      "region": "Long Caye, Lighthouse Reef",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.218281576420406",
+      "lng": "-87.61025905609131"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "966c6516-d8d2-4ecd-b930-78d7db25f97e",
+    "name": "West Point Ii",
+    "location": {
+      "country": "Belize",
+      "region": "Lighthouse Reef, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.380129070408817",
+      "lng": "-87.58970260620117"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "98192835-0761-4c9d-825c-8a3f6f635e5d",
+    "name": "The Terrace",
+    "location": {
+      "country": "Belize",
+      "region": "Turneffe Atoll, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.49869914567877",
+      "lng": "-87.84170150756837"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9ba5eb3f-5531-411b-a1ae-3783942b31e5",
+    "name": "Site X",
+    "location": {
+      "country": "Belize",
+      "region": "Lighthouse Reef, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.17746949174218",
+      "lng": "-87.62579441070558"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9d91f6c4-3d64-4d10-a8bf-1f0563778073",
+    "name": "Cathedral Reef",
+    "location": {
+      "country": "Belize",
+      "region": "Long Caye, Lighthouse Reef",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.222052806415793",
+      "lng": "-87.60746955871582"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a1547278-1f6f-4a5e-84ef-2faf4745d671",
+    "name": "Half Moon Caye Wall",
+    "location": {
+      "country": "Belize",
+      "region": "Lighthouse Reef, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.204220769279647",
+      "lng": "-87.55017757415771"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a3333635-eab9-438e-9eed-abbeb513dadb",
+    "name": "Ises Bowl",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.16656730553004",
+      "lng": "-87.83114433288574"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a3374f53-bdf8-4f7b-8a10-645ed1784f30",
+    "name": "South Channel",
+    "location": {
+      "country": "Belize",
+      "region": "Caye Chapel, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.71909237688871",
+      "lng": "-88.0144786834717"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a839e5ed-9654-4de4-bb99-f9a02c8e96be",
+    "name": "Mexico Rocks",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.99277456110094",
+      "lng": "-87.90633201599123"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ac744b26-5ce5-4889-ada4-d6587199e6d0",
+    "name": "Inspiration",
+    "location": {
+      "country": "Belize",
+      "region": "Long Caye, Lighthouse Reef",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.17687497502935",
+      "lng": "-87.59124755859376"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ac96a9aa-9e1a-45ed-b0bd-de95059b63d7",
+    "name": "Amberhead",
+    "location": {
+      "country": "Belize",
+      "region": "Turneffe Atoll, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.565810925659484",
+      "lng": "-87.81303405761719"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "af5a9580-9796-41d4-ae8c-f5da20d2e922",
+    "name": "Calabash Caye",
+    "location": {
+      "country": "Belize",
+      "region": "Turneffe Atoll, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.27951354321308",
+      "lng": "-87.80625343322755"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b26dbecf-8eb2-4dfc-a0f4-c53e98ccced0",
+    "name": "Island Queen Canyons",
+    "location": {
+      "country": "Belize",
+      "region": "Caye Chapel, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.709117514866005",
+      "lng": "-87.99928665161133"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b40f2065-5807-48ff-9070-e1f59e70a851",
+    "name": "Tobacco Cut",
+    "location": {
+      "country": "Belize",
+      "region": "Stann Creek, Belize",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea",
+        "Gulf Of Honduras"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.883403464236842",
+      "lng": "-88.05868148803711"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b4d58dfa-6f98-40be-b934-a9095b2a24bb",
+    "name": "Entrada San Pedro Cut",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.88727301832647",
+      "lng": "-87.96461105346681"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b5b6b9d9-ea1a-4d37-a11e-bd20287b7b11",
+    "name": "Victoria Tunnels",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.8846591795428",
+      "lng": "-87.96615600585938"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b6e7b75b-6d63-472f-8a1e-5ad8ddf565de",
+    "name": "Lb Caye Drop Off",
+    "location": {
+      "country": "Belize",
+      "region": "Taledo, Belize",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea",
+        "Gulf Of Honduras"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.43213361652822",
+      "lng": "-88.19549560546875"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b70c8c72-0402-430c-9684-659ee863f5da",
+    "name": "North Wall",
+    "location": {
+      "country": "Belize",
+      "region": "Belize, Central America",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.45419545646274",
+      "lng": "-88.00323486328125"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b753acfd-ae6f-4d9d-a996-1825c3e110cd",
+    "name": "West Point I",
+    "location": {
+      "country": "Belize",
+      "region": "Lighthouse Reef, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.385699001729336",
+      "lng": "-87.58579730987549"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ba1b7284-d750-436f-af34-f1702eb5970a",
+    "name": "Boca Del Rio &amp; Statue",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.928109247721633",
+      "lng": "-87.94384002685547"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ba3488a0-ca74-498e-b709-7095d440369b",
+    "name": "Mexico Canyons",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.00763117403313",
+      "lng": "-87.8983497619629"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ba59f428-2702-4dbe-8bee-8748c7ba66c8",
+    "name": "Tortuga Canyons",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.099844725531508",
+      "lng": "-87.85174369812012"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bb3f3d44-eebd-4ebd-9acf-51756ae770f6",
+    "name": "Coral Garden",
+    "location": {
+      "country": "Belize",
+      "region": "Taledo, Belize",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea",
+        "Gulf Of Honduras"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.431475015612975",
+      "lng": "-88.22021484375"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bb657ef7-482b-4a67-85ea-a908545a292b",
+    "name": "Hol-Chan",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.84201550433567",
+      "lng": "-87.98229217529297"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bc1814f3-3a9e-4956-9c52-1b276c677afa",
+    "name": "Columbus Reef",
+    "location": {
+      "country": "Belize",
+      "region": "Columbus Cay, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea",
+        "Gulf Of Honduras"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.01214114973927",
+      "lng": "-88.01370620727539"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c2176ac9-2b9c-4a25-9c18-8578d0742ac2",
+    "name": "Dolphin Duo",
+    "location": {
+      "country": "Belize",
+      "region": "Hicks Cays, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.557955220846047",
+      "lng": "-88.04117202758789"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c39454af-7517-4ca4-9b7c-a532cba6a025",
+    "name": "Pillar Coral",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.877470924490204",
+      "lng": "-87.96958923339845"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c5ede789-0c83-44ba-a218-52f7c4bcef8d",
+    "name": "Eagle Ray Canyon",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.852636533039195",
+      "lng": "-87.97920227050783"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c7080a03-45f4-450b-8105-e3b375fa0452",
+    "name": "Punta Azul Canyons",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.0619859004758",
+      "lng": "-87.87594795227052"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c7999882-068d-4293-9e2a-cc3d27de8f27",
+    "name": "Triple Anchors",
+    "location": {
+      "country": "Belize",
+      "region": "Turneffe Atoll, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.23525150539053",
+      "lng": "-87.95156478881836"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c7a77650-38d2-481a-ab7b-acdb05f1a322",
+    "name": "Palmero Cut",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.02150709906189",
+      "lng": "-87.89225578308105"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c7aa732b-daac-4085-9f65-a54d244223e3",
+    "name": "Painted Wall",
+    "location": {
+      "country": "Belize",
+      "region": "Long Caye, Lighthouse Reef",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.22738158718772",
+      "lng": "-87.58712768554689"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c9cb0cae-bc1b-434c-8e4f-8852f8cd993f",
+    "name": "Palmero Canyon #2",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.034565794592055",
+      "lng": "-87.88744926452638"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cbb837f7-7180-40a2-a95d-dc8010c5decc",
+    "name": "Gladden Spit Whale Shark Dive",
+    "location": {
+      "country": "Belize",
+      "region": "Placencia Reefs, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.549328935473294",
+      "lng": "-88.0143928527832"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cea7c12c-b3ce-4c5d-8e1d-0f307f7a61f0",
+    "name": "Pescador Canyons",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.949013754336182",
+      "lng": "-87.92615890502931"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d082a6bf-7513-4afa-a5e2-ce4b96c0e5d7",
+    "name": "Punta Arena Canyons",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.96256770018998",
+      "lng": "-87.91791915893556"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d0a9d714-1067-4243-a100-1c5be8c5f762",
+    "name": "Dos Chicats",
+    "location": {
+      "country": "Belize",
+      "region": "Long Caye, Lighthouse Reef",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.196718502066876",
+      "lng": "-87.61978626251222"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d0d7dacb-8c94-44c3-b522-0a55f7f3e5cd",
+    "name": "Tres Cocos Canyons",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.922066078874785",
+      "lng": "-87.94727325439455"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d3e7901b-57f1-41e0-8f03-353571b849c1",
+    "name": "Colson Reef",
+    "location": {
+      "country": "Belize",
+      "region": "Southern Long Cay, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea",
+        "Gulf Of Honduras"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.12143304654029",
+      "lng": "-88.04014205932617"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "db33c10c-cccf-46f9-9817-ff51e4a3f3d0",
+    "name": "Split Reefs",
+    "location": {
+      "country": "Belize",
+      "region": "Glover Reef, Belize",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.826395820053207",
+      "lng": "-87.84942626953126"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dbb28d45-a2b7-4df3-a445-b6ce617e7acd",
+    "name": "Sandbox",
+    "location": {
+      "country": "Belize",
+      "region": "Lighthouse Reef, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.179581035687132",
+      "lng": "-87.62482881546022"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dc0f8bea-cd32-4a91-8230-e818888a3541",
+    "name": "Mexico Cut",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.98885612496181",
+      "lng": "-87.90864944458008"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ddc70fc2-df3e-4a60-b8f3-23c1d0a719da",
+    "name": "Pomplon Canyons",
+    "location": {
+      "country": "Belize",
+      "region": "Belize, Central America",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.32804703184379",
+      "lng": "-88.10829162597658"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "de345d56-27a5-49e3-ad74-127d98535a78",
+    "name": "Long Caye Wall",
+    "location": {
+      "country": "Belize",
+      "region": "Glover Reef, Belize",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.75030415272027",
+      "lng": "-87.75741577148439"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e00f7c30-ca1e-46b0-b2e1-762d03968ea2",
+    "name": "Stingray Motel",
+    "location": {
+      "country": "Belize",
+      "region": "Turneffe Atoll, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.31212949858968",
+      "lng": "-87.79749870300294"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e07ec2e2-171e-427c-9950-9fd70cbc2858",
+    "name": "Angelfish Wall",
+    "location": {
+      "country": "Belize",
+      "region": "Half Moon Caye, Lighthouse Reef",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.203113896520026",
+      "lng": "-87.54554271698"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e105df57-b49d-4870-92ca-aedf520c020e",
+    "name": "Palmero Canyon #1",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.026730693511876",
+      "lng": "-87.88968086242677"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e2eadddd-a93f-43f0-adc5-bcd958531d0c",
+    "name": "Lighthouse Wall",
+    "location": {
+      "country": "Belize",
+      "region": "Half Moon Caye, Lighthouse Reef",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.20106411466847",
+      "lng": "-87.5409507751465"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e80e92be-3b58-4a8b-a08d-645df5b8d8ea",
+    "name": "East Cut",
+    "location": {
+      "country": "Belize",
+      "region": "Long Caye, Lighthouse Reef",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.20303190568186",
+      "lng": "-87.57159233093263"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e879fa8b-8888-47cd-8fbc-98a13f3fd0e9",
+    "name": "Julies Jungle",
+    "location": {
+      "country": "Belize",
+      "region": "Long Caye, Lighthouse Reef",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.192290791861538",
+      "lng": "-87.62184619903566"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eb4dce8e-7f79-4731-ba51-714284f60289",
+    "name": "Mexico Tunnels",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.998815312961515",
+      "lng": "-87.90255546569826"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eb793162-951e-45cd-b05e-33c920873b82",
+    "name": "Myrtie&#039;s Turtles",
+    "location": {
+      "country": "Belize",
+      "region": "Turneffe Atoll, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.16539427843247",
+      "lng": "-87.8985643386841"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ec17737e-2824-413b-8422-a8081a55c88c",
+    "name": "Angel&#039;s Flats",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.01432440371545",
+      "lng": "-87.89895057678224"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "efa079be-25f3-4467-b11a-545f98467686",
+    "name": "Hole In The Wall",
+    "location": {
+      "country": "Belize",
+      "region": "Turneffe Atoll, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.538139891082924",
+      "lng": "-87.82663553953172"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "efcb2e6a-8310-49ce-a0d8-bc601f726f0c",
+    "name": "Blue Creek",
+    "location": {
+      "country": "Belize",
+      "region": "Turneffe Atoll, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.245416320077272",
+      "lng": "-87.9536247253418"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f1873a73-c35e-41b3-9013-234d100fb5ea",
+    "name": "Gorgonian Forest",
+    "location": {
+      "country": "Belize",
+      "region": "Lighthouse Reef, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.47381237699307",
+      "lng": "-87.4728012084961"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f227e880-a33f-47bc-8a50-579d10bc60f1",
+    "name": "Grouper Point",
+    "location": {
+      "country": "Belize",
+      "region": "Glover Reef, Belize",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.918223876072872",
+      "lng": "-87.70832061767578"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f2d79e3f-e205-4bee-991f-876920c12062",
+    "name": "White Hole",
+    "location": {
+      "country": "Belize",
+      "region": "Belize, Central America",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.43937807921944",
+      "lng": "-88.01799774169923"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f54ac487-0dbb-4ab3-9298-8e3cefa34874",
+    "name": "The Great Blue Hole",
+    "location": {
+      "country": "Belize",
+      "region": "Lighthouse Reef, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.315857838680053",
+      "lng": "-87.53498554229738"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f93b9395-820a-4898-811c-d8384aaedede",
+    "name": "Robles Canyon",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.104413341539512",
+      "lng": "-87.84633636474611"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fd5149ae-24f8-4b47-a31d-994ec1ee20c5",
+    "name": "Eagle Ray Wall",
+    "location": {
+      "country": "Belize",
+      "region": "Long Caye, Lighthouse Reef",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.230660760516002",
+      "lng": "-87.58232116699219"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fe0e3c3b-cb98-4fde-9c12-593175e7964d",
+    "name": "Basil Jones Cut",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.082384989092603",
+      "lng": "-87.86787986755373"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fe72b365-6a2c-4006-ae8a-7072ecd8f082",
+    "name": "Sand Bar",
+    "location": {
+      "country": "Belize",
+      "region": "Ambergris Caye, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.875347066185185",
+      "lng": "-87.97113418579102"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fea0ca89-14e0-4332-8f73-2c6b72f928d3",
+    "name": "Black Beauty",
+    "location": {
+      "country": "Belize",
+      "region": "Turneffe Atoll, Belize District",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.16875655603745",
+      "lng": "-87.89590358734132"
+    },
+    "additionalInfo": {}
+  }
+]

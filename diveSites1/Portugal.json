@@ -1,0 +1,4144 @@
+[
+  {
+    "id": "011bcf4e-edec-4c27-9dd5-573253db8d95",
+    "name": "Caneiro Dos Meros",
+    "location": {
+      "country": "Portugal",
+      "region": "Corvo, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.665970875883204",
+      "lng": "-31.116027832031254"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "02f075df-423d-416b-9d9c-0d956747ffec",
+    "name": "Cabeco Do Levante",
+    "location": {
+      "country": "Portugal",
+      "region": "Faro, Algarve",
+      "ocean": [
+        "Atlantic Ocean",
+        "Strait Of Gibraltar"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.95750518309036",
+      "lng": "-7.962684631347657"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0438fff9-08e3-472a-a9f7-4360184d6a92",
+    "name": "Furnas Do Monte Da Guia",
+    "location": {
+      "country": "Portugal",
+      "region": "Faial, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.51244506824615",
+      "lng": "-28.636894226074222"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "04ac644e-e020-4b9f-8097-49d5985dbdfc",
+    "name": "Porto S Fernando",
+    "location": {
+      "country": "Portugal",
+      "region": "Terceira, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.67515775092964",
+      "lng": "-27.060999870300297"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "05fc9cbf-49c0-48e1-9ee4-eb8e37c8152e",
+    "name": "Parede Do Sardinha",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.73779025193679",
+      "lng": "-16.683254241943363"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "08097637-c862-47b0-8d87-0756fc0d2520",
+    "name": "Ilhéu Negro",
+    "location": {
+      "country": "Portugal",
+      "region": "Faial, Azores",
+      "ocean": [
+        "Europe",
+        "Portugal",
+        "Azores",
+        "Faial"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.52050383994788",
+      "lng": "-28.63200187683106"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "090efc7d-ea4c-4dce-96dc-8014589256e4",
+    "name": "Pedra Da Lagoa",
+    "location": {
+      "country": "Portugal",
+      "region": "Fonte Da Telha, Almada",
+      "ocean": [
+        "Europe",
+        "Portugal",
+        "Almada",
+        "Fonte Da Telha"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.50465406475561",
+      "lng": "-9.227657318115236"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0a4e8bd1-5615-49f1-a111-248ec31d5840",
+    "name": "Fumarolas",
+    "location": {
+      "country": "Portugal",
+      "region": "Foz De Arelho, Caldas Da Rainha",
+      "ocean": [
+        "Europe",
+        "Portugal",
+        "Estremadura",
+        "Caldas Da Rainha",
+        "Foz De Arelho"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.445738080447484",
+      "lng": "-9.24430847167969"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0cdf6698-9215-4edd-9c64-4b948572d78f",
+    "name": "Arcadas De São Roque",
+    "location": {
+      "country": "Portugal",
+      "region": "Pico, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.548165423046584",
+      "lng": "-28.34609985351563"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0dc6728b-6d3e-4458-8ee8-a1dec82f13ad",
+    "name": "Pedra Anixa",
+    "location": {
+      "country": "Portugal",
+      "region": "Setubal, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.475766267533196",
+      "lng": "-8.971195220947267"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0f518c0d-92bb-419a-8f49-41b1aedc3b38",
+    "name": "Cabeco Dos Robalos",
+    "location": {
+      "country": "Portugal",
+      "region": "Faro, Algarve",
+      "ocean": [
+        "Atlantic Ocean",
+        "Strait Of Gibraltar"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.988293947445975",
+      "lng": "-7.983198165893556"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "109f6bb2-3a31-4edd-86d2-0907da6798b6",
+    "name": "Ocean Revival",
+    "location": {
+      "country": "Portugal",
+      "region": "Lagos, Algarve",
+      "ocean": [
+        "Europe",
+        "Portugal",
+        "Algarve",
+        "Lagos"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.10516392042412",
+      "lng": "-8.601264953613283"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "11eeabdc-0b7c-418b-8a48-b81298bce46d",
+    "name": "Dori",
+    "location": {
+      "country": "Portugal",
+      "region": "São Miguel, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.73909154437981",
+      "lng": "-25.568103790283207"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "13250c0e-912b-497c-9442-714bb2acb7e1",
+    "name": "Ilheu Da Vila Este",
+    "location": {
+      "country": "Portugal",
+      "region": "São Miguel, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.70568929943698",
+      "lng": "-25.440044403076175"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1398a93e-0d26-46f4-b37e-16e6379fe87c",
+    "name": "Furnas De Santo António",
+    "location": {
+      "country": "Portugal",
+      "region": "Pico, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.52668162061619",
+      "lng": "-28.298034667968754"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "14ee8f90-7c9f-4b8b-a069-d438407fe8d9",
+    "name": "Baixa Do Paulos",
+    "location": {
+      "country": "Portugal",
+      "region": "São Miguel, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.70922032983511",
+      "lng": "-25.517807006835938"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "16b48125-16bf-48b7-954f-ad468757b15e",
+    "name": "Aquarium 2",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.6414809354594",
+      "lng": "-16.8300536345825"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "17eae775-4e01-4103-b00b-f2ec9b3c5ef1",
+    "name": "Cela Wall Reef",
+    "location": {
+      "country": "Portugal",
+      "region": "Algarve, Portugal",
+      "ocean": [
+        "Atlantic Ocean",
+        "Strait Of Gibraltar"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.05079312980657",
+      "lng": "-8.314590454101564"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1a0e127a-119e-4573-ab47-b95a7486e5ce",
+    "name": "Ilhéu Do Garajau",
+    "location": {
+      "country": "Portugal",
+      "region": "Flores, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.479135562507636",
+      "lng": "-31.14555358886719"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1a73df35-6309-4470-a967-28acedb51258",
+    "name": "U-1277",
+    "location": {
+      "country": "Portugal",
+      "region": "Porto, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "41.22330662730586",
+      "lng": "-8.728292268002965"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1b3ff5ee-10e7-4054-91bc-1ff0562e1c44",
+    "name": "Baixa Do Espadim",
+    "location": {
+      "country": "Portugal",
+      "region": "Flores, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.48483273850575",
+      "lng": "-31.26520156860352"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1b69ab10-34d1-4134-b55e-d32eb64f80a1",
+    "name": "Charneca",
+    "location": {
+      "country": "Portugal",
+      "region": "Porto, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "41.17141822171995",
+      "lng": "-8.707351684570314"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1c001cc3-6ff6-48f8-b1de-252c70bdf7d1",
+    "name": "Baixa De Meio",
+    "location": {
+      "country": "Portugal",
+      "region": "São Miguel, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.826056694926535",
+      "lng": "-25.131225585937504"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1c3c0e1a-e962-41b1-83f4-50282e5fa7b1",
+    "name": "Bidart",
+    "location": {
+      "country": "Portugal",
+      "region": "Flores, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.44838845493446",
+      "lng": "-31.266627986557516"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1cfb361a-8bd4-4916-a66b-5a65fe5d4800",
+    "name": "Arcos Da Formosinha",
+    "location": {
+      "country": "Portugal",
+      "region": "Pico, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.55246141354153",
+      "lng": "-28.531494140625004"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2155612a-d5ba-44be-81e7-13e58c43638f",
+    "name": "Baixa Da Ponta Do Marco",
+    "location": {
+      "country": "Portugal",
+      "region": "Corvo, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.72514480984419",
+      "lng": "-31.13182067871094"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "218a3c15-045b-4749-80f5-66e563a0bd8e",
+    "name": "Ilheu Chao",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.586742131039614",
+      "lng": "-16.555881500244144"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "22178a52-4cef-438c-8ee6-bbf1c5563a9f",
+    "name": "Blue Hole",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.6431358294057",
+      "lng": "-16.8249709281921"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "221a9bd2-3b01-4aa0-9f88-04d82281deb5",
+    "name": "Baleeira",
+    "location": {
+      "country": "Portugal",
+      "region": "Sesimbra, Setubal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.414879263426805",
+      "lng": "-9.188153743743898"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "223e9e92-146b-4972-a686-92e9240dc533",
+    "name": "Maria",
+    "location": {
+      "country": "Portugal",
+      "region": "Sesimbra, Setubal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.433690309540246",
+      "lng": "-9.109039306640627"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "23d3f702-0d78-45e7-8535-d3ad14913578",
+    "name": "Gruta Dos Camarões",
+    "location": {
+      "country": "Portugal",
+      "region": "Faial, Azores",
+      "ocean": [
+        "Europe",
+        "Portugal",
+        "Azores",
+        "Faial"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.516894293334495",
+      "lng": "-28.630392551422123"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "24360406-b128-4c79-8447-99109446bdf8",
+    "name": "Afonso Cerqueria F488",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.64963257080718",
+      "lng": "-17.003488540649418"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "24b3a547-ec90-43e1-8a41-53295f28bc82",
+    "name": "Baixa Da Maia",
+    "location": {
+      "country": "Portugal",
+      "region": "Santa Maria, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.94001381436853",
+      "lng": "-25.00522613525391"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "25beddbd-b6ec-425f-9ef3-d5a28abbc392",
+    "name": "Baixa Da Penedia",
+    "location": {
+      "country": "Portugal",
+      "region": "Santa Maria, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.958671131530316",
+      "lng": "-25.01071929931641"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "26e7eb9e-8809-435c-b9af-233bc555432c",
+    "name": "Cathedral (Cave)",
+    "location": {
+      "country": "Portugal",
+      "region": "Sagres, Algarve",
+      "ocean": [
+        "Europe",
+        "Portugal",
+        "Algarve",
+        "Sagres"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.008070355226806",
+      "lng": "-8.925468921661379"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "272fd755-1ce7-4549-a88d-4cc436c60829",
+    "name": "Baixa Da Barca",
+    "location": {
+      "country": "Portugal",
+      "region": "Faial, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.59218715603345",
+      "lng": "-28.558959960937504"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "28601215-974e-4027-8e82-3a7c9d5a8e7f",
+    "name": "Jardim Das Gorgonias",
+    "location": {
+      "country": "Portugal",
+      "region": "Sesimbra, Setubal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.43570728902624",
+      "lng": "-9.061403274536135"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "299efde8-e841-4d02-ae90-8d8754de839e",
+    "name": "Gruta Funda",
+    "location": {
+      "country": "Portugal",
+      "region": "Santa Maria, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.019275845171336",
+      "lng": "-25.0927734375"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "29af89bd-de51-489a-a7a3-12493e1efbab",
+    "name": "Balanciais Reef",
+    "location": {
+      "country": "Portugal",
+      "region": "Algarve, Portugal",
+      "ocean": [
+        "Atlantic Ocean",
+        "Strait Of Gibraltar"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.0373656253274",
+      "lng": "-8.151855468750002"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2b548448-0da3-439b-9ecd-b91f52422ec3",
+    "name": "Ilhéu De Porto Moniz",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.877442714879",
+      "lng": "-17.179291248321537"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2c50474a-d168-4cba-8307-5cfb4effe519",
+    "name": "Gruta",
+    "location": {
+      "country": "Portugal",
+      "region": "Porto Santo, Madeira",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "33.05198276371441",
+      "lng": "-16.276459693908695"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2d36430a-cbc5-4f41-a767-82745a0ad4fe",
+    "name": "Ilheu Furado",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.7546537042715",
+      "lng": "-16.733636856079105"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2de482f7-ccea-4693-bf37-0c477176db3c",
+    "name": "Rabo De Asno",
+    "location": {
+      "country": "Portugal",
+      "region": "Berlengas, Peniche",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.475688712742674",
+      "lng": "-9.54701070071511"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2fac0dc1-4f5f-46e9-b931-ec6bac8d0009",
+    "name": "Cordeca",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "33.048097851560655",
+      "lng": "-16.307229995727543"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2fcca7b5-a06b-40b1-94ce-b979848650c4",
+    "name": "3 Milhas",
+    "location": {
+      "country": "Portugal",
+      "region": "Sesimbra, Setubal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.42649595716835",
+      "lng": "-9.17113780975342"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "300a67d8-0664-41d6-8bba-828171e21809",
+    "name": "Pedra Das Âncoras",
+    "location": {
+      "country": "Portugal",
+      "region": "Sesimbra, Setubal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.418762910161156",
+      "lng": "-9.173240661621096"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "31b88ae7-ace5-4884-9171-a1dccf718514",
+    "name": "Ilhéu Do Topo - Norte",
+    "location": {
+      "country": "Portugal",
+      "region": "São Jorge, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.559441850632474",
+      "lng": "-27.763137817382816"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "32ac4d10-35ad-4482-8c89-fd2a60052389",
+    "name": "Corais De São Caetano",
+    "location": {
+      "country": "Portugal",
+      "region": "Pico, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.415938460513274",
+      "lng": "-28.413391113281254"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "331b509c-f420-4637-b8e9-2e86fbb54bba",
+    "name": "Piquinho",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.7321455581384",
+      "lng": "-16.673641204833988"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "33fce040-86d1-4c2c-98cd-62281ef6d2c7",
+    "name": "Baixa Dos Badejos",
+    "location": {
+      "country": "Portugal",
+      "region": "Santa Maria, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.96306042436515",
+      "lng": "-25.003509521484375"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3569839f-3296-42a7-86c7-f25dc4b56647",
+    "name": "Pedra Do Leao",
+    "location": {
+      "country": "Portugal",
+      "region": "Sesimbra, Setubal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.433421374684826",
+      "lng": "-9.06801223754883"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "35d1a460-ad27-4288-9834-fec56a079ad3",
+    "name": "Radares",
+    "location": {
+      "country": "Portugal",
+      "region": "Faial, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.51738117297301",
+      "lng": "-28.619341850280765"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "373e0f75-b01d-490c-ac00-5a28d7174dd1",
+    "name": "Cave",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.6407838827398",
+      "lng": "-16.8309451055298"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "37ad37cc-b0b6-4eba-bc3b-feaf70307d0c",
+    "name": "Baixa Dos Espalhafatos",
+    "location": {
+      "country": "Portugal",
+      "region": "Faial, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.59139292394411",
+      "lng": "-28.58402252197266"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3a17a31c-f85f-4bc1-bee6-a8d05101b473",
+    "name": "Pedra Nova",
+    "location": {
+      "country": "Portugal",
+      "region": "Quarteira, Algarve",
+      "ocean": [
+        "Atlantic Ocean",
+        "Strait Of Gibraltar"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.04366862728267",
+      "lng": "-8.09846878051758"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3acf1bb1-4703-43f6-bc7e-01c07896ad20",
+    "name": "Baixa Do Ferreiro De Fora",
+    "location": {
+      "country": "Portugal",
+      "region": "Graciosa, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.089301380536796",
+      "lng": "-27.999000549316406"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3dc6d297-3c8b-4b1b-9eaf-6cc2ab0d6bba",
+    "name": "Gamela",
+    "location": {
+      "country": "Portugal",
+      "region": "Corvo, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.665970875883204",
+      "lng": "-31.09714508056641"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3de5a6de-f736-4eff-b459-40122e1f7a0e",
+    "name": "D. Joao De Castro",
+    "location": {
+      "country": "Portugal",
+      "region": "São Miguel, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.968560758280454",
+      "lng": "-25.92155456542969"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3f37e63b-1c30-4cd1-bb66-edc9cae7662e",
+    "name": "Ilhéu Da Gaivota",
+    "location": {
+      "country": "Portugal",
+      "region": "Graciosa, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.00611224503651",
+      "lng": "-27.94509887695313"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3f50a826-f2f2-4519-b37c-4d1d3c45e60d",
+    "name": "Arcos Do Hotel",
+    "location": {
+      "country": "Portugal",
+      "region": "São Miguel, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.706911598228466",
+      "lng": "-25.51506042480469"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "40b182ad-c85b-4013-ba38-23cd222320b4",
+    "name": "Gruta Dos Corais",
+    "location": {
+      "country": "Portugal",
+      "region": "São Jorge, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.671036631639495",
+      "lng": "-28.232803344726562"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "412f78ce-01a4-4dc1-9f39-5b883bfdfa93",
+    "name": "Ancoras",
+    "location": {
+      "country": "Portugal",
+      "region": "São Miguel, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.71003515911252",
+      "lng": "-25.435066223144535"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4191b696-2c5f-4b1d-838a-601fce50f0d0",
+    "name": "Banco João Lopes",
+    "location": {
+      "country": "Portugal",
+      "region": "Santa Maria, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.02695082352951",
+      "lng": "-25.183753967285156"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "41c3e730-7106-4388-bd5e-d04ca0a6d4fe",
+    "name": "Baixa Da Vila Nova",
+    "location": {
+      "country": "Portugal",
+      "region": "Terceira, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.791021386961596",
+      "lng": "-27.125930786132816"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "41c4ea70-dcf1-4960-b2c2-19a6fa32051f",
+    "name": "Baixa Do Meio",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "33.11239265426803",
+      "lng": "-16.274528503417972"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "42003fcd-f9b5-4e70-a59a-f1f1d603bec1",
+    "name": "Cinco Ribeiras",
+    "location": {
+      "country": "Portugal",
+      "region": "Terceira, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.67371706140247",
+      "lng": "-27.328491210937504"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "42fa82f4-9e05-4312-87fc-039d6c906a82",
+    "name": "Sibil",
+    "location": {
+      "country": "Portugal",
+      "region": "Pico, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.403312714453975",
+      "lng": "-28.258595466613773"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4308c788-6480-421f-b985-ef208b03f949",
+    "name": "Rodelha",
+    "location": {
+      "country": "Portugal",
+      "region": "Porto, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "41.25651685610346",
+      "lng": "-8.733272552490236"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "431f8652-9834-4a7d-9053-d6294f9fdbfd",
+    "name": "Catedral",
+    "location": {
+      "country": "Portugal",
+      "region": "Flores, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.45687235512798",
+      "lng": "-31.12289428710938"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "43c47ae7-6235-4d2f-8da8-ec1c6aa08fbe",
+    "name": "Ponta Da Calheta",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "33.02320156991664",
+      "lng": "-16.38147354125977"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "45993600-ad1b-4f3f-81b8-af45985e8969",
+    "name": "Moldinho",
+    "location": {
+      "country": "Portugal",
+      "region": "Corvo, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.72065570993537",
+      "lng": "-31.084098815917972"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4734550a-cd11-49b8-af46-1fd896772cb5",
+    "name": "Garajau Wall",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.6361775127413",
+      "lng": "-16.8499213040466"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "47619cbd-47f0-411d-b60e-a70665abcc35",
+    "name": "Rocha Grande",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.6411983324684",
+      "lng": "-16.8301535552368"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "48f16c5f-cb48-4706-8d56-d778b59bf82d",
+    "name": "Papadiamandis Bow",
+    "location": {
+      "country": "Portugal",
+      "region": "Flores, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.453110986374476",
+      "lng": "-31.27001395892154"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4a9cf127-bc97-487f-8bd1-d53469960d16",
+    "name": "Barra Velha",
+    "location": {
+      "country": "Portugal",
+      "region": "Faro, Algarve",
+      "ocean": [
+        "Atlantic Ocean",
+        "Strait Of Gibraltar"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.952498260401576",
+      "lng": "-7.947406768798829"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4bc4275b-2070-4954-98d6-f32baf984d3a",
+    "name": "Ilheu Da Vila Oeste",
+    "location": {
+      "country": "Portugal",
+      "region": "São Miguel, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.70609673460725",
+      "lng": "-25.446567535400394"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4c4e6a61-85b2-4008-98a3-e3daa64330fc",
+    "name": "Arraia Reef",
+    "location": {
+      "country": "Portugal",
+      "region": "Terceira, Azores",
+      "ocean": [
+        "Europe",
+        "Portugal",
+        "Azores",
+        "Terceira"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.65590707466633",
+      "lng": "-27.2356653213501"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4d426cc7-42d4-4fae-8262-67e34be91333",
+    "name": "Baía De Entremontes",
+    "location": {
+      "country": "Portugal",
+      "region": "Faial, Azores",
+      "ocean": [
+        "Europe",
+        "Portugal",
+        "Azores",
+        "Faial"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.52372709602293",
+      "lng": "-28.62298965454102"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4fdd0efd-a7fb-4371-ab70-c4dc6aea7970",
+    "name": "Ilhéu Das Lagoínhas",
+    "location": {
+      "country": "Portugal",
+      "region": "Santa Maria, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.01872760276202",
+      "lng": "-25.084533691406254"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "50704bdd-6694-4fbe-9320-bba216524eef",
+    "name": "Baixa Do Ouro",
+    "location": {
+      "country": "Portugal",
+      "region": "São Miguel, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.7111215842122",
+      "lng": "-25.520381927490238"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "50c71957-d7e2-4b4b-86ac-10ea5a48a1a1",
+    "name": "Cabeco De Poio",
+    "location": {
+      "country": "Portugal",
+      "region": "Porto Santo, Madeira",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "33.050831696499806",
+      "lng": "-16.280021667480472"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5196f31a-ab29-487c-961b-b40c4239a278",
+    "name": "Arcanzil",
+    "location": {
+      "country": "Portugal",
+      "region": "Sesimbra, Setubal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.40877596819641",
+      "lng": "-9.195728302001955"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "51e3bffa-a62f-4ffe-9fd9-59028b83d04f",
+    "name": "Lidador",
+    "location": {
+      "country": "Portugal",
+      "region": "Terceira, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.64529939983218",
+      "lng": "-27.215881347656254"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "536c8eed-29ad-4739-a8ce-7bbc6d0eef07",
+    "name": "Kbcr",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.739638336131854",
+      "lng": "-16.711664199829105"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "546d144c-5850-4274-bbfd-fd3274c94575",
+    "name": "Dollabarat",
+    "location": {
+      "country": "Portugal",
+      "region": "São Miguel, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.67132087507",
+      "lng": "-25.3948974609375"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "54fdbeee-9a32-4fae-937d-e1ddeff61517",
+    "name": "Ancoras",
+    "location": {
+      "country": "Portugal",
+      "region": "Porto Santo, Madeira",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "33.05363739647358",
+      "lng": "-16.28602981567383"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "556182c6-897a-4f85-a6c7-14f4dc37dd64",
+    "name": "Canhões De Entre Montes",
+    "location": {
+      "country": "Portugal",
+      "region": "Faial, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.51459416224261",
+      "lng": "-28.609085083007812"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "562d4f12-47fa-428e-a5b6-ab8012423864",
+    "name": "Cais Do Funchal",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.63012300670739",
+      "lng": "-16.930704116821293"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "56e63ae7-95a8-48fc-be86-d5218009defb",
+    "name": "Veronese",
+    "location": {
+      "country": "Portugal",
+      "region": "Porto, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "41.20319788402477",
+      "lng": "-8.721771240234377"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "571e600e-cc3c-40f0-95a5-ac94afd2a025",
+    "name": "Forte Da Baralha",
+    "location": {
+      "country": "Portugal",
+      "region": "Sesimbra, Setubal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.41149981653984",
+      "lng": "-9.189205169677736"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "576ef8d5-79eb-43de-8316-feaa0fa30a67",
+    "name": "Baixa Do Terceirense",
+    "location": {
+      "country": "Portugal",
+      "region": "Graciosa, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.00611224503651",
+      "lng": "-27.93308258056641"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "57ef032f-60f8-48f3-9dde-fe6f7019e25f",
+    "name": "Tres Marias",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.7168597996661",
+      "lng": "-16.7568299302979"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "58642fcd-0be6-4216-8b2c-3f6af1a7a155",
+    "name": "Parede Do Cevada",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.73481791958952",
+      "lng": "-16.677417755126956"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "58e8246b-23c6-4c50-98bc-9b5bacc28152",
+    "name": "Catrapona",
+    "location": {
+      "country": "Portugal",
+      "region": "Sesimbra, Setubal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.4077001221813",
+      "lng": "-9.28125858306885"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5995b252-b9f0-4ec8-aebf-542c9040d9b3",
+    "name": "Mamas",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.6405341909693",
+      "lng": "-16.8669475977173"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5a31a80c-c8bb-492e-8eab-628b5f5e7f2d",
+    "name": "Banco D. João De Castro",
+    "location": {
+      "country": "Portugal",
+      "region": "Azores, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.41271038284709",
+      "lng": "-26.367187500000004"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5baa6bf9-70ed-4ccf-af80-9f4c2a5c51fc",
+    "name": "Pedra Da Greta",
+    "location": {
+      "country": "Portugal",
+      "region": "Faro, Algarve",
+      "ocean": [
+        "Atlantic Ocean",
+        "Strait Of Gibraltar"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.98061506528613",
+      "lng": "-7.9720401763916025"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5d4c9ed0-7724-4e25-b797-6eb966ffdf27",
+    "name": "Pontão 16",
+    "location": {
+      "country": "Portugal",
+      "region": "Faial, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.543063600957204",
+      "lng": "-28.59397888183594"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "62bfdf37-7262-4d39-b1a3-f9afb1d73fd0",
+    "name": "Baixa Da Papoa",
+    "location": {
+      "country": "Portugal",
+      "region": "Peniche, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.37750024525103",
+      "lng": "-9.379640989720536"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "633d7eff-9fb0-43f7-a877-45e6dddf53ae",
+    "name": "River Gurara",
+    "location": {
+      "country": "Portugal",
+      "region": "Sesimbra, Setubal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.406859124482786",
+      "lng": "-9.223666191101076"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "65678930-ff41-432b-9c8b-928c0603f284",
+    "name": "Portimão - Castelo Neptuno",
+    "location": {
+      "country": "Portugal",
+      "region": "Portimão, Algarve",
+      "ocean": [
+        "Europe",
+        "Portugal",
+        "Algarve",
+        "Portimão"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.10598534610459",
+      "lng": "-8.583240509033205"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6697d1f2-ad6c-4a1c-8110-c6f33caba6cc",
+    "name": "Cachorro",
+    "location": {
+      "country": "Portugal",
+      "region": "Pico, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.564274063847826",
+      "lng": "-28.46145629882813"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "66b5ac22-5f60-4614-bcef-d37aa9a965d5",
+    "name": "Berlengas",
+    "location": {
+      "country": "Portugal",
+      "region": "Berlengas, Peniche",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.41192669773174",
+      "lng": "-9.505748748779297"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "678dd8f9-5abf-4023-aabe-017f1c2bf34f",
+    "name": "Pedra Santa Eulalia",
+    "location": {
+      "country": "Portugal",
+      "region": "Algarve, Portugal",
+      "ocean": [
+        "Atlantic Ocean",
+        "Strait Of Gibraltar"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.07435402742394",
+      "lng": "-8.182067871093752"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "67e37add-d29e-4ee3-b471-8712245d8681",
+    "name": "Olo",
+    "location": {
+      "country": "Portugal",
+      "region": "Porto, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "41.17896082801611",
+      "lng": "-8.712995052337648"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "682bd315-9148-4f81-af35-bfe62918e959",
+    "name": "Arco Da Badajeira",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.72869007255877",
+      "lng": "-16.6482009892934"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "69b33953-0a43-441c-b26a-25396fdfbc55",
+    "name": "Deserta Bay",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.509761735919426",
+      "lng": "-16.509404182434086"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6b1fa770-fedc-49d8-90f2-229cfbcad4ac",
+    "name": "Lourencos",
+    "location": {
+      "country": "Portugal",
+      "region": "São Miguel, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.87376937332855",
+      "lng": "-25.85014343261719"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6d401c00-5864-4d58-9f56-d879491063fe",
+    "name": "Gruta Do Pombo",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.739287397327004",
+      "lng": "-16.704454421997074"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6e348e16-6cec-4e45-9aac-b0421870dc65",
+    "name": "Fradinhos",
+    "location": {
+      "country": "Portugal",
+      "region": "Terceira, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.638863646894485",
+      "lng": "-27.102584838867188"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6e3c445e-b8b0-4ea7-b6db-ea5eb85d24f5",
+    "name": "Baixa Dos Rosais",
+    "location": {
+      "country": "Portugal",
+      "region": "São Jorge, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.7594378103966",
+      "lng": "-28.32481384277344"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6e5aa55c-e23d-47bc-824b-5745fac5f7c4",
+    "name": "Canyon Reef",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.6426370770345",
+      "lng": "-16.8276830366821"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "703bb667-9f9e-40b5-a557-b21e3adc9a7d",
+    "name": "Moray&#039;s Wall",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.6410695767248",
+      "lng": "-16.829276359436"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "72c07f12-5800-4980-a046-631877efb591",
+    "name": "Calheta Do Lagador",
+    "location": {
+      "country": "Portugal",
+      "region": "Terceira, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.80814561210589",
+      "lng": "-27.21519470214844"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "73a71971-5e6f-4dc8-aa45-42c99f8506c7",
+    "name": "Barracuda Point",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.733431542029116",
+      "lng": "-16.648921966552738"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "742a8845-0fd9-4c08-95ab-9717591dfbf8",
+    "name": "Vila Do Porto",
+    "location": {
+      "country": "Portugal",
+      "region": "Porto, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "41.18257838664853",
+      "lng": "-8.713853359222414"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "75cdeda8-452c-4700-93cf-c601b4943c9c",
+    "name": "Pombalim",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "33.02751934835437",
+      "lng": "-16.386022567749027"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "76947f64-312f-4e1d-8a00-8f0bc7498a61",
+    "name": "Madeirense",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "33.04140676777294",
+      "lng": "-16.30182266235352"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "778419a3-5365-4866-bd76-9e58f7028922",
+    "name": "Primavera",
+    "location": {
+      "country": "Portugal",
+      "region": "Berlengas, Peniche",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.411297706011595",
+      "lng": "-9.507744312286379"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "77cab10b-b585-4f81-b5dd-5c9daca0dfc1",
+    "name": "Farol",
+    "location": {
+      "country": "Portugal",
+      "region": "Nazaré, Estremadura",
+      "ocean": [
+        "Europe",
+        "Portugal",
+        "Estremadura",
+        "Nazaré"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.60377043250796",
+      "lng": "-9.08376216888428"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "780ebf91-9a40-4663-81ca-eb770f58efe9",
+    "name": "Banco 70",
+    "location": {
+      "country": "Portugal",
+      "region": "São Miguel, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.68409203051546",
+      "lng": "-25.411033630371094"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "78d1ac9f-62bb-48af-b670-da123a20fcdf",
+    "name": "Baía De Entre Montes",
+    "location": {
+      "country": "Portugal",
+      "region": "Faial, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.519698003374614",
+      "lng": "-28.615608215332035"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7a39a837-c049-40a8-921e-82929c43d3c1",
+    "name": "Furada",
+    "location": {
+      "country": "Portugal",
+      "region": "Pico, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.45849524114421",
+      "lng": "-28.153367042541507"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7a49116e-1c88-49d8-a26f-7129a01f834b",
+    "name": "Mar De Pedra",
+    "location": {
+      "country": "Portugal",
+      "region": "Faro, Algarve",
+      "ocean": [
+        "Atlantic Ocean",
+        "Strait Of Gibraltar"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.00693943418589",
+      "lng": "-8.007917404174806"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7b646463-eb93-4186-81d6-8fde43d7456e",
+    "name": "Cebecos De Ilheu A",
+    "location": {
+      "country": "Portugal",
+      "region": "São Miguel, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.699170032110366",
+      "lng": "-25.43918609619141"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7bc7ed74-a5d6-4f8e-a2c0-f559dddaf342",
+    "name": "Ilhéus Das Formigas",
+    "location": {
+      "country": "Portugal",
+      "region": "Azores, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.36579146999664",
+      "lng": "-23.994140625000004"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7c39c3ab-1af1-4592-bc2c-4cd9a9b35eac",
+    "name": "Roteiro Arqueologico",
+    "location": {
+      "country": "Portugal",
+      "region": "Faro, Algarve",
+      "ocean": [
+        "Atlantic Ocean",
+        "Strait Of Gibraltar"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.96594076027742",
+      "lng": "-7.958307266235352"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7d1bfc6c-845b-4da3-b92a-8b183d6978dc",
+    "name": "Pedra Do Sol",
+    "location": {
+      "country": "Portugal",
+      "region": "Porto Santo, Madeira",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "33.05601138046801",
+      "lng": "-16.289463043212894"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7e6bbbc4-2aed-4a14-980f-ca7c84501cc4",
+    "name": "Calçada Do Gigante",
+    "location": {
+      "country": "Portugal",
+      "region": "Santa Maria, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.971906823716964",
+      "lng": "-25.195169448852543"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7f44f3ce-0870-424f-be57-b7ef23272420",
+    "name": "Ilhéu Da Urzelina",
+    "location": {
+      "country": "Portugal",
+      "region": "São Jorge, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.65334327823747",
+      "lng": "-28.179244995117188"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "82db7240-176b-4260-9caa-bb3ac0979008",
+    "name": "Galo",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.638441359044066",
+      "lng": "-16.860923767089847"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "83fd50d9-5bdb-475e-ae94-74a5e5ed3557",
+    "name": "Ilheu Da Madalena",
+    "location": {
+      "country": "Portugal",
+      "region": "Azores, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.53766256084076",
+      "lng": "-28.546643257141117"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "84c22c8e-948b-4f01-85da-45a4f63acafb",
+    "name": "Baixa Do Farol",
+    "location": {
+      "country": "Portugal",
+      "region": "Graciosa, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.09036727174612",
+      "lng": "-28.05564880371094"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "85f71ea3-821a-442c-aadb-2b5bc35226f4",
+    "name": "Ipimar",
+    "location": {
+      "country": "Portugal",
+      "region": "Faro, Algarve",
+      "ocean": [
+        "Atlantic Ocean",
+        "Strait Of Gibraltar"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.97320969489976",
+      "lng": "-7.979421615600587"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8b7c4068-e77a-4a4d-be72-bdc3330bae8a",
+    "name": "Mareta",
+    "location": {
+      "country": "Portugal",
+      "region": "Sagres, Algarve",
+      "ocean": [
+        "Europe",
+        "Portugal",
+        "Algarve",
+        "Sagres"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.00164444370557",
+      "lng": "-8.931605815887453"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8befb532-8a7b-4299-8da3-72a003729b68",
+    "name": "Gruta Dos Camaroes",
+    "location": {
+      "country": "Portugal",
+      "region": "Santa Maria, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.92877949438425",
+      "lng": "-25.06760358810425"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8cc8bd5a-66cd-4c0b-993f-47095eeec565",
+    "name": "Ilheus Dos Mosteiros",
+    "location": {
+      "country": "Portugal",
+      "region": "São Miguel, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.90465769755854",
+      "lng": "-25.825424194335938"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8f504ca0-8734-464e-be1e-d4776c4ff03f",
+    "name": "Royal Savoy",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.64119983593291",
+      "lng": "-16.91976070404053"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8fb97f41-789a-417f-95c8-689528c95868",
+    "name": "Almas",
+    "location": {
+      "country": "Portugal",
+      "region": "Faro, Algarve",
+      "ocean": [
+        "Atlantic Ocean",
+        "Strait Of Gibraltar"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.99131043908919",
+      "lng": "-8.023624420166017"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9136fa31-cbba-4f73-90df-952efe2cfc8c",
+    "name": "Baixas Da Cre",
+    "location": {
+      "country": "Portugal",
+      "region": "Santa Maria, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.92869372984783",
+      "lng": "-25.064728260040287"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "921e0e4e-fb2e-4eb8-b457-e1ce1c5d3fac",
+    "name": "Furnas",
+    "location": {
+      "country": "Portugal",
+      "region": "Faial, Azores",
+      "ocean": [
+        "Europe",
+        "Portugal",
+        "Azores",
+        "Faial"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.51652493417073",
+      "lng": "-28.620951175689697"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9328aca8-cb19-4bb3-bd50-c04e7f328a15",
+    "name": "Mero Wall Reef",
+    "location": {
+      "country": "Portugal",
+      "region": "Algarve, Portugal",
+      "ocean": [
+        "Atlantic Ocean",
+        "Strait Of Gibraltar"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.037913733226276",
+      "lng": "-8.341026306152346"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "932ab2cf-7701-4f99-baa3-25698e279009",
+    "name": "Baixa Do Pesqueiro Longo",
+    "location": {
+      "country": "Portugal",
+      "region": "Graciosa, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.099160259556236",
+      "lng": "-28.04740905761719"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9351c906-b969-43a6-b291-55d9c6207653",
+    "name": "Boca Das Caldeirinhas",
+    "location": {
+      "country": "Portugal",
+      "region": "Faial, Azores",
+      "ocean": [
+        "Europe",
+        "Portugal",
+        "Azores",
+        "Faial"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.515534370693466",
+      "lng": "-28.626852035522464"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "93d6d92b-cb6e-4b71-ba6f-f5f21795227c",
+    "name": "Cemitério Das Âncoras",
+    "location": {
+      "country": "Portugal",
+      "region": "Terceira, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.634036452919226",
+      "lng": "-27.21244812011719"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "955ccecb-40ec-4773-896c-1af49847483a",
+    "name": "Ponta Da Passagem",
+    "location": {
+      "country": "Portugal",
+      "region": "Sesimbra, Setubal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.40944853288866",
+      "lng": "-9.202809333801271"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "96b74b36-6644-4c2c-9d8c-8c9cac84ab99",
+    "name": "Pedrinha",
+    "location": {
+      "country": "Portugal",
+      "region": "Santa Maria, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.94522734831219",
+      "lng": "-25.098953247070312"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "97025ebc-df9f-431f-93c2-f740fd81ad5e",
+    "name": "Pedra Rica",
+    "location": {
+      "country": "Portugal",
+      "region": "Quarteira, Algarve",
+      "ocean": [
+        "Atlantic Ocean",
+        "Strait Of Gibraltar"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.999399530599625",
+      "lng": "-8.11769485473633"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9705f76a-6cf7-43f8-a454-30b50e9a6220",
+    "name": "Baixa Da Feteira",
+    "location": {
+      "country": "Portugal",
+      "region": "Faial, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.515937313413474",
+      "lng": "-28.642387390136722"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "97fde21b-3449-4725-9c8b-da5bc64b5501",
+    "name": "Cabo Da Roca",
+    "location": {
+      "country": "Portugal",
+      "region": "Portugal, Europe",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.7785203556609",
+      "lng": "-9.50420379638672"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "982dacf6-249a-4991-b5c6-5f6c58ad146a",
+    "name": "Molhe Do Farol",
+    "location": {
+      "country": "Portugal",
+      "region": "Faro, Algarve",
+      "ocean": [
+        "Atlantic Ocean",
+        "Strait Of Gibraltar"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.971563959172556",
+      "lng": "-7.861404418945313"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "986c5ddb-d0c1-435e-98ac-80a9b0d5d44f",
+    "name": "Arena",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.63518273995443",
+      "lng": "-16.843457221984867"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "98a7122b-51c7-4245-9ddf-06ea8cf0879b",
+    "name": "Gruta Dos Camarões",
+    "location": {
+      "country": "Portugal",
+      "region": "Faial, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.51378825951165",
+      "lng": "-28.61698150634766"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9b7bcce0-5767-4e57-b2b7-e86bc58f76d1",
+    "name": "Baixa Da Sr.ª Da Guia",
+    "location": {
+      "country": "Portugal",
+      "region": "Graciosa, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.05145180707071",
+      "lng": "-27.955741882324222"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9c16d84a-504a-4118-b535-63246c40e336",
+    "name": "Baia Da Flandres",
+    "location": {
+      "country": "Portugal",
+      "region": "Berlengas, Peniche",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.4131386480838",
+      "lng": "-9.507594108581545"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9caa8526-c496-41e7-87a7-7a1aad79e26d",
+    "name": "Gruta Azul",
+    "location": {
+      "country": "Portugal",
+      "region": "Santa Maria, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.98363186142689",
+      "lng": "-25.041275024414066"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9d71c8b9-0884-44f3-bd73-d5f9ed8049bc",
+    "name": "Baixa Do Cortim",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "33.07485710280629",
+      "lng": "-16.27933502197266"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9d9d9478-b34d-49d7-9a10-815f24db491d",
+    "name": "Baixa Rasa",
+    "location": {
+      "country": "Portugal",
+      "region": "Flores, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.46164364205549",
+      "lng": "-31.27120971679688"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9f08b1ee-953f-49d0-af10-05fe8c7a4263",
+    "name": "Baixinha",
+    "location": {
+      "country": "Portugal",
+      "region": "Porto Santo, Madeira",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "33.003624988459364",
+      "lng": "-16.371774673461918"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9fdea9f1-f365-4ae9-8ab2-5c8d0811a4bb",
+    "name": "Baixa Do Lobo",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.73992988678831",
+      "lng": "-16.69618635554798"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9fe84c7d-69c4-43f0-9b33-9f3884b0693c",
+    "name": "Baixa Do Sul",
+    "location": {
+      "country": "Portugal",
+      "region": "Pico, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.47401919222663",
+      "lng": "-28.54660034179688"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a043acb0-f9b9-42e9-b89a-d80b30452dd7",
+    "name": "Pisao",
+    "location": {
+      "country": "Portugal",
+      "region": "São Miguel, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.71152898951815",
+      "lng": "-25.492057800292972"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a06f842c-65f9-48a3-a595-555505be5697",
+    "name": "Gruta E Ilhéu Negro",
+    "location": {
+      "country": "Portugal",
+      "region": "Faial, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.511639141458645",
+      "lng": "-28.63174438476563"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a19e8f0e-b106-48e1-a1dd-47fe6621aa2c",
+    "name": "Banco Dollabarat",
+    "location": {
+      "country": "Portugal",
+      "region": "Azores, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.22158045838649",
+      "lng": "-24.109497070312504"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a4037f6a-f696-498e-b713-93410a066882",
+    "name": "Espalamaca Norte",
+    "location": {
+      "country": "Portugal",
+      "region": "Faial, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.54413769884391",
+      "lng": "-28.599128723144535"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a4d23cd5-c1f3-4826-b0c8-241c2233d434",
+    "name": "Gruta Do Ilhéu Negro",
+    "location": {
+      "country": "Portugal",
+      "region": "Faial, Azores",
+      "ocean": [
+        "Europe",
+        "Portugal",
+        "Azores",
+        "Faial"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.519093620024144",
+      "lng": "-28.6329460144043"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a4de24e4-b865-4cec-878b-43a9e64c9933",
+    "name": "Baixa Do Ferreiro De Dentro",
+    "location": {
+      "country": "Portugal",
+      "region": "Graciosa, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.09010080045399",
+      "lng": "-28.003807067871097"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a5ab04f2-1bf9-48a8-8847-3ff93f91a791",
+    "name": "Pedra Do Jota",
+    "location": {
+      "country": "Portugal",
+      "region": "Porto Santo, Madeira",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "33.05169499832142",
+      "lng": "-16.28203868865967"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a6e09b4e-395f-4d8c-9234-3ad8b4fa605d",
+    "name": "Ss Forerunner",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.72550464695544",
+      "lng": "-16.651926040649417"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a808fec2-eb4c-49a2-86dd-06f70053e0f8",
+    "name": "The North Wall",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Europe",
+        "Portugal",
+        "Madeira"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.75556128225492",
+      "lng": "-16.692223548889163"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a8097216-ca67-4b8a-8c62-6929395fd944",
+    "name": "Ponta Do Urso",
+    "location": {
+      "country": "Portugal",
+      "region": "Porto Santo, Madeira",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "33.00052976343591",
+      "lng": "-16.37898445129395"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a98b9af4-b9d4-49c2-bdc1-769c15b12789",
+    "name": "Radao Dos Mulatos",
+    "location": {
+      "country": "Portugal",
+      "region": "Faro, Algarve",
+      "ocean": [
+        "Atlantic Ocean",
+        "Strait Of Gibraltar"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.00344375368306",
+      "lng": "-7.998304367065431"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a9a75bf1-645e-4812-85f2-0c9ab9bce410",
+    "name": "Portinhos Da Urzelina",
+    "location": {
+      "country": "Portugal",
+      "region": "São Jorge, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.64261790634527",
+      "lng": "-28.152465820312504"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a9fecedc-dfd2-49ac-8bc9-5bf5d8bf012e",
+    "name": "Pedra Do Meio",
+    "location": {
+      "country": "Portugal",
+      "region": "Sesimbra, Setubal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.43557282548019",
+      "lng": "-9.100542068481447"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ab073ac5-687b-4a09-a133-3978876c1b3f",
+    "name": "Ilhéu Da Vila",
+    "location": {
+      "country": "Portugal",
+      "region": "Santa Maria, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.943855400282494",
+      "lng": "-25.17551422119141"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "abc792c8-597d-4b9f-96a0-3466ed63dc96",
+    "name": "Formigas",
+    "location": {
+      "country": "Portugal",
+      "region": "São Miguel, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.67512527892127",
+      "lng": "-25.39901733398438"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ac6a2078-5403-4128-bd31-b8e8935fbc2d",
+    "name": "Ponta Do Rosto",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.74454748492845",
+      "lng": "-16.677675247192386"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ad5bf984-2bd7-439f-90ed-8191931828aa",
+    "name": "Baixa Do Buraco",
+    "location": {
+      "country": "Portugal",
+      "region": "Corvo, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.665442308708904",
+      "lng": "-31.105728149414066"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "af06b6fa-d662-47ef-a999-3d4f7986a3ac",
+    "name": "Gruta Do Ilhéu Das Cabras",
+    "location": {
+      "country": "Portugal",
+      "region": "Terceira, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.63189092902837",
+      "lng": "-27.156143188476562"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "afd28725-967e-4261-8d2f-2adbb9824a87",
+    "name": "Baixa Do Max",
+    "location": {
+      "country": "Portugal",
+      "region": "Porto Santo, Madeira",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "33.050651840888285",
+      "lng": "-16.282982826232914"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "aff65bfe-412e-46fa-a4da-76708f0c7f56",
+    "name": "Ponta Da Caveira",
+    "location": {
+      "country": "Portugal",
+      "region": "Flores, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.43460202528741",
+      "lng": "-31.138687133789066"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b0265169-96a0-4aa4-a92b-695c88e40953",
+    "name": "Ponto De Dois Caminhos",
+    "location": {
+      "country": "Portugal",
+      "region": "Sagres, Algarve",
+      "ocean": [
+        "Europe",
+        "Portugal",
+        "Algarve",
+        "Sagres"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.023353273967196",
+      "lng": "-8.907401561737062"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b0a36d7f-55a0-45ca-bd7e-a2d473888f8a",
+    "name": "Pelo Negro",
+    "location": {
+      "country": "Portugal",
+      "region": "Porto, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "41.18705160915965",
+      "lng": "-8.719882965087892"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b2060b9d-78a8-4d40-ad1e-c4ddda5f9ce2",
+    "name": "Cabo D&#039;aires",
+    "location": {
+      "country": "Portugal",
+      "region": "Sesimbra, Setubal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.44377464348828",
+      "lng": "-9.028530120849611"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b5e8b4f9-373f-48ee-9d93-1a8b70568391",
+    "name": "Bowbell",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.67261587171059",
+      "lng": "-17.084169387817386"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b792dad1-c18f-4fb3-8622-acdb9be8a799",
+    "name": "Pedra De Anzol",
+    "location": {
+      "country": "Portugal",
+      "region": "Faro, Algarve",
+      "ocean": [
+        "Atlantic Ocean",
+        "Strait Of Gibraltar"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.98911663884902",
+      "lng": "-8.012466430664064"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b867d76b-0e79-4d4d-94ef-a893643b24c8",
+    "name": "Deserta Grande",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.53581512290941",
+      "lng": "-16.540088653564457"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b9877360-e5d4-4ccb-81a3-07367175fdef",
+    "name": "Nascente Do Alviela",
+    "location": {
+      "country": "Portugal",
+      "region": "Louriceira, Alcanena",
+      "ocean": [
+        "Europe",
+        "Portugal",
+        "Alcanena",
+        "Louriceira"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.44517469184707",
+      "lng": "-8.711256980895998"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bcead7b2-a417-42a3-9aab-7fe1d63f61df",
+    "name": "Gruta Do Carapacho",
+    "location": {
+      "country": "Portugal",
+      "region": "Graciosa, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.01064750994083",
+      "lng": "-27.938919067382816"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bf86e594-6722-4594-8844-52004859c7fc",
+    "name": "Baixa Do Noroeste",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "33.10103301013125",
+      "lng": "-16.35744094848633"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c0802701-802e-404e-ab9e-a816b65c3ce2",
+    "name": "Restinga Do Freire",
+    "location": {
+      "country": "Portugal",
+      "region": "Graciosa, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.089301380536796",
+      "lng": "-28.001060485839847"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c3c50953-10e5-482e-b8f3-5f8ddab7cad3",
+    "name": "Canhoes",
+    "location": {
+      "country": "Portugal",
+      "region": "Porto Santo, Madeira",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "33.0012495928996",
+      "lng": "-16.388511657714847"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c3eddfbb-3c2f-4fcf-a4a7-0a8cd627547b",
+    "name": "Cebecos De Ilheu B",
+    "location": {
+      "country": "Portugal",
+      "region": "São Miguel, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.70134318492599",
+      "lng": "-25.433521270751957"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c44df7b6-b802-4137-ba62-5157612b6987",
+    "name": "Cavalete",
+    "location": {
+      "country": "Portugal",
+      "region": "Berlengas, Peniche",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.41007198585075",
+      "lng": "-9.510040283203127"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c4c2091a-a298-46bc-a244-2d9e90f74470",
+    "name": "Panela",
+    "location": {
+      "country": "Portugal",
+      "region": "São Miguel, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.703380457832374",
+      "lng": "-25.509910583496097"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c4de5360-f938-4fee-bfc0-7a48dcfe2c7d",
+    "name": "Baixio Da Ponta Da Queimada",
+    "location": {
+      "country": "Portugal",
+      "region": "São Jorge, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.66138625351512",
+      "lng": "-28.21975708007813"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c5add5ae-f390-46f4-929d-86b0492beeda",
+    "name": "Pedra Perdida",
+    "location": {
+      "country": "Portugal",
+      "region": "Terceira, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.761044092443086",
+      "lng": "-27.060699462890625"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c5e1bd4d-ea41-420b-9266-6a552314c360",
+    "name": "Ss Papadiamandis Shipwreck ",
+    "location": {
+      "country": "Portugal",
+      "region": "Flores, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.45130544035617",
+      "lng": "-31.281509399414066"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c63c9a95-23b8-4c89-95c5-690e2079e594",
+    "name": "Zimbral",
+    "location": {
+      "country": "Portugal",
+      "region": "Faro, Algarve",
+      "ocean": [
+        "Atlantic Ocean",
+        "Strait Of Gibraltar"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.963609068178535",
+      "lng": "-7.936935424804688"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c7ef1d64-495b-4cb4-bc96-989d918b9bd2",
+    "name": "Sea Horses",
+    "location": {
+      "country": "Portugal",
+      "region": "Faro, Algarve",
+      "ocean": [
+        "Atlantic Ocean",
+        "Strait Of Gibraltar"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.98171209590483",
+      "lng": "-7.879257202148438"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c8e80e58-211b-4b9f-8938-1031b18e0e37",
+    "name": "Baixa Do Frade",
+    "location": {
+      "country": "Portugal",
+      "region": "São Miguel, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.72890952922229",
+      "lng": "-25.293273925781254"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c968e628-3b7b-444c-afb9-146cad328c17",
+    "name": "Rebocador Do Farol",
+    "location": {
+      "country": "Portugal",
+      "region": "Faro, Algarve",
+      "ocean": [
+        "Atlantic Ocean",
+        "Strait Of Gibraltar"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.98034080516",
+      "lng": "-7.841491699218751"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cbcb3a21-7041-4ecc-9782-7a1c72618ae4",
+    "name": "Baixa Do Amigo",
+    "location": {
+      "country": "Portugal",
+      "region": "Flores, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.402244340292775",
+      "lng": "-31.14830017089844"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cc5b1815-6554-4a4a-9cf8-88909c1af2e6",
+    "name": "Cova Do Sono",
+    "location": {
+      "country": "Portugal",
+      "region": "Berlengas, Peniche",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.40974234881079",
+      "lng": "-9.51394557952881"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cdebbbb5-2ef8-453b-b017-0cbbb944da65",
+    "name": "Nascente Do Almonda",
+    "location": {
+      "country": "Portugal",
+      "region": "Pedrogao, Portugal",
+      "ocean": [
+        "Europe",
+        "Portugal",
+        "Pedrogao"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.50473606690303",
+      "lng": "-8.61508369445801"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ce6c82b1-5ed1-4d05-ae32-bac7d07f1981",
+    "name": "Baixa Do Sul",
+    "location": {
+      "country": "Portugal",
+      "region": "Santa Maria, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.92488568718196",
+      "lng": "-25.02488136291504"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cef1c33e-9d23-40cc-abec-5588b64a2d64",
+    "name": "Anemonereef",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.6421577887916",
+      "lng": "-16.8283908515015"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cef6ef16-544d-4aa3-b435-dfb56a3bb94a",
+    "name": "Caldeirao Do Farol",
+    "location": {
+      "country": "Portugal",
+      "region": "Faro, Algarve",
+      "ocean": [
+        "Atlantic Ocean",
+        "Strait Of Gibraltar"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.96333474676604",
+      "lng": "-7.862091064453126"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cf06006e-7312-4346-b46e-f1455ce8fcfe",
+    "name": "Parede Do Promontório",
+    "location": {
+      "country": "Portugal",
+      "region": "Nazaré, Estremadura",
+      "ocean": [
+        "Europe",
+        "Portugal",
+        "Estremadura",
+        "Nazaré"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.6024478182446",
+      "lng": "-9.084320068359377"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d1baced6-944a-4da6-a516-9bb6f615e620",
+    "name": "Pronto",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.637971890504",
+      "lng": "-16.9148673018799"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d438147a-280c-417e-b93d-dc131a1641f6",
+    "name": "Arcod Da Cruz",
+    "location": {
+      "country": "Portugal",
+      "region": "São Miguel, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.71397337431598",
+      "lng": "-25.527591705322266"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d594ad10-1e38-4ce8-ab1f-7e7e0ac40f84",
+    "name": "Radao Das Moreias",
+    "location": {
+      "country": "Portugal",
+      "region": "Faro, Algarve",
+      "ocean": [
+        "Atlantic Ocean",
+        "Strait Of Gibraltar"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.9804093702842",
+      "lng": "-7.995214462280274"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d695e6bd-0150-4041-958d-22c0f4059ce0",
+    "name": "Whale Wall",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.7344634134847",
+      "lng": "-16.7406584434815"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d7acdca9-4717-4939-811d-f19ef99960f5",
+    "name": "Princesa Alice / Princess Alice Bank",
+    "location": {
+      "country": "Portugal",
+      "region": "Azores, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.37611542403604",
+      "lng": "-29.910278320312504"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "da0f7b57-c4c3-4961-9c67-be1259acf1bc",
+    "name": "Vapor Do Trigo",
+    "location": {
+      "country": "Portugal",
+      "region": "Berlengas, Peniche",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.41300577658776",
+      "lng": "-9.502165317535402"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "da3532ec-10fd-48cd-8f2c-a08f5a4eaf11",
+    "name": "Pedra De Piramide",
+    "location": {
+      "country": "Portugal",
+      "region": "Faro, Algarve",
+      "ocean": [
+        "Atlantic Ocean",
+        "Strait Of Gibraltar"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.000907571138754",
+      "lng": "-8.020191192626955"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "db5a1412-0597-492e-97ad-757ac604a919",
+    "name": "Baixa Dos Cedros",
+    "location": {
+      "country": "Portugal",
+      "region": "Faial, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.64838299329522",
+      "lng": "-28.715772628784183"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dd2dd583-e493-42d3-aa62-0eec6b4fd4ac",
+    "name": "Ilhéu Maldito",
+    "location": {
+      "country": "Portugal",
+      "region": "Berlengas, Peniche",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.418120156804235",
+      "lng": "-9.50970147737979"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ddc6cd47-9155-4071-97c6-be083294a925",
+    "name": "Baía Da Armação",
+    "location": {
+      "country": "Portugal",
+      "region": "Sesimbra, Setubal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.43846373653085",
+      "lng": "-9.060974121093752"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "de8f831b-395c-4e83-8aed-f5f91a95b919",
+    "name": "Pedr Do Alto",
+    "location": {
+      "country": "Portugal",
+      "region": "Algarve, Portugal",
+      "ocean": [
+        "Atlantic Ocean",
+        "Strait Of Gibraltar"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.047778998812234",
+      "lng": "-8.17485809326172"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "df0748fd-85f2-40fb-9b4d-bdf4642a3cb6",
+    "name": "Cebecos De Ilheu C",
+    "location": {
+      "country": "Portugal",
+      "region": "São Miguel, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.698083431813046",
+      "lng": "-25.42871475219727"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "df2502f4-9529-48a6-b3f5-efadf284bdc4",
+    "name": "Pe De Terra",
+    "location": {
+      "country": "Portugal",
+      "region": "Faro, Algarve",
+      "ocean": [
+        "Atlantic Ocean",
+        "Strait Of Gibraltar"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.96902671354086",
+      "lng": "-7.946119308471681"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e0b006a5-26e0-408e-8084-bc8299edd8f2",
+    "name": "Papadiamandis Wreck",
+    "location": {
+      "country": "Portugal",
+      "region": "Flores, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.45314128865566",
+      "lng": "-31.27260514133674"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e2754a12-421f-4d15-a07b-68c905780e73",
+    "name": "Barrocas De Fora",
+    "location": {
+      "country": "Portugal",
+      "region": "Quarteira, Algarve",
+      "ocean": [
+        "Atlantic Ocean",
+        "Strait Of Gibraltar"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.02941761618766",
+      "lng": "-8.085422515869142"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e369bedd-b06f-43da-8cc4-5d47c78c4b2c",
+    "name": "Baixa Do Norte",
+    "location": {
+      "country": "Portugal",
+      "region": "Pico, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.523458496863384",
+      "lng": "-28.54660034179688"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e39e6640-54e1-46ab-a255-152aaa274486",
+    "name": "Castanhetas",
+    "location": {
+      "country": "Portugal",
+      "region": "São Miguel, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.6968609874419",
+      "lng": "-25.494804382324222"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e3a7940c-4dae-4e71-b9e5-e849ea7aa9c1",
+    "name": "Aquarium 1",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.6427047349016",
+      "lng": "-16.8286435975342"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e48b945f-00d9-4a04-b26d-5b9f3305d4b4",
+    "name": "Azul House Reef",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.74166281167459",
+      "lng": "-16.70886010746472"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e4b4699d-73d0-4296-baf7-c4ead5005896",
+    "name": "Santa Catarina",
+    "location": {
+      "country": "Portugal",
+      "region": "Terceira, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.720876195817276",
+      "lng": "-27.050399780273438"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e4c443d8-4b50-4bde-b1c2-4a6fc83ffef9",
+    "name": "Baixa Das Bicudas",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "33.050831696499806",
+      "lng": "-16.31074905395508"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e53d1e07-547a-42ae-b7aa-17ce0b0043cc",
+    "name": "Praia Da Punta",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.68417506032846",
+      "lng": "-17.110862731933597"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e667171c-c4a0-495a-a3ba-431474438eef",
+    "name": "Gruta Dos Enxareús",
+    "location": {
+      "country": "Portugal",
+      "region": "Flores, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.49874248613119",
+      "lng": "-31.15104675292969"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e744a20b-b9e7-4d0f-a0cd-0a3e76b27a08",
+    "name": "Prego",
+    "location": {
+      "country": "Portugal",
+      "region": "Porto, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "41.26219476451237",
+      "lng": "-8.74116897583008"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e7a977fd-a9f6-424c-8f6a-ea3e35f02f18",
+    "name": "Baixa De Entre-Morros",
+    "location": {
+      "country": "Portugal",
+      "region": "São Jorge, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.682293762190405",
+      "lng": "-28.229370117187504"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e7ef89d0-e910-4d55-b153-f42946475f4f",
+    "name": "Ilha Sabrina",
+    "location": {
+      "country": "Portugal",
+      "region": "São Miguel, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.855338589498224",
+      "lng": "-25.864562988281254"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e9762446-28c0-47c9-9b97-73f32b4b8426",
+    "name": "Batelão",
+    "location": {
+      "country": "Portugal",
+      "region": "Sesimbra, Setubal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.433606267505546",
+      "lng": "-9.115304946899416"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ed48c538-4390-4fa3-8e33-92b506fc63c8",
+    "name": "Ponta Da Oliveira",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.6400789769646",
+      "lng": "-16.8309533171997"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ede85083-03aa-4f7b-83e6-73cc077ad71a",
+    "name": "Parede Da Atalaia",
+    "location": {
+      "country": "Portugal",
+      "region": "Sagres, Algarve",
+      "ocean": [
+        "Europe",
+        "Portugal",
+        "Algarve",
+        "Sagres"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.008584404683155",
+      "lng": "-8.924503326416017"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ee1a2fcf-7ef1-4232-8fff-18826f025280",
+    "name": "Foz Do Arelho",
+    "location": {
+      "country": "Portugal",
+      "region": "Foz De Arelho, Caldas Da Rainha",
+      "ocean": [
+        "Europe",
+        "Portugal",
+        "Estremadura",
+        "Caldas Da Rainha",
+        "Foz De Arelho"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.45130544035617",
+      "lng": "-9.23778533935547"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f10ab54b-eefa-4210-a172-8ae761015ede",
+    "name": "Arcadas Do Judeu",
+    "location": {
+      "country": "Portugal",
+      "region": "Terceira, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.63966814761817",
+      "lng": "-27.17880249023438"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f12906aa-c82a-479e-ad05-df595f4f387b",
+    "name": "Rms Slavonia",
+    "location": {
+      "country": "Portugal",
+      "region": "Flores, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.38300827356623",
+      "lng": "-31.255803108215336"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f1e6eaf3-9690-4ee6-b53e-cc47c5658dde",
+    "name": "Baixa Do Morro",
+    "location": {
+      "country": "Portugal",
+      "region": "Flores, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "39.36721747059307",
+      "lng": "-31.18881225585938"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f235b315-116d-4d6d-bb41-f0e7e856e6fa",
+    "name": "2 Anchors",
+    "location": {
+      "country": "Portugal",
+      "region": "Algarve, Portugal",
+      "ocean": [
+        "Atlantic Ocean",
+        "Strait Of Gibraltar"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.04092825594592",
+      "lng": "-8.275451660156252"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f2f7ef4e-2721-432e-8a64-82c60ea807d3",
+    "name": "Portimão - Pedra Dos Arcos",
+    "location": {
+      "country": "Portugal",
+      "region": "Portimão, Algarve",
+      "ocean": [
+        "Europe",
+        "Portugal",
+        "Algarve",
+        "Portimão"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.10790197138221",
+      "lng": "-8.591823577880861"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f3d3e4a1-5929-49aa-8d63-3112e49c986a",
+    "name": "Ss Ruy Barbosa",
+    "location": {
+      "country": "Portugal",
+      "region": "Porto, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "41.23199294762252",
+      "lng": "-8.728122711181642"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f47b0daf-2cf8-4528-8ed7-3567f2da1a74",
+    "name": "Paredes Do Cabo",
+    "location": {
+      "country": "Portugal",
+      "region": "Sesimbra, Setubal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.411836086992885",
+      "lng": "-9.215726852416994"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f91f7a0f-5071-47fc-b421-7d9cfa91e7f6",
+    "name": "Garajau",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.6371332547227",
+      "lng": "-16.8542221109009"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fa385ec1-7c0c-4bac-8960-43ca6a0a0f47",
+    "name": "Estalagem Da Ponta ",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.679100038285235",
+      "lng": "-17.10354566574097"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fc8bce37-850a-4d36-b2e1-9dea84d66b16",
+    "name": "Ilhéu Da Mina",
+    "location": {
+      "country": "Portugal",
+      "region": "Terceira, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "38.64529939983218",
+      "lng": "-27.07443237304688"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "feb8a451-7864-4dce-970c-245a0026593a",
+    "name": "Artificial Reefs",
+    "location": {
+      "country": "Portugal",
+      "region": "Algarve, Portugal",
+      "ocean": [
+        "Atlantic Ocean",
+        "Strait Of Gibraltar"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.01406738256919",
+      "lng": "-8.171081542968752"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ff00344d-e25f-4364-996f-a9ce5aa3e2b6",
+    "name": "Baixa Do Ambrósio",
+    "location": {
+      "country": "Portugal",
+      "region": "Santa Maria, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.03298061970249",
+      "lng": "-25.172767639160156"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ff562abe-487f-4cfc-805b-a85dec864e10",
+    "name": "Baixa De Caracas",
+    "location": {
+      "country": "Portugal",
+      "region": "São Miguel, Azores",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "37.70202228211617",
+      "lng": "-25.443992614746097"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ff844e04-5a35-41df-86bd-e7873dc71fa0",
+    "name": "Bandajeira",
+    "location": {
+      "country": "Portugal",
+      "region": "Madeira, Portugal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "32.72779751164972",
+      "lng": "-16.676902770996097"
+    },
+    "additionalInfo": {}
+  }
+]

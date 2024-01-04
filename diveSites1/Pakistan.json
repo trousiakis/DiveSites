@@ -1,0 +1,104 @@
+[
+  {
+    "id": "24b9103f-1012-4fe0-aed2-5fbcf8d9b5d7",
+    "name": "The Slate",
+    "location": {
+      "country": "Pakistan",
+      "region": "Charna Island, Pakistan",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.89009589252173",
+      "lng": "66.60716772079469"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "285cf164-a6c9-4f24-b0a6-01cd8023b1bd",
+    "name": "Temple Rock",
+    "location": {
+      "country": "Pakistan",
+      "region": "Charna Island, Pakistan",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.89836807655838",
+      "lng": "66.60943150520326"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7f8730ee-5775-4294-8438-f0d2596d77d4",
+    "name": "Dil Ka Patthar",
+    "location": {
+      "country": "Pakistan",
+      "region": "Charna Island, Pakistan",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.894689456089782",
+      "lng": "66.62068605422975"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "92db51ff-2ef2-4451-a496-6d8d64a191aa",
+    "name": "Pirate&#039;s Lock",
+    "location": {
+      "country": "Pakistan",
+      "region": "Charna Island, Pakistan",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.894066610027718",
+      "lng": "66.60227537155153"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a6e73830-c37f-415f-b665-0c5224287d74",
+    "name": "The Ridge",
+    "location": {
+      "country": "Pakistan",
+      "region": "Charna Island, Pakistan",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.902786168943102",
+      "lng": "66.60596609115602"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b92e81d6-b110-4495-a153-7f8d7cfd74d5",
+    "name": "Canyon",
+    "location": {
+      "country": "Pakistan",
+      "region": "Charna Island, Pakistan",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.90181303442123",
+      "lng": "66.60158872604372"
+    },
+    "additionalInfo": {}
+  }
+]

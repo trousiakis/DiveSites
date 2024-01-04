@@ -1,0 +1,274 @@
+[
+  {
+    "id": "1744626f-107d-4c8c-8c77-2e4cf45d7497",
+    "name": "The Arch",
+    "location": {
+      "country": "Myanmar",
+      "region": "Bo Wei Island, Myanmar",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.339238082719238",
+      "lng": "97.9698944091797"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "17d1568c-3dfb-489d-b08d-e16892deb0af",
+    "name": "Western Rocky",
+    "location": {
+      "country": "Myanmar",
+      "region": "Than, Myanmar",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.884981311823843",
+      "lng": "97.94517517089845"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2e30416d-2344-4229-8453-5cf2b0031082",
+    "name": "High Rock",
+    "location": {
+      "country": "Myanmar",
+      "region": "Myanmar, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.3176214672129",
+      "lng": "98.15048217773439"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2ec83938-da2e-47e6-b2b5-d494d8009f43",
+    "name": "Three Islet",
+    "location": {
+      "country": "Myanmar",
+      "region": "Kyun Pila Island, Myanmar",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.647111771479441",
+      "lng": "97.93899536132814"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4828e8ce-c7d7-4680-b594-d7174cd9473f",
+    "name": "North Rock",
+    "location": {
+      "country": "Myanmar",
+      "region": "Saint  Pauls Island, Zadetkalay",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.133820586900628",
+      "lng": "98.0962371826172"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5fe3009f-c733-4d6d-8479-d12e2b2aa1fa",
+    "name": "Northern Rocky",
+    "location": {
+      "country": "Myanmar",
+      "region": "Zadetkyi, Myanmar",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.930976812881799",
+      "lng": "98.06327819824219"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "66c262a2-01a4-4bd0-82b0-bc446bcb084e",
+    "name": "North Twin Plateau",
+    "location": {
+      "country": "Myanmar",
+      "region": "Myanmar, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.528319677756077",
+      "lng": "97.33612060546876"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6c543cff-e2b8-4d99-91ee-5822bcc3ddf8",
+    "name": "Fin Strap",
+    "location": {
+      "country": "Myanmar",
+      "region": "Pyin Sa Island, Myanmar",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.120301632173907",
+      "lng": "98.03306579589845"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6ea59300-51c1-413b-ad7f-31bab201886c",
+    "name": "Heckford Bank",
+    "location": {
+      "country": "Myanmar",
+      "region": "Myanmar, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.509416700845861",
+      "lng": "96.84310913085939"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8cc4b574-0b49-44a6-9637-b85133aa3ae2",
+    "name": "South Twin",
+    "location": {
+      "country": "Myanmar",
+      "region": "Myanmar, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.429741466565432",
+      "lng": "97.34436035156251"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a3c695e3-5895-4e5e-b261-a9c56d855163",
+    "name": "Twin Cheeks",
+    "location": {
+      "country": "Myanmar",
+      "region": "Myanmar, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.649811055745865",
+      "lng": "97.33337402343751"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b07e999c-0ec9-4d0d-90ba-a4e7b72dcf00",
+    "name": "Fan Forest Pinnacle",
+    "location": {
+      "country": "Myanmar",
+      "region": "Macbride Island, Myanmar",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.014834300885987",
+      "lng": "97.93144226074219"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b348aba2-be28-4e9a-b242-a8e11dc5566f",
+    "name": "Coral Bank",
+    "location": {
+      "country": "Myanmar",
+      "region": "Myanmar, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.044584984211802",
+      "lng": "96.87744140625001"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d02645b9-8141-46e9-9317-dfe864bdedec",
+    "name": "Silvertip Bank",
+    "location": {
+      "country": "Myanmar",
+      "region": "Myanmar, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.206813072484595",
+      "lng": "96.66732788085939"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ed4f8a5b-ea25-4085-90d7-3e0bd650b0a6",
+    "name": "Rocky",
+    "location": {
+      "country": "Myanmar",
+      "region": "Nga Mann Island, Myanmar",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.533720315515536",
+      "lng": "98.12095642089845"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fddd2ab9-7b04-40d4-b5f5-c66dc8c5205f",
+    "name": "Black Rock",
+    "location": {
+      "country": "Myanmar",
+      "region": "Myanmar, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.248449735768261",
+      "lng": "97.36633300781251"
+    },
+    "additionalInfo": {}
+  }
+]

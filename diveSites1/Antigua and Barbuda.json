@@ -1,0 +1,342 @@
+[
+  {
+    "id": "024d98e6-3cbc-4598-9251-7013e1d57488",
+    "name": "Johnson Point",
+    "location": {
+      "country": "Antigua and Barbuda",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.02658578826762",
+      "lng": "-61.90160751342774"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "146261e5-b6c9-43a5-af3e-9f85e2ffa03c",
+    "name": "Mamora Bay",
+    "location": {
+      "country": "Antigua and Barbuda",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.011648699234794",
+      "lng": "-61.73638343811036"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "18ff66b4-3b48-4e33-8366-6e4e7e84aa21",
+    "name": "Bluff Cut",
+    "location": {
+      "country": "Antigua and Barbuda",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.008858121916663",
+      "lng": "-61.83629035949708"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "32072d4a-69f2-45b8-8b8c-639dc9b4f978",
+    "name": "Double Dip",
+    "location": {
+      "country": "Antigua and Barbuda",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.127666988424984",
+      "lng": "-61.92658424377442"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3cf4f890-a8dc-43da-b0bd-44bc0c565473",
+    "name": "Diver&#039;s Paradise",
+    "location": {
+      "country": "Antigua and Barbuda",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.00918642728864",
+      "lng": "-61.877574920654304"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3d3acaa0-4dc4-4ac2-8e16-cbe3738ab944",
+    "name": "Half Moon Bay",
+    "location": {
+      "country": "Antigua and Barbuda",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.03725440756955",
+      "lng": "-61.68471336364747"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "58152d20-c6b3-4a98-9faf-3f84330a2059",
+    "name": "Sunken Rock",
+    "location": {
+      "country": "Antigua and Barbuda",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.012633598948728",
+      "lng": "-61.72144889831544"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6239b793-1bff-4d1c-b9d6-300997e2c9f5",
+    "name": "Lemons Ridge/monk&#039;s Head",
+    "location": {
+      "country": "Antigua and Barbuda",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.012961897702233",
+      "lng": "-61.84590339660645"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6a5a0e4a-8ef8-4c88-b03b-f63cfa23eee6",
+    "name": "Cades Reef",
+    "location": {
+      "country": "Antigua and Barbuda",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.008037355969115",
+      "lng": "-61.86066627502442"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6c385ffe-ddc3-408c-8255-e382ce14025d",
+    "name": "Jettia&#039;s Wreck",
+    "location": {
+      "country": "Antigua and Barbuda",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.19425867613569",
+      "lng": "-61.79449081420899"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "73b95823-0622-4520-9550-00efc10beb23",
+    "name": "Pillars Of Hercules",
+    "location": {
+      "country": "Antigua and Barbuda",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.99785955947405",
+      "lng": "-61.76299095153809"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "77f3dbd1-5722-4137-bf38-8e0d83e5f0cc",
+    "name": "Divil&#039;s Bridge",
+    "location": {
+      "country": "Antigua and Barbuda",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.10240182649667",
+      "lng": "-61.69312477111817"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "94e2d3a4-aae1-4910-8842-487bb5459be2",
+    "name": "Hondis Head",
+    "location": {
+      "country": "Antigua and Barbuda",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.013126046863164",
+      "lng": "-61.91740036010743"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a4072275-36b3-4f29-b55b-cbea682c9402",
+    "name": "Indian Creek",
+    "location": {
+      "country": "Antigua and Barbuda",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.997038745346682",
+      "lng": "-61.736211776733406"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b35c96ef-b831-4293-a43a-9e1f559bd507",
+    "name": "Andes Wreck",
+    "location": {
+      "country": "Antigua and Barbuda",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.125042196260953",
+      "lng": "-61.894311904907234"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b5cf2411-3fb8-4a25-be2a-d381b95893cb",
+    "name": "Baracuda Reef",
+    "location": {
+      "country": "Antigua and Barbuda",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.003605157709437",
+      "lng": "-61.90984725952149"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c145b6b7-0cf6-4b0c-b56d-f1084ee6780e",
+    "name": "Carpenter&#039;s Hole",
+    "location": {
+      "country": "Antigua and Barbuda",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.00196357618948",
+      "lng": "-61.78359031677246"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c5c5a591-389a-4739-b7a0-ad1a2f1acce4",
+    "name": "Pigeons Point",
+    "location": {
+      "country": "Antigua and Barbuda",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.003769315070407",
+      "lng": "-61.775693893432624"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cfd4cd39-2bd0-4a4b-a26f-7a4bf3dd1c12",
+    "name": "Paradise Reef",
+    "location": {
+      "country": "Antigua and Barbuda",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.174742899412873",
+      "lng": "-61.846075057983406"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f160b31e-a979-4e5a-9145-96db3296e42e",
+    "name": "Green Bay",
+    "location": {
+      "country": "Antigua and Barbuda",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.065482278133366",
+      "lng": "-61.66565895080567"
+    },
+    "additionalInfo": {}
+  }
+]

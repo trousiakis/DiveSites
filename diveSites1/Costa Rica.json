@@ -1,0 +1,1486 @@
+[
+  {
+    "id": "0193ce89-ee04-4c18-a4fd-74c3a0ae20ba",
+    "name": "Bajo Manuelita",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cocos Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.563194670796532",
+      "lng": "-87.04424858093262"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0267fe1d-738d-4cf7-a694-5520f6149066",
+    "name": "Palmares Pared",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Guanacaste, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.645087292590242",
+      "lng": "-85.69765090942384"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "032ee9f3-58a5-4091-8187-9ebf4b80a87f",
+    "name": "The Wall",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Punta Uva, Limon",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.648307822467581",
+      "lng": "-82.69250392913818"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "03b0ccaf-3630-47bd-9630-a8e60b9fbe54",
+    "name": "Middle Reef",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Puntarenas, Costa Rica",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of Nicoya",
+        "Herradura Bay"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.641538424887843",
+      "lng": "-84.66678142547609"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "043cf20b-e0a0-4c93-a99f-c90c562fb168",
+    "name": "Black Coral",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Punta Uva, Limon",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.65095208147306",
+      "lng": "-82.68634557724"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "06de449f-897c-4131-bd1c-58dd89e0bef8",
+    "name": "Cabeza De Mono",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Guanacaste, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.602401403139153",
+      "lng": "-85.69584846496582"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "07111f52-fd78-49a0-97b1-29b9cbde6d14",
+    "name": "La Pared",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Guanacaste, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.483760810538781",
+      "lng": "-85.87351799011232"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "07c1de55-e2fa-4c3b-9f51-5d990f58a633",
+    "name": "3 Rocks",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cano Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.71627959409386",
+      "lng": "-83.84902954101564"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "08aa4d57-ccad-43ed-bbac-84bb8446c143",
+    "name": "Devil Pinnacle",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cano Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.710849831867936",
+      "lng": "-83.90542030334474"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0b875058-95cd-4d1d-8608-82df976220a0",
+    "name": "Big Scare",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Guanacaste, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.852230965888237",
+      "lng": "-85.99063396453857"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0c77b438-cf41-4d75-a650-762fd1f7b555",
+    "name": "The Two Towers",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Punta Uva, Limon",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.645007758126875",
+      "lng": "-82.6944136619568"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0de5f02b-eab0-4a03-aa9d-cd962cb75047",
+    "name": "Bye Bye Reef",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Tortuga Island, Puntarenas",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of Nicoya"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.762267063594997",
+      "lng": "-84.88805294036867"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0e235300-db1f-4cb8-aa01-ec1c718ef559",
+    "name": "Roca Suzia",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cocos Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.509288140653362",
+      "lng": "-87.05579280853273"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1103538f-6907-418d-9b13-54026b6213a5",
+    "name": "Diablo Deep",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cano Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.713819242856676",
+      "lng": "-83.90795230865479"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "16c38491-519a-4d73-a92b-1c98c6a4785b",
+    "name": "Bajo Negro",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Guanacaste, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.837352405625222",
+      "lng": "-85.90038299560548"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "17ac422f-d9e0-4068-ab38-188896d3cd42",
+    "name": "Wafer Bay",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cocos Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.545596566230869",
+      "lng": "-87.06004142761232"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "19398962-2e00-4712-aec3-58b5ff895b82",
+    "name": "Punta Maria",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cocos Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.5312443253599755",
+      "lng": "-87.0926570892334"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1c8e24b8-8cab-4efe-8ddc-691df1f9ac65",
+    "name": "Arco Iris",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Guanacaste, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.509079137166108",
+      "lng": "-85.81669807434083"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1d8e0285-3783-482e-a65a-b30ae717d77c",
+    "name": "Pixie Rock",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Quepos, Puntarenas",
+      "ocean": [
+        "Central America",
+        "Costa Rica",
+        "Puntarenas",
+        "Quepos"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.40575237998262",
+      "lng": "-84.17428493499756"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1e4e6839-8e83-462d-a8c9-75bfd380cb76",
+    "name": "The Garden",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Puntarenas, Costa Rica",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of Nicoya",
+        "Herradura Bay"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.645430845104185",
+      "lng": "-84.67819690704346"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "23d7279b-e3d8-444f-8348-7c46973a91c1",
+    "name": "Palmares La Punta",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Guanacaste, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.638676354084366",
+      "lng": "-85.70563316345216"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "24066eda-ba1c-4568-bfef-b70d0f8125fa",
+    "name": "Isla Manuelita",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cocos Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.562852965034961",
+      "lng": "-87.04974174499512"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "287fa553-d830-4d16-a7b0-4a2db6afb6c6",
+    "name": "Manta Corner",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cocos Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.496558307623292",
+      "lng": "-87.07064151763917"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2a63a82e-38a5-4ae3-bbe5-c9275b068984",
+    "name": "Sombrero",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Guanacaste, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.462913833988564",
+      "lng": "-85.85914134979248"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2f034cfd-7ac4-47bc-83f8-72d7997635f7",
+    "name": "Paradisus",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cano Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.718485412466983",
+      "lng": "-83.85160446166994"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "32890b58-577c-4d81-8ce2-ff6d39f1d1b5",
+    "name": "La Punta",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Guanacaste, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.473801701121259",
+      "lng": "-85.87162971496582"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "33081862-8034-44cc-a332-a7ae70eb9e46",
+    "name": "Manuelita Channel",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cocos Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.558880620994571",
+      "lng": "-87.04963445663454"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "352ec2d9-5c02-4549-b7c4-7c43194109c5",
+    "name": "Coral Garden",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cano Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.715516038546525",
+      "lng": "-83.87834072113039"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "36a6e905-ca92-42b5-b246-cb0b5bc28650",
+    "name": "Coral Gardens",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Punta Uva, Limon",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.647567426228012",
+      "lng": "-82.69085168838502"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3ad0f36f-99c7-45f0-ae2d-1a9d3b81e3f1",
+    "name": "Geos&#039; Ridge",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Quepos, Puntarenas",
+      "ocean": [
+        "Central America",
+        "Costa Rica",
+        "Puntarenas",
+        "Quepos"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.370121808093932",
+      "lng": "-84.15963655337693"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "45b704df-1c3f-494d-9e43-92803427757e",
+    "name": "Corridas",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Guanacaste, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.558190768467759",
+      "lng": "-85.71477413177492"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4835e343-537a-4e8e-80c4-7f5e16440a7e",
+    "name": "Acuario",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Guanacaste, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.523594042104941",
+      "lng": "-85.81892967224121"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4ad838bc-4acf-417b-b0c3-27bd26a787cf",
+    "name": "O36",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Punta Uva, Limon",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.650402077309053",
+      "lng": "-82.67971515655519"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4fab5c96-5982-4ed7-a8b0-b6f121356963",
+    "name": "Dirty Rock",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cocos Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.551234851122659",
+      "lng": "-87.08115577697754"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4fc3b8b9-b29c-4ccb-bcf6-1aefe8a2451d",
+    "name": "Viking Rock",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cocos Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.550380568997962",
+      "lng": "-87.06467628479005"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "51653319-40fc-4539-834e-472287663fd8",
+    "name": "Meros",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Guanacaste, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.613031253342964",
+      "lng": "-85.67404747009279"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "534d3c78-8f42-4134-8a1d-8dfa04e728fc",
+    "name": "La Cueva",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Tortuga Island, Puntarenas",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of Nicoya"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.766348401914867",
+      "lng": "-84.89877104759216"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "539c96d5-77a1-4fc4-8807-aad4451c4b95",
+    "name": "Mortero",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Tortuga Island, Puntarenas",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of Nicoya"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.783413351973005",
+      "lng": "-84.89037036895752"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "579f6966-ae19-4120-9e5d-547b91c4ce6e",
+    "name": "Brain Corals",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Punta Uva, Limon",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.641326879023625",
+      "lng": "-82.69475698471071"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5b7cdc0c-d2da-4c0e-bf77-36e2e70b7d50",
+    "name": "Punta Gorda",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Guanacaste, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.547812158803968",
+      "lng": "-85.78052043914796"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "60e301d3-3d79-451a-ac1d-edfca69e4286",
+    "name": "Lettuce Coral",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Punta Uva, Limon",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.646023165980399",
+      "lng": "-82.680401802063"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6141fd4b-19ec-41b5-8dd1-a74eac9f04a7",
+    "name": "Sorpresa",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Guanacaste, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.580634367898492",
+      "lng": "-85.71400165557863"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "620633c5-577f-441d-b534-ff9542df2c28",
+    "name": "Shark Fin Rock",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cocos Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.498523333185698",
+      "lng": "-87.08265781402588"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "627555d1-a948-4dac-b7ce-b978c6b24cb0",
+    "name": "Tortuga",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Guanacaste, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.575150181169011",
+      "lng": "-85.7107400894165"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7085a249-a42d-4feb-8c9c-f7a5600a87c1",
+    "name": "Punta Este",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Guanacaste, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.854211908146535",
+      "lng": "-85.98535537719728"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "71a2dbd6-0071-4b88-931a-9e43f9271b80",
+    "name": "Pesebre",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Puntarenas, Costa Rica",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of Nicoya",
+        "Herradura Bay"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.654823239225863",
+      "lng": "-84.68514919281006"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "792e04fc-3e59-4ab5-9a24-bd21e25c37cd",
+    "name": "Shark Cave",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cano Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.713819242856676",
+      "lng": "-83.887095451355"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "796f95a7-1a3a-45a9-92f6-940cd5718eee",
+    "name": "Small Dos Amigos",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cocos Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.508006626176618",
+      "lng": "-87.10287094116211"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "79e3c84d-55cf-45f2-8ede-58bcf2b335cb",
+    "name": "Cahuita Reef",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Limon, Costa Rica",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.778084614017667",
+      "lng": "-82.82077789306642"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7d2d670d-5d89-4dc3-b512-84c0361bbb51",
+    "name": "Malpaís",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Puntarenas, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.612262069958692",
+      "lng": "-85.16601560963997"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8032d41f-0bf4-470c-bb64-c8db4d742c96",
+    "name": "La Viuda",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Guanacaste, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.472620090625455",
+      "lng": "-85.84897041320801"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "853bd523-1088-4bbe-a600-87e36d22fb9a",
+    "name": "Punta Quepos",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Quepos, Puntarenas",
+      "ocean": [
+        "Central America",
+        "Costa Rica",
+        "Puntarenas",
+        "Quepos"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.392611603861187",
+      "lng": "-84.18215227313341"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8f3dd756-7e59-44c6-bcc8-c6e116af76aa",
+    "name": "The Backyard",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Puntarenas, Costa Rica",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of Nicoya",
+        "Herradura Bay"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.64593854877609",
+      "lng": "-84.68240261077881"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "90fe28fd-fe2a-45bf-9174-1b0a9baee38b",
+    "name": "Gran Susto",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Guanacaste, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.834654797047353",
+      "lng": "-85.98003387451173"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "97bcefe0-1a1c-4d6f-b093-fe2e86a07b4d",
+    "name": "Big Dos Amigos",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cocos Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.512278330346646",
+      "lng": "-87.10158348083498"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "990543fc-392a-4547-a153-254262bde283",
+    "name": "Paradise",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cano Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.716618951614153",
+      "lng": "-83.85967254638673"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9a2aa9a1-1a7c-4d74-b148-34d138bfd73c",
+    "name": "Bajo De Diablo",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cano Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.708134921186934",
+      "lng": "-83.90220165252687"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a0dcc9ec-6cf2-4fc3-8de9-8a0cffe3347d",
+    "name": "Isla Montegne",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cocos Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.521163376544055",
+      "lng": "-87.0348072052002"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a2d661b3-d53b-4652-8f93-0742aa69d6ac",
+    "name": "Acuario",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Tortuga Island, Puntarenas",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of Nicoya"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.760744478974532",
+      "lng": "-84.89803075790405"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a58f2ff1-daba-4f31-985a-07058a2e0391",
+    "name": "Shipwreck",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cano Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.719418639397015",
+      "lng": "-83.87319087982179"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "aee216cb-aa38-4dda-b623-677c13d26b34",
+    "name": "The Arch",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cocos Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.532013204240713",
+      "lng": "-87.02446460723878"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b3e17c1c-ac6f-4e9f-b683-33aecf2585a0",
+    "name": "La Punta",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Tortuga Island, Puntarenas",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of Nicoya"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.768441918735162",
+      "lng": "-84.88258123397829"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b62e44f7-4857-492d-9826-1cfcbabe0432",
+    "name": "Play Pen",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Guanacaste, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.581224966775709",
+      "lng": "-85.70619106292726"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b634a8d1-1859-494b-8a43-95f2e1abe164",
+    "name": "Lobster Rock",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cocos Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.548928286545379",
+      "lng": "-87.02909946441652"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bde33214-9150-4115-b7f2-ce859f3c886f",
+    "name": "Faro",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cano Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.705844199973123",
+      "lng": "-83.8995409011841"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c05dcb3f-23fa-4ea6-98d8-6a83d1fa13ce",
+    "name": "Bajo Dos Amigos",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cocos Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.50288054063598",
+      "lng": "-87.09604740142824"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c43b48e2-e175-4f27-b84e-f7cd9c9974ad",
+    "name": "Isla Pejora",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cocos Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.553968545601639",
+      "lng": "-87.05506324768066"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c7fc9f91-b178-4575-bf3a-8df79959c5ed",
+    "name": "Punta Ballena",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Guanacaste, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.595145896557199",
+      "lng": "-85.67610740661623"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c9911d48-5020-40d3-8fa6-6ac4a794abe5",
+    "name": "Earthquake",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Punta Uva, Limon",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.64545199943912",
+      "lng": "-82.68690347671509"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cc196ddb-7d23-4204-bb48-a57342138122",
+    "name": "Punta Argentina",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Guanacaste, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.578187589007657",
+      "lng": "-85.71425914764404"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ccde02bd-1a4d-4426-9ccd-1a3b578aafa2",
+    "name": "Bajo Alcyonne",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cocos Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.510057048012429",
+      "lng": "-87.03051567077638"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cd7893b7-6159-4065-8251-327d56d4e1ed",
+    "name": "Bajo Del Diablo",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Quepos, Puntarenas",
+      "ocean": [
+        "Central America",
+        "Costa Rica",
+        "Puntarenas",
+        "Quepos"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.398062338174",
+      "lng": "-84.18295827694237"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cdbe8eff-e054-45e6-ac8c-1f920e2afeab",
+    "name": "Hunter Ridge",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cocos Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.523726345898821",
+      "lng": "-87.03073024749757"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d403bba8-4c4a-49af-830a-3bf091bb999d",
+    "name": "Manuelita Coral Garden",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cocos Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.560717299528745",
+      "lng": "-87.0446562767029"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d436a401-9bcc-4aae-8eca-4dc5767c43f9",
+    "name": "La Cruz",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Guanacaste, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.582996756583698",
+      "lng": "-85.71177005767824"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d6ddb184-4bc1-4a7a-b1d0-ff06512b1be9",
+    "name": "Punta Cacique",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Guanacaste, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.572618985005494",
+      "lng": "-85.70207118988037"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "daa54fc8-462f-413e-b9fb-3e3497131616",
+    "name": "Submerged Rock",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cocos Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.506810543504553",
+      "lng": "-87.0553207397461"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dc930c26-6d63-47dd-ab29-30d6d10a63dd",
+    "name": "Tea Cup Rock",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cocos Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.50525136069284",
+      "lng": "-87.06657528877258"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dec22e51-feb3-4032-8241-b29976714338",
+    "name": "Laberinto",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Tortuga Island, Puntarenas",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of Nicoya"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.761971006019529",
+      "lng": "-84.89447951316835"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e77bd196-3e04-4310-8b8a-70f5085c6f8d",
+    "name": "Queque",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cano Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.717297665730237",
+      "lng": "-83.84027481079102"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e964a8c0-0258-4a7d-bf50-2288219dc805",
+    "name": "Tiburones",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Guanacaste, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.54038659721071",
+      "lng": "-85.78957557678224"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f161da2b-5d1b-444e-96c6-11cc90c38018",
+    "name": "Canones",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Tortuga Island, Puntarenas",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of Nicoya"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.768188159821932",
+      "lng": "-84.88444805145264"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f435ba90-60c8-45e8-ae04-86c189fc3ed5",
+    "name": "Arches",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cano Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.714413122224288",
+      "lng": "-83.89267444610597"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f9c555ce-3d50-4a76-af6b-85744fd70ad7",
+    "name": "Pyramid",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cocos Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.506810543504553",
+      "lng": "-87.08969593048097"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fa836553-6b75-45d2-891b-b74e97668a3f",
+    "name": "Starfish Garden",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Quepos, Puntarenas",
+      "ocean": [
+        "Central America",
+        "Costa Rica",
+        "Puntarenas",
+        "Quepos"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.384154832425613",
+      "lng": "-84.1680637188256"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fb0f4ff9-89a8-4701-87c5-6fe78194fb13",
+    "name": "Virador",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Guanacaste, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.607632010507015",
+      "lng": "-85.70374488830568"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fbcfe17a-d219-4f20-ab3d-bb15ea37961a",
+    "name": "The Island",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Palma Island, Puntarenas",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of Nicoya",
+        "Herradura Bay"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.626476027916818",
+      "lng": "-84.67862606048585"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fcfe72ef-0725-4412-a8d5-b6223b4f22d3",
+    "name": "Silverado",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Cocos Island, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.543973413621591",
+      "lng": "-87.0277261734009"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fdbe1150-e111-46dd-b2b9-c6c67ccd290e",
+    "name": "Las Gemelas",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Quepos, Puntarenas",
+      "ocean": [
+        "Central America",
+        "Costa Rica",
+        "Puntarenas",
+        "Quepos"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.382320932116194",
+      "lng": "-84.15602630004287"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fe41a587-295e-4ec7-a195-88b842217798",
+    "name": "Escorpiones",
+    "location": {
+      "country": "Costa Rica",
+      "region": "Guanacaste, Costa Rica",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.54401501900504",
+      "lng": "-85.77142238616945"
+    },
+    "additionalInfo": {}
+  }
+]

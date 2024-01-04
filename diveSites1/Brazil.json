@@ -1,0 +1,3231 @@
+[
+  {
+    "id": "00c892e6-8b00-4f95-8b33-e55e23df7a2a",
+    "name": "Marte",
+    "location": {
+      "country": "Brazil",
+      "region": "Recife, Pernambuco",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.517193709237803",
+      "lng": "-34.86236572265626"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "00f12efd-f588-488e-a2ce-aec45887d574",
+    "name": "Velasquez",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilhabela, Sao Paulo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.861192746957105",
+      "lng": "-45.44958114624024"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0171fd6c-d0d0-4bc1-9c18-a8295b7b556b",
+    "name": "Piscinas",
+    "location": {
+      "country": "Brazil",
+      "region": "Laje De Santos, Sao Paulo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-24.321288892273145",
+      "lng": "-46.183798313140876"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "01d189e5-b2bd-43d3-8191-e74e2c7720cd",
+    "name": "Furnas Das Mulheres",
+    "location": {
+      "country": "Brazil",
+      "region": "Cabo Frio, Rio De Janeiro",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-22.990792513382107",
+      "lng": "-42.024722099304206"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "05b9f680-573f-4d34-9cbc-dbda124a84db",
+    "name": "Canion Da Ilha",
+    "location": {
+      "country": "Brazil",
+      "region": "Sacramento, Minas Gerais",
+      "ocean": [
+        "South America",
+        "Brazil",
+        "Minas Gerais",
+        "Sacramento"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.137273998247046",
+      "lng": "-47.3016357421875"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "06700808-1cca-4be3-9501-77c0622b212e",
+    "name": "Piscinas Naturais De Serrambi",
+    "location": {
+      "country": "Brazil",
+      "region": "Porto De Galinhas, Ipojuca",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.568120773682582",
+      "lng": "-35.00656127929688"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "075078f8-a511-4597-9dac-15f64945b9b1",
+    "name": "Bezzerra De Menezes",
+    "location": {
+      "country": "Brazil",
+      "region": "Angra Dos Reis, Rio De Janeiro",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.043088952569715",
+      "lng": "-44.291038513183594"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0d8140cd-421a-45ba-bd05-872e4d6ce394",
+    "name": "Rosa",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilhabela, Sao Paulo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.850988049524435",
+      "lng": "-45.44082641601563"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0e42a1b0-8e53-440f-9993-c92d1c9fb0eb",
+    "name": "Dart",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilhabela, Sao Paulo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.953626327498927",
+      "lng": "-45.431041717529304"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0e68b524-99f4-4794-b0e6-5e5902e7ff55",
+    "name": "Cordilheiras",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Fernando De Noronha, Brazil",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.807476352582589",
+      "lng": "-32.380764484405525"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0ef569bd-a9f7-4e6f-a5a0-35f25ce03b3f",
+    "name": "Naufragio Do Moreia",
+    "location": {
+      "country": "Brazil",
+      "region": "Laje De Santos, Sao Paulo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-24.317651924372775",
+      "lng": "-46.18064403533936"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0f9ce6a1-7e54-4cdc-a8c6-d236f6ba93e4",
+    "name": "Ponta D&#039;agua",
+    "location": {
+      "country": "Brazil",
+      "region": "Cabo Frio, Rio De Janeiro",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-22.968983177757647",
+      "lng": "-41.999509334564216"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "16fa3f1d-eaa5-4ea0-80e9-1667f3d06e68",
+    "name": "S. Janeco",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilhabela, Sao Paulo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.870611754171193",
+      "lng": "-45.459709167480476"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "16fbc3f6-c8f2-4f60-96ba-6017e7d1b00a",
+    "name": "Pirauna",
+    "location": {
+      "country": "Brazil",
+      "region": "Paraty, Rio De Janeiro",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.34729931216777",
+      "lng": "-44.55230712890626"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "183a0b37-b207-424d-adce-09e6401578a6",
+    "name": "Corveta Camacuan",
+    "location": {
+      "country": "Brazil",
+      "region": "Recife, Pernambuco",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-7.807602562408763",
+      "lng": "-34.71302032470704"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "193ee90b-8412-43f6-8031-5b798363beea",
+    "name": "Ilha Vitória",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Vitoria, Ubatuba",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.743868823619685",
+      "lng": "-45.00995635986328"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1963f007-9440-47b5-96a0-815cbcc88192",
+    "name": "Local Bomb Para Merguilho",
+    "location": {
+      "country": "Brazil",
+      "region": "Itaparica Island, Bahia",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.08416005623241",
+      "lng": "-38.69058609008789"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1d7e6828-e350-40a1-a479-6d4e85ccf5e9",
+    "name": "Ponta Sul De Porcos",
+    "location": {
+      "country": "Brazil",
+      "region": "Cabo Frio, Rio De Janeiro",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-22.970524170293967",
+      "lng": "-41.99560403823853"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1eb80d4b-88d4-4127-80de-665744de0885",
+    "name": "Ens. Escadinha",
+    "location": {
+      "country": "Brazil",
+      "region": "Cabo Frio Island, Cabo Frio",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-22.9831280394008",
+      "lng": "-41.99244976043702"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "203f51b6-98d7-4a17-9056-f0c664b6df20",
+    "name": "Marisco",
+    "location": {
+      "country": "Brazil",
+      "region": "Recife, Pernambuco",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.090502159756342",
+      "lng": "-34.84554290771485"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "205ad46e-8d62-457b-a1c5-9a20740b33a6",
+    "name": "Ressurreta",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Fernando De Noronha, Brazil",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.8165542765484193",
+      "lng": "-32.39132165908814"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "21acb9e9-9b96-4a70-8baf-a1380fa97d03",
+    "name": "The Stone Of Sea",
+    "location": {
+      "country": "Brazil",
+      "region": "Fortaleza, Ceara",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.568247821628616",
+      "lng": "-37.906951904296875"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "228daa45-e5ce-4f62-a7c8-9e11966abb63",
+    "name": "Alfama De Lisboa",
+    "location": {
+      "country": "Brazil",
+      "region": "Recife, Pernambuco",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.201975728982468",
+      "lng": "-34.85996246337891"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "233eee00-b71c-4b89-a5d9-c23809a16267",
+    "name": "Goncalo Coelho",
+    "location": {
+      "country": "Brazil",
+      "region": "Recife, Pernambuco",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.635334050763111",
+      "lng": "-34.78134155273438"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "254c413f-e0df-4691-82bf-cc74c797ba64",
+    "name": "Praia Vermelha",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Grande, Angra Dos Reis",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.158038060498196",
+      "lng": "-44.351463317871094"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "26338cce-ddd6-4c5c-a98a-76eadd282343",
+    "name": "Criminal&#039;s Tip",
+    "location": {
+      "country": "Brazil",
+      "region": "Cabo Frio, Rio De Janeiro",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-22.738551471336976",
+      "lng": "-41.874972861260176"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "27a6507a-7a47-4838-8056-bbf116d21ee4",
+    "name": "Ponta De Macaxeira",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Fernando De Noronha, Brazil",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.8109876364241844",
+      "lng": "-32.37561464309693"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2d9f891e-e524-4af6-aa65-745dfe6f5794",
+    "name": "Vapor 48",
+    "location": {
+      "country": "Brazil",
+      "region": "Recife, Pernambuco",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.023875158625879",
+      "lng": "-34.71439361572266"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2e45680a-af1b-4eba-8f35-dbc756837171",
+    "name": "Cavo Arthemids",
+    "location": {
+      "country": "Brazil",
+      "region": "Salvador, Bahia",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.056402497014313",
+      "lng": "-38.49557876586915"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2f71091f-7e6c-4477-b505-b3af94eefcce",
+    "name": "N. Rebocador",
+    "location": {
+      "country": "Brazil",
+      "region": "Cabo Frio, Rio De Janeiro",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-22.972539287872955",
+      "lng": "-42.008060216903694"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2fe611ef-6dbf-4086-a5f1-fb586437bade",
+    "name": "Cabeco Da Sapata",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Fernando De Noronha, Brazil",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.878384364290133",
+      "lng": "-32.48092889785767"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "31143d43-ed56-4dea-a6e9-2cbb61cd367c",
+    "name": "Pedra Do Ada",
+    "location": {
+      "country": "Brazil",
+      "region": "Porto De Galinhas, Ipojuca",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.483578130244204",
+      "lng": "-34.95592117309571"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3261bc8d-9f67-4cef-9e8e-1268f080d527",
+    "name": "Pontal Do Norte",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Fernando De Noronha, Brazil",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.801138877213661",
+      "lng": "-32.38531351089478"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "34fe056e-d682-4ee9-9442-bbc82197e46b",
+    "name": "Trinta Réis",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Fernando De Noronha, Brazil",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.868557791386934",
+      "lng": "-32.40953922271729"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "38861386-70c6-4a53-a23c-611e17b12530",
+    "name": "Lage Do Matariz",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Grande, Angra Dos Reis",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.114154270852755",
+      "lng": "-44.273185729980476"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "38a4face-ecab-4210-aabb-8b30d9307fed",
+    "name": "Arabianas Canal",
+    "location": {
+      "country": "Brazil",
+      "region": "Fortaleza, Ceara",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.266661411611602",
+      "lng": "-37.92892456054688"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "39802e0b-dfa5-41f5-b178-94a1e17771ba",
+    "name": "Ponta Da Parnaioca",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Grande, Angra Dos Reis",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.204747448135993",
+      "lng": "-44.26168441772462"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "39f9f164-b2c0-4862-a0e6-21b3dfff861f",
+    "name": "Ponta Leste",
+    "location": {
+      "country": "Brazil",
+      "region": "Laje De Santos, Sao Paulo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-24.317417277699754",
+      "lng": "-46.17976427078248"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3bd2abf5-5f1d-471b-bea7-d077b446ecdb",
+    "name": "Baia Das Tartarugas",
+    "location": {
+      "country": "Brazil",
+      "region": "Arvoredo Island, Santa Catarina",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.28918891076542",
+      "lng": "-48.369112014770515"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3cd762c6-52b0-446e-a481-416004f31667",
+    "name": "Lage Branca",
+    "location": {
+      "country": "Brazil",
+      "region": "Queimada Island, Angra Dos Reis",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.09110163967479",
+      "lng": "-44.31283950805665"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3e67fd8f-ff27-49b7-9f1d-cc0667147721",
+    "name": "Chapeirao Jean Pierre",
+    "location": {
+      "country": "Brazil",
+      "region": "Abrolhos Islands, Bahia",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-17.976528810579005",
+      "lng": "-38.680930137634284"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3ea6c044-bdfc-41b7-a40c-b9f9b75b7e79",
+    "name": "Ilha Da Viuvinha",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Fernando De Noronha, Brazil",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.8251182678098665",
+      "lng": "-32.40239381790162"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3fcbde84-2688-44a5-af5c-ec803bd165db",
+    "name": "Caldeiros",
+    "location": {
+      "country": "Brazil",
+      "region": "Abrolhos Islands, Bahia",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-17.961832874346843",
+      "lng": "-38.704898357391365"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3fe252db-498b-4434-a724-48cfacb5f1be",
+    "name": "B 18",
+    "location": {
+      "country": "Brazil",
+      "region": "Recife, Pernambuco",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.285560419445781",
+      "lng": "-34.83215332031251"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "416738c3-08e1-4b95-9973-8c127754898e",
+    "name": "Cagarras Fundas",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Fernando De Noronha, Brazil",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.8090178935943673",
+      "lng": "-32.3948621749878"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "424768ff-053e-4f6a-8b22-06ea74f8bf67",
+    "name": "Servermar X",
+    "location": {
+      "country": "Brazil",
+      "region": "Recife, Pernambuco",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.146242825034385",
+      "lng": "-34.79541778564454"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "434d37fb-4ef3-4da7-b403-41b970ce81e9",
+    "name": "Cagarras Rasa",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Fernando De Noronha, Brazil",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.8124435303993573",
+      "lng": "-32.39690065383912"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "46f427b0-d457-446e-a779-f016861e2d5c",
+    "name": "Buraco Das Cabras",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Fernando De Noronha, Brazil",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.8174963197706533",
+      "lng": "-32.38591432571412"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "47e0d1cd-93c9-4245-8b34-ee575376be6c",
+    "name": "Saco Do Ferreiro",
+    "location": {
+      "country": "Brazil",
+      "region": "Cabo Frio Island, Cabo Frio",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.002959959968628",
+      "lng": "-41.98069095611573"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "485f49db-a854-45f7-bbb5-8973f8545071",
+    "name": "Saco Do Farol",
+    "location": {
+      "country": "Brazil",
+      "region": "Arvoredo Island, Santa Catarina",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.296129996884847",
+      "lng": "-48.36164474487305"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "49b96396-4950-40f7-8f0d-ea38ff116eff",
+    "name": "Pecem Ship",
+    "location": {
+      "country": "Brazil",
+      "region": "Fortaleza, Ceara",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.159713127273666",
+      "lng": "-38.23379516601563"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4c7ddb6c-5de8-44a6-ac2b-1efe96fd38a9",
+    "name": "Capim Acu",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Fernando De Noronha, Brazil",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.8842930982378343",
+      "lng": "-32.46082305908204"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4ff051d7-c925-49d9-a575-8185f679193f",
+    "name": "Chapeirao Da Sueste",
+    "location": {
+      "country": "Brazil",
+      "region": "Abrolhos Islands, Bahia",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-17.978243256828225",
+      "lng": "-38.70333194732667"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4ff347bc-450f-48a0-a2a8-2819e4a8d7b5",
+    "name": "Vapor Florida",
+    "location": {
+      "country": "Brazil",
+      "region": "Recife, Pernambuco",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-7.9279947192459",
+      "lng": "-34.704093933105476"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "50334dbf-f126-49d9-9be9-732965d68223",
+    "name": "Cabeco De Caieiras",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Fernando De Noronha, Brazil",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.839419942315946",
+      "lng": "-32.39458322525025"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "51c62ba6-9479-4da4-9f07-8e93ec47bde7",
+    "name": "Ilha Do Frade",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Fernando De Noronha, Brazil",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.8627131743503784",
+      "lng": "-32.398703098297126"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5244d693-bcd2-4c15-add5-07a4f5f31985",
+    "name": "Chapeirao Mau Mau",
+    "location": {
+      "country": "Brazil",
+      "region": "Abrolhos Islands, Bahia",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-17.96995661243263",
+      "lng": "-38.69382619857789"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5447bc27-d250-4b12-aac4-ea4eef144eca",
+    "name": "Sala De Aula",
+    "location": {
+      "country": "Brazil",
+      "region": "Salvador, Bahia",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.004557745339769",
+      "lng": "-38.387260437011726"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "56e83063-d9c1-4e5d-97f7-3e24c697082b",
+    "name": "Fenda Da Camarinha",
+    "location": {
+      "country": "Brazil",
+      "region": "Cabo Frio Island, Cabo Frio",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.016627276809007",
+      "lng": "-42.006011009216316"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5a41d0b9-87be-43d7-a968-616e72e19ce5",
+    "name": "Naufragio Do Dragao",
+    "location": {
+      "country": "Brazil",
+      "region": "Maceio, Alagoas",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-9.771317839561167",
+      "lng": "-35.56892395019532"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5abf86b0-4d3c-40b6-97c3-51deba6b9f56",
+    "name": "Ilha Das Couves",
+    "location": {
+      "country": "Brazil",
+      "region": "Ubatuba, Sao Paulo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.422455907036813",
+      "lng": "-44.85786437988282"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5ae536a2-fb1d-430b-bef3-a19958168c25",
+    "name": "N. Harlingem",
+    "location": {
+      "country": "Brazil",
+      "region": "Brazil, South America",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-22.996086277507416",
+      "lng": "-42.02043056488038"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5b1c2b09-8a2b-4851-88a8-0a661198cf31",
+    "name": "Lage Two Flooded 50 Meters",
+    "location": {
+      "country": "Brazil",
+      "region": "Cabo Frio, Rio De Janeiro",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-22.74560609501654",
+      "lng": "-41.818529963493354"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5be6e886-19ee-4e5d-8136-ab2272f414fc",
+    "name": "Batelao De Cima",
+    "location": {
+      "country": "Brazil",
+      "region": "Recife, Pernambuco",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.100019405909643",
+      "lng": "-34.71576690673829"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5cef3633-568e-416d-b961-f795559d9f51",
+    "name": "Crest",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilhabela, Sao Paulo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.88207062233755",
+      "lng": "-45.46588897705078"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5ebd1cb3-39d9-4c45-abf1-6b732b1141ae",
+    "name": "Ilha De Jorge Grego",
+    "location": {
+      "country": "Brazil",
+      "region": "Angra Dos Reis, Rio De Janeiro",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.219656300381196",
+      "lng": "-44.149332046508796"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5ed835cb-1ea3-4bf5-a8df-a540e37874cd",
+    "name": "Lage Do Guriri",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Grande, Angra Dos Reis",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.17918554649183",
+      "lng": "-44.09285545349121"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5f12a55a-14bd-4a96-8ed1-dec5b836d129",
+    "name": "Cabeco Das Cordas",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Fernando De Noronha, Brazil",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.803965054420254",
+      "lng": "-32.375528812408454"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5f72b916-2891-4e15-bdf8-cf2e34a4dc9a",
+    "name": "Cabeco Submarino",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Fernando De Noronha, Brazil",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.8726468584606573",
+      "lng": "-32.41466760635377"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "601b001f-3b0e-4d8a-8bce-1a2c0d6d9c62",
+    "name": "Bolo",
+    "location": {
+      "country": "Brazil",
+      "region": "Porto De Galinhas, Ipojuca",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.546053214030396",
+      "lng": "-34.97819423675538"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "62bf2cda-1292-4b19-b86a-c116d669cedc",
+    "name": "Ponta De Gabriel",
+    "location": {
+      "country": "Brazil",
+      "region": "Cabo Frio, Rio De Janeiro",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-22.957840093669173",
+      "lng": "-42.02094554901124"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6775ede0-c8fe-4c1c-9b6d-c7b72f720882",
+    "name": "Oratorio",
+    "location": {
+      "country": "Brazil",
+      "region": "Cabo Frio Island, Cabo Frio",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.007305210809236",
+      "lng": "-41.99038982391358"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "686d493b-b52e-4c17-8e99-d9d74c905802",
+    "name": "Galeao Sacramento",
+    "location": {
+      "country": "Brazil",
+      "region": "Salvador, Bahia",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.033993517307389",
+      "lng": "-38.48047256469727"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6b308892-22da-4d06-a9d7-c12f9d9d5d76",
+    "name": "Minuano",
+    "location": {
+      "country": "Brazil",
+      "region": "Recife, Pernambuco",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.183625511077551",
+      "lng": "-34.7658920288086"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6c6b5eb0-4e36-44c0-882b-3cb14f14c458",
+    "name": "Saco Do Cherne",
+    "location": {
+      "country": "Brazil",
+      "region": "Cabo Frio, Rio De Janeiro",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-22.95736589951059",
+      "lng": "-41.99659109115601"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "70cf0af2-c3f4-404f-b1b3-1c0af1e730d0",
+    "name": "Morro De Fora",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Fernando De Noronha, Brazil",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.836465424373085",
+      "lng": "-32.41126656532288"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "70df0b5a-b0c6-4789-a71f-3bd1f394601d",
+    "name": "Quadrado Da Gipoia",
+    "location": {
+      "country": "Brazil",
+      "region": "Gipoia Island, Angra Dos Reis",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.043088952569715",
+      "lng": "-44.34253692626953"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7100f454-0af7-43c5-934b-aaa34e0487c3",
+    "name": "Poco Da Paixao",
+    "location": {
+      "country": "Brazil",
+      "region": "Porto De Galinhas, Ipojuca",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.530095875010666",
+      "lng": "-34.98956680297852"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "72762928-8ca6-4637-b9fb-163f01b997b0",
+    "name": "Benco Da Panela",
+    "location": {
+      "country": "Brazil",
+      "region": "Salvador, Bahia",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.964245142762644",
+      "lng": "-38.523645401000984"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "72a18d92-7de1-49ac-ad49-335d93d8efed",
+    "name": "Paraiso",
+    "location": {
+      "country": "Brazil",
+      "region": "Arvoredo Island, Santa Catarina",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.286194956734125",
+      "lng": "-48.37050676345826"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "74160f13-9274-4f73-aed1-1dd3b3a175a9",
+    "name": "Urucania",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilhabela, Sao Paulo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.92569921163719",
+      "lng": "-45.46880722045899"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "74d796d6-f25b-4de2-85d3-d9b21a1b3023",
+    "name": "Cordilheira",
+    "location": {
+      "country": "Brazil",
+      "region": "Salvador, Bahia",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.0100772188756",
+      "lng": "-38.42442512512208"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "74f6728e-f91e-43f0-916e-8e7628331dc9",
+    "name": "Rocky Reef",
+    "location": {
+      "country": "Brazil",
+      "region": "Praia Vermelha, Rio De Janeiro",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-22.957128801807887",
+      "lng": "-43.16238641738892"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "74fc1a11-b601-4228-902b-ba6bf59bc1e7",
+    "name": "Saco Do Capim",
+    "location": {
+      "country": "Brazil",
+      "region": "Arvoredo Island, Santa Catarina",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.2843070079255",
+      "lng": "-48.3739185333252"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "771e08f6-40ed-4299-aa92-29db07f68070",
+    "name": "Cabo Frio",
+    "location": {
+      "country": "Brazil",
+      "region": "Salvador, Bahia",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.021784786302488",
+      "lng": "-38.537893295288086"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "77a6187e-dee6-4d5b-9ea0-48705752ecf8",
+    "name": "Concar",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilhabela, Sao Paulo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.928837391158005",
+      "lng": "-45.208568572998054"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "77d32166-831b-4ad3-bfcb-982f18aa8ac4",
+    "name": "France",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilhabela, Sao Paulo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.968058197465478",
+      "lng": "-45.224361419677734"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7c29d1e8-9c01-4513-80e7-dc9d880023f2",
+    "name": "Pedras Secas",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Fernando De Noronha, Brazil",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.8376215413070214",
+      "lng": "-32.38394021987916"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7dead2f3-28f7-4fb9-bfc1-50fc0b0a7a8c",
+    "name": "Parque Da Galheta",
+    "location": {
+      "country": "Brazil",
+      "region": "Bombinhas, Santa Catarina",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.124229873417093",
+      "lng": "-48.50944519042969"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7e7ff699-a272-4ddf-be9d-dcbf52bd5941",
+    "name": "Portinho",
+    "location": {
+      "country": "Brazil",
+      "region": "Laje De Santos, Sao Paulo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-24.31925533168269",
+      "lng": "-46.18221044540406"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "81049916-d173-4642-ab86-bca241b15c98",
+    "name": "Pinguino Wreck",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Grande, Angra Dos Reis",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.12709990340347",
+      "lng": "-44.287776947021484"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "816356ae-1521-4cbe-984b-de28a71da327",
+    "name": "Mato Verde",
+    "location": {
+      "country": "Brazil",
+      "region": "Abrolhos Islands, Bahia",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-17.965629441648257",
+      "lng": "-38.70219469070435"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8210209a-e4b4-4ec5-92af-8a174a91a403",
+    "name": "Buracas",
+    "location": {
+      "country": "Brazil",
+      "region": "Bahia, Brazil",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-17.88204530227918",
+      "lng": "-38.60458374023438"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "83ea788c-24a9-4512-85ae-5ba050ddd035",
+    "name": "Anchors The Sanctuary Of The Turtles",
+    "location": {
+      "country": "Brazil",
+      "region": "Cabo Frio, Rio De Janeiro",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-22.770647917725718",
+      "lng": "-41.786668002605445"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "860481a7-e6b1-4e60-b3e7-895a3c6067eb",
+    "name": "Blackadder",
+    "location": {
+      "country": "Brazil",
+      "region": "Salvador, Bahia",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.951196510612728",
+      "lng": "-38.51454734802247"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "883040f6-2623-478a-b271-1a9c0c5c04d5",
+    "name": "Buraco De Mero",
+    "location": {
+      "country": "Brazil",
+      "region": "Cabo Frio Island, Cabo Frio",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.008648260033706",
+      "lng": "-41.98438167572022"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8b2cc59b-3ab8-4b13-8e71-350e53540d46",
+    "name": "Galeao Sao Paulo",
+    "location": {
+      "country": "Brazil",
+      "region": "Recife, Pernambuco",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.347388083076336",
+      "lng": "-34.76211547851563"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8b9abc36-eb0f-4130-af2a-b02653ab0b87",
+    "name": "Naufragio Thetis",
+    "location": {
+      "country": "Brazil",
+      "region": "Cabo Frio Island, Cabo Frio",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.007463217294212",
+      "lng": "-42.011761665344245"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8c638db6-8bb6-4111-bbea-26ed8f0f7893",
+    "name": "Ens. Das Paredes",
+    "location": {
+      "country": "Brazil",
+      "region": "Cabo Frio Island, Cabo Frio",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.019708156973397",
+      "lng": "-42.00111865997315"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8d90bf2e-54da-4c2f-ba2c-02c97c093622",
+    "name": "Guadiana",
+    "location": {
+      "country": "Brazil",
+      "region": "Abrolhos Islands, Bahia",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-17.947217370290865",
+      "lng": "-38.71006965637208"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8dfdae89-1832-4ea1-a80e-1ef235a9fa3a",
+    "name": "Ilha De Alcatrazes",
+    "location": {
+      "country": "Brazil",
+      "region": "Brazil, South America",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.46060842717123",
+      "lng": "-42.442565481141386"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8e243d51-0820-494d-898a-77f895f64977",
+    "name": "Risca Do Meio Rock",
+    "location": {
+      "country": "Brazil",
+      "region": "Fortaleza, Ceara",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.4668157512807953",
+      "lng": "-37.981109619140625"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8efe180c-38ed-4f61-afb4-f368f77740b8",
+    "name": "Ponta Do Farol",
+    "location": {
+      "country": "Brazil",
+      "region": "Arvoredo Island, Santa Catarina",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.299714783529296",
+      "lng": "-48.35812568664551"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8f2d61fa-f72a-4fac-bbbd-22844e72191e",
+    "name": "Batente Das Agulhas",
+    "location": {
+      "country": "Brazil",
+      "region": "Natal, Rio Grande Do Norte",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-5.736200166430945",
+      "lng": "-35.17448906452046"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "94045d40-cbd4-4af9-86ed-604c92dc4b77",
+    "name": "Praia Do Ribeiro",
+    "location": {
+      "country": "Brazil",
+      "region": "Bombinhas, Santa Catarina",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.13981255901822",
+      "lng": "-48.49708557128907"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "94911d41-dc4a-4fd7-9b98-c7b67841c6d4",
+    "name": "Vapor De Baixo",
+    "location": {
+      "country": "Brazil",
+      "region": "Recife, Pernambuco",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.06670806173765",
+      "lng": "-34.7878646850586"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "97bd7cd4-0114-491c-9700-8fb607c5bd30",
+    "name": "Ilhas Duas Irmãs",
+    "location": {
+      "country": "Brazil",
+      "region": "Angra Dos Reis, Rio De Janeiro",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.034716566291756",
+      "lng": "-44.27936553955078"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "98a5ab5d-b227-4088-923a-29d4101bb98e",
+    "name": "Saco Abobrinha",
+    "location": {
+      "country": "Brazil",
+      "region": "Cabo Frio Island, Cabo Frio",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-22.987710973031202",
+      "lng": "-41.99862957000733"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "999b700e-151e-422b-87b0-9b44700eb505",
+    "name": "Ilha Do Frances",
+    "location": {
+      "country": "Brazil",
+      "region": "Cabo Frio, Rio De Janeiro",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-22.982495898421853",
+      "lng": "-42.03579425811768"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9c2a4e24-00b6-43df-ae92-76bc9ab1be6f",
+    "name": "Chata De Noronha",
+    "location": {
+      "country": "Brazil",
+      "region": "Recife, Pernambuco",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-7.773587170836495",
+      "lng": "-34.74735260009766"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9ca01cbb-5a03-4b8e-86ba-037775811f22",
+    "name": "Lupus",
+    "location": {
+      "country": "Brazil",
+      "region": "Recife, Pernambuco",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.216247535155874",
+      "lng": "-34.68830108642579"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9cb96ec9-6712-47b5-97ca-8b0054cc5e1e",
+    "name": "Ugly Island",
+    "location": {
+      "country": "Brazil",
+      "region": "Cabo Frio, Rio De Janeiro",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-22.723579559315734",
+      "lng": "-41.92225232720376"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9d57e861-fa46-42ec-9a62-94b80b7eb28d",
+    "name": "Pirapama",
+    "location": {
+      "country": "Brazil",
+      "region": "Recife, Pernambuco",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-7.99123753451218",
+      "lng": "-34.74735260009766"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a24c33d8-5ce9-4a41-8f32-f5c192c4bd81",
+    "name": "Principe Das Asturias",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilhabela, Sao Paulo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.987193619719303",
+      "lng": "-45.245990753173835"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a2e1f753-4c95-4994-a63d-4cb14e088058",
+    "name": "Guararapes",
+    "location": {
+      "country": "Brazil",
+      "region": "Recife, Pernambuco",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-7.807602562408763",
+      "lng": "-34.794731140136726"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a5011791-5454-4fd1-8505-b2096d19e14b",
+    "name": "Costao Do Farol",
+    "location": {
+      "country": "Brazil",
+      "region": "Abrolhos Islands, Bahia",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-17.966200960844972",
+      "lng": "-38.69502782821656"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a5140b73-7e88-4ce0-891f-4bd5284ad670",
+    "name": "Urca",
+    "location": {
+      "country": "Brazil",
+      "region": "Praia Vermelha, Rio De Janeiro",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-22.95384890761542",
+      "lng": "-43.16234350204468"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a5589e1a-55d1-4cef-90b3-765a2154cb90",
+    "name": "Gruta Azul",
+    "location": {
+      "country": "Brazil",
+      "region": "Cabo Frio Island, Cabo Frio",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.004066037093477",
+      "lng": "-42.01519489288331"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a68c4574-7558-4232-a055-5420622817eb",
+    "name": "Caverna Do Coelho",
+    "location": {
+      "country": "Brazil",
+      "region": "Cabo Frio Island, Cabo Frio",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.01283532768566",
+      "lng": "-42.009530067443855"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a6d1dd25-5450-42dd-b74f-4f916fe15986",
+    "name": "N. Teixeirinha",
+    "location": {
+      "country": "Brazil",
+      "region": "Cabo Frio, Rio De Janeiro",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-22.96013200866575",
+      "lng": "-41.99315786361695"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a6da642b-db16-4ff7-b4af-6e075f03f22a",
+    "name": "Parana",
+    "location": {
+      "country": "Brazil",
+      "region": "Salvador, Bahia",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.979133130990242",
+      "lng": "-38.346061706542976"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a84a07bf-c733-430f-803f-78a0f46953ac",
+    "name": "Boca De Baleia",
+    "location": {
+      "country": "Brazil",
+      "region": "Laje De Santos, Sao Paulo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-24.318277646711135",
+      "lng": "-46.17974281311036"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a93c96a5-7e00-419c-9d18-eea7c09c445a",
+    "name": "Naufragio Do Porto",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Fernando De Noronha, Brazil",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.8313699273994",
+      "lng": "-32.40078449249268"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "aaa0d29a-9bb3-4a83-88a8-7e8bc8b99184",
+    "name": "Portinho Norte",
+    "location": {
+      "country": "Brazil",
+      "region": "Abrolhos Islands, Bahia",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-17.962690170866804",
+      "lng": "-38.695371150970466"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "abcf60da-fc48-4605-9a61-56e17fab745c",
+    "name": "Calhaus &quot;lado De Fora&quot;",
+    "location": {
+      "country": "Brazil",
+      "region": "Calhaus, Laje De Santos",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-24.329852952903927",
+      "lng": "-46.161589622497566"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ac0cc818-27d2-4406-854e-d8f9a586cf7f",
+    "name": "Gravestones Island",
+    "location": {
+      "country": "Brazil",
+      "region": "Cabo Frio, Rio De Janeiro",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-22.77396562396413",
+      "lng": "-41.823234558105476"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "acdbb777-1705-49af-b4b4-8f435963f58b",
+    "name": "Iuias",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Fernando De Noronha, Brazil",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.8816384547673124",
+      "lng": "-32.42282152175904"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ad2e0452-e4bc-43ef-b1c2-647cde173c78",
+    "name": "Saco Do Batismo",
+    "location": {
+      "country": "Brazil",
+      "region": "Arvoredo Island, Santa Catarina",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.284612133139188",
+      "lng": "-48.371343612670906"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "af6f7d0f-da53-4d88-a0bb-44060a115056",
+    "name": "Aymore",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilhabela, Sao Paulo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.839055384197085",
+      "lng": "-45.44116973876954"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b0fdd020-368c-4cac-a4e7-4baf5e1ab104",
+    "name": "Praia Do Lázaro ",
+    "location": {
+      "country": "Brazil",
+      "region": "Ubatuba, Sao Paulo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.508667933504782",
+      "lng": "-45.13947486877442"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b1d3cbee-823d-4433-acbd-c3f0a347d965",
+    "name": "Titanzinho Ship",
+    "location": {
+      "country": "Brazil",
+      "region": "Fortaleza, Ceara",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.661445806215082",
+      "lng": "-38.214569091796875"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b4f9a887-0446-4299-98a6-04bd38652c0f",
+    "name": "D.n.o.g.",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Grande, Angra Dos Reis",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.141622784689872",
+      "lng": "-44.050712585449226"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b7f42bd6-0170-48cd-80b5-78e1b78b5ddc",
+    "name": "Siegmound",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilhabela, Sao Paulo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.895254913798336",
+      "lng": "-45.47893524169922"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b872152b-da09-4969-8ff8-63c85152c6f9",
+    "name": "Corveta V17",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Fernando De Noronha, Brazil",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.8527793739529774",
+      "lng": "-32.45234727859498"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "baffd4dc-b72f-4b33-ae8f-4332b35d12c7",
+    "name": "Porcos De Fora",
+    "location": {
+      "country": "Brazil",
+      "region": "Cabo Frio, Rio De Janeiro",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-22.961475526985673",
+      "lng": "-41.987535953521736"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bd5f97e3-a6f0-4c4c-a586-ea11bb7f9c94",
+    "name": "Imperial Marinheiro",
+    "location": {
+      "country": "Brazil",
+      "region": "Restinga Da Marambaia, Rio De Janeiro",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.067729182262493",
+      "lng": "-44.00470733642578"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "be3c0aed-d257-493f-b162-899723a3fe73",
+    "name": "Campoc",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilhabela, Sao Paulo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.949547462796673",
+      "lng": "-45.45095443725587"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bf8e2144-6abc-4974-9c4b-2960ec974055",
+    "name": "Hathor",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilhabela, Sao Paulo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.953626327498927",
+      "lng": "-45.39911270141602"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c08bf73c-50c8-4f13-bff6-0c5ab051438b",
+    "name": "Caverna De Sapata",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Fernando De Noronha, Brazil",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.872218684823592",
+      "lng": "-32.47792482376099"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c14521d4-2752-4467-ac94-b021b40784fe",
+    "name": "Washburne",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilhabela, Sao Paulo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.956763827953456",
+      "lng": "-45.298519134521484"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c2c13653-96ee-455f-9fe6-b3705d1677aa",
+    "name": "Piscinas Naturais ",
+    "location": {
+      "country": "Brazil",
+      "region": "Porto De Galinhas, Ipojuca",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.505500745647494",
+      "lng": "-34.99885797500611"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c4973943-5847-4573-a89f-82e7599aab3c",
+    "name": "Ponta De Porto Belo",
+    "location": {
+      "country": "Brazil",
+      "region": "Bombinhas, Santa Catarina",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.108033801463105",
+      "lng": "-48.50635528564454"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c6392228-2168-42be-b071-989f172bc697",
+    "name": "Saco Do Vidal",
+    "location": {
+      "country": "Brazil",
+      "region": "Arvoredo Island, Santa Catarina",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.297350362780364",
+      "lng": "-48.36078643798828"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c8d79a7d-5103-4ec2-ac44-a2988484e69f",
+    "name": "Trilao",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilhabela, Sao Paulo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.905926927314724",
+      "lng": "-45.208568572998054"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cab4a9f1-ac0d-4226-85e4-90f03f52c28d",
+    "name": "Parrachos De Maracajaú",
+    "location": {
+      "country": "Brazil",
+      "region": "Natal, Rio Grande Do Norte",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-5.326174731029576",
+      "lng": "-35.29907226562501"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cbd808c5-0786-4106-9c32-4bec433700d2",
+    "name": "Cavernas Da Siriba",
+    "location": {
+      "country": "Brazil",
+      "region": "Abrolhos Islands, Bahia",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-17.972303854130313",
+      "lng": "-38.70906114578247"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cbe48343-7f4f-4f6e-8eff-f3710d76b9a2",
+    "name": "Santa Catarina",
+    "location": {
+      "country": "Brazil",
+      "region": "Abrolhos Islands, Bahia",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-17.99963161491187",
+      "lng": "-38.7062931060791"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cde5f79b-d750-4acf-9dbe-804aafd5dde7",
+    "name": "Paulista",
+    "location": {
+      "country": "Brazil",
+      "region": "Paraty, Rio De Janeiro",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.213582524373837",
+      "lng": "-44.54475402832031"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ceca63e8-5564-4666-b41c-9772db53ca53",
+    "name": "Fortaleza",
+    "location": {
+      "country": "Brazil",
+      "region": "Cabo Frio, Rio De Janeiro",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-22.970958806038297",
+      "lng": "-42.01061367988587"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cf583c75-c6ae-4544-a46b-b0530b8c8167",
+    "name": "Ponta Leste",
+    "location": {
+      "country": "Brazil",
+      "region": "Cabo Frio Island, Cabo Frio",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-22.97625334743704",
+      "lng": "-41.97742938995362"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cf713489-d674-481a-ad64-8d56e165720e",
+    "name": "Ens. Do Anequim",
+    "location": {
+      "country": "Brazil",
+      "region": "Cabo Frio Island, Cabo Frio",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-22.97909808998371",
+      "lng": "-41.98721408843995"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d0517615-3490-4db6-877f-4c1e6cd7d9c7",
+    "name": "Naufragio Rosalind",
+    "location": {
+      "country": "Brazil",
+      "region": "Abrolhos Islands, Bahia",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-17.970568939360767",
+      "lng": "-38.68101596832276"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d176265e-3757-4e60-ae14-c655c229edfd",
+    "name": "Lagoinha",
+    "location": {
+      "country": "Brazil",
+      "region": "Bombinhas, Santa Catarina",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.143478757638256",
+      "lng": "-48.48712921142579"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d20088ee-373a-4f6b-8825-b6c2ac99cfd5",
+    "name": "Alvarenga",
+    "location": {
+      "country": "Brazil",
+      "region": "Recife, Pernambuco",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-7.853178844138414",
+      "lng": "-34.76383209228516"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d21ebb86-a487-4022-a5f8-b1b55f34e20e",
+    "name": "Trinta",
+    "location": {
+      "country": "Brazil",
+      "region": "Porto De Galinhas, Ipojuca",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.569308990592026",
+      "lng": "-34.97643470764161"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d2d6e74e-241e-4f79-a3c8-14a9b470a4d3",
+    "name": "Boca Da Barra",
+    "location": {
+      "country": "Brazil",
+      "region": "Porto De Galinhas, Ipojuca",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.495123206808287",
+      "lng": "-34.97995376586915"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d475bf8e-5578-4f9f-bf44-a542ca355aa4",
+    "name": "Ponta Da Aripeba",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Grande, Angra Dos Reis",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.130257185291022",
+      "lng": "-44.29224014282227"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d4ae7232-2d40-4280-b6ec-0dcd80602bfc",
+    "name": "Sepultura",
+    "location": {
+      "country": "Brazil",
+      "region": "Bombinhas, Santa Catarina",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.134924107129386",
+      "lng": "-48.48300933837891"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d50fa17c-f3b6-4368-a572-8f04374d29c9",
+    "name": "Portinho Sul",
+    "location": {
+      "country": "Brazil",
+      "region": "Abrolhos Islands, Bahia",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-17.96534368135669",
+      "lng": "-38.69858980178834"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d70b23ec-ea1c-4ffe-83d6-1d9d2b96068d",
+    "name": "Buraco Do Inferno",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Fernando De Noronha, Brazil",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.807990199893265",
+      "lng": "-32.39054918289185"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d7879ffe-43df-47d1-9f64-b58e01ce7f73",
+    "name": "Ho Mei Iii",
+    "location": {
+      "country": "Brazil",
+      "region": "Salvador, Bahia",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.985489528568463",
+      "lng": "-38.53154182434083"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d9d2b37d-7ab5-401f-ae64-8c0d51a9e580",
+    "name": "Laje Dois Irmaos",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Fernando De Noronha, Brazil",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.8480693418317813",
+      "lng": "-32.44294077157975"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "daae0f5f-ce4d-4909-8111-ffd26a3cfa40",
+    "name": "Therezina",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilhabela, Sao Paulo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.911733388100885",
+      "lng": "-45.48391342163087"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dc2300b2-3b1a-4082-8001-047c0b4e451b",
+    "name": "Ponta Do Bananal",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Grande, Angra Dos Reis",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.106259979652933",
+      "lng": "-44.26134109497071"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dc2b215c-9cf5-4eb0-baa7-3434d91b1a28",
+    "name": "Calhau De Sao Pedro",
+    "location": {
+      "country": "Brazil",
+      "region": "Bombinhas, Santa Catarina",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.244557287171215",
+      "lng": "-48.42945098876954"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dd14b308-d41f-4823-b6b0-4cf2e69a6346",
+    "name": "Saco Do Cardeiro",
+    "location": {
+      "country": "Brazil",
+      "region": "Cabo Frio, Rio De Janeiro",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-22.96609870861827",
+      "lng": "-41.99496030807496"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dd868f65-f75c-454e-879d-b7463eef2995",
+    "name": "Tunel Dos Calhaus",
+    "location": {
+      "country": "Brazil",
+      "region": "Calhaus, Laje De Santos",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-24.33040040741995",
+      "lng": "-46.16347789764404"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ddb6c56c-51e3-4d7b-9ac7-c4662814ca90",
+    "name": "Atilio",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilhabela, Sao Paulo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.965234697856157",
+      "lng": "-45.3709602355957"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ddec0531-fce0-4cce-8ebf-f6eb8ff06bff",
+    "name": "Rio Macahuam",
+    "location": {
+      "country": "Brazil",
+      "region": "Paraty, Rio De Janeiro",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.3100991664464",
+      "lng": "-44.52312469482422"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e1391195-0298-4c71-a9a9-cec967b3922f",
+    "name": "Naufragio Do Leao",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Fernando De Noronha, Brazil",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.8764147771243462",
+      "lng": "-32.433464527130134"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e4be437b-0541-42fd-b9b1-3462a8a9caf9",
+    "name": "Draga Massangana",
+    "location": {
+      "country": "Brazil",
+      "region": "Recife, Pernambuco",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.409885221473996",
+      "lng": "-34.84176635742188"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e52a4aba-d825-4bc8-b934-ade4fc451600",
+    "name": "Dois Rios",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Grande, Angra Dos Reis",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.18644436092351",
+      "lng": "-44.175853729248054"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e548e365-c3db-4ef6-817b-0fdbc10ea408",
+    "name": "Copernico",
+    "location": {
+      "country": "Brazil",
+      "region": "Recife, Pernambuco",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-7.701465437245529",
+      "lng": "-34.68555450439454"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e6a8a0ae-4df5-41db-be8e-37c927d8cf1b",
+    "name": "Estaleiro",
+    "location": {
+      "country": "Brazil",
+      "region": "Bombinhas, Santa Catarina",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.113534617098775",
+      "lng": "-48.521461486816406"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e77e8a8a-5803-4822-8490-e1516da32b16",
+    "name": "Lagoa Verde",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Grande, Angra Dos Reis",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.14085326930329",
+      "lng": "-44.32449102401734"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e780ae7e-a963-4273-b4c8-d0ed0943be9c",
+    "name": "Ponta Do Meio",
+    "location": {
+      "country": "Brazil",
+      "region": "Cabo Frio Island, Cabo Frio",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-22.98723688365961",
+      "lng": "-41.97219371795655"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e7a4aa6c-95c5-4a1e-b082-e720e57d1c44",
+    "name": "East Tip Of Anchor",
+    "location": {
+      "country": "Brazil",
+      "region": "Cabo Frio, Rio De Janeiro",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-22.767042000187757",
+      "lng": "-41.78748674690724"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e8564084-4b77-4cad-b4ac-c5fbe90acad4",
+    "name": "Pedreira Deep",
+    "location": {
+      "country": "Brazil",
+      "region": "State Of Parana, Brazil",
+      "ocean": [
+        "South America",
+        "Brazil",
+        "State Of Parana"
+      ]
+    },
+    "coordinates": {
+      "lat": "-25.410024500992897",
+      "lng": "-49.379940032958984"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ea2782a0-0a7d-48ab-8e36-a99d8e950fac",
+    "name": "Laje Do Aquario",
+    "location": {
+      "country": "Brazil",
+      "region": "Abrolhos Islands, Bahia",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-17.9590160136461",
+      "lng": "-38.71283769607545"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eb67a17b-0add-4537-90eb-9036cf20ecac",
+    "name": "Galeao",
+    "location": {
+      "country": "Brazil",
+      "region": "Porto De Galinhas, Ipojuca",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.584585734190172",
+      "lng": "-34.963560104370124"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ec3e2a46-3ebe-4362-ae6e-1adfddd5cbe9",
+    "name": "Naufrágio Tocantins",
+    "location": {
+      "country": "Brazil",
+      "region": "Snake Island, Sao Paulo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-24.484805223828925",
+      "lng": "-46.678462028503425"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ecd36b8d-30cd-43e1-b7cc-7f9630e1c401",
+    "name": "Ponte Submersa",
+    "location": {
+      "country": "Brazil",
+      "region": "Sacramento, Minas Gerais",
+      "ocean": [
+        "South America",
+        "Brazil",
+        "Minas Gerais",
+        "Sacramento"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.073407109309006",
+      "lng": "-47.41149902343751"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ecdd42f9-8992-4483-a273-a7424097ac60",
+    "name": "Pedreira Pirapora 80M",
+    "location": {
+      "country": "Brazil",
+      "region": "Sao Paulo, Brazil",
+      "ocean": [
+        "South America",
+        "Brazil",
+        "Sao Paulo"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.64657917669068",
+      "lng": "-47.51947402954102"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "edab28ae-6466-42aa-85fd-e0ac355bae3f",
+    "name": "Guarani",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilhabela, Sao Paulo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.974018715727606",
+      "lng": "-45.28547286987305"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ede570d0-f95c-4c6d-a338-873fdceeabd5",
+    "name": "Pradaria Siriba",
+    "location": {
+      "country": "Brazil",
+      "region": "Abrolhos Islands, Bahia",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-17.968772774353155",
+      "lng": "-38.70908260345459"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ef45e890-3bf7-468a-ba9d-cf5462c601e8",
+    "name": "White Island",
+    "location": {
+      "country": "Brazil",
+      "region": "Cabo Frio, Rio De Janeiro",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-22.730583003832646",
+      "lng": "-41.87410835176706"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "efe47322-7574-4bfe-94a3-a0c792ed5733",
+    "name": "Vapor Bahia",
+    "location": {
+      "country": "Brazil",
+      "region": "Recife, Pernambuco",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-7.734125863414585",
+      "lng": "-34.737052917480476"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "effa0acb-7889-484f-a9d5-32511570158c",
+    "name": "Ilha De Meio",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Fernando De Noronha, Brazil",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.8205793630887164",
+      "lng": "-32.395977973937995"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f0b803ba-c97d-42fa-b045-aceb17c87945",
+    "name": "Cabritos",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Fernando De Noronha, Brazil",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-3.82062218305682",
+      "lng": "-32.38829612731934"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f3b0bba8-fe3f-426e-bdcb-6d100cf1b231",
+    "name": "Aquidoba",
+    "location": {
+      "country": "Brazil",
+      "region": "Angra Dos Reis, Rio De Janeiro",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.065202186804893",
+      "lng": "-44.24915313720704"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f44b4cad-ecb6-4bd7-ba9d-330737624acc",
+    "name": "Paredao",
+    "location": {
+      "country": "Brazil",
+      "region": "Laje De Santos, Sao Paulo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-24.320154795197737",
+      "lng": "-46.180815696716316"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f4c67c62-3797-4fef-bcbf-ee1be4aa336b",
+    "name": "Ilha Escalvada",
+    "location": {
+      "country": "Brazil",
+      "region": "Guarapari, Espírito Santo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.700359174976363",
+      "lng": "-40.40668487548829"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f5818263-d9b0-49c8-868b-46702c40ff80",
+    "name": "Lingua Da Siriba",
+    "location": {
+      "country": "Brazil",
+      "region": "Abrolhos Islands, Bahia",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-17.970752637025317",
+      "lng": "-38.71238708496094"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f58a9961-9f7b-483e-8285-5f9fcfe96b44",
+    "name": "Canion Dos Mandis",
+    "location": {
+      "country": "Brazil",
+      "region": "Sacramento, Minas Gerais",
+      "ocean": [
+        "South America",
+        "Brazil",
+        "Minas Gerais",
+        "Sacramento"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.124043879783997",
+      "lng": "-47.31056213378907"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f72fcbe3-211d-424f-973a-e265d65c5c33",
+    "name": "Baia Do Engenho",
+    "location": {
+      "country": "Brazil",
+      "region": "Arvoredo Island, Santa Catarina",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.292545094492723",
+      "lng": "-48.36851119995118"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f7de8b7a-efc7-475c-8e07-d55a6ad259ac",
+    "name": "Areeiro San Martin",
+    "location": {
+      "country": "Brazil",
+      "region": "Recife, Pernambuco",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-7.961997446108489",
+      "lng": "-34.789237976074226"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fb091555-f2cd-4f76-ad26-fae00a97b723",
+    "name": "The Cavo Of Acaia",
+    "location": {
+      "country": "Brazil",
+      "region": "Ilha Grande, Angra Dos Reis",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.174451324926206",
+      "lng": "-44.384422302246094"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fb1645f8-fd1f-4ea7-84bc-2b0dfb9ae585",
+    "name": "Parcel Das Ancoras",
+    "location": {
+      "country": "Brazil",
+      "region": "Laje De Santos, Sao Paulo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-24.32050675744479",
+      "lng": "-46.183583736419685"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fc2db599-9cff-4e5e-baab-9597fac4044f",
+    "name": "Ilhas Botinas",
+    "location": {
+      "country": "Brazil",
+      "region": "Angra Dos Reis, Rio De Janeiro",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.054975267450725",
+      "lng": "-44.32880401611329"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fc6829ad-f87f-417d-964e-7069bb8d601f",
+    "name": "Saco Da Cachorrinha",
+    "location": {
+      "country": "Brazil",
+      "region": "Cabo Frio Island, Cabo Frio",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-22.982574916205984",
+      "lng": "-41.97416782379151"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ffb25769-c508-46a7-8866-ef31e13d32ac",
+    "name": "Parcel Do Coronel",
+    "location": {
+      "country": "Brazil",
+      "region": "Queimada Island, Angra Dos Reis",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-23.101523182154672",
+      "lng": "-44.40124511718751"
+    },
+    "additionalInfo": {}
+  }
+]

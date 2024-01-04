@@ -1,0 +1,467 @@
+[
+  {
+    "id": "0ffb075e-9d90-4a9d-89b2-45841a47dad6",
+    "name": "Rõuge",
+    "location": {
+      "country": "Estonia",
+      "region": "Rõuge, Võrumaa",
+      "ocean": [
+        "Europe",
+        "Estonia",
+        "Võrumaa",
+        "Rõuge"
+      ]
+    },
+    "coordinates": {
+      "lat": "57.73",
+      "lng": "26.9178"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2a9e5c12-37f9-4efd-8075-b7d5acbe30ea",
+    "name": "Panga Pank",
+    "location": {
+      "country": "Estonia",
+      "region": "Liivaranna, Saaremaa",
+      "ocean": [
+        "Europe",
+        "Estonia",
+        "Saaremaa",
+        "Liivaranna"
+      ]
+    },
+    "coordinates": {
+      "lat": "58.5725",
+      "lng": "22.3706"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3ac5732e-d95b-4cf5-b33e-69a426b586f4",
+    "name": "Wreck Polaris",
+    "location": {
+      "country": "Estonia",
+      "region": "Tallinn, Estonia",
+      "ocean": [
+        "Europe",
+        "Estonia",
+        "Tallinn"
+      ]
+    },
+    "coordinates": {
+      "lat": "59.5567",
+      "lng": "24.7366"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3b62afe8-143d-43ad-b2d9-bfc3a7eae176",
+    "name": "Wreck Iljusha",
+    "location": {
+      "country": "Estonia",
+      "region": "Tallinn, Estonia",
+      "ocean": [
+        "Europe",
+        "Estonia",
+        "Tallinn"
+      ]
+    },
+    "coordinates": {
+      "lat": "59.4983",
+      "lng": "24.6978"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3e074d92-033f-43b9-938e-41ac056d81fa",
+    "name": "Kalasadam",
+    "location": {
+      "country": "Estonia",
+      "region": "Tallinn, Estonia",
+      "ocean": [
+        "Europe",
+        "Estonia",
+        "Tallinn"
+      ]
+    },
+    "coordinates": {
+      "lat": "59.4469",
+      "lng": "24.7503"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "43400e28-ee6e-4257-9044-a371842119a1",
+    "name": "Neugrund (Meteorite Crater)",
+    "location": {
+      "country": "Estonia",
+      "region": "Roslep, Lääne County",
+      "ocean": [
+        "Europe",
+        "Estonia",
+        "Lääne County",
+        "Roslep"
+      ]
+    },
+    "coordinates": {
+      "lat": "59.203",
+      "lng": "23.403"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "49ee2bc7-def7-4c0d-8225-53e4a14c3568",
+    "name": "Muraste Kai",
+    "location": {
+      "country": "Estonia",
+      "region": "Muraste, Harju County",
+      "ocean": [
+        "Europe",
+        "Estonia",
+        "Harju County",
+        "Muraste"
+      ]
+    },
+    "coordinates": {
+      "lat": "59.4706",
+      "lng": "24.4502"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5cf7a8e4-12ad-4964-9e2c-c7845a531ef7",
+    "name": "Wreck Stalin",
+    "location": {
+      "country": "Estonia",
+      "region": "Lohusalu, Harju County",
+      "ocean": [
+        "Europe",
+        "Estonia",
+        "Harju County",
+        "Lohusalu"
+      ]
+    },
+    "coordinates": {
+      "lat": "59.4182",
+      "lng": "24.1907"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "67edf273-9902-4c28-b663-b7fc4ec5d256",
+    "name": "Paljassaare",
+    "location": {
+      "country": "Estonia",
+      "region": "Tallinn, Estonia",
+      "ocean": [
+        "Europe",
+        "Estonia",
+        "Tallinn"
+      ]
+    },
+    "coordinates": {
+      "lat": "59.4755",
+      "lng": "24.7256"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "774a047d-5b2c-47c8-b5cf-92e90f2fb75c",
+    "name": "Linnahall",
+    "location": {
+      "country": "Estonia",
+      "region": "Tallinn, Estonia",
+      "ocean": [
+        "Europe",
+        "Estonia",
+        "Tallinn"
+      ]
+    },
+    "coordinates": {
+      "lat": "59.4488",
+      "lng": "24.7545"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "77b5384b-e8df-43b6-99ec-950e59e7f141",
+    "name": "Lennu Sadam",
+    "location": {
+      "country": "Estonia",
+      "region": "Tallinn, Estonia",
+      "ocean": [
+        "Europe",
+        "Estonia",
+        "Tallinn"
+      ]
+    },
+    "coordinates": {
+      "lat": "59.4532",
+      "lng": "24.7375"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7c30936c-b355-4686-8c6c-e211e586b993",
+    "name": "Männiku Quarry",
+    "location": {
+      "country": "Estonia",
+      "region": "Tammemäe, Harju County",
+      "ocean": [
+        "Europe",
+        "Estonia",
+        "Harju County",
+        "Tammemäe"
+      ]
+    },
+    "coordinates": {
+      "lat": "59.317",
+      "lng": "24.6991"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "869a82b9-5a90-4c5a-8c0c-fbe7f152fc65",
+    "name": "Hara",
+    "location": {
+      "country": "Estonia",
+      "region": "Hara, Harju County",
+      "ocean": [
+        "Europe",
+        "Estonia",
+        "Harju County",
+        "Hara"
+      ]
+    },
+    "coordinates": {
+      "lat": "59.5617",
+      "lng": "25.6703"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "90160f01-96a8-4ccc-a6ac-6f404bdb59f9",
+    "name": "Kilekotirand",
+    "location": {
+      "country": "Estonia",
+      "region": "Liivaranna, Saaremaa",
+      "ocean": [
+        "Europe",
+        "Estonia",
+        "Saaremaa",
+        "Liivaranna"
+      ]
+    },
+    "coordinates": {
+      "lat": "58.581",
+      "lng": "22.6413"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9dccc481-52bd-47cd-a842-9f49faf99403",
+    "name": "Wreck Christine",
+    "location": {
+      "country": "Estonia",
+      "region": "Tallinn, Estonia",
+      "ocean": [
+        "Europe",
+        "Estonia",
+        "Tallinn"
+      ]
+    },
+    "coordinates": {
+      "lat": "59.5656",
+      "lng": "24.7251"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a42bfc02-c0a1-4780-bbd8-9977dc5ffba4",
+    "name": "Wreck Heino",
+    "location": {
+      "country": "Estonia",
+      "region": "Tallinn, Estonia",
+      "ocean": [
+        "Europe",
+        "Estonia",
+        "Tallinn"
+      ]
+    },
+    "coordinates": {
+      "lat": "59.5706",
+      "lng": "24.7434"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b82f9e34-c011-473b-ab9c-cce35eda0708",
+    "name": "Udsu",
+    "location": {
+      "country": "Estonia",
+      "region": "Jeti, Valgamaa",
+      "ocean": [
+        "Europe",
+        "Estonia",
+        "Valgamaa",
+        "Jeti"
+      ]
+    },
+    "coordinates": {
+      "lat": "57.9045",
+      "lng": "25.8584"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "beadd826-05d6-442b-ad2c-dda72b06f1bc",
+    "name": "Rummu Quarry",
+    "location": {
+      "country": "Estonia",
+      "region": "Rummu, Harju County",
+      "ocean": [
+        "Europe",
+        "Estonia",
+        "Harju County",
+        "Rummu"
+      ]
+    },
+    "coordinates": {
+      "lat": "59.2262",
+      "lng": "24.232"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cafb3c6f-f99b-4d91-a791-2086fd3c50bc",
+    "name": "Oskar Vrakk",
+    "location": {
+      "country": "Estonia",
+      "region": "Kurevere, Saaremaa",
+      "ocean": [
+        "Europe",
+        "Estonia",
+        "Saaremaa",
+        "Kurevere"
+      ]
+    },
+    "coordinates": {
+      "lat": "58.3924",
+      "lng": "21.9706"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cb1ffdd9-3a19-4073-90c9-aeab5246ad7f",
+    "name": "Veere",
+    "location": {
+      "country": "Estonia",
+      "region": "Tagalaht Bay, Estonia",
+      "ocean": [
+        "Europe",
+        "Estonia",
+        "Tagalaht Bay"
+      ]
+    },
+    "coordinates": {
+      "lat": "58.4823",
+      "lng": "22.0691"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cb50a794-1ac1-4207-8689-2c827156249f",
+    "name": "Saadjärv",
+    "location": {
+      "country": "Estonia",
+      "region": "Saadjärv, Tartumaa",
+      "ocean": [
+        "Europe",
+        "Estonia",
+        "Tartumaa",
+        "Saadjärv"
+      ]
+    },
+    "coordinates": {
+      "lat": "58.5381",
+      "lng": "26.6561"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cc08cf73-c838-40a3-98a4-7b4eaba5d7bc",
+    "name": "Wreck Bungsberg",
+    "location": {
+      "country": "Estonia",
+      "region": "Lõunaküla, Harju County",
+      "ocean": [
+        "Europe",
+        "Estonia",
+        "Harju County",
+        "Lõunaküla"
+      ]
+    },
+    "coordinates": {
+      "lat": "59.5064",
+      "lng": "24.5208"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e0b97392-c8e8-4da8-b30f-2140b62aa15a",
+    "name": "Meeruse Sadam",
+    "location": {
+      "country": "Estonia",
+      "region": "Tallinn, Estonia",
+      "ocean": [
+        "Europe",
+        "Estonia",
+        "Tallinn"
+      ]
+    },
+    "coordinates": {
+      "lat": "59.4516",
+      "lng": "24.6703"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f0af7593-9b11-4cc6-9a5f-553b3a7df40c",
+    "name": "Antu",
+    "location": {
+      "country": "Estonia",
+      "region": "Äntu, Lääne-Virumaa",
+      "ocean": [
+        "Europe",
+        "Estonia",
+        "Lääne-virumaa",
+        "äntu"
+      ]
+    },
+    "coordinates": {
+      "lat": "59.0601",
+      "lng": "26.2399"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f14e3217-da01-487a-afa1-34fcba5d1ead",
+    "name": "Wreck Fomalhaut",
+    "location": {
+      "country": "Estonia",
+      "region": "Lobi, Lääne-Virumaa",
+      "ocean": [
+        "Europe",
+        "Estonia",
+        "Lääne-virumaa",
+        "Lobi"
+      ]
+    },
+    "coordinates": {
+      "lat": "59.6451",
+      "lng": "25.948"
+    },
+    "additionalInfo": {}
+  }
+]

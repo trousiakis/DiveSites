@@ -1,0 +1,147 @@
+[
+  {
+    "id": "0099b1d5-c54e-463f-b796-71aa9a3c87f2",
+    "name": "Poloa",
+    "location": {
+      "country": "Samoa",
+      "region": "Tutuila Island, American Samoa",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-14.311626897191188",
+      "lng": "-170.84941864013675"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3055c68c-3ca6-48f9-879b-a30df84c554b",
+    "name": "Wreck John Williams V",
+    "location": {
+      "country": "Samoa",
+      "region": "Samoa, Oceania",
+      "ocean": [
+        "Oceania",
+        "Samoa"
+      ]
+    },
+    "coordinates": {
+      "lat": "-13.436039789724033",
+      "lng": "-172.36433029174808"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4ac0a5f3-2518-40fd-bd6c-b9b09f256b32",
+    "name": "Utulei",
+    "location": {
+      "country": "Samoa",
+      "region": "Tutuila Island, American Samoa",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-14.28351469859814",
+      "lng": "-170.66891670227054"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5704d2ac-18ca-4d78-a332-f07fdec59c31",
+    "name": "Taema Bank",
+    "location": {
+      "country": "Samoa",
+      "region": "Tutuila Island, American Samoa",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-14.308965537949533",
+      "lng": "-170.64110755920413"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "96955844-a022-4e5f-b470-be588aea8efe",
+    "name": "Larsen Bay",
+    "location": {
+      "country": "Samoa",
+      "region": "Tutuila Island, American Samoa",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-14.37282944484973",
+      "lng": "-170.74968338012698"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "afa77e8f-b1a8-4a4c-a768-95870957acdb",
+    "name": "Coconut Point",
+    "location": {
+      "country": "Samoa",
+      "region": "Tutuila Island, American Samoa",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-14.323103647601293",
+      "lng": "-170.69827079772952"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e9b66b14-4f9a-47f0-bc46-d82b27e93ec9",
+    "name": "Nu&#039;uuli",
+    "location": {
+      "country": "Samoa",
+      "region": "Tutuila Island, American Samoa",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-14.308632865827196",
+      "lng": "-170.68522453308105"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ec86cecc-c7e8-4c25-9bfd-d0ff08131dc2",
+    "name": "Breakers Point",
+    "location": {
+      "country": "Samoa",
+      "region": "Tutuila Island, American Samoa",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-14.294826538409195",
+      "lng": "-170.66119194030765"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ece6b7a0-506c-446e-9f53-35d0ba6e1546",
+    "name": "Leone",
+    "location": {
+      "country": "Samoa",
+      "region": "Tutuila Island, American Samoa",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-14.34189763764009",
+      "lng": "-170.8011817932129"
+    },
+    "additionalInfo": {}
+  }
+]

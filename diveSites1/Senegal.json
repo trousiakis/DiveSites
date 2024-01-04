@@ -1,0 +1,162 @@
+[
+  {
+    "id": "40ede3f1-158c-4706-913a-b3634e5a11d2",
+    "name": "Tacoma",
+    "location": {
+      "country": "Senegal",
+      "region": "Goree Island, Dakar",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "14.67211327279106",
+      "lng": "-17.39642143249512"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4f3c7948-502e-4687-8b23-75ae275d1b76",
+    "name": "Charbonnier",
+    "location": {
+      "country": "Senegal",
+      "region": "Dakar, Senegal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "14.61149163974421",
+      "lng": "-17.40114212036133"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "586c757c-5fe1-4186-9f05-461038bb6a90",
+    "name": "Seminole",
+    "location": {
+      "country": "Senegal",
+      "region": "Dakar, Senegal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "14.620959683338683",
+      "lng": "-17.454957962036136"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "63652c58-0892-44df-830c-635835749cb5",
+    "name": "Aquarium",
+    "location": {
+      "country": "Senegal",
+      "region": "Goree Island, Dakar",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "14.660322432807368",
+      "lng": "-17.4034595489502"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6978bf5e-a9c7-4f38-a3b6-03a9c5ae787b",
+    "name": "Grand Tiouriba",
+    "location": {
+      "country": "Senegal",
+      "region": "Dakar, Senegal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "14.593218823748572",
+      "lng": "-17.459506988525394"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7dfbf1a0-f839-4b70-8b42-ab4d84c3b7e0",
+    "name": "Oceanic",
+    "location": {
+      "country": "Senegal",
+      "region": "Dakar, Senegal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "14.641057159633043",
+      "lng": "-17.417364120483402"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "acf36b42-550f-4339-b92e-a02fb6212429",
+    "name": "Bateau Russe",
+    "location": {
+      "country": "Senegal",
+      "region": "Dakar, Senegal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "14.651686485288948",
+      "lng": "-17.35445022583008"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "baa945e2-f931-492d-b1bf-516736efb335",
+    "name": "Cap Manuel",
+    "location": {
+      "country": "Senegal",
+      "region": "Dakar, Senegal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "14.650856087781966",
+      "lng": "-17.42714881896973"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c4ed3b3a-e946-4df9-85e5-ff3f497527db",
+    "name": "Tiwa",
+    "location": {
+      "country": "Senegal",
+      "region": "Dakar, Senegal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "14.598202469575067",
+      "lng": "-17.432727813720707"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ffb35691-5da1-4605-8a48-7f0b54da3820",
+    "name": "Kounk Diabakh",
+    "location": {
+      "country": "Senegal",
+      "region": "Dakar, Senegal",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "14.59986365976415",
+      "lng": "-17.368869781494144"
+    },
+    "additionalInfo": {}
+  }
+]

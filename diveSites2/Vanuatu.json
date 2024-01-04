@@ -1,0 +1,306 @@
+[
+  {
+    "id": "008ca360-4f7f-43a0-8b23-00befc19e169",
+    "name": "Cindy’S Reef",
+    "location": {
+      "country": "Vanuatu",
+      "region": "Aore, Sanma",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-15.538665353981475",
+      "lng": "167.21886634826663"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "053d447d-d384-457a-bcd5-b6a00a1ce6fe",
+    "name": "Kathleen Reef",
+    "location": {
+      "country": "Vanuatu",
+      "region": "Efate, Vanuatu",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-17.707931941109763",
+      "lng": "168.26685905456546"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "09f64c3e-e731-4147-93c3-b321290b4780",
+    "name": "Uss Tucker Wreck",
+    "location": {
+      "country": "Vanuatu",
+      "region": "Sanma, Vanuatu",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-15.580380032207161",
+      "lng": "167.12882995605472"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0e93c53f-42a5-4ab1-8059-8329b46aeeec",
+    "name": "Hideaway Island Inner Reef",
+    "location": {
+      "country": "Vanuatu",
+      "region": "Sanma, Vanuatu",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-15.526963882035854",
+      "lng": "167.2377920150757"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "18ab21c3-ec4c-4a18-9e56-db3fdeb45ba4",
+    "name": "Coral Gardens",
+    "location": {
+      "country": "Vanuatu",
+      "region": "Efate, Vanuatu",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-17.699336297150357",
+      "lng": "168.25992822647098"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1a6e3d2c-1a35-4f9d-a448-265846ffd53d",
+    "name": "Anchor Reef",
+    "location": {
+      "country": "Vanuatu",
+      "region": "Efate, Vanuatu",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-17.701002310242153",
+      "lng": "168.2606899738312"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1e4c4137-c6b3-4b1b-85a6-3a7ab73334ea",
+    "name": "Million Dollar Point",
+    "location": {
+      "country": "Vanuatu",
+      "region": "Sanma, Vanuatu",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-15.52597150050885",
+      "lng": "167.24534511566165"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2708dc11-6fbc-4c7f-a203-1b94a93ec932",
+    "name": "Mv Henry Bonneaud",
+    "location": {
+      "country": "Vanuatu",
+      "region": "Vanuatu, Melanesia",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-15.599626294751996",
+      "lng": "167.2466583293863"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2b57722a-ecf5-4b30-9130-f847ee4b3303",
+    "name": "Pinnacles",
+    "location": {
+      "country": "Vanuatu",
+      "region": "Efate, Vanuatu",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-17.700123311396453",
+      "lng": "168.26369941234591"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3cfc00b4-08d3-4d32-b972-80a0d850befa",
+    "name": "Aloara Wreck",
+    "location": {
+      "country": "Vanuatu",
+      "region": "Efate, Vanuatu",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-17.699152319296623",
+      "lng": "168.26132833957675"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5f9bb4e7-12af-4cae-9c30-964e9c597c8a",
+    "name": "Oasis Shore",
+    "location": {
+      "country": "Vanuatu",
+      "region": "Efate, Vanuatu",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-17.696172873918677",
+      "lng": "168.26251387596133"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "68884245-b4fd-4449-a573-fca17096ecbb",
+    "name": "Gotham City",
+    "location": {
+      "country": "Vanuatu",
+      "region": "Efate, Vanuatu",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-17.701799538031427",
+      "lng": "168.25037956237796"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8a513626-957e-40fb-8903-360de54e02e4",
+    "name": "White Rock",
+    "location": {
+      "country": "Vanuatu",
+      "region": "Moso, Vanuatu",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-17.56092160777188",
+      "lng": "168.2308101654053"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d19a996f-2881-4f2c-84b4-c18cc2404eea",
+    "name": "Grouper Gutter",
+    "location": {
+      "country": "Vanuatu",
+      "region": "Lelepa, Vanuatu",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-17.59978701181908",
+      "lng": "168.19175720214847"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e506c1e9-7467-4d11-b19e-43fc1e96249f",
+    "name": "Ss President Coolidge",
+    "location": {
+      "country": "Vanuatu",
+      "region": "Sanma, Vanuatu",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-15.523542213078029",
+      "lng": "167.2360056638718"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e7468815-498a-4899-9230-d2be3bb41435",
+    "name": "Lion&#039;s Den",
+    "location": {
+      "country": "Vanuatu",
+      "region": "Efate, Vanuatu",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-17.699918892443442",
+      "lng": "168.2657539844513"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f6a4d1ea-5401-40aa-bece-0171c680d556",
+    "name": "The Wall",
+    "location": {
+      "country": "Vanuatu",
+      "region": "Efate, Vanuatu",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-17.697619163184125",
+      "lng": "168.2606363296509"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f72b6613-4dbe-4fea-ac7f-aa1bd200d151",
+    "name": "Emperor Garden",
+    "location": {
+      "country": "Vanuatu",
+      "region": "Efate, Vanuatu",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-17.7052030476145",
+      "lng": "168.22651863098147"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fed21e8e-a9bc-4f4b-a0a5-3b2d273fa7ee",
+    "name": "Bonzer Wreck",
+    "location": {
+      "country": "Vanuatu",
+      "region": "Efate, Vanuatu",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-17.699694031326267",
+      "lng": "168.26206862926483"
+    },
+    "additionalInfo": {}
+  }
+]

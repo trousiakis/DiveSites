@@ -1,0 +1,19 @@
+[
+  {
+    "id": "8ce64adf-af44-4cd3-a414-ed81d58d9ebf",
+    "name": "Russian Submarine",
+    "location": {
+      "country": "Romania",
+      "region": "Romania, Europe",
+      "ocean": [
+        "Atlantic Ocean",
+        "Black Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.89393401411194",
+      "lng": "28.748474121093754"
+    },
+    "additionalInfo": {}
+  }
+]

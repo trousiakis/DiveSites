@@ -1,0 +1,39 @@
+[
+  {
+    "id": "6860483e-d070-439f-a6c0-92de97eaee43",
+    "name": "Petit-Trou-De-Nippes",
+    "location": {
+      "country": "Haiti",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Haiti",
+        "Nippes",
+        "Anse-à-veau Arrondissement"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.562296519228894",
+      "lng": "-73.56273651123048"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e8c3b0a0-b475-424e-8689-f9f4facf32b7",
+    "name": "Les Arcadins",
+    "location": {
+      "country": "Haiti",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Haiti",
+        "Les Arcadins"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.80751806940864",
+      "lng": "-72.62237548828126"
+    },
+    "additionalInfo": {}
+  }
+]

@@ -1,0 +1,1194 @@
+[
+  {
+    "id": "0032cf9f-7ed7-4f02-b1d5-732cd8142f07",
+    "name": "Sint Annaland",
+    "location": {
+      "country": "Netherlands",
+      "region": "Bruinisse, Schouwen-Duiveland",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Zijpe"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.60799647394001",
+      "lng": "4.104444980621339"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "02334fdd-e6d0-429e-bb59-8fc3eb2bb5c8",
+    "name": "Burghsluis",
+    "location": {
+      "country": "Netherlands",
+      "region": "Burghsluis, Burgh-Haamstede",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Oosterschelde Estuary"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.67469753758887",
+      "lng": "3.757774829864502"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "050a46a5-5443-4ff1-9722-242640eff93d",
+    "name": "Galjoen Zonder Poen",
+    "location": {
+      "country": "Netherlands",
+      "region": "Galjoen Zonder Poen, Wemeldinge",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Oosterschelde Estuary"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.52400484094846",
+      "lng": "3.9902043342590336"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "07803a08-bcfc-422f-bf40-7e62eb690507",
+    "name": "Man O&#039;war Shoals",
+    "location": {
+      "country": "Netherlands",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.644676371059997",
+      "lng": "-63.257474899292"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0b63f79e-8cd1-4efa-b09c-bab7b5bdb472",
+    "name": "Nionplas",
+    "location": {
+      "country": "Netherlands",
+      "region": "Raamsdonksveer, Geertruidenberg",
+      "ocean": [
+        "Europe",
+        "Netherlands",
+        "North Brabant",
+        "Geertruidenberg",
+        "Raamsdonksveer"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.68342572791747",
+      "lng": "4.876213073730469"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "130d79bf-9b2f-42c7-9b87-e35a6a9aa823",
+    "name": "Mr. Michael",
+    "location": {
+      "country": "Netherlands",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.594775889463936",
+      "lng": "-63.27670097351075"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "175d1d0b-63a2-4ced-b6de-fd40950694fb",
+    "name": "Otto Limits",
+    "location": {
+      "country": "Netherlands",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.64353126892245",
+      "lng": "-63.25524330139161"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "194ffc7a-2dae-4850-b365-ce5b8b42da65",
+    "name": "Outer Limits",
+    "location": {
+      "country": "Netherlands",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.620300483184728",
+      "lng": "-63.27670097351075"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1c28ae13-3839-4823-b185-254677703da5",
+    "name": "Hole In The Corner",
+    "location": {
+      "country": "Netherlands",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.627008270947076",
+      "lng": "-63.2155466079712"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1e6ec5e2-dab5-49bc-8085-045932a1028b",
+    "name": "Rays&#039;n&#039; Anchors",
+    "location": {
+      "country": "Netherlands",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.61817357156485",
+      "lng": "-63.26052188873292"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "25061203-c2f1-4aa3-85f9-f58f32964a6f",
+    "name": "Vinkeveense Plassen",
+    "location": {
+      "country": "Netherlands",
+      "region": "Vinkeveense Plassen, De Ronde Venen",
+      "ocean": [
+        "Europe",
+        "Netherlands",
+        "Utrecht",
+        "De Ronde Venen",
+        "Vinkeveense Plassen"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.2422415897263",
+      "lng": "4.950757026672364"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2e9d8443-44c4-4f0a-a0e0-891f71e69f61",
+    "name": "Halverwege",
+    "location": {
+      "country": "Netherlands",
+      "region": "Schouwen-Duiveland, Zeeland",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Oosterschelde Estuary"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.63049857364696",
+      "lng": "3.907077312469483"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "312324ed-8f01-4f41-91d0-6776c109c36c",
+    "name": "Sint Annaland Trap",
+    "location": {
+      "country": "Netherlands",
+      "region": "Bruinisse, Schouwen-Duiveland",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Zijpe"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.60994203384537",
+      "lng": "4.102149009704591"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "31f21a0d-1aed-42f8-8619-c7b86e67f2fa",
+    "name": "Greer Gut",
+    "location": {
+      "country": "Netherlands",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.606965969333817",
+      "lng": "-63.23880672454835"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "329623a4-0896-40c7-86af-ce483c8231e0",
+    "name": "Stijenham",
+    "location": {
+      "country": "Netherlands",
+      "region": "Tholen, Netherlands",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Oosterschelde Estuary"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.521374681396225",
+      "lng": "4.141995906829835"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3b7bff12-7046-434c-bd74-fc6e66b49fea",
+    "name": "Koepeltje",
+    "location": {
+      "country": "Netherlands",
+      "region": "Scharendijke, Schouwen-Duiveland",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Grevelingenmeer"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.73995851850921",
+      "lng": "3.8304519653320317"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3efcabf2-65ef-4d83-ab44-29908c7acd74",
+    "name": "Schelphoek",
+    "location": {
+      "country": "Netherlands",
+      "region": "Schouwen-Duiveland, Zeeland",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Oosterschelde Estuary"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.683984487679204",
+      "lng": "3.8186717033386235"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "42b32f9f-7b39-4456-b5e0-cc50e90a9b23",
+    "name": "Hot Springs",
+    "location": {
+      "country": "Netherlands",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.621363929591233",
+      "lng": "-63.26000690460206"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4337e762-3a7f-4644-8bf8-f9556ed5d68a",
+    "name": "Goese Sas",
+    "location": {
+      "country": "Netherlands",
+      "region": "Goese Sas, Goes",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Oosterschelde Estuary"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.540516635204334",
+      "lng": "3.929393291473389"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "49a6e33f-5edd-4d4b-aeb1-1539950df15a",
+    "name": "Lou&#039;s Ladder/princess Point",
+    "location": {
+      "country": "Netherlands",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.628971478704955",
+      "lng": "-63.25850486755372"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4ed46817-10fe-4939-9a77-9370a5c009f0",
+    "name": "Zeelandbrug",
+    "location": {
+      "country": "Netherlands",
+      "region": "Schouwen-Duiveland, Zeeland",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Oosterschelde Estuary"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.62924652973926",
+      "lng": "3.91413688659668"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4f22b257-9b67-4cd1-b9a0-6a12be96ee8d",
+    "name": "David&#039;s Drop Off",
+    "location": {
+      "country": "Netherlands",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.631343659559057",
+      "lng": "-63.21202754974366"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "550fa89f-2139-4b61-a52e-9ceff8034d8f",
+    "name": "Shark Shoals",
+    "location": {
+      "country": "Netherlands",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.640913865275415",
+      "lng": "-63.27189445495606"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "59d0eb37-8a1d-43d1-a36c-986fecd24ec3",
+    "name": "Grote Hegge",
+    "location": {
+      "country": "Netherlands",
+      "region": "Grote Hegge Lake, Thorn",
+      "ocean": [
+        "Europe",
+        "Netherlands",
+        "Thorn",
+        "Grote Hegge Lake"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.15439717568624",
+      "lng": "5.842494964599609"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "64928f47-d624-405f-be4a-cb117eb5d3eb",
+    "name": "Zonneschijn",
+    "location": {
+      "country": "Netherlands",
+      "region": "Bruinisse, Schouwen-Duiveland",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Zijpe"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.63061844837861",
+      "lng": "4.067237377166749"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6bbeb2ae-b76e-47e5-af96-6897ec125957",
+    "name": "Third Encounter",
+    "location": {
+      "country": "Netherlands",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.603938979311664",
+      "lng": "-63.28339576721192"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6c3a9e20-8ebd-4246-b4fc-cda0ba611c59",
+    "name": "Kattendijke",
+    "location": {
+      "country": "Netherlands",
+      "region": "Galjoen Zonder Poen, Wemeldinge",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Oosterschelde Estuary"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.528963544869825",
+      "lng": "3.964964096252142"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "73cd27a3-0742-4a86-81dd-80166e1d66c0",
+    "name": "Tent Reef Deep",
+    "location": {
+      "country": "Netherlands",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.607456827798732",
+      "lng": "-63.251338005065925"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "76e47b47-26fd-4892-ad31-2200cb4fb962",
+    "name": "Zuidbout",
+    "location": {
+      "country": "Netherlands",
+      "region": "Schouwen-Duiveland, Zeeland",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Oosterschelde Estuary"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.61383290352188",
+      "lng": "3.9589405059814458"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "773276fd-6d7c-42f5-afa2-4f4a62fcd1a6",
+    "name": "Plompetoren",
+    "location": {
+      "country": "Netherlands",
+      "region": "Plompetoren, Burgh-Haamstede",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Oosterschelde Estuary"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.68325277706989",
+      "lng": "3.775434494018555"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "79edba29-0b32-4d3c-8292-fe01e4cdc8ea",
+    "name": "Stavenisse Veerweg",
+    "location": {
+      "country": "Netherlands",
+      "region": "Tholen, Netherlands",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Oosterschelde Estuary"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.595761522502364",
+      "lng": "4.0070486068725595"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7a789529-6e28-4785-a5dc-e53f466a4381",
+    "name": "Big Rock Market",
+    "location": {
+      "country": "Netherlands",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.606884159459913",
+      "lng": "-63.23279857635499"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8fd19bc2-18b8-4a76-a245-b1ceab73c84d",
+    "name": "Goudzwaardweg",
+    "location": {
+      "country": "Netherlands",
+      "region": "Bruinisse, Schouwen-Duiveland",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Zijpe"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.63934181451981",
+      "lng": "4.080348014831544"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "911a3fcb-472e-4ef7-883e-1bccd4249546",
+    "name": "Torrent Point",
+    "location": {
+      "country": "Netherlands",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.642222571852262",
+      "lng": "-63.252840042114265"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "99c5b907-4223-4aff-9df1-00bdfad7b17a",
+    "name": "Galdersemeren",
+    "location": {
+      "country": "Netherlands",
+      "region": "Breda, North Brabant",
+      "ocean": [
+        "Europe",
+        "Netherlands",
+        "North Brabant",
+        "Breda"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.519852590742715",
+      "lng": "4.753389358520509"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "99dade30-8480-4768-8f56-eb8b39819246",
+    "name": "Nieuwe Kerkweg",
+    "location": {
+      "country": "Netherlands",
+      "region": "Brouwershaven, Schouwen-Duiveland",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Grevelingenmeer"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.742735472191754",
+      "lng": "3.879611492156983"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9c7e6b3c-ef71-470e-8613-d5a4766e983a",
+    "name": "Molengreend",
+    "location": {
+      "country": "Netherlands",
+      "region": "Molengreend Lake, Maasbracht",
+      "ocean": [
+        "Europe",
+        "Netherlands",
+        "Maasbracht",
+        "Molengreend Lake"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.15620061493265",
+      "lng": "5.899701118469239"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9ddef264-3744-41ad-a41f-0e976f3459c2",
+    "name": "Cove Bay",
+    "location": {
+      "country": "Netherlands",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.641077454117404",
+      "lng": "-63.21670532226563"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9f2c9783-a38c-4803-881f-f20dadab7414",
+    "name": "De Kabbelaar",
+    "location": {
+      "country": "Netherlands",
+      "region": "Scharendijke, Schouwen-Duiveland",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Grevelingenmeer"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.73992913402894",
+      "lng": "3.843917105032274"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a5200b5e-059f-4e65-a8d3-b454bd702fc4",
+    "name": "Tedran Wall",
+    "location": {
+      "country": "Netherlands",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.614574125550572",
+      "lng": "-63.259835243225105"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a6db113a-1935-49f3-ad9a-4909fcc8ab3b",
+    "name": "Dreischor",
+    "location": {
+      "country": "Netherlands",
+      "region": "Dreischor, Schouwen-Duiveland",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Grevelingenmeer"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.697126656895634",
+      "lng": "4.011061191558839"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a8ea2de0-27b1-415d-af47-7498748e7ea9",
+    "name": "De Val",
+    "location": {
+      "country": "Netherlands",
+      "region": "Schouwen-Duiveland, Zeeland",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Oosterschelde Estuary"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.62788788980965",
+      "lng": "3.9196515083312993"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "aad66fb6-22f0-4b40-ae5d-d2a9c719c68e",
+    "name": "Slag Baardmannetje",
+    "location": {
+      "country": "Netherlands",
+      "region": "Oostvoornse, The Netherlands",
+      "ocean": [
+        "Europe",
+        "The Netherlands",
+        "Oostvoornse"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.9264907937483",
+      "lng": "4.048121282810535"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ab85c6a6-5574-465c-b210-ff25f9faf268",
+    "name": "Preekhil",
+    "location": {
+      "country": "Netherlands",
+      "region": "Ouddorp, Netherlands",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Grevelingenmeer"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.79358065620916",
+      "lng": "3.912205696105957"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ac2f9cbd-43ec-48fa-af62-90f22367b148",
+    "name": "Babylon",
+    "location": {
+      "country": "Netherlands",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.626272062527303",
+      "lng": "-63.25923442840577"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ae26d388-a133-403a-9894-03f64ac08aed",
+    "name": "Scharendijke",
+    "location": {
+      "country": "Netherlands",
+      "region": "Scharendijke, Schouwen-Duiveland",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Grevelingenmeer"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.74035713479206",
+      "lng": "3.8438844680786137"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ae3bb26a-7d29-4579-9975-df442c263aa3",
+    "name": "Core Gut",
+    "location": {
+      "country": "Netherlands",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.636415113919373",
+      "lng": "-63.21417331695557"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b15b16f0-28f7-4725-921c-28f2c699ad60",
+    "name": "Anna Jacoba Polder",
+    "location": {
+      "country": "Netherlands",
+      "region": "Anna Jacobapolder, Tholen",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Zijpe"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.643376636162294",
+      "lng": "4.09942388534546"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b23f7b33-f6e1-4358-8326-13e7674c4e20",
+    "name": "Vinkeveense  Plassen  Eiland 5",
+    "location": {
+      "country": "Netherlands",
+      "region": "Vinkeveense Plassen, De Ronde Venen",
+      "ocean": [
+        "Europe",
+        "Netherlands",
+        "Utrecht",
+        "De Ronde Venen",
+        "Vinkeveense Plassen"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.23530362642214",
+      "lng": "4.96210813522339"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b3cda93c-442d-49e3-9bd9-e31e996dfbda",
+    "name": "Twilight Zone",
+    "location": {
+      "country": "Netherlands",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.6099929086062",
+      "lng": "-63.2768726348877"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "be79c0e3-1d71-426a-ac75-a6e27e4f7b3a",
+    "name": "Den Osse ",
+    "location": {
+      "country": "Netherlands",
+      "region": "Brouwershaven, Schouwen-Duiveland",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Grevelingenmeer"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.744303246256585",
+      "lng": "3.8879585266113286"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c7e2a7b4-2397-4f08-a74f-7ba0f7ad2a54",
+    "name": "Tent Reef",
+    "location": {
+      "country": "Netherlands",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.609502057036938",
+      "lng": "-63.254342079162605"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ca249b93-ee86-4730-b3c4-742cd82b9dba",
+    "name": "Tent Wall",
+    "location": {
+      "country": "Netherlands",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.61146545530536",
+      "lng": "-63.25768947601319"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cda447ca-c73d-4425-8499-420d02a5a81d",
+    "name": "Bergse Diepsluis",
+    "location": {
+      "country": "Netherlands",
+      "region": "Tholen, Netherlands",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Oosterschelde Estuary"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.51667472874391",
+      "lng": "4.1726160049438485"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cf9e0da2-b350-4638-b5b1-accf776fecff",
+    "name": "Slag Bergeend",
+    "location": {
+      "country": "Netherlands",
+      "region": "Oostvoornse, The Netherlands",
+      "ocean": [
+        "Europe",
+        "The Netherlands",
+        "Oostvoornse"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.929049059539686",
+      "lng": "4.057843006879943"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d03440c3-6e9e-4fde-bb71-933cf1951a74",
+    "name": "&#039;t Veenmeer",
+    "location": {
+      "country": "Netherlands",
+      "region": "Drenthe, The Netherlands",
+      "ocean": [
+        "Europe",
+        "The Netherlands",
+        "Drenthe"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.08338985164257",
+      "lng": "6.634808505082899"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d110fbcc-079f-4d25-8665-74e8dc207a62",
+    "name": "Zoetersbout / Zijpe",
+    "location": {
+      "country": "Netherlands",
+      "region": "Bruinisse, Schouwen-Duiveland",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Zijpe"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.64417556815957",
+      "lng": "4.090154170989991"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d362ef68-1372-457c-9819-ed741890d72a",
+    "name": "Boschmolenplas",
+    "location": {
+      "country": "Netherlands",
+      "region": "Boschmolenplas Lake, Heel",
+      "ocean": [
+        "Europe",
+        "Netherlands",
+        "Heel",
+        "Boschmolenplas Lake"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.17893943290186",
+      "lng": "5.875346660614015"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e28f503e-0e07-4b69-9a7e-f69933b49c70",
+    "name": "Diamond Rock",
+    "location": {
+      "country": "Netherlands",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.644022027872726",
+      "lng": "-63.262796401977546"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e4d5b255-5462-4b24-b0f1-7e35f4e9738f",
+    "name": "Oude Kademuur",
+    "location": {
+      "country": "Netherlands",
+      "region": "Schouwen-Duiveland, Zeeland",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Oosterschelde Estuary"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.62639600301786",
+      "lng": "3.9169263839721684"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e5b9d91f-f391-47cb-a1df-c7155697008a",
+    "name": "Vuilnisbelt",
+    "location": {
+      "country": "Netherlands",
+      "region": "Tholen, Netherlands",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Oosterschelde Estuary"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.524805874592204",
+      "lng": "4.093523025512696"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eabcd2c5-5f03-493a-991e-6f00f55a4eb1",
+    "name": "Customs House",
+    "location": {
+      "country": "Netherlands",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.633715809199145",
+      "lng": "-63.25627326965333"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eb3c3f89-c13c-4166-a9cf-584bd45ff3a1",
+    "name": "Tetjes",
+    "location": {
+      "country": "Netherlands",
+      "region": "Galjoen Zonder Poen, Wemeldinge",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Oosterschelde Estuary"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.52851714657662",
+      "lng": "3.9689397811889653"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f306ae3e-74d4-42e7-b58f-ba4abdc409f8",
+    "name": "Dreischor Gemaal",
+    "location": {
+      "country": "Netherlands",
+      "region": "Dreischor, Schouwen-Duiveland",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Grevelingenmeer"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.69513163396393",
+      "lng": "4.012134075164796"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f52c30b9-df12-4e2f-b48b-e3db4fb3d760",
+    "name": "Slag Stormvogel",
+    "location": {
+      "country": "Netherlands",
+      "region": "Oostvoornse, The Netherlands",
+      "ocean": [
+        "Europe",
+        "The Netherlands",
+        "Oostvoornse"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.931774799808785",
+      "lng": "4.082325694184746"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f8622a65-714c-4fdc-83a5-ced88e2cc18b",
+    "name": "Ladder Labyrinth",
+    "location": {
+      "country": "Netherlands",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.624472429292705",
+      "lng": "-63.25953483581544"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f92e58ea-bbd1-434b-b75c-0292c92a42b1",
+    "name": "Polderveld",
+    "location": {
+      "country": "Netherlands",
+      "region": "Polderveld Lake, Wessem",
+      "ocean": [
+        "Europe",
+        "Netherlands",
+        "Wessem",
+        "Polderveld Lake"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.17061213737701",
+      "lng": "5.895988941192628"
+    },
+    "additionalInfo": {}
+  }
+]

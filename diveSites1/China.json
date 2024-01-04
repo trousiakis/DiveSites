@@ -1,0 +1,240 @@
+[
+  {
+    "id": "21df6bda-7f8c-48d3-8ec1-c5b47d33a4c9",
+    "name": "Aberdeen",
+    "location": {
+      "country": "China",
+      "region": "Lamma Island, Hong Kong",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.22936164623007",
+      "lng": "114.14005279541016"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "285d14ef-bda6-4241-bb2f-0c14fc5a65df",
+    "name": "Ocean Point",
+    "location": {
+      "country": "China",
+      "region": "Port Island, Hong Kong",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.492891631865525",
+      "lng": "114.34535980224611"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "28e7d771-802e-4cae-bb3e-282b9dded04d",
+    "name": "Stanley",
+    "location": {
+      "country": "China",
+      "region": "Lamma Island, Hong Kong",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.21666869508736",
+      "lng": "114.21326637268068"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "39a487db-b565-446d-9edd-b491a88d5779",
+    "name": "Nanshan",
+    "location": {
+      "country": "China",
+      "region": "Hainan, China",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.252828380738407",
+      "lng": "109.08462524414064"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6483317e-aac3-4485-9b6c-65300e1be949",
+    "name": "Major And Minor Caves",
+    "location": {
+      "country": "China",
+      "region": "Hainan, China",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.310203344724197",
+      "lng": "108.99124145507814"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7b1c1069-ffa8-491b-afa6-bda44e22e436",
+    "name": "Pedro Blanco",
+    "location": {
+      "country": "China",
+      "region": "Hong Kong, China",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.288461076609813",
+      "lng": "114.44698333740236"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7eb361a6-040e-4be1-be0a-16945152b12e",
+    "name": "Fangjia Bay",
+    "location": {
+      "country": "China",
+      "region": "Hainan, China",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "19.352610894378625",
+      "lng": "110.81634521484376"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9b793250-79f3-434f-8a53-5fcc327cb759",
+    "name": "Tsim Chau",
+    "location": {
+      "country": "China",
+      "region": "Sai Kung, Hong Kong",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.390079037609055",
+      "lng": "114.4050979614258"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a7051989-fb8e-48dd-9b50-5b71f5c22131",
+    "name": "The End Of Earth",
+    "location": {
+      "country": "China",
+      "region": "Hainan, China",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.25543674524801",
+      "lng": "109.34417724609375"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b2bff313-a3e3-4adc-abd3-9a876ffe6576",
+    "name": "Breaker Reef",
+    "location": {
+      "country": "China",
+      "region": "Sai Kung, Hong Kong",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.42499308964722",
+      "lng": "114.41883087158205"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b4509631-cbae-4c55-bd27-df2ef70c19f1",
+    "name": "Shimei Bay",
+    "location": {
+      "country": "China",
+      "region": "Hainan, China",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.539512627214105",
+      "lng": "110.32333374023439"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b5454f49-27e7-40cb-b5b8-edb371881a8c",
+    "name": "Sanya Bay",
+    "location": {
+      "country": "China",
+      "region": "Hainan, China",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.241090255870276",
+      "lng": "109.45198059082031"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "da904a99-5da6-46d8-acba-6e9b5af2eaf4",
+    "name": "Basalt Island",
+    "location": {
+      "country": "China",
+      "region": "Sai Kung, Hong Kong",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.321353149732506",
+      "lng": "114.366622716857"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e292904f-b05f-4846-a5a4-0819086bb420",
+    "name": "Port Island",
+    "location": {
+      "country": "China",
+      "region": "Hong Kong, China",
+      "ocean": [
+        "Pacific Ocean",
+        "South China Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "22.530951013558365",
+      "lng": "114.38587188720705"
+    },
+    "additionalInfo": {}
+  }
+]

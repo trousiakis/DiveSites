@@ -1,0 +1,5581 @@
+[
+  {
+    "id": "01255c99-e539-4c68-a59b-b69c2db0f014",
+    "name": "Maritim Reef",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.08719233476707",
+      "lng": "57.51338481903077"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0143046d-215b-4e23-a418-7ecfac16db3f",
+    "name": "Bounty Bay",
+    "location": {
+      "country": "India",
+      "region": "Grande Island, Goa",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.35372125902462",
+      "lng": "73.77548933029176"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "01c26077-0b43-4539-9e83-4a909b5d11db",
+    "name": "Cannon",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.255194490340305",
+      "lng": "57.375662325939636"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "03b713fb-bb76-4d85-8ae4-b7afec7289df",
+    "name": " Conception Arena",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Conception"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.662083766989815",
+      "lng": "55.35969972610474"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "04d48f74-4333-47d3-b48e-ef1c87c62544",
+    "name": "Windmill Point",
+    "location": {
+      "country": "India",
+      "region": "Bangaram, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.920966183278152",
+      "lng": "72.29445934295656"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "055a012d-971c-485f-8c49-0e113152fb02",
+    "name": "Danny&#039;s Eel Garden",
+    "location": {
+      "country": "India",
+      "region": "Puducherry, India",
+      "ocean": [
+        "Indian Ocean",
+        "Bay Of Bengal"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.935883156886039",
+      "lng": "79.91540908813478"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "073fe130-83ca-4d1b-8593-d6db1e80e7d8",
+    "name": "Water Lily And Emily",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.04940044200211",
+      "lng": "57.513513565063484"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "07577e48-fe5c-4c4b-8af0-59b6db02406e",
+    "name": "Anemone",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.397008215334957",
+      "lng": "57.72362709045411"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "07c6aec5-7005-44f6-aaba-7e7abd2a1e8f",
+    "name": "La Grotte",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.04155276443496",
+      "lng": "57.51930847764016"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0815a5c6-862e-4644-a3c6-040f53e85296",
+    "name": "The Reef With No Name",
+    "location": {
+      "country": "India",
+      "region": "Bangaram, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.95155688392084",
+      "lng": "72.2529172897339"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0aafa636-338b-46be-83db-be0962f2d06a",
+    "name": "Misty Mountains",
+    "location": {
+      "country": "India",
+      "region": "Andaman And Nicobar Islands, India",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.097738394620004",
+      "lng": "92.82142639160156"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0acb7eff-d036-4e69-bf8d-6a2bb079e55b",
+    "name": " Roche Lare",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Silhouette Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.462667884316158",
+      "lng": "55.2314043045044"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0afedbd9-ec9f-4e9a-9fc3-6b40ee2d0348",
+    "name": "Corsaire Reef",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.043353141248524",
+      "lng": "57.523727416992195"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0b5812ee-4f92-4f6e-a281-2eb3efc89d66",
+    "name": "The Carpenters",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-19.949731428448334",
+      "lng": "57.62494325637818"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0be5a849-3327-4c02-9b7c-53562c7b5ed0",
+    "name": "Sunshine",
+    "location": {
+      "country": "India",
+      "region": "Bangaram, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.926528363518997",
+      "lng": "72.30810642242433"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0c81166f-f010-493c-9ec7-fc47e59d206d",
+    "name": "Pirate&#039;s Booty",
+    "location": {
+      "country": "India",
+      "region": "Puducherry, India",
+      "ocean": [
+        "Indian Ocean",
+        "Bay Of Bengal"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.911025418145543",
+      "lng": "79.89927291870119"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0d13c10c-198f-495c-80a0-e87e595bdb20",
+    "name": "Manis Bank",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.701669387950597",
+      "lng": "55.623092651367195"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0d996332-1874-4bf7-a854-c6bb09dbdd69",
+    "name": "Lost Anchor",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.011338885299484",
+      "lng": "57.54707336425781"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0e32307e-55ac-40c5-b348-363f4e0529f9",
+    "name": "Mila Crack",
+    "location": {
+      "country": "India",
+      "region": "Grande Island, Goa",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.356954168425755",
+      "lng": "73.77679824829103"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0e4a133f-72a4-42c9-a5fc-423811c3a15b",
+    "name": "Johnny&#039;s Gorge",
+    "location": {
+      "country": "India",
+      "region": "Henry Lawrence Island, Andaman And Nicobar Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.103109509834647",
+      "lng": "93.16131591796875"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0e9dd0e2-c6ba-4f02-8c23-7be6b0835301",
+    "name": "Blue Bay",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.44506906247928",
+      "lng": "57.70890712738038"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0eb8bb9a-2492-4676-9962-63b0501e35a0",
+    "name": "Nursery",
+    "location": {
+      "country": "India",
+      "region": "Netrani Island, Karnataka",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "14.01881442439721",
+      "lng": "74.32814240455629"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0f88f481-3bdd-4e86-b21b-0bdfe3757b97",
+    "name": "Canyon",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.276195528118972",
+      "lng": "57.35607862472535"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0f9406a1-da02-4106-b93a-3372a7c6e88a",
+    "name": "Cirque De Aigrettes",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.054064896663608",
+      "lng": "55.21870136260987"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0f97742e-a2d3-423e-8767-f094dbe60824",
+    "name": "Ennerdale Wreck",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.500104008056527",
+      "lng": "55.51425933837891"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "10365ec4-ad8e-4b75-91bc-ff8bb5c72940",
+    "name": "Jetty",
+    "location": {
+      "country": "India",
+      "region": "Sao Jorge Island, Goa",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.352272825276934",
+      "lng": "73.76523256301881"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "10f4bd26-03e4-49d4-9a95-1c9aca38233b",
+    "name": "Quai De La Marine",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.92797302446957",
+      "lng": "55.31556129455567"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1125caa6-f6a8-4a3f-ad19-3f0d30c47513",
+    "name": "Booby Rock",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Praslin"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.268868347037691",
+      "lng": "55.673046112060554"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "119483f3-9338-4a6c-be42-8726aa7e7923",
+    "name": "Mohammeds Reef",
+    "location": {
+      "country": "India",
+      "region": "Bangaram, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.92315735763154",
+      "lng": "72.3012399673462"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "126b82d5-2108-4272-a331-9132b026b48b",
+    "name": "Le Cimetiere",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.185452154374772",
+      "lng": "55.28440475463868"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "13390e6d-47fe-405f-8a0b-ec0877e12696",
+    "name": "Nursery",
+    "location": {
+      "country": "India",
+      "region": "Nicholson Island, Andaman And Nicobar Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.088338683329049",
+      "lng": "92.94536590576173"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "137ecb4a-28fd-4c8a-a77c-b247b8d0323f",
+    "name": "Brissare Rocks",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.548190556153664",
+      "lng": "55.4941749572754"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1504ca62-456c-401b-a2c7-b3ffc8d9b727",
+    "name": "The Wild West",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.7440968586550705",
+      "lng": "55.41263580322266"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "15212d22-2fbf-4e26-9dc4-4aa829b2ef87",
+    "name": "Stella Reef",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.04738470096177",
+      "lng": "57.52226829528809"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "160387d1-b7f6-445f-855a-b94241ea5c6d",
+    "name": "Ariels Garden",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Quirimbas Islands",
+        "Ilha Quisiva"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.59556",
+      "lng": "40.63306"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "160d55d3-a6b6-4733-8b31-0bc7c01d5cd8",
+    "name": "Paschlewwer Bay",
+    "location": {
+      "country": "India",
+      "region": "Agatti, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.869300356342315",
+      "lng": "72.16803073883058"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "196e0f9e-0fbe-44ab-9920-9fc67d602d47",
+    "name": "Hornkorab Garden",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.551221961121712",
+      "lng": "35.15414714813233"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1a4269de-d19c-4cc4-9e84-94d9e39a2476",
+    "name": "Cap Homard",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.01463006246167",
+      "lng": "55.24142503738403"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1a4557f8-b3c5-47c6-a090-d981d6e9f444",
+    "name": "La Passe Belle Mare",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.186248887011438",
+      "lng": "57.78405189514161"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1a4eb777-6d30-4ef9-8c8d-150d4ffff333",
+    "name": "Erg Hornkorab",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.55502785248419",
+      "lng": "35.16337394714356"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1aae83f1-97e8-401d-8c18-53dc986e8814",
+    "name": "Colorado",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.436342810816516",
+      "lng": "57.7547836303711"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1af5c2a2-8f2d-4505-8b78-7e7e69f06b69",
+    "name": "Pillar",
+    "location": {
+      "country": "India",
+      "region": "Havelock Island, Andaman And Nicobar Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.046077869191956",
+      "lng": "92.97555685043336"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1c2faf80-5c02-407e-9ee3-b1f7ba0d7649",
+    "name": "Trois Bacs",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.924084803963474",
+      "lng": "55.28234481811524"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1e670474-5b49-4840-a35b-a21f5cd92029",
+    "name": "Nei&#039;s Cove",
+    "location": {
+      "country": "India",
+      "region": "Havelock Island, Andaman And Nicobar Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.984248434986688",
+      "lng": "92.9378128051758"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1e8872f6-c893-41b3-9590-fafb4e5b6293",
+    "name": "Chilli Drop",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.0749577930253",
+      "lng": "57.507762908935554"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1f433e48-728f-439d-a9a8-6819c63f4c48",
+    "name": "La Pierre Du Prefet",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.05843032572787",
+      "lng": "55.21925926208496"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "20696164-0237-4b82-9c6d-6dd1a55e9cfc",
+    "name": "Jail House Rock",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Mahe Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.791140399780748",
+      "lng": "55.54035186767579"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "21af0a4b-370e-46cf-88f9-f8dc0f8c3d7f",
+    "name": "Confetty Bay",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-19.943942518753822",
+      "lng": "57.621617317199714"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "233778e3-8971-41f9-bfde-8bead448f2c2",
+    "name": "Caravelle 1",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.04201010493713",
+      "lng": "57.51931250095368"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "234ba4b1-9eb6-4d9a-9fd3-341ab9ff9dde",
+    "name": "Aquarium",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.41611369656915",
+      "lng": "57.336702346801765"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2386b7af-03d3-4409-b309-fd1bc150a829",
+    "name": "Canyon",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea",
+        "Gulf Of Tadjoura",
+        "Moucha And Maskali Islands"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.721662798325347",
+      "lng": "43.153953552246094"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "248f3cd6-5cf3-4534-ae1a-a156e960ddf5",
+    "name": "Hai Sang Wreck",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.03995647644402",
+      "lng": "55.21563291549683"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "24fa5014-84bb-4708-aa9b-f4101473f355",
+    "name": "Canyon Reef",
+    "location": {
+      "country": "India",
+      "region": "Bangaram, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.958719539333403",
+      "lng": "72.28518962860109"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "260b68a5-f489-4b3b-8bd0-eca1cf5b04bb",
+    "name": "Turtle Rock",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Mahe Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.667302096816919",
+      "lng": "55.539686679840095"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "262d2e4d-c831-4841-9620-f61c819ec0bb",
+    "name": "Hia Sang",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.051341444867948",
+      "lng": "55.21844387054444"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2733da5f-d63f-4eb3-a5dc-1da34171b6f4",
+    "name": "Right Cliff",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.51168588996774",
+      "lng": "57.39171981811524"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2781b158-3188-41aa-91cb-d3e12d05973a",
+    "name": "Swiss Drop",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.28175122173307",
+      "lng": "57.35388278873871"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2931cced-f5eb-411d-a2c3-2754bb24a6af",
+    "name": "Shark Rock",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Praslin"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.355654273946352",
+      "lng": "55.78393936157227"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2a77df6b-3aad-4fbd-b010-b50a48f492ba",
+    "name": "White Tip",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.195593405902333",
+      "lng": "57.79924392700196"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2abcbd36-e18e-4d05-be6c-df9db07874e2",
+    "name": "Shaab Claudia",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.168055011483155",
+      "lng": "35.696382522583015"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2afa79f6-2853-4c16-a3c1-f1b6fcd397c7",
+    "name": "Chris Potato",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.050609874203865",
+      "lng": "57.52007961273194"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2b8fd2af-c7cb-442c-964a-209554156909",
+    "name": "Small Channel",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "La Digue"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.342902329501454",
+      "lng": "55.82093238830567"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2bacf988-a9d6-4db3-8b54-5d9564bb0983",
+    "name": "Baie De Sable",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.174647726893518",
+      "lng": "55.28294563293457"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2dd1e5ae-6b80-4db6-97a0-169485199b34",
+    "name": "Colorado",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.478481600090554",
+      "lng": "57.78808593750001"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2ede109a-3619-41b0-82c9-121a3325545c",
+    "name": "Plant Garden",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Quirimbas Islands",
+        "Ilha Quipaco"
+      ]
+    },
+    "coordinates": {
+      "lat": "-14.357530375512127",
+      "lng": "41.03805541992188"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2f581bcf-a30e-49bc-a313-fa5c805f4ebe",
+    "name": "L&#039;eveillé",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.289507524953116",
+      "lng": "57.35419034695953"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2f73c5c8-3938-4fa3-8eff-fa66ad52aa49",
+    "name": "Merville Patches",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-19.983512640357777",
+      "lng": "57.58552551269532"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "30ede95f-54b8-4529-b3fc-a12a018eea03",
+    "name": "Boulder City",
+    "location": {
+      "country": "India",
+      "region": "Andaman And Nicobar Islands, India",
+      "ocean": [
+        "Thailand",
+        "Southern Thailand",
+        "Phang Nga",
+        "Similan Islands",
+        "Payang Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.493340533834534",
+      "lng": "97.6651954650879"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "31bc8f35-af3e-4ca1-a23f-36a525396bc9",
+    "name": "Needle Hole",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.380998008855485",
+      "lng": "57.302284240722656"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "330417d9-11db-4858-9d34-4ecc0f0ce19e",
+    "name": "Cratere",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.02254864867386",
+      "lng": "57.54424095153809"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "337cd04d-2798-4a97-9699-7f620d1d8625",
+    "name": "Main Jetty Point",
+    "location": {
+      "country": "India",
+      "region": "Agatti, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.86297847364485",
+      "lng": "72.20656871795656"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "33cbb4e9-a7f6-4bc5-8e06-28f3e64aa804",
+    "name": "Les Trois Failles",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.04629491719672",
+      "lng": "55.21702766418458"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "353d8947-7fb1-4cc1-a561-f0add7e659ad",
+    "name": "Subin&#039;s Reef",
+    "location": {
+      "country": "India",
+      "region": "Bangaram, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.957287022117669",
+      "lng": "72.30020999908449"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3541e801-78fd-48a3-8ea4-07bb7a25e567",
+    "name": "Pinnacle Point",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Saint Anne"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.613470174020677",
+      "lng": "55.51777839660645"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "35f83214-aa12-4a75-8631-80c190db311f",
+    "name": "Moucha Wreck",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea",
+        "Gulf Of Tadjoura",
+        "Moucha And Maskali Islands"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.691406461055978",
+      "lng": "43.20768356323242"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "36ab8274-7b87-4517-abb0-a2472db118a2",
+    "name": "Sirius Wreck",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.385020830199483",
+      "lng": "57.736930847167976"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "36ecc6a6-5a0b-4001-9440-40714f7128c4",
+    "name": "Las Kas",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.529880396675466",
+      "lng": "55.626869201660156"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3735bada-2af0-49f1-b134-e76b1c537a70",
+    "name": "La Pointe Au Sel",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.20361781881226",
+      "lng": "55.27659416198731"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3741a3d4-9e8a-4a08-9872-651c7c871ca3",
+    "name": "Lagon De Belle Mare",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.178595630887163",
+      "lng": "57.77752876281739"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "376f0aef-66b2-4712-9768-26c5010a52ea",
+    "name": "Quai Corail",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.9264899007157",
+      "lng": "55.32629013061524"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "390506db-36aa-4117-84e1-30f5527c3d4b",
+    "name": "Coming Back To Life",
+    "location": {
+      "country": "India",
+      "region": "Bangaram, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.924674315018295",
+      "lng": "72.28664875030519"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3a189e06-49ce-49a0-9481-e0250dd8d373",
+    "name": "T. Moutou",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.411729700952097",
+      "lng": "57.73263931274415"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3a515e97-1c8a-4693-8ea6-124d8c981f32",
+    "name": "Conception Rocks",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Conception"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.669162721431055",
+      "lng": "55.37315368652344"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3d35eab9-3216-4f7d-96bd-468eb642df54",
+    "name": "The Step",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea",
+        "Gulf Of Tadjoura",
+        "Obock"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.970142789129643",
+      "lng": "43.32767486572266"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3d5df5d9-0739-4ca5-90ab-e4b06cbce5f5",
+    "name": "Le Sec Jaune",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.210899462349698",
+      "lng": "55.28217315673829"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3ee2b17b-4a43-4ac4-aa75-e771e678dab1",
+    "name": "Djabeda Wreck",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-19.944719092137543",
+      "lng": "57.62046933174134"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3fde812d-06bb-43f5-847a-61585386e004",
+    "name": "Dolphin Reef / Shaab Sataya",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.15207928188554",
+      "lng": "35.696382522583015"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "407cd823-b374-4ef5-b9e1-395afe9a3bf9",
+    "name": "Aquarium",
+    "location": {
+      "country": "India",
+      "region": "Havelock Island, Andaman And Nicobar Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.996002576838054",
+      "lng": "92.91927337646486"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "43d752a3-b4b8-4994-a266-8c855c3f3e51",
+    "name": "Fishsoup On The Rocks",
+    "location": {
+      "country": "India",
+      "region": "Agatti, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.84460210818488",
+      "lng": "72.19154834747316"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "449f9c74-96b1-4b70-ac6f-f3276d1e6403",
+    "name": "Bassin Burton",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.07342608172324",
+      "lng": "57.50990867614746"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "44bc0424-df55-4eb7-8d8a-445b63dbdc3b",
+    "name": "Davy Jones",
+    "location": {
+      "country": "India",
+      "region": "Sao Jorge Island, Goa",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.345361588703627",
+      "lng": "73.76304388046266"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "45d00bee-f5c6-4b15-95d9-d467314cf02f",
+    "name": "Rowley Showles",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Timor Sea",
+        "Rowley Shoals"
+      ]
+    },
+    "coordinates": {
+      "lat": "-17.563847031414767",
+      "lng": "118.96717071533205"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "47029f71-a5d5-4686-a8d4-d6a47738a4cf",
+    "name": "Mammelles Rocks",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.486926711226156",
+      "lng": "55.53588867187501"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4797dc98-0b34-477c-9c86-797e65163cf5",
+    "name": "The Wall",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-19.94366012748551",
+      "lng": "57.61893510818482"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4809484b-8674-4d7f-8791-62541bc2a477",
+    "name": "Mv Mars",
+    "location": {
+      "country": "India",
+      "region": "Sir William Peel Island, Andaman And Nicobar Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.082631554608048",
+      "lng": "92.95909881591798"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "485f720f-da66-4d9b-a40c-96734fe121cc",
+    "name": "Point Dauban",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Silhouette Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.478968877790185",
+      "lng": "55.20252227783203"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "48874381-ace1-4837-9fa8-01354930117b",
+    "name": "Albatros",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Grande Soeur"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.298611187735818",
+      "lng": "55.87397575378419"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "48a1a500-238a-4c6e-8071-6c5724c2a36a",
+    "name": "Hoi Siong Wreck",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.41800400477957",
+      "lng": "57.28511810302735"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "49affbd9-14da-4d87-b420-0553615564b5",
+    "name": "Navarra",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.209539182590632",
+      "lng": "55.22749900817872"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "49bb4916-a608-47bf-b238-83628831920e",
+    "name": "South Button",
+    "location": {
+      "country": "India",
+      "region": "Henry Lawrence Island, Andaman And Nicobar Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.22426651112412",
+      "lng": "93.01677703857423"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4add65b3-7beb-47a6-8f5b-55ab4eb80f9e",
+    "name": "Vallee Des Gorgone",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.145239161586183",
+      "lng": "57.82155990600587"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4b090370-5448-4844-8921-66fb3a39be73",
+    "name": "Buoy Air France",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea",
+        "Gulf Of Tadjoura",
+        "Moucha And Maskali Islands"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.723511689323052",
+      "lng": "43.165626525878906"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4b54eff6-bdec-42c1-a62c-3f8635200574",
+    "name": "T55",
+    "location": {
+      "country": "India",
+      "region": "Netrani Island, Karnataka",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "14.020230083593958",
+      "lng": "74.32438731193544"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4ba5ef2f-988c-4dc0-8489-5d7a6e977fb2",
+    "name": "L&#039;ermitage",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.093389186029295",
+      "lng": "55.22595405578614"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4c62caa2-fbab-429a-b90d-0ff33e469a4d",
+    "name": "Maison Verte ",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.185452154374772",
+      "lng": "55.280027389526374"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4c8495f3-c658-481f-9211-6224dd896b69",
+    "name": "Texas",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Quirimbas Islands",
+        "Ilha Quipaco"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.67167",
+      "lng": "40.635"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4c8e0c71-2412-4534-944e-143416835e87",
+    "name": "La Passe",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.38952626550166",
+      "lng": "57.769718170166016"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4dcb6257-fc28-425c-a201-00786f377c34",
+    "name": "Trois Banc",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.739477864917881",
+      "lng": "55.41744232177735"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4e5c7165-f795-42bc-99f6-447b921e2597",
+    "name": "Jen&#039;s Place",
+    "location": {
+      "country": "India",
+      "region": "Agatti, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.880510832263113",
+      "lng": "72.18356609344484"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4ef62e20-baf5-4c27-a7f0-1c502fd77084",
+    "name": "Les Petit Gargones",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.041648756375334",
+      "lng": "55.215858221054084"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4fba8840-191c-4a14-b319-cc037cf287d4",
+    "name": "Diveline",
+    "location": {
+      "country": "India",
+      "region": "Agatti, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.824875762224181",
+      "lng": "72.18309402465822"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "50316e94-acf3-49a1-8388-f032c77c522f",
+    "name": "Grand Canyons",
+    "location": {
+      "country": "India",
+      "region": "Bangaram, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.962005876151666",
+      "lng": "72.28570461273195"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "51537dcf-c8ba-48a5-b3a7-097d80d5c871",
+    "name": "Jacob&#039;s Table",
+    "location": {
+      "country": "India",
+      "region": "Henry Lawrence Island, Andaman And Nicobar Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.102773818296425",
+      "lng": "93.12595367431642"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "55186caf-b202-4c7d-a74d-1878f31cc938",
+    "name": "Le Chien",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.02334307476955",
+      "lng": "55.226426124572754"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5582371e-573c-4d2c-97ab-88c85b83feac",
+    "name": "Japanese Garden",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.39081350854591",
+      "lng": "57.28958129882813"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "56809030-b54d-43ff-8520-d27bbe52b230",
+    "name": "Trois Dame",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Therese"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.680711315483151",
+      "lng": "55.41443824768067"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "57371cef-2b6f-4503-a924-daed6c46c580",
+    "name": "Shelter Cove",
+    "location": {
+      "country": "India",
+      "region": "Grande Island, Goa",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.355335216214604",
+      "lng": "73.7819266319275"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "57644a9b-ba89-4985-9445-e97892097783",
+    "name": "Corsair Wall",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.041809782401735",
+      "lng": "57.519311159849174"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5a44c3b3-08f9-4795-87d9-70349783e13c",
+    "name": "Red Point",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Curieuse"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.278197880497363",
+      "lng": "55.746173858642585"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5bf60eaa-5898-45fb-9c76-e1e99fd1d0be",
+    "name": "Hiromingo",
+    "location": {
+      "country": "India",
+      "region": "Agatti, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.830271131266139",
+      "lng": "72.18532562255861"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5c1abee7-3806-4fb9-a197-f83c6c9d1f8e",
+    "name": "Roches Kali",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.92320292548229",
+      "lng": "55.339422225952156"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5c75cc8b-e246-4108-8a7d-a7c0794a9f41",
+    "name": "Stella Maru Wreck",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.052141808283704",
+      "lng": "57.501754760742195"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5d896055-952c-4127-84f0-17463af32eab",
+    "name": "The Wall",
+    "location": {
+      "country": "India",
+      "region": "Sir William Peel Island, Andaman And Nicobar Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.0624877750181",
+      "lng": "92.96424865722658"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5ff956b0-bf96-423c-9ef6-5583f09a3e05",
+    "name": "Lo Bordaz",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.699616380090987",
+      "lng": "55.33564567565918"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5ffcb242-69d4-4602-b86c-3dd9f0b332be",
+    "name": "Lost City",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.756414024127487",
+      "lng": "55.61004638671876"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "60793f9a-1411-49cc-aec7-003bbd89173c",
+    "name": "Salem Wreck",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea",
+        "Gulf Of Tadjoura",
+        "Moucha And Maskali Islands"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.708215946062504",
+      "lng": "43.17644119262695"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "62f9e849-7c5e-4876-9ef0-7b1cec6f0c5c",
+    "name": "La Passe St. Jacques",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.509434979003686",
+      "lng": "57.377386093139656"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6348cb19-9e75-45dd-ba74-ebc14a8d36f2",
+    "name": "Grand Central",
+    "location": {
+      "country": "India",
+      "region": "Netrani Island, Karnataka",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "14.01637863739832",
+      "lng": "74.32370066642763"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "635f4369-a5ad-45dc-8751-f33a0a61a8f2",
+    "name": "Tuticorin Oasis",
+    "location": {
+      "country": "India",
+      "region": "Tamil Nadu, India",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.849454239024295",
+      "lng": "78.22866439819337"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "63eac63c-1f3e-4f79-bc5c-0a278865f6ff",
+    "name": "Needle Hole",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.404650692234057",
+      "lng": "57.33798980712891"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "64b00b64-4897-4691-9cb0-d56a3700b666",
+    "name": "Stephen Ledge",
+    "location": {
+      "country": "India",
+      "region": "Wilson Island, Andaman And Nicobar Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.174937778602024",
+      "lng": "92.96321868896486"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "64cc053f-13ca-4424-92db-1889673cddce",
+    "name": "Biter Rock",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.43609777329339",
+      "lng": "55.666007995605476"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "658ab6d1-ecf1-45cf-949d-98ca8709ad84",
+    "name": "Turtle Point",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.00218499686661",
+      "lng": "57.56084918975831"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "66ba7201-2e47-4f07-b42e-86cf15f1161a",
+    "name": "Collin Bambous",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.284642872784286",
+      "lng": "57.35314607707551"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "66d324ff-0109-4751-aeab-443170744945",
+    "name": "Inket Wreck",
+    "location": {
+      "country": "India",
+      "region": "Andaman And Nicobar Islands, India",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.02185988477805",
+      "lng": "92.78228759765626"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "66e641aa-bff6-4e0c-9eb7-dd0a4d7da1d9",
+    "name": "Movetan",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Mahe Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.643498499105471",
+      "lng": "55.51880836486817"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "693bb657-e336-4a04-922c-d3871e377c36",
+    "name": "Tinnakara Reef",
+    "location": {
+      "country": "India",
+      "region": "Bangaram, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.953789965672991",
+      "lng": "72.3146939277649"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6988bee0-6bca-448a-ad84-333dae087b94",
+    "name": "Ilha Quisiva Lagoon",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Quirimbas Islands",
+        "Ilha Quisiva"
+      ]
+    },
+    "coordinates": {
+      "lat": "-15.58778",
+      "lng": "40.59778"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "69afaa47-8ac9-48d2-bb1c-d497cd4b9689",
+    "name": "Ocean Club",
+    "location": {
+      "country": "India",
+      "region": "Agatti, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.836425105418721",
+      "lng": "72.18760013580324"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6a622025-cf65-43a5-801f-dee04152db93",
+    "name": "Cake",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.364117843801822",
+      "lng": "73.05976867675783"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6b08fed7-6343-48b3-854b-c21da0be04ac",
+    "name": "Holt Rock",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.015774498705092",
+      "lng": "57.54484176635743"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6cdcc330-a61d-41bc-b59e-61fa12be90ac",
+    "name": "I-95",
+    "location": {
+      "country": "India",
+      "region": "Nicholson Island, Andaman And Nicobar Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.106466402018581",
+      "lng": "92.9436492919922"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6ce42bcf-e4ff-463a-a535-e6d7923e7388",
+    "name": "Ramasse Tout",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Silhouette Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.489836005033585",
+      "lng": "55.26080131530762"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6f82b5b5-cbb4-4c73-8a22-69b6f93b86de",
+    "name": "The Cave",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.521493044457358",
+      "lng": "57.40347862243652"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "70e9d472-72b8-4e50-9498-477c2ea55425",
+    "name": "Pate Anse Severe",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "La Digue"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.335456463573485",
+      "lng": "55.828399658203125"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "711a09bb-f5e5-404f-b50a-880a81495c83",
+    "name": "The Lighthouse",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-19.88628389492218",
+      "lng": "57.648782730102546"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "71f30e82-d96a-43f5-84e8-540fa96c8004",
+    "name": "Shark Bank",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.562393443505202",
+      "lng": "55.34637451171876"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7321f004-6704-49a1-8da4-369e2034158f",
+    "name": "Manta Point",
+    "location": {
+      "country": "India",
+      "region": "Agatti, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.890203761058212",
+      "lng": "72.2239923477173"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7355a38e-0aec-43ba-b0ef-93d34e2a3363",
+    "name": "Tinnakara Light House",
+    "location": {
+      "country": "India",
+      "region": "Bangaram, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.942919333716185",
+      "lng": "72.31937170028688"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7360533c-ec40-445a-95cc-2b913a2b4a87",
+    "name": "Tunnel",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.456689891024364",
+      "lng": "57.71143913269043"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "744bd72f-c0ed-4481-9675-6ea3b4c7b1bd",
+    "name": "Shnongpdeng River, Dawki",
+    "location": {
+      "country": "India",
+      "region": "Meghalaya, India",
+      "ocean": [
+        "Asia",
+        "India",
+        "Meghalaya"
+      ]
+    },
+    "coordinates": {
+      "lat": "25.186066257745996",
+      "lng": "92.07487106323244"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7557e18f-9743-47a7-9f40-95c3c8e2302e",
+    "name": "The Red Virgin",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea",
+        "Gulf Of Tadjoura",
+        "The Bay Of Ghoubbet"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.506939706884161",
+      "lng": "42.66746520996094"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "75797de1-d9d2-498d-9634-3fabe55a6e46",
+    "name": "La Cheminee",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.396686418516676",
+      "lng": "57.35687255859376"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "75ce140c-b800-4b17-9d29-5f59833809eb",
+    "name": "Cassiers",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.452106001346323",
+      "lng": "57.28769302368165"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "769ba328-b4b0-4ecd-8309-a17c606f1cdc",
+    "name": "Corail Francin",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Curieuse"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.291036502159968",
+      "lng": "55.752439498901374"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "76a7e1da-2a4f-466f-9174-ef6f7beac232",
+    "name": "Abu Galawa Kebir",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.222858489590298",
+      "lng": "35.59990882873536"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "780646be-18a2-42be-8ef0-7aa3080c7946",
+    "name": "Trou Aux Biches",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.029054623424276",
+      "lng": "57.541030884312946"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "79166fec-bf20-4b4a-9843-23a6579a674a",
+    "name": "Lost Paradise",
+    "location": {
+      "country": "India",
+      "region": "Agatti, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.882449443247086",
+      "lng": "72.18828678131105"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7920abba-e4f4-40eb-bf4a-e55b4088acd4",
+    "name": "Lobster Avenue",
+    "location": {
+      "country": "India",
+      "region": "Grande Island, Goa",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.349334543079685",
+      "lng": "73.77445936203004"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7950e126-e9b1-4ce0-8c1f-521cc5b7b22a",
+    "name": "Caravelle 2",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.043025572475468",
+      "lng": "57.52328217029572"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7b494687-c312-4423-8fd0-0d0f0e60ec18",
+    "name": "Eagle Rock",
+    "location": {
+      "country": "India",
+      "region": "Bangaram, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.962090140718248",
+      "lng": "72.25798130035402"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7b9608be-d7aa-4549-8cd1-92c110a80379",
+    "name": "Canyon",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.017133853758992",
+      "lng": "55.234107971191406"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7beb9300-4da0-42b3-a2ac-64c0decb5ef1",
+    "name": "Sea Fan Valley",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.195351744370598",
+      "lng": "57.792377471923835"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7cd0d910-3120-4f3b-95be-2091f62ba8fd",
+    "name": "Dragons Teeth",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.551955204212479",
+      "lng": "55.49915313720703"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7e895e03-9a6b-42b2-a37d-aaf679883891",
+    "name": "Macro Garden",
+    "location": {
+      "country": "India",
+      "region": "Puducherry, India",
+      "ocean": [
+        "Indian Ocean",
+        "Bay Of Bengal"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.932188231743403",
+      "lng": "79.90510940551759"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7ef0290c-34bd-4b36-8e7c-7431abfa8b56",
+    "name": "Le Petit Couloir",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.02959209415576",
+      "lng": "55.2187442779541"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7f5836a9-2dd6-40f7-98e1-90542c1afe7e",
+    "name": "Grand Barbe",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Silhouette Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.512083161853457",
+      "lng": "55.2195167541504"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "804e0bc6-ea5b-4b5b-b9df-d704630c26ad",
+    "name": "Jardin Japonais",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.070120758984086",
+      "lng": "57.51102447509766"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "805915a8-cc8f-4ce0-ae9b-f1114fa41ca6",
+    "name": "Petite Chaloupe",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.89058982202002",
+      "lng": "55.3833031654358"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "808eecb7-0185-4465-b532-27e9e6eb9891",
+    "name": "Shipwreck Kei Sei",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.265697669588405",
+      "lng": "57.36560583114624"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "80f0dc57-da22-4615-b3a9-b2d88396924a",
+    "name": "Whitehouse Rock",
+    "location": {
+      "country": "India",
+      "region": "Andaman And Nicobar Islands, India",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.054765591417947",
+      "lng": "92.80288696289062"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "82aba058-697a-480d-9ab5-250624ebe739",
+    "name": "Etienne Rocks",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Silhouette Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.489579303105299",
+      "lng": "55.202693939208984"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "84909a92-29e0-4662-891c-7970bc950643",
+    "name": "Trou D&#039;eau Douce Bay",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.244159757265106",
+      "lng": "57.80482292175294"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "84a490c9-c0d2-4ca3-aba7-04019dd70060",
+    "name": "Les Cheminee",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.048898306006976",
+      "lng": "55.21805763244629"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "873f75ed-466f-438d-ac5a-adbaabdebcda",
+    "name": "Les Roches Merveilleuses",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.03283667395878",
+      "lng": "55.21616935729981"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "87605572-4878-4de8-a492-d616fa7de2db",
+    "name": "The Crack",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea",
+        "Gulf Of Tadjoura",
+        "The Bay Of Ghoubbet"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.574216080310618",
+      "lng": "42.53253936767579"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "881f5468-500b-433c-a310-015b84397f62",
+    "name": "Breiz Izel Wreck",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea",
+        "Gulf Of Tadjoura",
+        "Obock"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.960738616126912",
+      "lng": "43.30604553222657"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "884a96ee-20ea-4735-9b1c-35d75853b842",
+    "name": "King Fish Kingdom",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.041680013578922",
+      "lng": "57.51930847764016"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "88614ac8-4903-4a94-8133-68e65eb90aef",
+    "name": "Coral Garden",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.070120758984086",
+      "lng": "57.508749961853034"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "88b925db-032d-4a69-ad62-65324620c269",
+    "name": "Shipwreck Tian Xiang",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.2896472531254",
+      "lng": "57.35099315643311"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8ae805af-2a55-47a6-955c-a2416adad8af",
+    "name": "Saliba",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.039485838963138",
+      "lng": "55.21565437316895"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8af5dfef-a83b-4a9b-979f-dd89d79e4dcc",
+    "name": "Purple Cave",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.45459901094446",
+      "lng": "57.72105216979981"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8bd7d974-7e17-4e0e-b5f1-c4dedb97f9ec",
+    "name": "New Reef",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.40513336225619",
+      "lng": "57.345027923583984"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8be62390-7420-45ba-a283-ef42027fd85c",
+    "name": "Afsheen",
+    "location": {
+      "country": "India",
+      "region": "Agatti, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.813073053815014",
+      "lng": "72.17717170715333"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8c20a180-b6f6-41de-9b82-d8994a8daf7a",
+    "name": "Foret Des Gorgones",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.168122145270342",
+      "lng": "57.80576705932618"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8c5922b5-2ca9-476a-a5e4-dc20d02f5c50",
+    "name": "Jackpot",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.512254291191339",
+      "lng": "55.51889419555665"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8c8854cf-a7a1-4390-a206-dd3062ab9b0c",
+    "name": "Lighthouse",
+    "location": {
+      "country": "India",
+      "region": "Havelock Island, Andaman And Nicobar Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.044692844011117",
+      "lng": "92.95909881591798"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8e61ba8c-caf6-4658-a358-2c97b7583d93",
+    "name": "Roche Jaune",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.048755407684897",
+      "lng": "57.52102375030518"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8f01aa43-36cc-4e47-980d-6179b70a5f50",
+    "name": "Left Cliff",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.515785678501913",
+      "lng": "57.398929595947266"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8fbc8023-34da-4e69-8739-09c21310b3f7",
+    "name": "Steropus Reef",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.019080965502894",
+      "lng": "57.54132270812988"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9061d0be-d315-4c89-9792-4ba21b4bb9d0",
+    "name": "Zoli Mem",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.519099431614614",
+      "lng": "55.51460266113282"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "91c30f03-cfdb-4d22-bcf1-6a776004e733",
+    "name": "Aquarium Flic En Flac",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.270601567815696",
+      "lng": "57.36682891976672"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "92008e6b-ee29-463a-9024-c2eca6bd2a0d",
+    "name": "North Sister Bank",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Petite Soeur"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.282691422592532",
+      "lng": "55.85084438323975"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "921522cb-52c3-4e40-a80b-7d94205765cd",
+    "name": "The Cliff",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea",
+        "Gulf Of Tadjoura",
+        "The Bay Of Ghoubbet"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.491968522965623",
+      "lng": "42.58918762207032"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "938b058d-b363-406c-b55e-a56e071c4c92",
+    "name": "Pit Stop",
+    "location": {
+      "country": "India",
+      "region": "Wilson Island, Andaman And Nicobar Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.185173406306372",
+      "lng": "92.98553466796876"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "93eee0ba-e6a8-4fd6-a8ab-562f1d0c38c4",
+    "name": "Beach No 1",
+    "location": {
+      "country": "India",
+      "region": "Havelock Island, Andaman And Nicobar Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.037872540070115",
+      "lng": "92.99074888229372"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "942f8513-0148-4bca-9039-b42ba251b8ac",
+    "name": "Tug 2",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.247911563167342",
+      "lng": "57.37333059310914"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "944bb0d8-f9b2-4758-acac-31fec9d230e1",
+    "name": "Holes In The Floor",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Quirimbas Islands",
+        "Ilha Quisiva"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.57361",
+      "lng": "40.62972"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "952ecec6-c4ff-43d4-82a5-5c5a2c033830",
+    "name": " Takamanka Rock",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Mahe Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.783528118202263",
+      "lng": "55.4893684387207"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "970c316e-01b8-4a5c-82b5-9531f5afcc0c",
+    "name": "Cave",
+    "location": {
+      "country": "India",
+      "region": "Sao Jorge Island, Goa",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.352314209237804",
+      "lng": "73.7605118751526"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "971dd78a-dc05-4ccc-b096-552ead8b48d1",
+    "name": "Shivering Rock",
+    "location": {
+      "country": "India",
+      "region": "Wilson Island, Andaman And Nicobar Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.166212013959457",
+      "lng": "92.94296264648439"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "975661c3-916c-4ce3-b578-f4d50e966ef9",
+    "name": "Sit Enler",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.691147658775054",
+      "lng": "55.33847808837891"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "97cd2971-6f2b-4728-928d-a42744e9d746",
+    "name": "Ras Homkorab",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.562346549690876",
+      "lng": "35.16993999481202"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9836d539-518f-4308-bffc-86c2e3b6b204",
+    "name": "Camel Rock Night Dive",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Quirimbas Islands",
+        "Ilha Quipaco"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.67222",
+      "lng": "40.63028"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "989bf17d-c5f9-48ba-a9c6-a1171bb8108e",
+    "name": "Beacon Rocks",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.623821962705926",
+      "lng": "55.52335739135743"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "98cbf013-ba11-43ce-a8bd-72f5b11d5a04",
+    "name": "Cap La Houssaye",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.015771796506932",
+      "lng": "55.23818492889405"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "98f8bbad-567e-4bac-9726-a77f2753ba80",
+    "name": "Sable Blanc",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea",
+        "Gulf Of Tadjoura",
+        "North Coast"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.765864706851524",
+      "lng": "42.91877746582032"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9b9c6c28-b8ed-4dbe-8035-f0835eb69f1e",
+    "name": "Shaab Maksour",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.17463267220277",
+      "lng": "35.71972846984864"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9bada598-a8b2-48f5-b7c9-1707a67c2198",
+    "name": "Anse Coco",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "La Digue"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.374225510904035",
+      "lng": "55.85002899169922"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9cd2cdee-47e2-4826-94f6-149ce9821e77",
+    "name": "Cavern",
+    "location": {
+      "country": "India",
+      "region": "Netrani Island, Karnataka",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "14.01833559651588",
+      "lng": "74.32374358177186"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9d58bebb-e3f5-49ff-a84b-a49c1c2a0795",
+    "name": "Star Bay",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea",
+        "Gulf Of Tadjoura",
+        "The Bay Of Ghoubbet"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.557903041954185",
+      "lng": "42.62832641601563"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9e9b54f1-01c3-4ad4-9ecb-5ced2ac15473",
+    "name": "Collosseum",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Quirimbas Islands",
+        "Ilha Quisiva"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.56889",
+      "lng": "40.61944"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9eab84d6-e0ff-40d3-a937-b278b1aa36eb",
+    "name": "The River",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-19.945253614455112",
+      "lng": "57.62841939926148"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a04d4f8e-3288-45e5-9713-6ce77d787e4b",
+    "name": "Le Sec Aux Boutres",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea",
+        "Gulf Of Tadjoura",
+        "The Bay Of Ghoubbet"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.554707593250729",
+      "lng": "42.71123886108399"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a0d2a502-dec7-4259-8865-5c10fa2cee6a",
+    "name": "Inchcape 2",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea",
+        "Gulf Of Oman"
+      ]
+    },
+    "coordinates": {
+      "lat": "25.299337565234087",
+      "lng": "56.381149291992195"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a106c196-203f-4737-bc1f-a0e06619a6cc",
+    "name": "Buoy Coulee",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea",
+        "Gulf Of Tadjoura",
+        "Moucha And Maskali Islands"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.718805396980619",
+      "lng": "43.14434051513672"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a1228114-50e0-4d87-a0e3-1cd342f6d629",
+    "name": "Rimbaud Wreck",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea",
+        "Gulf Of Tadjoura",
+        "Moucha And Maskali Islands"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.705862679651721",
+      "lng": "43.16459655761719"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a2906d48-7f1b-4c12-b3d4-728e27f15f10",
+    "name": "Small Valley",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-19.945132590692634",
+      "lng": "57.6222825050354"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a38d56fa-caeb-47a5-b5c6-de8573a6b9f1",
+    "name": "Temple Reef",
+    "location": {
+      "country": "India",
+      "region": "Puducherry, India",
+      "ocean": [
+        "Indian Ocean",
+        "Bay Of Bengal"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.937898549371324",
+      "lng": "79.89171981811525"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a40fa7ea-6113-4770-b176-b0add0d7f6cd",
+    "name": "Citronniers Pass",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.51642877262609",
+      "lng": "57.40974426269532"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a4f395af-c49b-474c-bcda-7556f09ad26d",
+    "name": "Shallow Point",
+    "location": {
+      "country": "India",
+      "region": "Bangaram, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.966724654909799",
+      "lng": "72.27669239044191"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a620865b-8023-4726-90b7-b584b6cd43e5",
+    "name": "La Grotte A Nono",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.148893993095918",
+      "lng": "55.269277095794685"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a942eecb-bc6a-4b89-a609-5e2f7df71d5c",
+    "name": "Lost City",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Grande Soeur"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.293946559751332",
+      "lng": "55.87539196014405"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a9d3c56e-3530-4bdb-a78d-47731d7822d7",
+    "name": "Whale Rock",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Praslin"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.291635632570904",
+      "lng": "55.64798355102539"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "aa2ec20f-eb59-4fb6-9384-54d1c7ead5a5",
+    "name": "Mauritius Point",
+    "location": {
+      "country": "India",
+      "region": "Agatti, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.802956076971686",
+      "lng": "72.1667003631592"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "aa49eafb-717c-4724-a320-d98be423a028",
+    "name": "Piscine De Boucan",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.043811642377296",
+      "lng": "55.21625518798829"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ab3fbbf2-dcd9-4196-b3f1-cafdbbbb7832",
+    "name": "L&#039;ecole",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.926409731445922",
+      "lng": "55.31307220458985"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ab705b35-ba7b-400b-acfb-a9d9a51aede7",
+    "name": "Suzy&#039;s Wreck",
+    "location": {
+      "country": "India",
+      "region": "Grande Island, Goa",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.348962081818986",
+      "lng": "73.77887964248659"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "aba90047-a838-4691-8df3-fb7e1b83e593",
+    "name": "Minerva&#039;s Ledge",
+    "location": {
+      "country": "India",
+      "region": "Henry Lawrence Island, Andaman And Nicobar Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.080281525054698",
+      "lng": "93.13865661621094"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "abf592a8-caad-4cee-b1bc-8fcccabe98cd",
+    "name": "Shipwreck L&#039;orient",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.292645297811987",
+      "lng": "57.35030651223497"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ac375fbd-9ea4-47b2-bdee-08a5997b0afe",
+    "name": "Hidden Reef",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-19.985609862024507",
+      "lng": "57.58226394653321"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "acb8f3e4-4493-4db5-b2cb-b8d69574c4db",
+    "name": "Anse Marron Bank",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "La Digue"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.382355631135283",
+      "lng": "55.828914642333984"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "adf2613c-f115-4dec-8fcd-f4135d87db7b",
+    "name": "Sebastian Hill",
+    "location": {
+      "country": "India",
+      "region": "Henry Lawrence Island, Andaman And Nicobar Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.21084463633848",
+      "lng": "93.05763244628906"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ae87f72d-b2d1-4bdb-9f27-c52ed6f5c7ec",
+    "name": "Japanese Garden",
+    "location": {
+      "country": "India",
+      "region": "Agatti, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.818637245668123",
+      "lng": "72.18026161193849"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "af85a435-744a-4079-a1eb-7d6a7126dcdd",
+    "name": "Aquarium Out",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Quirimbas Islands",
+        "Ilha Quipaco"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.66833",
+      "lng": "40.63528"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "af9aeffa-4719-4a29-a2b6-4727b033f362",
+    "name": "St. Pierre",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Curieuse"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.301285846870931",
+      "lng": "55.74986457824707"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b0e6898f-a3bc-4a86-92d3-a8ea58849821",
+    "name": "Les Trois Grottes",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.05650795072598",
+      "lng": "55.21893739700318"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b1898abf-b136-45d1-b3bb-fb4eb7b41ca0",
+    "name": "Tinnakara Hill",
+    "location": {
+      "country": "India",
+      "region": "Bangaram, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.95707635723636",
+      "lng": "72.3140072822571"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b299dcd9-58b4-4ef7-b9c5-e08dafa44c79",
+    "name": "Princess Royal",
+    "location": {
+      "country": "India",
+      "region": "Bangaram, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.958171812981531",
+      "lng": "72.29231357574464"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b2ebe675-2bf6-4b76-a91d-34407ccc9332",
+    "name": "Barracuda City",
+    "location": {
+      "country": "India",
+      "region": "Henry Lawrence Island, Andaman And Nicobar Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.154465339932548",
+      "lng": "93.15307617187501"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b36b28b1-81b3-4c91-ac4c-2fda2b75ee1b",
+    "name": "Vieux Roches",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.916067536020908",
+      "lng": "55.34680366516113"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b431b49c-4257-4a06-9895-e338efd54d51",
+    "name": "Roche Mondon",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Silhouette Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.462839025237683",
+      "lng": "55.21865844726563"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b451c6f7-2b0d-4f6d-a9b9-af6ccc8157c5",
+    "name": "Coral Garden",
+    "location": {
+      "country": "India",
+      "region": "Grande Island, Goa",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.349789772606863",
+      "lng": "73.7841582298279"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b5099944-c114-415b-b4ac-c4b6e2857ab8",
+    "name": "Dixon&#039;s Pinnacle",
+    "location": {
+      "country": "India",
+      "region": "Havelock Island, Andaman And Nicobar Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.962753823592042",
+      "lng": "93.06140899658205"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b5bce1d3-4c35-41ba-8440-888f5a742443",
+    "name": "Snake Reef",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.240947433544058",
+      "lng": "57.3694467531459"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b6370194-5a89-4741-8fca-ee5346a271f0",
+    "name": "The Cathedral",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.279105252235272",
+      "lng": "57.35446929931641"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b774eb06-ddb7-43e2-940e-56ca79e361c9",
+    "name": "Small Hills",
+    "location": {
+      "country": "India",
+      "region": "Bangaram, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.955980897436302",
+      "lng": "72.30817079544069"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b7c1b730-bff7-4256-8b47-d5dc2c50b79c",
+    "name": "Tombont Du Nord",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea",
+        "Gulf Of Tadjoura",
+        "Moucha And Maskali Islands"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.73494092240228",
+      "lng": "43.19086074829102"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b7e03ce8-9edb-4e2c-a2a4-f082a634984f",
+    "name": "Silver Star",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-19.991901359506",
+      "lng": "57.570934295654304"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b7e8e777-9c52-406b-b55f-bf65315dcd03",
+    "name": "Rowley 2",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Timor Sea",
+        "Rowley Shoals"
+      ]
+    },
+    "coordinates": {
+      "lat": "-17.51801678789746",
+      "lng": "118.96339416503908"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b835ee3f-3870-468d-96ec-1fe3c4940f08",
+    "name": "Manta Point",
+    "location": {
+      "country": "India",
+      "region": "Bangaram, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.926781187417227",
+      "lng": "72.27716445922853"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b8d115a4-a32a-410f-b8e0-8bbd2751433e",
+    "name": "Lemon Rock",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "La Digue"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.390742399362075",
+      "lng": "55.84273338317872"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b991c364-2eab-416e-9488-8f421686dd7f",
+    "name": "Furry Shoal Garen",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.18888310755451",
+      "lng": "35.64604282379151"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b9f03340-cfa8-4fc1-b668-88109cdf15cf",
+    "name": "Anemone Reef",
+    "location": {
+      "country": "India",
+      "region": "Havelock Island, Andaman And Nicobar Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.958387521773636",
+      "lng": "92.96287536621095"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bbacf0b8-d7df-4460-9adb-b1e830128ee9",
+    "name": "Elephant Beach",
+    "location": {
+      "country": "India",
+      "region": "Havelock Island, Andaman And Nicobar Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.013129123340724",
+      "lng": "92.94399261474611"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bd9c45f3-c950-47a3-b0b3-fb57319ebea0",
+    "name": "Entrance Point",
+    "location": {
+      "country": "India",
+      "region": "Bangaram, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.925179965757925",
+      "lng": "72.2682809829712"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "be30c175-5450-4cbf-abc8-e5ff38f0ed1a",
+    "name": "Shipwreck St. Gabriel",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.269916158586945",
+      "lng": "57.35936164986925"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "be67bba2-0766-4f17-9eb0-f34a184ca686",
+    "name": "South Felicite",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Felicite"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.344528428380183",
+      "lng": "55.8819580078125"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "be869e23-321a-43ce-a9fc-966c1138e89a",
+    "name": "Overhangs",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Quirimbas Islands",
+        "Ilha Quisiva"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.58861",
+      "lng": "40.62861"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c038c4f7-883b-42a7-8535-caf1aa4427a9",
+    "name": "Ricola Komplott",
+    "location": {
+      "country": "India",
+      "region": "Agatti, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.885146620159846",
+      "lng": "72.1936082839966"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c206ed3e-9fec-4c64-8335-69e3bf393f9b",
+    "name": "Manawa",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.482823489765096",
+      "lng": "57.30297088623047"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c2283e0d-91c3-4654-a150-da372fb04262",
+    "name": "Kanyakumari",
+    "location": {
+      "country": "India",
+      "region": "Tamil Nadu, India",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.078498",
+      "lng": "77.551117"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c2f792d7-016d-460b-806a-9d1aa7be3568",
+    "name": "Pte Wahoo",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.44792408795391",
+      "lng": "57.728948593139656"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c40be7f5-807e-4f44-9796-5e56701fc8d8",
+    "name": "Junction",
+    "location": {
+      "country": "India",
+      "region": "Havelock Island, Andaman And Nicobar Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.874406498559317",
+      "lng": "93.0425262451172"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c5f1c377-f136-4773-aa0e-2bcc2b39d060",
+    "name": "Lascars",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Silhouette Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.51636138319609",
+      "lng": "55.25093078613282"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c68d4723-02b9-4e51-b47c-d582de5f0adb",
+    "name": "Grande Banks",
+    "location": {
+      "country": "India",
+      "region": "Sao Jorge Island, Goa",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.353141886731981",
+      "lng": "73.76832246780397"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c6992f1f-c1b4-4340-9bbe-8504dc70d998",
+    "name": "Little Canyons",
+    "location": {
+      "country": "India",
+      "region": "Bangaram, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.923831561871514",
+      "lng": "72.26167201995851"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c756f6bd-4ba4-4d80-a1bb-465ba333779e",
+    "name": "Black Forest",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.01073401923564",
+      "lng": "57.54080772399903"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c762d1d5-f3f8-4363-a286-5b757e6e8f8e",
+    "name": "Bekin Bank",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.694141662906958",
+      "lng": "55.33238410949708"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c8d98b50-286c-4979-8b30-4d8f8b3a13e6",
+    "name": "Ragusa",
+    "location": {
+      "country": "India",
+      "region": "Agatti, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.889108054483062",
+      "lng": "72.2009038925171"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c91794fe-b77a-4488-9590-83add5ff4dde",
+    "name": "Star Cliff",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-19.99916046737026",
+      "lng": "57.57290840148926"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ca0f3e3a-b40d-42ae-86da-8aafc95cc61f",
+    "name": "Coral Garden",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Curieuse"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.282734218104703",
+      "lng": "55.7483196258545"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cb23b9ba-9c38-401c-b542-87b7aae0da4a",
+    "name": "Cayman Bank",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "La Digue"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.364982740726314",
+      "lng": "55.859041213989265"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cbed77e8-3bab-4b40-ad54-24504185e47d",
+    "name": "Bubble Corals",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.39081350854591",
+      "lng": "57.36828804016114"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cdcf1284-470f-4bda-9a13-0fe62f96487b",
+    "name": "Maharani",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.040627382622457",
+      "lng": "55.21571874618531"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ce858fac-3db7-454b-8511-53aca5c5578c",
+    "name": "Poison Reef",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-19.986577801070027",
+      "lng": "57.58320808410645"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cef80d92-a332-49fe-b8d0-0741361d2c65",
+    "name": "Coral Fantasies",
+    "location": {
+      "country": "India",
+      "region": "Agatti, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.829512413366556",
+      "lng": "72.15086460113527"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d043d5b0-f5e0-494a-95b1-75cf7c92cd13",
+    "name": "Pura Point",
+    "location": {
+      "country": "India",
+      "region": "Agatti, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.855897806107624",
+      "lng": "72.20021724700929"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d09ed83a-0178-44f0-85d7-82952f2c42e0",
+    "name": "Trois Bassins",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.11100565494458",
+      "lng": "55.24925708770753"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d0e25af0-634e-44f5-9cea-2aedb365fd62",
+    "name": "The Tube",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.05113395859776",
+      "lng": "57.515316009521484"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d1897d8c-c11d-4033-8ad6-83bab3e37602",
+    "name": "Stingray Bed",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-19.938133225290855",
+      "lng": "57.620587348937995"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d43e3c2e-1d24-45e2-92fb-48a748a7d9ed",
+    "name": "Intendance Rocks",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Mahe Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.801575074962749",
+      "lng": "55.499839782714844"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d456cef5-ed59-46c3-b2e7-2dea9b856bc0",
+    "name": "Chateau",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.189310084235704",
+      "lng": "57.789373397827156"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d4ad4a7b-4fc4-4418-baf0-b31e9f77b17f",
+    "name": "Roche Marine",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.045570511899502",
+      "lng": "57.520036697387695"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d4b3dd6c-4797-41b4-afd0-6cd04351e2ed",
+    "name": "Marianne Rocks",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Felicite"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.331690710336241",
+      "lng": "55.89860916137696"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d52fd6a9-f001-4172-bf57-274cb30eefbe",
+    "name": "Jenkins Playground",
+    "location": {
+      "country": "India",
+      "region": "Agatti, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.876464994816295",
+      "lng": "72.17927455902101"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d777ef8e-cdf6-4ff3-aa06-229390f15831",
+    "name": "Sea Adventure Wreck",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.985482840680387",
+      "lng": "55.26947021484376"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d8216735-aef0-437f-bdcc-16f260562f3f",
+    "name": "Three Caves",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-19.943902177174976",
+      "lng": "57.618119716644294"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d97ac952-2213-47f9-9676-efff9e27cb0f",
+    "name": "Therese Rocks ",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Therese"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.676776260373935",
+      "lng": "55.39722919464111"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "daa40014-fc3c-4b09-a6a0-c539487ac130",
+    "name": "East Sister Bank",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Grande Soeur"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.291293272393642",
+      "lng": "55.87406158447266"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dbe21495-a354-4a09-9b21-9d83c1ac7358",
+    "name": "Tour De Boucan",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.042129400423665",
+      "lng": "55.2159333229065"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dd22af39-96e6-4d4b-9a65-a0367af90df0",
+    "name": "Pirate&#039;s Cove",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Mahe Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.804996245208925",
+      "lng": "55.545673370361335"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "df2372a2-18a0-4eb2-901d-85cc4ec72fa8",
+    "name": "Parali Reef",
+    "location": {
+      "country": "India",
+      "region": "Bangaram, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.951809686474062",
+      "lng": "72.32789039611818"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e1482683-d685-45f4-9d4a-3133b4005cc3",
+    "name": "Umhalhala",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.184028742384548",
+      "lng": "35.654454231262214"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e386efe7-b056-4158-a6df-993b523c674f",
+    "name": "Coral Garden",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-19.984803241610315",
+      "lng": "57.583422660827644"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e3fa3f4f-2a64-4b77-85d5-7440ad6cc4ef",
+    "name": "Silver Star Wreck",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-19.988997622663888",
+      "lng": "57.574925422668464"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e51fafa6-c5db-462c-82e0-0e97cf0509a5",
+    "name": "Jackson&#039;s Bar",
+    "location": {
+      "country": "India",
+      "region": "Henry Lawrence Island, Andaman And Nicobar Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.13801912496977",
+      "lng": "93.15135955810548"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e61e541c-75ba-482b-af2a-8d34abfdd2d8",
+    "name": "Whale Rock",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-19.997224737996234",
+      "lng": "57.56080627441407"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e91adf61-4df2-4655-ae18-999aa88e1148",
+    "name": "Dan Milieu",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Conception"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.671386909896453",
+      "lng": "55.377187728881836"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e9cab2e4-dafd-4de5-a689-40f2fd450f47",
+    "name": "Abu Galawa Small",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.254477199450612",
+      "lng": "35.55390357971192"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e9e6f441-7f7c-4a2d-905f-8498bd1525c0",
+    "name": "Aride Bank",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Aride"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.208352025436031",
+      "lng": "55.657510757446296"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ebbf8c51-8b0c-41b8-b658-b2b351d9b07b",
+    "name": "Aravind&#039;s Wall",
+    "location": {
+      "country": "India",
+      "region": "Puducherry, India",
+      "ocean": [
+        "Indian Ocean",
+        "Bay Of Bengal"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.959059265102644",
+      "lng": "79.94991302490234"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ec521fb7-9edf-4703-a83c-027c30df75c2",
+    "name": "Jardin Japonais",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.17787056608543",
+      "lng": "57.79778480529786"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "edb48185-533b-41ad-bcc5-b834af58f251",
+    "name": "Habili Hornkorab",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.556218389655765",
+      "lng": "35.17569065093995"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "edc79f36-dd49-481d-977b-7bef13204426",
+    "name": "K Rock",
+    "location": {
+      "country": "India",
+      "region": "Neil Island, Andaman And Nicobar Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.851895178044563",
+      "lng": "93.04561614990236"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "edfbc98c-b8ff-4c0d-9efb-f7f2575560f2",
+    "name": "Shark Pit",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-19.86521651403575",
+      "lng": "57.65625000000001"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ee92ae33-7229-4e81-8211-ac32e4bdb94d",
+    "name": "Jardin Des Pirates",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.170325734883082",
+      "lng": "55.282087326049805"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eef85c68-8214-42ed-b78d-8af9ae114287",
+    "name": "Malahi",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.201722795703624",
+      "lng": "35.65222263336182"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f04146b2-5b43-4d7d-b18a-a691761326a9",
+    "name": "Sail Rock",
+    "location": {
+      "country": "India",
+      "region": "Sao Jorge Island, Goa",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "15.344575265854067",
+      "lng": "73.75956773757936"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f1c6ca33-6015-46ac-b53d-239db7bf21c5",
+    "name": "Feyte",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.5264578854784805",
+      "lng": "55.49314498901368"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f1dd2194-9c9a-4832-a851-6b9091214685",
+    "name": "Vieux Fusil",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.92737175985232",
+      "lng": "55.30843734741211"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f228bb12-a8f0-4144-b482-db1d36ecd0c5",
+    "name": "Disaster Drop Off",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Quirimbas Islands",
+        "Ilha Quisiva"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.59333",
+      "lng": "40.63556"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f29e46a0-3dba-4fad-9ab3-ee1eaeb88ecb",
+    "name": "Big Rocks",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-19.945374638124846",
+      "lng": "57.619814872741706"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f3aea6f6-4f1e-4e04-8716-6df69730a6fc",
+    "name": "Lobster Cave",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.457815737740077",
+      "lng": "57.704229354858406"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f3e1024c-4b63-44e7-8b81-506829718be0",
+    "name": "Sister Bank",
+    "location": {
+      "country": "India",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Grande Soeur"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.280252074442325",
+      "lng": "55.86762428283692"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f4ccad83-e71d-494a-b965-7afce8bf19ae",
+    "name": "Roche Zoso",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.43031055012284",
+      "lng": "57.76156425476075"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f52adcee-bd66-4e36-b57e-99a5c0d10f11",
+    "name": "La Murene",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.444626729843737",
+      "lng": "57.300481796264656"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f55d15e0-7358-4d09-8eef-eaca41c3ea14",
+    "name": "Koh Ha Yai",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea",
+        "Strait Of Malacca"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.425112986290636",
+      "lng": "98.89343261718751"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f6a4769e-fedf-45aa-87e0-6ebd157e729d",
+    "name": "Barge",
+    "location": {
+      "country": "India",
+      "region": "Bangaram, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.927961029427788",
+      "lng": "72.2566080093384"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f6c23076-7d86-4f06-a4cb-fe9828be1612",
+    "name": "Alice In Wonderland",
+    "location": {
+      "country": "India",
+      "region": "Agatti, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.878235055454985",
+      "lng": "72.21197605133058"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f8c3e933-5c67-4c85-ae43-8a48f7f03f3d",
+    "name": "Aquarium",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.002225323533956",
+      "lng": "57.57196426391602"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f9558331-abc6-46c3-8ad9-9c14ddedead5",
+    "name": "Pain De Sucre",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-21.025345994126262",
+      "lng": "55.22397994995117"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fac93d39-7641-4025-a576-b8dd19fd5e36",
+    "name": "Grande Chaloupe",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Reunion"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.896423417738966",
+      "lng": "55.37323951721192"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "faf26ade-97d2-4572-9733-a826b14df105",
+    "name": "The Channel",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-19.950699587746552",
+      "lng": "57.618870735168464"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fb883d78-e762-4571-bee4-3eacafa6356c",
+    "name": "Ghost Reef",
+    "location": {
+      "country": "India",
+      "region": "Nicholson Island, Andaman And Nicobar Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.123082396867739",
+      "lng": "92.94828414916994"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fc0ece69-240e-41d4-b0c1-72abf9fa294a",
+    "name": "Lahami Bay Housereef",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Red Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.205480508616315",
+      "lng": "35.43434143066407"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fd1945a8-a8d7-43b5-827f-3f91102f92b4",
+    "name": "Bangaram Reef",
+    "location": {
+      "country": "India",
+      "region": "Bangaram, Lakshadweep",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "10.971443358361261",
+      "lng": "72.26604938507081"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fd1eba90-07c2-4178-abc0-0873c6eb0b9e",
+    "name": "Ras Duan",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea",
+        "Gulf Of Tadjoura",
+        "North Coast"
+      ]
+    },
+    "coordinates": {
+      "lat": "11.80384242361681",
+      "lng": "43.06125640869141"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fd6eea89-bef2-459b-80ed-5929db93a7ff",
+    "name": "Unicorn",
+    "location": {
+      "country": "India",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean",
+        "Quirimbas Islands",
+        "Ilha Quipaco"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.67556",
+      "lng": "40.64333"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fe2c60ad-4918-404c-861d-2fc3917ef644",
+    "name": "Crystal Rock",
+    "location": {
+      "country": "India",
+      "region": "Mauritius",
+      "ocean": [
+        "Mauritius"
+      ]
+    },
+    "coordinates": {
+      "lat": "-20.398295395887654",
+      "lng": "57.34485626220703"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fe31c896-3eb7-4ee0-8fac-12892ee62eed",
+    "name": "Pilot Reef",
+    "location": {
+      "country": "India",
+      "region": "Havelock Island, Andaman And Nicobar Islands",
+      "ocean": [
+        "Indian Ocean",
+        "Andaman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "12.027232520244587",
+      "lng": "93.03462982177734"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ffdaa14f-f6b6-4455-bfd8-5163be25932d",
+    "name": "Muttom Fishing Harbor",
+    "location": {
+      "country": "India",
+      "region": "Tamil Nadu, India",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.121832216005485",
+      "lng": "77.33222723007204"
+    },
+    "additionalInfo": {}
+  }
+]

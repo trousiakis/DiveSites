@@ -1,0 +1,56 @@
+[
+  {
+    "id": "14070c5f-66c9-4cf4-910c-b90d0904fd09",
+    "name": "Oldclubreef",
+    "location": {
+      "country": "Qatar",
+      "region": "Mesaieed, Qatar",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea",
+        "Persian Gulf"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.86885817261086",
+      "lng": "51.53064250946045"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7332a928-bb6f-42bf-bae5-d02217d77f5b",
+    "name": "New Club Reef",
+    "location": {
+      "country": "Qatar",
+      "region": "Mesaieed, Qatar",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea",
+        "Persian Gulf"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.843644593217505",
+      "lng": "51.50701761245728"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "914c4dae-dd19-439e-ad9e-a4779880e17d",
+    "name": "Gmc Reef",
+    "location": {
+      "country": "Qatar",
+      "region": "Mesaieed, Qatar",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea",
+        "Persian Gulf"
+      ]
+    },
+    "coordinates": {
+      "lat": "24.84286571357407",
+      "lng": "51.506695747375495"
+    },
+    "additionalInfo": {}
+  }
+]

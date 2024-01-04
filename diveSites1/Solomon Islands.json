@@ -1,0 +1,1226 @@
+[
+  {
+    "id": "0766c54e-0f63-46e5-b1ab-7956132cacfc",
+    "name": "Nembalau Point",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Mbokonimbeti, Central Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.965263155754803",
+      "lng": "160.05599498748782"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "078439db-1366-4d7b-b26b-8c751f476184",
+    "name": "Leru Cut",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Pavuvu, Central Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.988344347025784",
+      "lng": "159.0595006942749"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "09eb7071-36b9-44c8-935a-239cd8174888",
+    "name": "Uepi House Reef",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Uepi Island, Solomon Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.43032400691312",
+      "lng": "157.95176982879642"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "09f4d4e9-9260-453e-8af9-0e6643076308",
+    "name": "Maravagi",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Mangalonga, Central Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.950510771765153",
+      "lng": "160.0563704967499"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "09f6d3f4-9cc2-4513-b753-d3946aa272aa",
+    "name": "Wreck Of The Ann",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Mbanika, Central Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-9.11993614954124",
+      "lng": "159.1581201553345"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0aa8e1f1-b383-4e6f-979a-ae2231b9a733",
+    "name": "Karumolun",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Pavuvu, Central Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.967488678929998",
+      "lng": "159.13936614990237"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "162098e9-5f99-4bc2-820c-9dec87a63857",
+    "name": "3Rd Mooring",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Mbulo Island, Western Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.754031225748559",
+      "lng": "158.28333377838138"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1f13d5c8-48b7-4c35-899a-919e75cf8ce2",
+    "name": "Mbseareri Point",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Mbokonimbeti, Central Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-9.014094353467476",
+      "lng": "160.0497937202454"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1fd37e66-f3fe-452a-afaa-2c81751809e9",
+    "name": "Mane Anchor",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Mane, Central Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-9.022083900228946",
+      "lng": "159.03619766235354"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1fec3e5f-bd52-452f-bd87-73abca2c7e64",
+    "name": "Japanese Seaplane",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Tanambogho, Central Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-9.109236847348761",
+      "lng": "160.18578171730044"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "230606a8-64bb-40ac-815b-45a5abe760f9",
+    "name": "Seghe P38 Wreck",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Vangunu, Western Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.577158737586593",
+      "lng": "157.87063837051394"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "24fb1e3c-0653-43f6-8f37-e396a2143054",
+    "name": "Andrew Patrick Bay",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Nggela Sule, Central Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-9.060015936615153",
+      "lng": "160.0711011886597"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2519955b-6c31-43e1-bf64-a94278736300",
+    "name": "Botch",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Uepi Island, Solomon Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.430684954080991",
+      "lng": "157.9525852203369"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2ca5d4fe-de9e-45a2-a9e0-aa50d6ed3292",
+    "name": "1St Mooring",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Mbulo Island, Western Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.757594103549692",
+      "lng": "158.27028751373294"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2cceda28-f088-415c-81f3-3656e7f9be52",
+    "name": "Lulimehe East",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Sambulo, Western Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.465071327919725",
+      "lng": "158.06751251220706"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2cd49537-2643-4a44-8871-c21f089baf93",
+    "name": "Coral Gardens",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Tambapeava, Western Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.671312001720812",
+      "lng": "158.1820106506348"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2f0dd5c1-0e5f-476b-a0fb-be8599fda51c",
+    "name": "Palette",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Malemale, Western Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.78609589614453",
+      "lng": "158.24569702148438"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "323ef2fb-9626-41b2-a17a-da4f79c52c48",
+    "name": "Wwii Planes",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Vangunu, Western Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.583153565581474",
+      "lng": "157.880916595459"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "339fef9c-a496-4a3e-84a4-fe3c60f96a4a",
+    "name": "Njapuana West",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Njapuana I, Western Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.582124522578495",
+      "lng": "158.17814826965335"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "355cccb1-3063-4b57-ba0c-5f6505c0e7c8",
+    "name": "Tanavula Point",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Nggela Sule, Central Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-9.043275474657364",
+      "lng": "160.06350517272952"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "35dee6ac-07c8-4200-b9fe-df75d72b11b3",
+    "name": "Garbage Bin",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Tulagi, Central Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-9.096397261871386",
+      "lng": "160.14455080032351"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "36a4b1df-edcd-46ce-a4c5-68bc9b449eb0",
+    "name": "Fonagho",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Lamu, Central Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-9.092350366314902",
+      "lng": "159.30192947387698"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3838fc5e-4324-43ef-8dc5-3636b88fbfa9",
+    "name": "Double Island",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Kokomtambu, Central Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-9.121419195830804",
+      "lng": "160.15680313110354"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3ada193d-9f33-4946-8172-5575478ab290",
+    "name": "Mbulo Lagoon",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Mbulo Island, Western Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.761793165712286",
+      "lng": "158.26672554016116"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "479d2608-8cd3-41cc-b7d1-21a483079ad0",
+    "name": "Lumilihe Passage West",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Karikana, Western Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.466514550936129",
+      "lng": "158.0644226074219"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4802b789-6acf-4bb5-ac2f-73c8ff681edd",
+    "name": "Cathedrals",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Mbulo Island, Western Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.752673929992445",
+      "lng": "158.28453540802005"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4c0993ed-170e-403c-a84e-f89626f9d2cb",
+    "name": "Peava Jetty",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Nggatokae, Western Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.78652001343369",
+      "lng": "158.23179244995117"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4f84d152-8e0d-44d8-8b06-1b10034b7cf9",
+    "name": "Wreck Of The Taiyo",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Vangunu, Western Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.707265297192574",
+      "lng": "157.8158247470856"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4fb6ca86-19ef-46d8-8c99-c450ecbc476f",
+    "name": "Tulaghi Switzer",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Mbokonimbeti, Central Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-9.02632231477172",
+      "lng": "160.09685039520267"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5307746d-6c06-462b-bade-5edadea8c195",
+    "name": "Kavachi Corner",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Mbulo Island, Western Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.7920759050979",
+      "lng": "158.31895351409915"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5864f517-237f-4c32-bcf0-4dff86f45609",
+    "name": "Uss Serpens",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Guadalcanal Island, Guadalcanal Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-9.409864470693464",
+      "lng": "160.01578867435458"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5a12ff80-65ac-40f0-928c-653d0fce5d05",
+    "name": "Picnic",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Malemale, Western Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.78719860008701",
+      "lng": "158.2511901855469"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5f9a3572-db7f-46b0-a964-00038db72ba1",
+    "name": "Wreck Of The Moa",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Tulagi, Central Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-9.11558231376582",
+      "lng": "160.1640021800995"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "61448cd5-5270-4341-bbe8-6b73a8517e4e",
+    "name": "Custom Caves",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Pavuvu, Central Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-9.042894037333774",
+      "lng": "159.05988693237308"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "66d4158b-9e08-4b1e-a2c5-9a8c48b51f90",
+    "name": "Kindy",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Mbulo Island, Western Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.787347040751829",
+      "lng": "158.3197259902954"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6753500b-dffa-4bc5-87a1-6fb231511b05",
+    "name": "Mirror Pond",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Mane, Central Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-9.008351095274577",
+      "lng": "159.0312194824219"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "687d19f6-a9ce-4321-8119-39008bb5e179",
+    "name": "Bat Cave",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Pavuvu, Central Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.983554431815229",
+      "lng": "159.08464908599854"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "68bd9b7c-419c-42f8-ba7e-eda7725b33ef",
+    "name": "Coral Gardens",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Mbulo Island, Western Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.75381914861301",
+      "lng": "158.27702522277835"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "739ec54c-7ef5-4dc5-80cc-c9fa06845dd8",
+    "name": "Ukalo Via",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Malemale, Western Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.792542426560741",
+      "lng": "158.25127601623535"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "74edde17-1252-4752-b695-f83933d00293",
+    "name": "Wickham Harbour Unidentified Wrecks",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Vangunu, Western Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.748517180947358",
+      "lng": "158.0498313903809"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "77a335cc-37bf-4ac9-a034-de32668337f0",
+    "name": "Wreck Of The Kenowa",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Tulagi, Central Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-9.115836553810906",
+      "lng": "160.16366958618164"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7b7e8e7d-c306-4294-96c4-ba0c51360ba5",
+    "name": "Mary Corner",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Mborokua, Central Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-9.019162014213002",
+      "lng": "158.73008251190186"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "815d7de0-54df-4c5b-b23f-d7e26eeb0748",
+    "name": "Kicha Parade",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Mbulo Island, Western Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.787749950828086",
+      "lng": "158.3177733421326"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "824e65d3-4047-4e63-992e-891d62ffaa20",
+    "name": "Toana Tables",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Mbulo Island, Western Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.755727838481032",
+      "lng": "158.2724761962891"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "82dade87-c08d-4bc1-8f88-50edd288e8f4",
+    "name": "Gavutu Wharf",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Gavutu, Central Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-9.113633134073416",
+      "lng": "160.1901483535767"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "886fe77a-8dd2-42f5-a7f2-4cac8198c26b",
+    "name": "Barracuda Point",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Mborokua, Central Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-9.018603065054185",
+      "lng": "158.73088985681534"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8dc96d3c-2484-4658-87b4-17566e85d127",
+    "name": "Kokoana Matiu",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Njapuchanjomo, Western Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.49851875145749",
+      "lng": "158.15720558166507"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "98b0f510-3658-4e9f-baa5-0cf967c48668",
+    "name": "Mbike Island",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Mbokonimbeti, Central Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-9.007333829694774",
+      "lng": "160.09659290313724"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9bcaf154-6fff-4057-a6f7-ebdaf81a0718",
+    "name": "Mbulo Coral Castle",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Mbulo Island, Western Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.75555817755595",
+      "lng": "158.29522132873538"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9f362160-895c-4084-a1a7-4863d912667d",
+    "name": "Karanjou Pile",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Karunjou, Western Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.610894239554503",
+      "lng": "158.20123672485354"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9f3d5c24-b1d2-4f9c-a16f-562fd330cc02",
+    "name": "Baby Cakes",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Mbokonimbeti, Central Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.972013867314702",
+      "lng": "160.05416035652163"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a1b27565-9188-4c8e-ba5d-2a1f87800ece",
+    "name": "Karanjou Sule",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Karunjou, Western Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.613694714756042",
+      "lng": "158.19900512695312"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a56a1300-1ea0-4c9f-8c6d-45754a799d57",
+    "name": "Hirokawa Maru / Bonegi I",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Guadalcanal Island, Guadalcanal Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-9.385651650434022",
+      "lng": "159.8748600482941"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "adfc97bf-9062-49e4-b07d-047b0e3a827f",
+    "name": "Passage Rock",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Soghonara, Central Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.96825171230711",
+      "lng": "160.00196456909183"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b40ae3d6-c1d4-44f6-9b4f-4dfa6812aa77",
+    "name": "Barracuda Point",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Mborokua, Central Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-9.017895767958702",
+      "lng": "158.73097032308578"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b5a78933-819e-4fc7-97ce-0fec9840eeac",
+    "name": "Njapuana East",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Njapuana I, Western Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.603426204364744",
+      "lng": "158.19540023803714"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b71ad753-3598-4e20-8b28-e7253205174f",
+    "name": "Samseon",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Pavuvu, Central Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.964139791258248",
+      "lng": "159.21635627746585"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bb17cf87-8770-46e8-a9ff-7f70a5526627",
+    "name": "Toatelave Island",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Sanihulumu I, Western Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.650099003156923",
+      "lng": "158.20123672485354"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "beac7fe3-10e4-4d4d-b906-ba96ab8210b4",
+    "name": "Kokoana Porepore",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Sanihulumu I, Western Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.502763139983555",
+      "lng": "158.15643310546875"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c7a7ba31-2394-4494-b2b5-ddfbff24a429",
+    "name": "Silvertip Ridge",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Mbulo Island, Western Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.778970653153124",
+      "lng": "158.27479362487796"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c895489c-3785-4ca6-a84d-0c05dc2f656e",
+    "name": "Begho Point",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Mbulo Island, Western Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.775280741386979",
+      "lng": "158.30260276794436"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cb816a93-f989-4f34-a907-b212f4b1545c",
+    "name": "Ed&#039;s &amp; Napoleon&#039;s Wall",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Kovuhika, Central Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.986330894806674",
+      "lng": "160.03456950187686"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cdefd665-a9de-4205-a33e-e9fa87b478ef",
+    "name": "Rainbow Reef",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Pavuvu, Central Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-9.007715304622723",
+      "lng": "159.23862934112552"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "da50c76d-de88-42aa-889a-739831f0a8a7",
+    "name": "Aeaun",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Pavuvu, Central Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.958459328912626",
+      "lng": "159.1711235046387"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dd029183-68fa-410e-8a29-770055c24057",
+    "name": "Wreck Of The Catalina",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Tulagi, Central Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-9.116588679551079",
+      "lng": "160.16845464706424"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e1f48635-fb16-46c2-a8ad-4e8af655aaef",
+    "name": "2Nd Mooring",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Mbulo Island, Western Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.755473347064394",
+      "lng": "158.27535152435306"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e575b9c0-ef2a-4874-a5e6-9d1e244d04da",
+    "name": "Twin Tunnels",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Nggela Sule, Central Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-9.144299699743243",
+      "lng": "160.14706134796145"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e62a3b43-c607-4170-bd4a-b7777cf210c7",
+    "name": "Ta Island",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Pavuvu, Central Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.991014803229266",
+      "lng": "159.23262119293213"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eb4159b3-8e23-4254-ba36-0ffde0701761",
+    "name": "Kinugawa Maru / Bonegi Ii",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Guadalcanal Island, Guadalcanal Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-9.378596536542958",
+      "lng": "159.87077772617343"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ef689114-50a2-40a7-bbc2-05c91d7b1480",
+    "name": "White Beach",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Mbanika, Central Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-9.061329712034565",
+      "lng": "159.19584274291995"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f58c7f8c-1e9d-4997-a4bb-790ae0bc40a3",
+    "name": "Mbakui",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Pavuvu, Central Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.982367540382217",
+      "lng": "159.1850280761719"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fab03184-6092-471e-bf17-c7962ed9a64e",
+    "name": "Fantastic Fans",
+    "location": {
+      "country": "Solomon Islands",
+      "region": "Mbulo Island, Western Province",
+      "ocean": [
+        "Pacific Ocean",
+        "Solomon Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-8.78768633347673",
+      "lng": "158.32161426544192"
+    },
+    "additionalInfo": {}
+  }
+]

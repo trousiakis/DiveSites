@@ -1,0 +1,170 @@
+[
+  {
+    "id": "089e644d-a7ed-4e2b-83a4-c8fcebb80e34",
+    "name": "Neufelder See / Lake Neufeld",
+    "location": {
+      "country": "Austria",
+      "region": "Neufeld An Der Leitha, Burgenland",
+      "ocean": [
+        "Europe",
+        "Austria",
+        "Burgenland",
+        "Neufeld An Der Leitha"
+      ]
+    },
+    "coordinates": {
+      "lat": "47.86976909256946",
+      "lng": "16.384378910588566"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2cc3e9e9-a946-430e-ab9d-113bab556570",
+    "name": "Vorderer Gosausee",
+    "location": {
+      "country": "Austria",
+      "region": "St Gilgen, Salzkammergut Region",
+      "ocean": [
+        "Europe",
+        "Austria",
+        "Salzkammergut Region",
+        "St Gilgen"
+      ]
+    },
+    "coordinates": {
+      "lat": "47.53228157349531",
+      "lng": "13.498034477233888"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4e5dbcbf-aad2-4c91-8a87-c84d69259839",
+    "name": "Grüner See",
+    "location": {
+      "country": "Austria",
+      "region": "Austria, Europe",
+      "ocean": [
+        "Styria"
+      ]
+    },
+    "coordinates": {
+      "lat": "47.21443786864844",
+      "lng": "15.35820007324219"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "59da403f-5231-41dd-823c-4733026f0ba4",
+    "name": "Lechausee",
+    "location": {
+      "country": "Austria",
+      "region": "Weissenbach Am Lech, Reutte",
+      "ocean": [
+        "Europe",
+        "Austria",
+        "Tyrol",
+        "Reutte",
+        "Weissenbach Am Lech"
+      ]
+    },
+    "coordinates": {
+      "lat": "47.43511274875795",
+      "lng": "10.61156988143921"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5a0cdc3a-2d42-449f-9b83-5a833d67ffc8",
+    "name": "Weissensee ",
+    "location": {
+      "country": "Austria",
+      "region": "Spittal An Der Drau, Carinthia",
+      "ocean": [
+        "Europe",
+        "Austria",
+        "Carinthia",
+        "Spittal An Der Drau"
+      ]
+    },
+    "coordinates": {
+      "lat": "46.699038233937614",
+      "lng": "13.411538600921633"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "62ff6265-e159-4720-b585-8f6462d95413",
+    "name": "Weyregg Am Attersee",
+    "location": {
+      "country": "Austria",
+      "region": "St Gilgen, Salzkammergut Region",
+      "ocean": [
+        "Europe",
+        "Austria",
+        "Salzkammergut Region",
+        "St Gilgen"
+      ]
+    },
+    "coordinates": {
+      "lat": "47.90999515731332",
+      "lng": "13.572084903717043"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b705ae06-34a6-4940-b2c5-9eab724b4611",
+    "name": "Waldbad Anif",
+    "location": {
+      "country": "Austria",
+      "region": "Anif, Austria",
+      "ocean": [
+        "Europe",
+        "Austria",
+        "Anif"
+      ]
+    },
+    "coordinates": {
+      "lat": "47.734244022078514",
+      "lng": "13.078773021698"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d5dac5a4-6039-4eb4-a739-5370dd665b84",
+    "name": "Plansee",
+    "location": {
+      "country": "Austria",
+      "region": "Reutte, Tyrol",
+      "ocean": [
+        "Europe",
+        "Austria",
+        "Tyrol",
+        "Reutte"
+      ]
+    },
+    "coordinates": {
+      "lat": "47.48625149026933",
+      "lng": "10.842990875244142"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d64fe153-5666-4815-892d-1de6988a7284",
+    "name": "Gamsjaga ",
+    "location": {
+      "country": "Austria",
+      "region": "St Gilgen, Salzkammergut Region",
+      "ocean": [
+        "Europe",
+        "Austria",
+        "Salzkammergut Region",
+        "St Gilgen"
+      ]
+    },
+    "coordinates": {
+      "lat": "47.73938108288053",
+      "lng": "13.39508056640625"
+    },
+    "additionalInfo": {}
+  }
+]

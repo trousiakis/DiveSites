@@ -1,0 +1,1455 @@
+[
+  {
+    "id": "06617d24-50d5-4faa-b4ab-d04c98233080",
+    "name": "Diyamba Kupatha",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.98948486205668",
+      "lng": "80.26199340820314"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "06ba0761-98d7-42c9-965e-d11616d91506",
+    "name": "Goda Gala",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.082521632119528",
+      "lng": "80.11848449707031"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0cfb9ab8-3b40-4739-837b-7e51bb525cd4",
+    "name": "Crow Island",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Bay Of Bengal"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.71627959409386",
+      "lng": "81.19898557662965"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0f88c62d-b8b7-4f9a-ac75-cbbe7454daac",
+    "name": "Pigeon Rock",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Bay Of Bengal"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.724848277106476",
+      "lng": "81.20535850524904"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "21ffb65d-cf18-4726-b7bb-a14b8d52e033",
+    "name": "Lotus Barge",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Colombo, Western Province",
+      "ocean": [
+        "Asia",
+        "Sri Lanka",
+        "Western Province",
+        "Colombo"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.910578584716491",
+      "lng": "79.8351573944092"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2b4a7836-dc77-4608-9ea0-78e33c762c3e",
+    "name": "Akurala Point",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.1722996574057465",
+      "lng": "80.07694244384766"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2fa88832-2489-4fd3-9847-ddc20d38d70b",
+    "name": "Delwaniya Gala Diyamba",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.987180079303623",
+      "lng": "80.28945922851562"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "30b4128b-812e-4ddb-902f-d9bc38af9455",
+    "name": "Irarakandy",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Bay Of Bengal"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.735113470092653",
+      "lng": "81.18209838867189"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3451dcd7-1534-472a-9224-30651f2f7f8b",
+    "name": "Talpe Reef",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.980777853982573",
+      "lng": "80.29186248779298"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "34e5589b-2542-4e4c-a1b2-0dc66498ed08",
+    "name": "Sunil Gala",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.1457177205237326",
+      "lng": "80.09745597839357"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3f2bb3b4-1ff8-484e-a37b-d8fb547aa533",
+    "name": "Baracuda Point",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.4602195064353385",
+      "lng": "79.94733810424806"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3fa9afe7-428f-49ec-a1ea-55293a6df407",
+    "name": "Ss British Sergeant Wreck",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Bay Of Bengal"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.003306960626688",
+      "lng": "81.51078701019289"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "40fcaf79-581a-484b-9142-ae2b87bc8244",
+    "name": "Pare Gala",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Bay Of Bengal"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.727732740025413",
+      "lng": "81.19480133056642"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4476c346-4215-41d0-9fbc-6a6aafd67a66",
+    "name": "Anemone City",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Bay Of Bengal"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.001224585143888",
+      "lng": "81.51076555252077"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4695761c-0faa-4ac1-b0e7-8a2d10dc069c",
+    "name": "The Tug Boat",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.815307446305077",
+      "lng": "79.85386848449708"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4b363df8-c01c-4b94-957d-29411e1b323e",
+    "name": "Goda Gala Wreck",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.005361989842799",
+      "lng": "80.23547172546388"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4e9b2eff-3693-4da6-99b9-aee41d0b73e0",
+    "name": "Clarks Wreck",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Colombo, Western Province",
+      "ocean": [
+        "Asia",
+        "Sri Lanka",
+        "Western Province",
+        "Colombo"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.903932381023139",
+      "lng": "79.81824874877931"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4ecf39c3-c296-4ea1-b692-51f83aae16db",
+    "name": "Barracuda Reef",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.81633013555458",
+      "lng": "79.85446929931642"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4f59eec3-2607-420e-a64b-19c122f42669",
+    "name": "New Rock",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.451179143432786",
+      "lng": "79.95592117309572"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4f96dfbe-aef5-4198-beea-3dbf88b30d27",
+    "name": "Jungle Beach",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.0188486488556805",
+      "lng": "80.23778915405275"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4fe7c985-a63a-4f18-8527-9b461ec56903",
+    "name": "Thermopylae Sierra",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.81375210222291",
+      "lng": "79.85476970672609"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "502cc38f-8fc7-444e-a402-fe17ed405806",
+    "name": "Boiler Wrecks",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Bay Of Bengal"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.743311153189498",
+      "lng": "81.71802520751955"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "516121a8-c4ee-4deb-b66c-81685593d31c",
+    "name": "Goda Kupatha",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.994777289336298",
+      "lng": "80.25083541870119"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "532fe8e6-50e1-48d4-b1e8-9836ae903f68",
+    "name": "Knife Rock",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Bay Of Bengal"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.720818475420925",
+      "lng": "81.20892047882081"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "53dd7a7f-baa6-4b41-8cb5-69cdc24f286a",
+    "name": "Kirala Gala",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.160011543811027",
+      "lng": "80.06132125854494"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "57ef5ea4-3883-4a74-873a-9e311b4f23f3",
+    "name": "Butterfly Rock",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Bay Of Bengal"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.611573144537328",
+      "lng": "81.25213623046876"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5b9fb717-eee5-4dbd-9327-49a1b1bb7b42",
+    "name": "Goda Gala",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Bay Of Bengal"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.731211033306904",
+      "lng": "81.18870735168458"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5f8dc2e7-6fd1-470d-ad56-ef0e97e36a21",
+    "name": "Amanda Point",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.442565062584394",
+      "lng": "79.96604919433595"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "65100d48-e727-447a-8534-0f2091460e9f",
+    "name": "Toilet Barge",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Colombo, Western Province",
+      "ocean": [
+        "Asia",
+        "Sri Lanka",
+        "Western Province",
+        "Colombo"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.908831835101512",
+      "lng": "79.83253955841066"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "68875cc2-bb30-46b7-bed2-4a78cea13374",
+    "name": "Shark Point",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.405463144502059",
+      "lng": "79.9662208557129"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "68ceb036-9ca3-4c5e-8e81-0568657c2cd7",
+    "name": "Kalawa Pare",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Bay Of Bengal"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.699905227820498",
+      "lng": "81.22243881225587"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6f37d1ea-3991-4de0-93d6-2aa2ab5b813d",
+    "name": "Pigeon Island",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Bay Of Bengal"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.7245089270625",
+      "lng": "81.20115280151369"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6fe89ab8-1c39-476c-9e56-79dc76bc221e",
+    "name": "Godin Galla ",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.4229482934709745",
+      "lng": "79.97488975524904"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "792cc6b1-66e7-4999-bd6e-1412dda39e64",
+    "name": "Ss Rangoon",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.025762565831738",
+      "lng": "80.1914405822754"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7ae404aa-b323-43df-a15c-d56f30ced560",
+    "name": "Kadawara Gala",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.142773571890102",
+      "lng": "80.09376525878908"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7c29aed0-54ce-45c2-9cfe-208936162a26",
+    "name": "Seenigama Gala",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.15446473266052",
+      "lng": "80.08938789367677"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7df32f6f-4605-4d72-8998-039989caf40e",
+    "name": "Madagala",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Bay Of Bengal"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.711019513131127",
+      "lng": "81.20347023010255"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7fd4286c-740f-4812-aac0-690a1357e8c1",
+    "name": "Cargo Wreck (Pecheur Breton)",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.8471376247859315",
+      "lng": "79.84676599502565"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "81c18685-72c6-4fce-a595-3417839a4a1a",
+    "name": "Hikkaduwa Gala",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.138250645170951",
+      "lng": "80.08792877197267"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "82d5936a-5244-4ffe-899d-364da93f9629",
+    "name": "Madda Gala ",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.430027475726402",
+      "lng": "79.96347427368165"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8674abae-39da-4d2f-9f2a-92c65acb86ba",
+    "name": "Gala Pita Gala",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.008008132842539",
+      "lng": "80.21899223327637"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8963b52a-a5bd-4f4b-9645-a00695215d70",
+    "name": "Dijama Gala",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Bay Of Bengal"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.719333800681538",
+      "lng": "81.21673107147218"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8af65d61-b20a-4356-83ca-b3184ee9b6f5",
+    "name": "Klathe Par",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Bay Of Bengal"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.601474307249623",
+      "lng": "81.29530906677248"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8c789877-f152-4678-bfb8-207dffd3ca35",
+    "name": "Aluth Gala",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.006471664279224",
+      "lng": "80.22757530212404"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9030bfc6-17a7-4885-bafb-40fa7160ac9c",
+    "name": "Nave Kupatha",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.973436543376352",
+      "lng": "80.31332015991212"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9326ba9b-3ac7-4e7d-acc6-8867cd1c1ac7",
+    "name": "North Reef",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Bay Of Bengal"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.58034225593349",
+      "lng": "81.242094039917"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "941cda07-f474-4083-9997-522a57e62a35",
+    "name": "Dive For You",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.146869774250871",
+      "lng": "80.09852886199953"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "99187b5d-7a57-4ef2-9153-59c3ad4bdfca",
+    "name": "House Reef",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Bay Of Bengal"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.711358875426512",
+      "lng": "81.21334075927736"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9d70dbca-5e89-42da-864a-4f8f6038d702",
+    "name": "Sagara Gala",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.447682355981662",
+      "lng": "79.95360374450685"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9db091ad-a5d6-48b9-a6e4-7193e17f5308",
+    "name": "Suwame Rock",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Bay Of Bengal"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.58560416191299",
+      "lng": "81.26277923583986"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9f1c9e40-3a38-4b8d-959c-eab5fd8f6a3f",
+    "name": "Malu Gala",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.445720732948627",
+      "lng": "79.95841026306154"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a06349c2-3a2c-4926-86ce-c36cbf312047",
+    "name": "Gladys Moller Wreck",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Bay Of Bengal"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.931692652198578",
+      "lng": "81.56554698944093"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a2e5d2e9-8a96-492a-ac48-a089461367e5",
+    "name": "Sithanane Pare",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Bay Of Bengal"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.706098725245049",
+      "lng": "81.2186622619629"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ac50e0a8-f39e-46f6-ae17-a4fcf75389b5",
+    "name": "Anemone Garden",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Bay Of Bengal"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.811796526762716",
+      "lng": "81.1772918701172"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b09a409a-3aba-4e30-83e0-708966e7d21c",
+    "name": "Car Wreck (Chief Dragon)",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Colombo, Western Province",
+      "ocean": [
+        "Asia",
+        "Sri Lanka",
+        "Western Province",
+        "Colombo"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.912367931288355",
+      "lng": "79.81953620910646"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b1b74f64-cdb1-40b0-bb9a-7e4010183bbd",
+    "name": "Perseus Wreck",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Colombo, Western Province",
+      "ocean": [
+        "Asia",
+        "Sri Lanka",
+        "Western Province",
+        "Colombo"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.91138805186184",
+      "lng": "79.80726242065431"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b262d004-5117-4c5b-82e4-28360ff0bddb",
+    "name": "Ypsylon Gala",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.4319891593955685",
+      "lng": "79.96905326843263"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b49ae7ed-c1aa-4a72-87cd-69822dcedaae",
+    "name": "Black Coral Point",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.149856568590892",
+      "lng": "80.07205009460449"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b6ca86c2-a174-479a-ae2d-db8f5ac5fbb2",
+    "name": "Aluth Gal Mattha",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.99921605973083",
+      "lng": "80.22491455078125"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b837711a-5c43-4dfe-a90a-45f90da63501",
+    "name": "The Conch",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.178528939498873",
+      "lng": "80.07127761840822"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bd3afd8b-cb38-4fac-8edc-f00624ee4b0a",
+    "name": "The Earl Of Shaftesbury ",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.1644489510057765",
+      "lng": "80.08295059204103"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "be47b6d6-d8fd-455d-a072-b960e18a60df",
+    "name": "Ss Lady Mccullum Wreck",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Bay Of Bengal"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.99982216300748",
+      "lng": "81.51623725891115"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "be6f1441-ffa0-420f-aced-f8cb2df3059f",
+    "name": "Yakmuththa Gala",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.141109480677009",
+      "lng": "80.0913190841675"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c2dec282-40b7-4759-a239-d1f0882a0684",
+    "name": "Meda Gala",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.047101259950684",
+      "lng": "80.16388893127443"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c4232ec3-bef0-466e-9950-195bf333b8c5",
+    "name": "Goda Gala Diyamba",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.982655847848221",
+      "lng": "80.27366638183595"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c4ceb079-d2fb-4d62-befb-c7010753862c",
+    "name": "Wallet Wreck",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Colombo, Western Province",
+      "ocean": [
+        "Asia",
+        "Sri Lanka",
+        "Western Province",
+        "Colombo"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.906659039990041",
+      "lng": "79.80846405029298"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c6864f1c-c816-4630-9971-5e5924a44048",
+    "name": "Ss Orestes",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.011383126030095",
+      "lng": "80.21271817968227"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cad1cb2a-f896-42c6-a495-a4f12c2ab305",
+    "name": "South Reef",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Bay Of Bengal"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.574783227670258",
+      "lng": "81.2441110610962"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cb2c1d1b-e32f-4839-aff9-1951e4d0ea54",
+    "name": "Medafaru",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.814583040100002",
+      "lng": "79.85397577285767"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d310c828-0eb5-49cc-b6f5-6822300800fe",
+    "name": "Cave",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.14657109389448",
+      "lng": "80.0962543487549"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d4ae5b58-c598-4501-ab08-adb9334c1753",
+    "name": "Navy Island",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Bay Of Bengal"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.566083821771855",
+      "lng": "81.24059200286867"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "df900603-e0ca-4f44-a07a-5735db825a0c",
+    "name": "Galle Ship Wreck",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.023031152359187",
+      "lng": "80.2251720428467"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e361bcb5-2eaf-46ce-81ca-922c64945f81",
+    "name": "White Rock",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Bay Of Bengal"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.716088705353284",
+      "lng": "81.20310544967653"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e5b662b0-c656-4eb0-a63e-8ecc53f1b91b",
+    "name": "Leather Coral Reef",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Bay Of Bengal"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.998037255129476",
+      "lng": "81.54121398925783"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e7000f4f-4a07-4c59-8f63-3f49438ddcfa",
+    "name": "Hms Hermes",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Bay Of Bengal"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.759299883556808",
+      "lng": "81.73553466796876"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e888cf15-b065-4f88-a3c4-d1edeb19d932",
+    "name": "Reef Wreck",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "5.985899640239056",
+      "lng": "80.28173446655275"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e88d7ede-e9d2-455c-8d53-33a8108954d4",
+    "name": "Mortar Rock",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Bay Of Bengal"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.718718719418034",
+      "lng": "81.20501518249513"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ec21578b-6018-4986-9797-f3a319d877e7",
+    "name": "Coral Garden Point",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.147488468741411",
+      "lng": "80.09743452072145"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f378a12d-643c-4fa9-b184-94ee3a3dca3a",
+    "name": "Welluore Rock",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Bay Of Bengal"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.699735541517386",
+      "lng": "81.20424270629884"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f8873a6b-7327-4f50-b450-7dfbe3eeea29",
+    "name": "Hattre Gala",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.437959454399107",
+      "lng": "79.96235847473146"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f900c305-7d1d-4fe6-aa1c-26acbcf42a0c",
+    "name": "Rangoon Wreck",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.0170561374982485",
+      "lng": "80.21058082580568"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fad46942-a36b-4aa0-be06-d50b8b9a95d3",
+    "name": "Ralaga Wreck",
+    "location": {
+      "country": "Sri Lanka",
+      "region": "Sri Lanka, Asia",
+      "ocean": [
+        "Indian Ocean",
+        "Laccadive Sea",
+        "Gulf Of Mannar"
+      ]
+    },
+    "coordinates": {
+      "lat": "6.028237897418879",
+      "lng": "80.20594596862794"
+    },
+    "additionalInfo": {}
+  }
+]

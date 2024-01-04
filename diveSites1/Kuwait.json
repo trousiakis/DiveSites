@@ -1,0 +1,128 @@
+[
+  {
+    "id": "027d293c-3a32-4403-86f2-c5e2b8cd94f3",
+    "name": "Taylor&#039;s Rock",
+    "location": {
+      "country": "Kuwait",
+      "region": "Ahmadi, Kuwait",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea",
+        "Persian Gulf"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.050167257528237",
+      "lng": "48.547897338867195"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0871db45-3288-42ec-a2a6-32df18fa852b",
+    "name": "Cuttlefish Reef",
+    "location": {
+      "country": "Kuwait",
+      "region": "Ahmadi, Kuwait",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea",
+        "Persian Gulf"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.836252984829166",
+      "lng": "48.36250305175781"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1c20d847-81f2-44f8-b479-694ab1943fca",
+    "name": "Maradim N. Marker",
+    "location": {
+      "country": "Kuwait",
+      "region": "Ahmadi, Kuwait",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea",
+        "Persian Gulf"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.738763971370293",
+      "lng": "48.666000366210945"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "393018fe-9bf1-403d-bb79-6f406d17ad07",
+    "name": "5 Mile Reef",
+    "location": {
+      "country": "Kuwait",
+      "region": "Ahmadi, Kuwait",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea",
+        "Persian Gulf"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.045365049852848",
+      "lng": "48.311691284179695"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "678887a8-98eb-425f-89fd-a6fe3cfd43ae",
+    "name": "Mudayarah Reef",
+    "location": {
+      "country": "Kuwait",
+      "region": "Ahmadi, Kuwait",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea",
+        "Persian Gulf"
+      ]
+    },
+    "coordinates": {
+      "lat": "29.00333620017934",
+      "lng": "48.66668701171876"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eb6d9f07-365b-4306-afc7-95d764d6cfaf",
+    "name": "Donkey Reef",
+    "location": {
+      "country": "Kuwait",
+      "region": "Ahmadi, Kuwait",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea",
+        "Persian Gulf"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.646004813937047",
+      "lng": "48.49777221679688"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fe63f616-f6ba-4611-a586-8749494fbd36",
+    "name": "Qaruh N. Marker",
+    "location": {
+      "country": "Kuwait",
+      "region": "Ahmadi, Kuwait",
+      "ocean": [
+        "Indian Ocean",
+        "Arabian Sea",
+        "Persian Gulf"
+      ]
+    },
+    "coordinates": {
+      "lat": "28.90840825346041",
+      "lng": "48.68659973144532"
+    },
+    "additionalInfo": {}
+  }
+]

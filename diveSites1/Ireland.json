@@ -1,0 +1,4999 @@
+[
+  {
+    "id": "00d43e17-e087-4874-817c-7eac9b4670d6",
+    "name": "Nohaval Cove",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.68144340551787",
+      "lng": "-8.466939926147463"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "017a48af-2bcb-469e-aac4-5f919424c117",
+    "name": "Holeopen Bay West",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.6182297178237",
+      "lng": "-8.551483154296877"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "02617426-6ab7-4b0c-92d8-3c9913edb838",
+    "name": "Port Doon",
+    "location": {
+      "country": "Ireland",
+      "region": "Donegal, Ulster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.25955552739207",
+      "lng": "-8.190994262695314"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0361202d-c9ef-4592-ad4d-367980f2cedb",
+    "name": "English Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Gorumna Island, Galway",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.21235519178037",
+      "lng": "-9.669685363769533"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0402284e-7ac4-44b2-8900-6c5ccc027b6f",
+    "name": "Lighthouse",
+    "location": {
+      "country": "Ireland",
+      "region": "Achill Island, Mayo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.85591857738398",
+      "lng": "-9.939708709716799"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "040838ed-9545-4922-b486-7f910bd53c42",
+    "name": "Toberglassan Bay",
+    "location": {
+      "country": "Ireland",
+      "region": "Donegal, Ulster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.179259747193996",
+      "lng": "-8.172798156738283"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "04535e33-846e-4cf1-984b-b10b73b7c0db",
+    "name": "North Beach Bay",
+    "location": {
+      "country": "Ireland",
+      "region": "Inishbonfin Island, Galway",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.62407741066405",
+      "lng": "-10.240201950073242"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "047a9294-880c-4583-ada4-0a8cea79f81a",
+    "name": "Woods",
+    "location": {
+      "country": "Ireland",
+      "region": "Antrim, Northern Ireland",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.83767503600954",
+      "lng": "-5.6819915771484375"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "08728faa-7514-41e7-ac25-979865662a60",
+    "name": "Blue Cove",
+    "location": {
+      "country": "Ireland",
+      "region": "Skellig Islands, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.77209562782424",
+      "lng": "-10.541510581970217"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0c87c980-481b-447e-819a-1242e6d0b81d",
+    "name": "Coningmore Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Saltee Islands, Waterford",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.10529268714309",
+      "lng": "-6.597633361816407"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0e164e98-4186-4eec-b232-eb27813db3f7",
+    "name": "Captain&#039;s Planet",
+    "location": {
+      "country": "Ireland",
+      "region": "Wicklow, Leinster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Saint George's Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.96916411609932",
+      "lng": "-6.0038137435913095"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0eb04251-9bbc-4a3e-bcc6-07b908a1f4e7",
+    "name": "Sunfish Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Inishbonfin Island, Galway",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.63832826840179",
+      "lng": "-10.208272933959961"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "10440d62-4dbf-4d6f-8b0e-05ed6f180e7e",
+    "name": "Sunk Island Bay",
+    "location": {
+      "country": "Ireland",
+      "region": "Lambay Island, Dublin",
+      "ocean": [
+        "Atlantic Ocean",
+        "Irish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.48275962278762",
+      "lng": "-6.011667251586915"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "109824a5-43db-4f9a-be89-e3aea4d45743",
+    "name": "Portnagh Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Donegal, Ulster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.566886889262776",
+      "lng": "-8.45651149749756"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1265454c-d0af-4414-ac4a-b45309acf557",
+    "name": "South Bullig Reef",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.46630674826172",
+      "lng": "-9.860401153564455"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "17742cec-9ab4-4da1-8902-3531e59f7f04",
+    "name": "The Lighthouse",
+    "location": {
+      "country": "Ireland",
+      "region": "Clare Island, Mayo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.8284204609269",
+      "lng": "-9.988889694213869"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "18166ae3-99bc-4d01-8888-79e897246bbb",
+    "name": "The Invercauld",
+    "location": {
+      "country": "Ireland",
+      "region": "Saltee Islands, Waterford",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.10249853156233",
+      "lng": "-6.619863510131837"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "193705e0-a7bd-43fd-85a8-10f79f8d9a2d",
+    "name": "Gloster Rocks",
+    "location": {
+      "country": "Ireland",
+      "region": "Donegal, Ulster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.65931162322761",
+      "lng": "-8.793525695800783"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "196b4f35-281e-4d70-a845-787d63bec1c1",
+    "name": "Rock Island",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.5049494376284",
+      "lng": "-9.590463638305664"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1a3888a9-66d1-444a-a861-3ad1953cd6df",
+    "name": "Chirripo",
+    "location": {
+      "country": "Ireland",
+      "region": "Antrim, Northern Ireland",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.765344460355486",
+      "lng": "-5.6862831115722665"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1a60f14b-289d-4be6-af71-a5e62a6e5eb3",
+    "name": "Finnis Reef",
+    "location": {
+      "country": "Ireland",
+      "region": "Inisheer Island, Aran Islands",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.05442186546102",
+      "lng": "-9.501800537109377"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1b4310da-dab7-4c87-b56c-d04d88f809aa",
+    "name": "Deace&#039;s Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Clare Island, Mayo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.82963622877495",
+      "lng": "-9.981679916381838"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1b6c786a-8f2b-4795-bd54-8b26ecc91f71",
+    "name": "Scotchport",
+    "location": {
+      "country": "Ireland",
+      "region": "Mayo, Connacht",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.261013108154835",
+      "lng": "-10.085792541503908"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1d98c232-961e-468e-a6fd-c9d43d48e3ff",
+    "name": "Puffin Island Sound",
+    "location": {
+      "country": "Ireland",
+      "region": "Puffin Island, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.843944368306914",
+      "lng": "-10.400276184082033"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1e4bb7f5-9d0e-4c95-b90c-a8d33cf21bd1",
+    "name": "Dooneen South",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.52700864445432",
+      "lng": "-9.729766845703127"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1e8d680c-8daa-4ecf-87f6-ff81565294c4",
+    "name": "Bangor",
+    "location": {
+      "country": "Ireland",
+      "region": "Down, Northern Ireland",
+      "ocean": [
+        "Atlantic Ocean",
+        "Irish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.35355513743715",
+      "lng": "-5.485267639160157"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1ef371a9-ffc6-4a41-b7ec-737a8bb3fcc1",
+    "name": "Collack Pier",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.6163111603273",
+      "lng": "-9.690628051757814"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "206d6a28-776c-42a5-8576-40ae5fcbb813",
+    "name": "Bardini Reefer",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.65125881609387",
+      "lng": "-9.83482360839844"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "20a820bc-2554-4089-9efb-1f7ccdfe049f",
+    "name": "Canty&#039;s Cove",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.528610591966775",
+      "lng": "-9.705390930175783"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "20cd4506-59ab-415c-8c29-59b52fac0bfe",
+    "name": "West Moyteogue Head",
+    "location": {
+      "country": "Ireland",
+      "region": "Achill Island, Mayo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.962347459903214",
+      "lng": "-10.211791992187502"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2168ea78-057c-4eac-94ed-3da42160b58d",
+    "name": "Smerwick Harbour",
+    "location": {
+      "country": "Ireland",
+      "region": "Kerry, Munster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.214338608258224",
+      "lng": "-10.391006469726564"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2287c082-d8ae-4b1e-9f00-c258f49122b1",
+    "name": "Lemon Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Kerry, Munster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.811798736088306",
+      "lng": "-10.478210449218752"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "22c2370b-45e9-4f9b-bbdd-9be38b2f785b",
+    "name": "Brow Head",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.44758828725229",
+      "lng": "-9.77439880371094"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "22cc892c-8e47-4281-b613-e6e33fd15cd0",
+    "name": "Doon Beg Rocks",
+    "location": {
+      "country": "Ireland",
+      "region": "Donegal, Ulster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.18553256518675",
+      "lng": "-8.158035278320314"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "22cf46dd-38c3-4dae-81c3-129813cb55f8",
+    "name": "Old Lighthouse Reef",
+    "location": {
+      "country": "Ireland",
+      "region": "Skellig Islands, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.771405176136184",
+      "lng": "-10.544149875640871"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "23106316-df5d-49e2-9bc5-b60a3aa1b696",
+    "name": "Golam Head",
+    "location": {
+      "country": "Ireland",
+      "region": "Lettermullan Island, Galway",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.22689886211476",
+      "lng": "-9.769077301025392"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "23967383-e6bb-4c6b-b2f2-9b17f51ae8fd",
+    "name": "Churchtown Gullies",
+    "location": {
+      "country": "Ireland",
+      "region": "Waterford, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.127060015938035",
+      "lng": "-6.93065643310547"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "23bf4485-3e46-4137-b8db-0d10363afef2",
+    "name": "Doctor&#039;s Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Clare, Munster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.677865211088466",
+      "lng": "-9.676809310913088"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "241acc78-a2c4-435f-8aaf-414f17aa919b",
+    "name": "The Bull",
+    "location": {
+      "country": "Ireland",
+      "region": "Scariff Island, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.7142669290121",
+      "lng": "-10.253677368164064"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "248fde9e-0c69-43cf-86ec-898ef8244b6d",
+    "name": "Spanish Point",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.50398777645351",
+      "lng": "-9.591665267944338"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2524ec4b-08c7-41ba-997c-2ace741101e4",
+    "name": "Gerahies Pier",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.64998071785037",
+      "lng": "-9.578018188476564"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "25e571aa-7bdc-40d8-9555-3d1e2c809687",
+    "name": "Dido",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.46871285064024",
+      "lng": "-9.37288284301758"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "262a1578-0c59-4af2-b6a6-c433325c77f9",
+    "name": "Carnavonshire",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.467750424914485",
+      "lng": "-9.346618652343752"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "27045cfa-d434-4de1-bc05-1a91a9c55aad",
+    "name": "Charles&#039; Fort",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.68830799080079",
+      "lng": "-8.495693206787111"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "293fc7a3-9ee8-45b9-964d-dc153c41f28d",
+    "name": "Inishtooskert",
+    "location": {
+      "country": "Ireland",
+      "region": "Inishtooskert Island, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.13475246108585",
+      "lng": "-10.586013793945314"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "296c2bd6-6485-4036-a7e6-74376cf13517",
+    "name": "Bouchal Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Inishshark Island, Galway",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.60882875439141",
+      "lng": "-10.302085876464846"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "29a11afc-9a91-41f2-889e-dc4d9fbd37b3",
+    "name": "Moylaun Island",
+    "location": {
+      "country": "Ireland",
+      "region": "Moylaun Island, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.741911704694296",
+      "lng": "-10.170078277587892"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "29bc9c04-0554-421d-9efb-944886b5826e",
+    "name": "Bulman Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.67473745692266",
+      "lng": "-8.484535217285158"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "29eea9f8-0784-48a9-afe7-05018664a778",
+    "name": "Carragahoy",
+    "location": {
+      "country": "Ireland",
+      "region": "Waterford, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.12856831405097",
+      "lng": "-6.913876533508302"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2cb24570-f58f-43ef-93e7-6fda997b45bd",
+    "name": "The Puffin Holes (Cave Dive)",
+    "location": {
+      "country": "Ireland",
+      "region": "Inishmore Island, Aran Islands",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.087013821054136",
+      "lng": "-9.645996093750002"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2f2dfb0e-ada8-4b8d-b53b-1cc89fd9a21d",
+    "name": "Shark Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Donegal, Ulster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.65948538963353",
+      "lng": "-8.788204193115236"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2fe3ab37-833b-4bf6-adda-0633274eab43",
+    "name": "Two Headed Island",
+    "location": {
+      "country": "Ireland",
+      "region": "Two Headed Island, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.737340850885246",
+      "lng": "-10.14965057373047"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "306cb344-b388-4e1e-8777-9285a11d874a",
+    "name": "Gascanane Sound",
+    "location": {
+      "country": "Ireland",
+      "region": "Cape Clear Island, Cork",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.45539749273061",
+      "lng": "-9.458713531494142"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3136c026-0c36-4c17-9125-424723eac6b3",
+    "name": "State Of Louisiana",
+    "location": {
+      "country": "Ireland",
+      "region": "Antrim, Northern Ireland",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.892405720815276",
+      "lng": "-5.805931091308595"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "32bde340-3f2f-4a83-9a40-954b4ff6f072",
+    "name": "Castle Point",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.504148054725356",
+      "lng": "-9.576301574707033"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "33948a6f-8e36-4326-b409-26fff03fd56f",
+    "name": "Lambs Head (2)",
+    "location": {
+      "country": "Ireland",
+      "region": "Derrynane, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.73946688691723",
+      "lng": "-10.139007568359377"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "33f7dedb-3e92-4815-8681-55cf824e89e4",
+    "name": "George&#039;s Head",
+    "location": {
+      "country": "Ireland",
+      "region": "Clare, Munster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.692823796800084",
+      "lng": "-9.66178894042969"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3533f665-d6b0-4f70-8f83-b08d60c521fa",
+    "name": "Crow Head",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.57984315638427",
+      "lng": "-10.15892028808594"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "35eeb629-9956-4fd4-bf95-0a62e9a879b8",
+    "name": "Cup &amp; Saucer",
+    "location": {
+      "country": "Ireland",
+      "region": "Ireland, Europe",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.94079924387242",
+      "lng": "-7.713797092437745"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "368911a6-7bb2-478a-b046-fa80ee4a1262",
+    "name": "Hook Head",
+    "location": {
+      "country": "Ireland",
+      "region": "Waterford, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.12242283212786",
+      "lng": "-6.93039894104004"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "375333be-ea8a-4dd5-a1e4-4adddd45586c",
+    "name": "Kinatevdilla",
+    "location": {
+      "country": "Ireland",
+      "region": "Clare Island, Mayo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.79035922889015",
+      "lng": "-10.054185390472414"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "37b5c463-1b3d-4d0d-9b34-d12814afa347",
+    "name": "Saddle",
+    "location": {
+      "country": "Ireland",
+      "region": "Achill Island, Mayo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.01462811778096",
+      "lng": "-10.181579589843752"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "37d8edc0-7811-4268-b23f-b19e75adb121",
+    "name": "Minawn Cliffs",
+    "location": {
+      "country": "Ireland",
+      "region": "Achill Island, Mayo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.91566337742521",
+      "lng": "-10.055580139160158"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3873aa69-3eb0-42d7-a5a7-a424d8d096d7",
+    "name": "Man Of War Cove",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.68186914650564",
+      "lng": "-8.463420867919924"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3a437d89-6fce-425d-bc77-ba58679f0b7b",
+    "name": "Duchalla Head",
+    "location": {
+      "country": "Ireland",
+      "region": "Kerry, Munster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.79651356095709",
+      "lng": "-10.364227294921877"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3afacf34-8683-404d-ba2c-dde9cbe09fb6",
+    "name": "Melmore Point",
+    "location": {
+      "country": "Ireland",
+      "region": "Donegal, Ulster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.25877293644586",
+      "lng": "-7.785873413085938"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3b4f5225-869a-4fcc-b84e-f07a329d2881",
+    "name": "The Shamrock",
+    "location": {
+      "country": "Ireland",
+      "region": "Lambay Island, Dublin",
+      "ocean": [
+        "Atlantic Ocean",
+        "Irish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.495807229228674",
+      "lng": "-6.002397537231446"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3c521be7-7354-429a-81ec-acf926ae135a",
+    "name": "The Diamond Rocks",
+    "location": {
+      "country": "Ireland",
+      "region": "Clare, Munster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.67552340346915",
+      "lng": "-9.683375358581543"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3dcc956b-4fa5-4440-a07d-dfdc54ddec17",
+    "name": "Kylesalia Creek",
+    "location": {
+      "country": "Ireland",
+      "region": "Galway, Connacht",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.35649402974238",
+      "lng": "-9.69474792480469"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3fc8f0f2-44e0-4da3-8ad1-d0a8a87784c4",
+    "name": "Hunsdon",
+    "location": {
+      "country": "Ireland",
+      "region": "Down, Northern Ireland",
+      "ocean": [
+        "Atlantic Ocean",
+        "Irish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.343749935871465",
+      "lng": "-5.484237670898438"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "408cb603-6c18-433a-91ac-dd041bf74167",
+    "name": "Guide Me Ii",
+    "location": {
+      "country": "Ireland",
+      "region": "Dalkey Island, Dublin",
+      "ocean": [
+        "Atlantic Ocean",
+        "Irish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.27075689767353",
+      "lng": "-6.061363220214845"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "42e8a2bc-f9a9-4356-8fb3-5849bb7baf02",
+    "name": "Strathay",
+    "location": {
+      "country": "Ireland",
+      "region": "Ireland&#039;s Eye, Dublin",
+      "ocean": [
+        "Atlantic Ocean",
+        "Irish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.40871323837144",
+      "lng": "-6.061363220214845"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "42ef3841-a102-46c6-955b-dd4ddfbf5b0e",
+    "name": "Unnamed Wreck",
+    "location": {
+      "country": "Ireland",
+      "region": "Lambay Island, Dublin",
+      "ocean": [
+        "Atlantic Ocean",
+        "Irish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.498896192145544",
+      "lng": "-6.010637283325195"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "431aaa79-008f-473e-bf6c-c0cee98abb6b",
+    "name": "Harbour Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Valentia Island, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.926484128050625",
+      "lng": "-10.315303802490236"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "43687f09-3d6f-4a4b-acc9-9b0338252f04",
+    "name": "Kilcolman Head",
+    "location": {
+      "country": "Ireland",
+      "region": "Mayo, Connacht",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.287675324266324",
+      "lng": "-9.216156005859377"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "43f824b5-e2cb-49b4-9a51-f14285aa3a7f",
+    "name": "Reen Point",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.45684151451478",
+      "lng": "-9.748048782348635"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "44042910-da6a-453f-8b22-3c6e3d28bbc7",
+    "name": "Pidgeon&#039;s Cove",
+    "location": {
+      "country": "Ireland",
+      "region": "Sligo, Connacht",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.47412745921831",
+      "lng": "-8.44704866409302"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4441a21e-d3bc-4e68-b230-6613f97599cc",
+    "name": "The Montana Bank",
+    "location": {
+      "country": "Ireland",
+      "region": "Valentia Island, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.88321998407584",
+      "lng": "-10.431175231933594"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "45591a0f-82bb-4f51-b1be-464b28127876",
+    "name": "Newfoundout",
+    "location": {
+      "country": "Ireland",
+      "region": "Clare, Munster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.68072724991959",
+      "lng": "-9.674105644226076"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "455a856a-cbff-4bb0-963b-d80138accdcb",
+    "name": "Basalt Cliffs",
+    "location": {
+      "country": "Ireland",
+      "region": "Beginish Island, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.941513556993755",
+      "lng": "-10.31496047973633"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "46642a8b-e5fb-4451-a1c9-a40c39027f56",
+    "name": "Queen Victoria",
+    "location": {
+      "country": "Ireland",
+      "region": "Dublin, Leinster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Irish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.357928353175346",
+      "lng": "-6.054153442382813"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "47a8cd8b-b5c7-4aa4-985a-c84b2aa3a2b1",
+    "name": "Bray Head",
+    "location": {
+      "country": "Ireland",
+      "region": "Valentia Island, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.879140308716686",
+      "lng": "-10.42980194091797"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "480ae08b-e66c-4d40-ad28-ce54846add78",
+    "name": "Outer Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Clare, Munster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.68530612200032",
+      "lng": "-9.668140411376955"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "48206328-3263-46e0-8a25-29a833820d84",
+    "name": "The Head",
+    "location": {
+      "country": "Ireland",
+      "region": "Sligo, Connacht",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.47500023935536",
+      "lng": "-8.456103801727297"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "48e621c6-c1a2-4e63-a55c-9432d7259304",
+    "name": "Dolus Head",
+    "location": {
+      "country": "Ireland",
+      "region": "Kerry, Munster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.95590322041214",
+      "lng": "-10.32268524169922"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4912e6d0-ded6-49ff-a68c-f0fbfd929e13",
+    "name": "Scarriff Island- Lamb&#039;s Cove",
+    "location": {
+      "country": "Ireland",
+      "region": "Scariff Island, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.72872938200587",
+      "lng": "-10.24303436279297"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4ae58865-9ebb-40b3-a4b4-c93f1b331696",
+    "name": "Robert&#039;s Cove",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.682933481461745",
+      "lng": "-8.456897735595705"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4af0cb34-0d24-4095-b8d2-b10030ebe378",
+    "name": "Davillaun",
+    "location": {
+      "country": "Ireland",
+      "region": "Davillaun Island, Galway",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.62529910135785",
+      "lng": "-10.145444869995119"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4bb4e5b5-515e-4364-a120-8c6002da134c",
+    "name": "Dugort",
+    "location": {
+      "country": "Ireland",
+      "region": "Achill Island, Mayo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.02108294922326",
+      "lng": "-10.03807067871094"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4c7a885b-6864-4c17-aba5-65bc6f6a091e",
+    "name": "George",
+    "location": {
+      "country": "Ireland",
+      "region": "Antrim, Northern Ireland",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.86554362100962",
+      "lng": "-5.76061248779297"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4c8fde69-c71d-4f7d-b878-543b07a18d06",
+    "name": "Scarriff Island- The Hedges",
+    "location": {
+      "country": "Ireland",
+      "region": "Scariff Island, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.72841040720304",
+      "lng": "-10.264492034912111"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4cd9db1f-e4bf-4288-b971-9c39230f9da9",
+    "name": "Carricknacruboge",
+    "location": {
+      "country": "Ireland",
+      "region": "Donegal, Ulster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.19219635238084",
+      "lng": "-8.164215087890627"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4deb6f9c-2e1b-49d8-95a0-aa4188d218a1",
+    "name": "Tailor&#039;s Rocks",
+    "location": {
+      "country": "Ireland",
+      "region": "Lambay Island, Dublin",
+      "ocean": [
+        "Atlantic Ocean",
+        "Irish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.49943227023076",
+      "lng": "-6.026258468627931"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4e9820f8-a3ec-4ee3-8224-a71e1d0e7979",
+    "name": "Puffin Island",
+    "location": {
+      "country": "Ireland",
+      "region": "Puffin Island, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.831746582050705",
+      "lng": "-10.416927337646486"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4e9ae621-24ef-44c0-b1d2-254914f646bf",
+    "name": "Ireland&#039;s Eye",
+    "location": {
+      "country": "Ireland",
+      "region": "Dublin, Leinster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Irish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.39172342785532",
+      "lng": "-6.0665130615234375"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "501a0183-5afe-4f5e-9e81-80248fa51130",
+    "name": "Marlay",
+    "location": {
+      "country": "Ireland",
+      "region": "Dublin, Leinster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Irish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.38783323989702",
+      "lng": "-6.008834838867188"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5137bef4-4c78-45ec-bdf8-7e10f18471fd",
+    "name": "Inishvickillane",
+    "location": {
+      "country": "Ireland",
+      "region": "Inishvickillane, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.03897658307622",
+      "lng": "-10.601463317871096"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "54475e6a-39f8-438f-bd46-2012360b92e8",
+    "name": "Seal Cove",
+    "location": {
+      "country": "Ireland",
+      "region": "Skellig Islands, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.76924744653103",
+      "lng": "-10.542240142822266"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5481b0af-b55c-4cbc-9f25-5ef4dde70007",
+    "name": "Amsterdam Reef",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.5027589576403",
+      "lng": "-9.583168029785158"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5502fa23-3638-4378-9b67-5c2748b38422",
+    "name": "Kowloon Bridge",
+    "location": {
+      "country": "Ireland",
+      "region": "Kedge Island, Cork",
+      "ocean": [
+        "Europe",
+        "Ireland",
+        "Munster",
+        "Cork",
+        "Kedge Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.46041126119537",
+      "lng": "-9.346253871917726"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "563aefa1-f00e-4334-ad03-993a5970aa9a",
+    "name": "South Of Saddle Head",
+    "location": {
+      "country": "Ireland",
+      "region": "Achill Island, Mayo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.004136880466966",
+      "lng": "-10.195312500000002"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "568a9cec-ddee-417d-bada-329f32ff5e11",
+    "name": "Black Head",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.626968786784516",
+      "lng": "-8.525047302246096"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "56fa0228-3cd7-4b54-a9e8-fcb3860166ce",
+    "name": "Dooneen North",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.56149145466367",
+      "lng": "-9.72770690917969"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "57e8d06c-e23c-4b9e-9d80-93def07efe78",
+    "name": "Illaunabaha",
+    "location": {
+      "country": "Ireland",
+      "region": "Clare, Munster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.70426690641694",
+      "lng": "-9.6514892578125"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "58bdd4e1-ebb7-4224-9f5b-3e8df267481d",
+    "name": "Carraigwee",
+    "location": {
+      "country": "Ireland",
+      "region": "Wicklow, Leinster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Saint George's Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.96420148740086",
+      "lng": "-5.998578071594239"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5ac055e2-5b20-4e15-a165-0c1934f3cd56",
+    "name": "Malinbeg",
+    "location": {
+      "country": "Ireland",
+      "region": "Donegal, Ulster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.66082584835634",
+      "lng": "-8.787517547607424"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5c8f14f9-f09b-4c16-9f76-6b85775623b2",
+    "name": "Shore Dive",
+    "location": {
+      "country": "Ireland",
+      "region": "Clare Island, Mayo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.805212795544264",
+      "lng": "-9.945845603942871"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5cd82b0a-6979-483a-b1f5-cd0874d674fc",
+    "name": "Illyrian Wreck",
+    "location": {
+      "country": "Ireland",
+      "region": "Cape Clear Island, Cork",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.43506937719206",
+      "lng": "-9.476051330566408"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5e6b0623-b89e-4d75-92fa-bdd57d6830b6",
+    "name": "The Pond",
+    "location": {
+      "country": "Ireland",
+      "region": "Wicklow, Leinster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Saint George's Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.96663117888521",
+      "lng": "-5.999135971069337"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5e9fc49d-6490-4ac1-94d0-821850004bbe",
+    "name": "Amelia Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Castle Island, Cork",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.49923259794277",
+      "lng": "-9.514503479003908"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5fc61fa9-bb82-4a8d-8bf9-7b2c5f6fa653",
+    "name": "Alcedo",
+    "location": {
+      "country": "Ireland",
+      "region": "Antrim, Northern Ireland",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.8293700335018",
+      "lng": "-5.700531005859375"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5fc721b5-7ef7-4629-a435-28b785645d49",
+    "name": "The Iberian",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.51216124955517",
+      "lng": "-9.774570465087892"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "60345e4b-42a9-4b97-bc11-5521ddf9e845",
+    "name": "Carrigadeavaun",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.46202891963231",
+      "lng": "-9.728479385375977"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6100e50a-7cee-4797-a905-14744ba809e8",
+    "name": "Alisa",
+    "location": {
+      "country": "Ireland",
+      "region": "Antrim, Northern Ireland",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.85566334711047",
+      "lng": "-5.731773376464845"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6141ce5c-7a34-46e9-a03a-3860a811769d",
+    "name": "Coningbeg Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Saltee Islands, Waterford",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.09817515344197",
+      "lng": "-6.60904884338379"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6226773d-a29d-4f9c-b56c-d57b4daebaf7",
+    "name": "Roskeeda",
+    "location": {
+      "country": "Ireland",
+      "region": "Galway, Connacht",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.34583754438052",
+      "lng": "-9.64805603027344"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "627cbf50-f138-47b2-972f-b67728a633e2",
+    "name": "Dalkey Island",
+    "location": {
+      "country": "Ireland",
+      "region": "Dalkey Island, Dublin",
+      "ocean": [
+        "Atlantic Ocean",
+        "Irish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.27357993766054",
+      "lng": "-6.082820892333985"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "65a62e67-d908-41c7-b2b8-d7996170cbbd",
+    "name": "Crumb Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Sligo, Connacht",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.47193295831881",
+      "lng": "-8.445589542388918"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "677d5d14-cc3c-4edd-a0a2-f579148ab4f2",
+    "name": "Massmount",
+    "location": {
+      "country": "Ireland",
+      "region": "Donegal, Ulster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.211005735229875",
+      "lng": "-7.713775634765626"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "681d3f97-7d33-44f9-a2e4-60c273d3ced5",
+    "name": "Vaud Cove",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.45823201083626",
+      "lng": "-9.783926010131838"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "68fd8f22-a0d1-480c-802d-ffc78dc66f1c",
+    "name": "&#039;78 Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.463205362481766",
+      "lng": "-9.32816505432129"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "695b0d4a-6865-4b8a-bbb5-3018bcd1486d",
+    "name": "Empire Tana",
+    "location": {
+      "country": "Ireland",
+      "region": "Down, Northern Ireland",
+      "ocean": [
+        "Atlantic Ocean",
+        "Irish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.44219584787374",
+      "lng": "-5.62551498413086"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6a1c8774-5d0e-44b3-8828-a1302817f44c",
+    "name": "Audley&#039;s Point",
+    "location": {
+      "country": "Ireland",
+      "region": "Down, Northern Ireland",
+      "ocean": [
+        "Atlantic Ocean",
+        "Irish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.3847561202123",
+      "lng": "-5.582771301269531"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6bebf552-50e8-43e5-9c1d-95585a698e75",
+    "name": "The Idaho",
+    "location": {
+      "country": "Ireland",
+      "region": "Saltee Islands, Waterford",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.103183906682105",
+      "lng": "-6.614198684692384"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6e3e8292-9fcb-4da6-a275-4c8c48570e2f",
+    "name": "Bream Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.6580747314511",
+      "lng": "-8.52916717529297"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "720310da-6ff0-434d-8ceb-d99699fd5c77",
+    "name": "The Narrows",
+    "location": {
+      "country": "Ireland",
+      "region": "Donegal, Ulster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.22510694219486",
+      "lng": "-7.787933349609376"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7248bea2-96eb-44f5-aa06-0f36e3d6fa5b",
+    "name": "The Copper Boat",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.45513007627605",
+      "lng": "-9.820232391357424"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "72692ffe-18f1-4d8d-b251-669ae129ca4e",
+    "name": "French Port",
+    "location": {
+      "country": "Ireland",
+      "region": "Mayo, Connacht",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.24617102193574",
+      "lng": "-10.10295867919922"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "758fdfec-e712-480c-8ff7-67be46aed250",
+    "name": "Gurraig Sound",
+    "location": {
+      "country": "Ireland",
+      "region": "Inishtravin Island, Galway",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.31323676234002",
+      "lng": "-9.676895141601564"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "759a4f87-c733-47ae-bde8-2bb6fb09822d",
+    "name": "Farvey Point",
+    "location": {
+      "country": "Ireland",
+      "region": "Inishmaan Island, Aran Islands",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.07092720421681",
+      "lng": "-9.575958251953127"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "759e227d-2337-4597-8b78-c15d488678c5",
+    "name": "The Muglins",
+    "location": {
+      "country": "Ireland",
+      "region": "Dalkey Island, Dublin",
+      "ocean": [
+        "Atlantic Ocean",
+        "Irish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.27609485262597",
+      "lng": "-6.0768985748291025"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "770f47b7-57c9-4a25-b6e3-229c82dc7881",
+    "name": "West Brandy",
+    "location": {
+      "country": "Ireland",
+      "region": "Saltee Islands, Waterford",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.10798123761479",
+      "lng": "-6.60055160522461"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "78143b1a-3f0a-4f4c-9af7-6cca1a2d7906",
+    "name": "Lagan",
+    "location": {
+      "country": "Ireland",
+      "region": "Antrim, Northern Ireland",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.754944345234385",
+      "lng": "-5.683193206787109"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "78427764-f34d-481f-a0f5-1e1dc057b1c5",
+    "name": "Skuddagh Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Donegal, Ulster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.565568213959295",
+      "lng": "-8.46324920654297"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7abb4040-fec4-478b-9667-566dad4921a9",
+    "name": "East Brandy",
+    "location": {
+      "country": "Ireland",
+      "region": "Saltee Islands, Waterford",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.11130216440791",
+      "lng": "-6.59531593322754"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7b281c69-2aa4-4120-8ebc-aee3b56e4ce9",
+    "name": "Spit Rocks",
+    "location": {
+      "country": "Ireland",
+      "region": "Valentia Island, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.87638499384358",
+      "lng": "-10.433235168457033"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7bd0382a-9363-4def-8064-d16e34e6cda4",
+    "name": "Cubs Diarmuid (Divela)",
+    "location": {
+      "country": "Ireland",
+      "region": "Valentia Island, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.881365632080694",
+      "lng": "-10.423107147216797"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7c8a4f39-be22-44a9-a7dc-49be2805c01b",
+    "name": "Dooneen Wall",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.52391138610547",
+      "lng": "-9.743328094482424"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7d113e14-3787-4717-8819-2c8410e0a979",
+    "name": "Carricknaherwy",
+    "location": {
+      "country": "Ireland",
+      "region": "Donegal, Ulster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.19454801114891",
+      "lng": "-8.031692504882814"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7d12c6f2-92e4-4af8-bf5a-4731fe55a43f",
+    "name": "Ballyhenry Point",
+    "location": {
+      "country": "Ireland",
+      "region": "Down, Northern Ireland",
+      "ocean": [
+        "Atlantic Ocean",
+        "Irish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.38195700021427",
+      "lng": "-5.566291809082032"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7e306b14-1218-4947-a849-952ba28ba6c1",
+    "name": "Rose Ii",
+    "location": {
+      "country": "Ireland",
+      "region": "Antrim, Northern Ireland",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.90148737913102",
+      "lng": "-5.828933715820313"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7f13b72d-9cd4-4097-89a0-be25a75369b3",
+    "name": "Skate Bay",
+    "location": {
+      "country": "Ireland",
+      "region": "Donegal, Ulster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.21766526118349",
+      "lng": "-7.965774536132813"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "801a3b97-fd33-43de-8da1-2a7b2f99a944",
+    "name": "Marfield Bay",
+    "location": {
+      "country": "Ireland",
+      "region": "Down, Northern Ireland",
+      "ocean": [
+        "Atlantic Ocean",
+        "Irish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.327335997647666",
+      "lng": "-5.520629882812501"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "802850a5-39f1-4d63-8dde-eb8f84debaad",
+    "name": "The Celtic",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.68873366724113",
+      "lng": "-8.450717926025392"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8040ed6b-5e74-456c-b22b-896383019646",
+    "name": "St. Finan&#039;s Bay",
+    "location": {
+      "country": "Ireland",
+      "region": "Kerry, Munster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.844686735563435",
+      "lng": "-10.362854003906252"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "80e6062a-8fc8-4209-a9de-9ce1a763b1e3",
+    "name": "Moylaun Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Moylaun Island, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.736596714642054",
+      "lng": "-10.176773071289064"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "81678016-4eac-4928-bdce-c62f3c83065a",
+    "name": "Washerwoman&#039;s Rocks",
+    "location": {
+      "country": "Ireland",
+      "region": "Skellig Islands, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.76725560457069",
+      "lng": "-10.544428825378418"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "81706932-7566-45de-b4fe-b99cbf54ea30",
+    "name": "Landing Pinnacle",
+    "location": {
+      "country": "Ireland",
+      "region": "Skellig Islands, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.77251387707497",
+      "lng": "-10.53616762161255"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "81fe2914-6189-4b50-98c7-e06167224cc0",
+    "name": "Goleen Pier",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.50281238523426",
+      "lng": "-9.595441818237306"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "83459f7a-e9f5-4411-aa41-ae1142fcfe08",
+    "name": "Downings",
+    "location": {
+      "country": "Ireland",
+      "region": "Donegal, Ulster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.17965182724853",
+      "lng": "-7.839431762695313"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "83b22d36-0f7f-4a85-bbe3-097770901bfb",
+    "name": "Campbells Bed",
+    "location": {
+      "country": "Ireland",
+      "region": "Donegal, Ulster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.13924731501591",
+      "lng": "-7.682189941406251"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "850990c1-b878-471b-b656-ffe6b5812951",
+    "name": "Mulroy Bay",
+    "location": {
+      "country": "Ireland",
+      "region": "Donegal, Ulster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.17180949322101",
+      "lng": "-7.697296142578126"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "854f0030-8a3e-4575-aac0-c38d1a632f11",
+    "name": "Bolivar",
+    "location": {
+      "country": "Ireland",
+      "region": "Dublin, Leinster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Irish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.26726633596176",
+      "lng": "-5.931587219238282"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "85c79e6b-fc20-4ad1-b7d7-c356857c9c71",
+    "name": "Bullock Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Donegal, Ulster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.65491756854892",
+      "lng": "-8.774042129516603"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "87020911-48a0-4a99-9fb2-1d96c2a73641",
+    "name": "Portroe Quarry",
+    "location": {
+      "country": "Ireland",
+      "region": "Ireland, Europe",
+      "ocean": [
+        "Europe",
+        "Ireland"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.86172017443857",
+      "lng": "-8.349802494049074"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "873e8eaa-977c-4819-a103-38eb33828932",
+    "name": "Benaderren Head",
+    "location": {
+      "country": "Ireland",
+      "region": "Mayo, Connacht",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.314120019314885",
+      "lng": "-9.461975097656252"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "87d4bc6b-c10b-43e9-a463-4f6326fe3424",
+    "name": "Doononge Point",
+    "location": {
+      "country": "Ireland",
+      "region": "Waterford, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.12985263245881",
+      "lng": "-6.934690475463868"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "882e83c1-c042-4d9c-96fd-cc529bfdae10",
+    "name": "City Of Chicago",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.60607748386585",
+      "lng": "-8.542556762695314"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "883d5209-0f51-4561-8a62-67691265290b",
+    "name": "Middle Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Clare, Munster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.68959837859999",
+      "lng": "-9.667797088623049"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "88aa8b60-ae22-4a4c-90cf-560f7a5e1edf",
+    "name": "Us Navy Pb4Y-I",
+    "location": {
+      "country": "Ireland",
+      "region": "Skellig Islands, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.77264001497715",
+      "lng": "-10.542819499969484"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "88dbc586-6df5-4069-93be-27e49ac789d3",
+    "name": "Biraghty Beg",
+    "location": {
+      "country": "Ireland",
+      "region": "Clare, Munster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.7162269500446",
+      "lng": "-9.643936157226564"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "89182d4a-55d5-4c43-8a9f-c4177ff87be0",
+    "name": "Malinbeg",
+    "location": {
+      "country": "Ireland",
+      "region": "Donegal, Ulster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.66365556042308",
+      "lng": "-8.785543441772463"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8957ed7f-e660-4db1-9356-90c9cb38aae2",
+    "name": "Leinster",
+    "location": {
+      "country": "Ireland",
+      "region": "Dublin, Leinster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Irish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.308313725391564",
+      "lng": "-5.798034667968751"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "89c846a6-c73e-4905-90dd-1b7d9dd13447",
+    "name": "Three Castle Head",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.48277264468708",
+      "lng": "-9.841346740722658"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8a5e8e3f-3224-4264-b6a0-c0eec6799175",
+    "name": "Black Islands",
+    "location": {
+      "country": "Ireland",
+      "region": "Valentia Island, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.91801462707718",
+      "lng": "-10.370235443115234"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8cdcb937-d5dd-4bc1-8117-5d13517dbceb",
+    "name": "Achill Beg East",
+    "location": {
+      "country": "Ireland",
+      "region": "Achill Island, Mayo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.866649588829844",
+      "lng": "-9.938249588012697"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8d63f9cb-1f47-4b8d-a426-df47bf677bcf",
+    "name": "Normandy Hall",
+    "location": {
+      "country": "Ireland",
+      "region": "Antrim, Northern Ireland",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.74523516008683",
+      "lng": "-5.706367492675782"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8e20e635-9a2b-413f-bed8-a0b8fc8fd1c7",
+    "name": "Harbour Peninsula",
+    "location": {
+      "country": "Ireland",
+      "region": "Inishbonfin Island, Galway",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.605951512205195",
+      "lng": "-10.21307945251465"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8e9e7707-378d-45a5-a968-cf69bd0ea46e",
+    "name": "Angus Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Down, Northern Ireland",
+      "ocean": [
+        "Atlantic Ocean",
+        "Irish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.39555093787096",
+      "lng": "-5.580368041992188"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8f07e491-fe6f-4146-84a7-0b18a49a9edc",
+    "name": "West End",
+    "location": {
+      "country": "Ireland",
+      "region": "Saltee Islands, Waterford",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.11480731880123",
+      "lng": "-6.625099182128907"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "90e26196-f91d-4313-8582-e06a27c2c2a6",
+    "name": "Black Diamond",
+    "location": {
+      "country": "Ireland",
+      "region": "Antrim, Northern Ireland",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.81710714488565",
+      "lng": "-5.691604614257813"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "90e312d0-4a00-4b5f-9b4c-b945b4721a49",
+    "name": "Oilean An Iasc",
+    "location": {
+      "country": "Ireland",
+      "region": "Kerry, Munster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.95960569563307",
+      "lng": "-10.314445495605469"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9123e570-44a3-4ef4-8b47-1fd263136c60",
+    "name": "Terraght Island",
+    "location": {
+      "country": "Ireland",
+      "region": "Tearaght Island, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.07845101645759",
+      "lng": "-10.648841857910158"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "931e9383-4986-4ed5-8997-d947ec79ab22",
+    "name": "Glasilaun",
+    "location": {
+      "country": "Ireland",
+      "region": "Inishbonfin Island, Galway",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.63262850288501",
+      "lng": "-10.248098373413086"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "932e50bb-91b3-4588-8bff-49f5cb2a8949",
+    "name": "Solomon&#039;s Hole",
+    "location": {
+      "country": "Ireland",
+      "region": "Waterford, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.12859465941585",
+      "lng": "-6.913254261016847"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "93c5e2ab-377c-4e62-a2f4-f43760adaf2e",
+    "name": "Kilkieran Point",
+    "location": {
+      "country": "Ireland",
+      "region": "Galway, Connacht",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.30544169165488",
+      "lng": "-9.734573364257814"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "940803dc-d232-4484-a8cf-91f043d25632",
+    "name": "Keem Bay",
+    "location": {
+      "country": "Ireland",
+      "region": "Achill Island, Mayo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.96618495145454",
+      "lng": "-10.185699462890627"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "94da0267-a7ed-4c16-9588-56b752a0b654",
+    "name": "Toor Pier",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.4949578567272",
+      "lng": "-9.802722930908203"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "957439d9-725a-48f4-bc4e-c056dceb8967",
+    "name": "Eagle Island",
+    "location": {
+      "country": "Ireland",
+      "region": "Mayo, Connacht",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.28486958749478",
+      "lng": "-10.086479187011719"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9682e665-b763-49ae-83a6-86d8d397c12f",
+    "name": "The Stags Of Broadhaven",
+    "location": {
+      "country": "Ireland",
+      "region": "Mayo, Connacht",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.368558568740404",
+      "lng": "-9.78538513183594"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "986b697a-9544-411e-ae4d-9f4be9060e3f",
+    "name": "Ramore Head",
+    "location": {
+      "country": "Ireland",
+      "region": "Londonderry, Northern Ireland",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.20904683905815",
+      "lng": "-6.66149139404297"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "99702b1a-11dd-4da2-b3ce-313aa4e06f18",
+    "name": "Binlahan Bay",
+    "location": {
+      "country": "Ireland",
+      "region": "Donegal, Ulster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.18847260870635",
+      "lng": "-8.171768188476564"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "997d27bf-54b0-4d7a-9f7d-9dfc755ac27c",
+    "name": "Blue Pool",
+    "location": {
+      "country": "Ireland",
+      "region": "Inishmaan Island, Aran Islands",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.08412692217884",
+      "lng": "-9.618530273437502"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9a040480-03d4-400e-8128-97674f3ddf33",
+    "name": "Two Fathom Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Clare Island, Mayo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.809166100718116",
+      "lng": "-10.033950805664064"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9ad5079d-89bd-436e-92d3-46f1e635c1c5",
+    "name": "Brandon Creek",
+    "location": {
+      "country": "Ireland",
+      "region": "Kerry, Munster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.25008491227731",
+      "lng": "-10.307922363281252"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9b3efd93-d3e7-424e-bd6d-6051c942d5d4",
+    "name": "Stags Of Bofin",
+    "location": {
+      "country": "Ireland",
+      "region": "Inishbonfin Island, Galway",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.63222134730925",
+      "lng": "-10.258054733276369"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9c64f1e5-62b7-421a-93ff-9d8fc900b810",
+    "name": "Benwee Head",
+    "location": {
+      "country": "Ireland",
+      "region": "Mayo, Connacht",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.34535094489879",
+      "lng": "-9.819030761718752"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9e231489-eb55-4170-9e85-f06bbac2ae41",
+    "name": "Ballymacus Bay",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.679660571652896",
+      "lng": "-8.472690582275392"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9e2d6bd8-542f-478f-a912-f1423f078655",
+    "name": "Berbice",
+    "location": {
+      "country": "Ireland",
+      "region": "Antrim, Northern Ireland",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.827985700296864",
+      "lng": "-5.672721862792969"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9e2dffb3-2bb1-4c47-8ccc-f149285c0501",
+    "name": "Brannock",
+    "location": {
+      "country": "Ireland",
+      "region": "Aran Islands, Galway",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.14635850139119",
+      "lng": "-9.83482360839844"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a0d49ecd-0bde-451b-aa7d-172e4c797754",
+    "name": "Greek Freighter",
+    "location": {
+      "country": "Ireland",
+      "region": "Achill Island, Mayo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.88552341426955",
+      "lng": "-9.985713958740234"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a0f3fae4-97f9-4fa7-a627-4cecbc00127d",
+    "name": "Bullock Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Donegal, Ulster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.65377553304046",
+      "lng": "-8.762969970703127"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a235d9af-4ceb-461c-bae2-69549bb30026",
+    "name": "Blindman&#039;s Cove",
+    "location": {
+      "country": "Ireland",
+      "region": "Skellig Islands, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.772792707755485",
+      "lng": "-10.536339282989504"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a490e416-a421-454c-bd83-854c79884360",
+    "name": "Goat Island",
+    "location": {
+      "country": "Ireland",
+      "region": "Goat Island, Cork",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.48341405282735",
+      "lng": "-9.600934982299806"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a68532e3-7181-48d7-8084-29e1e9701ca2",
+    "name": "Deelick Point",
+    "location": {
+      "country": "Ireland",
+      "region": "Gurrig Island, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.319707434957024",
+      "lng": "-10.085878372192385"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a6fc70c7-ebe3-440d-a860-5428e22ba2c4",
+    "name": "Stags Of Bofin",
+    "location": {
+      "country": "Ireland",
+      "region": "Inishbonfin Island, Galway",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.63405351645887",
+      "lng": "-10.263204574584963"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a86c571d-462d-4a38-a125-a16cdfec653a",
+    "name": "Zarina",
+    "location": {
+      "country": "Ireland",
+      "region": "Down, Northern Ireland",
+      "ocean": [
+        "Atlantic Ocean",
+        "Irish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.32653515011777",
+      "lng": "-5.472564697265625"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a8a958f9-8264-40ee-a665-e3038561fc69",
+    "name": "Lough Hyne",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.47315043997589",
+      "lng": "-9.363012313842775"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a8e89cb5-d84e-491a-8592-668fb8108b58",
+    "name": "Deace&#039;s Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Achill Island, Mayo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.8625498574632",
+      "lng": "-9.886322021484377"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a9d81518-b322-43a4-abe1-8d0eb38fb62a",
+    "name": "Scotsman&#039;s Bay",
+    "location": {
+      "country": "Ireland",
+      "region": "Dublin, Leinster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Irish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.291489065300226",
+      "lng": "-6.126594543457032"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "aac6bc2c-08c6-4800-ac11-3eab3bd3a140",
+    "name": "The Flat Rocks",
+    "location": {
+      "country": "Ireland",
+      "region": "Waterford, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.14486653167991",
+      "lng": "-6.992111206054688"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "abaa1336-d269-499f-acf4-d12f6c489bde",
+    "name": "Lambs Head (1)",
+    "location": {
+      "country": "Ireland",
+      "region": "Derrynane, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.73617148843001",
+      "lng": "-10.131111145019533"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ac83b7f7-0c93-4677-8944-7522a2cc5d72",
+    "name": "Derrynane Harbour",
+    "location": {
+      "country": "Ireland",
+      "region": "Derrynane, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.75328368301777",
+      "lng": "-10.135574340820314"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ad8f2eba-bf01-444f-9aac-ecc9376a5824",
+    "name": "Vanguard",
+    "location": {
+      "country": "Ireland",
+      "region": "Dublin, Leinster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Irish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.20932249705369",
+      "lng": "-5.7733154296875"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "adb38f2a-0d6c-45f1-a922-603dce4a6b3f",
+    "name": "Dunmanus Harbour",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.545481015589345",
+      "lng": "-9.665908813476564"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "adca182c-6dee-4351-b3dd-79dfe8404c8b",
+    "name": "Black Rocks",
+    "location": {
+      "country": "Ireland",
+      "region": "Clare, Munster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.684239495825395",
+      "lng": "-9.652948379516603"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "af36eb40-0e69-4703-ae68-906a90e245e5",
+    "name": "The Birds",
+    "location": {
+      "country": "Ireland",
+      "region": "Kerry, Munster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.96669243817262",
+      "lng": "-10.293846130371096"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b0167c0c-c57b-4117-9b02-a61ab5ef52c2",
+    "name": "Trafraska",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.472829664858644",
+      "lng": "-9.38335418701172"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b0956cf7-baac-438d-9f64-de8103e1cab3",
+    "name": "The Gully",
+    "location": {
+      "country": "Ireland",
+      "region": "Sligo, Connacht",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.4736287193508",
+      "lng": "-8.466639518737795"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b168feeb-2c0b-4ad1-8a7f-d0e261647f6b",
+    "name": "West Calf Island",
+    "location": {
+      "country": "Ireland",
+      "region": "Calf Island West, Cork",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.47421967407655",
+      "lng": "-9.522657394409181"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b1e53125-0335-413f-89be-7a222fcd97be",
+    "name": "Crescent City",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.483093349884925",
+      "lng": "-9.269714355468752"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b369c35a-0b54-4776-adee-51d978a8a022",
+    "name": "Dunlough Pier",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.4760907734487",
+      "lng": "-9.820489883422853"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b4f4e79b-e441-4405-9877-681fc5f65310",
+    "name": "Ss Laurentic",
+    "location": {
+      "country": "Ireland",
+      "region": "Donegal, Ulster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.28341714765618",
+      "lng": "-7.588806152343751"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b7aa3ade-626f-4a92-aa42-27153c82cc9d",
+    "name": "Seal Caves",
+    "location": {
+      "country": "Ireland",
+      "region": "Donegal, Ulster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.19180439575417",
+      "lng": "-8.160610198974611"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b853f93f-98c5-448e-9bce-e18837010b2c",
+    "name": "The Mweelauns",
+    "location": {
+      "country": "Ireland",
+      "region": "Clare Island, Mayo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.7622092109098",
+      "lng": "-9.998137950897219"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bb4e6372-cfba-4b9f-8a72-6542d0eaf74e",
+    "name": "Middle Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Clare, Munster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.686268664722526",
+      "lng": "-9.664192199707033"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bb6f79fe-3134-4aa8-ac33-49b3903b0e8b",
+    "name": "Bills Rocks",
+    "location": {
+      "country": "Ireland",
+      "region": "Achill Island, Mayo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.87844040332883",
+      "lng": "-10.229644775390625"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bb799821-8b35-431e-b125-a59f7f071fb3",
+    "name": "Poll Na Bpeist (Worm Hole)",
+    "location": {
+      "country": "Ireland",
+      "region": "Inishmore Island, Aran Islands",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.122053572577755",
+      "lng": "-9.762725830078127"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bb922b3a-f94b-4f26-9fa9-0988fbceb39f",
+    "name": "Valentia Bridge",
+    "location": {
+      "country": "Ireland",
+      "region": "Valentia Island, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.888676633322035",
+      "lng": "-10.363712310791017"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bcd25983-41b7-496d-bd9a-0e95c46f92d0",
+    "name": "Ling Rocks",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.67902192752103",
+      "lng": "-8.472046852111818"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bde08782-4072-4114-a7a5-670ce07883a7",
+    "name": "Gull Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Wicklow, Leinster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Saint George's Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.96526126324424",
+      "lng": "-5.997462272644043"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "be6eebf8-5e31-4650-8750-154a1c2c1111",
+    "name": "Pinnacle",
+    "location": {
+      "country": "Ireland",
+      "region": "Calf Island West, Cork",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.469514856570896",
+      "lng": "-9.55690383911133"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "beff3fea-8c70-41fc-906a-ab80258fc5cd",
+    "name": "Gokane Point ",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.46914058889099",
+      "lng": "-9.348764419555666"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c215d0fd-fb29-418b-8c8a-993247918a76",
+    "name": "Dalkey Sound",
+    "location": {
+      "country": "Ireland",
+      "region": "Dalkey Island, Dublin",
+      "ocean": [
+        "Atlantic Ocean",
+        "Irish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.271783479238216",
+      "lng": "-6.08917236328125"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c29368e9-9df3-45a5-a9f3-c7fb9a628e3b",
+    "name": "Thumb Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Sligo, Connacht",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.47091048019929",
+      "lng": "-8.445203304290773"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c56687d4-160f-4fbc-9b92-31702e028da5",
+    "name": "Bagenbun Gullies",
+    "location": {
+      "country": "Ireland",
+      "region": "Munster, Ireland",
+      "ocean": [
+        "Europe",
+        "Ireland",
+        "Munster"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.165877489502066",
+      "lng": "-6.85795783996582"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c830661b-e115-435f-ac39-bc8086961904",
+    "name": "Cape Clear Island",
+    "location": {
+      "country": "Ireland",
+      "region": "Cape Clear Island, Cork",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.4428807236673",
+      "lng": "-9.506263732910158"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c8868b50-4345-4095-a2c5-c8c88a61d502",
+    "name": "Harrington",
+    "location": {
+      "country": "Ireland",
+      "region": "Antrim, Northern Ireland",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.87265591939239",
+      "lng": "-5.7973480224609375"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c94c79c0-d29b-45fa-bc4c-4747b17d5e96",
+    "name": "Biraghty Mor",
+    "location": {
+      "country": "Ireland",
+      "region": "Clare, Munster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.71258728381861",
+      "lng": "-9.650974273681642"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c99056a6-0ab2-496a-9a2b-f95c41e2dee6",
+    "name": "Inishkea Islands",
+    "location": {
+      "country": "Ireland",
+      "region": "Inishkea North, Mayo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.13428274480512",
+      "lng": "-10.217285156250002"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c9993475-3f92-47cc-913f-1e77389e4f17",
+    "name": "Horse Island",
+    "location": {
+      "country": "Ireland",
+      "region": "Mayo, Connacht",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.32693557583187",
+      "lng": "-9.558105468750002"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c9aa4564-0ac7-4d12-ac55-bd57dbfe1b85",
+    "name": "The Crow Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Kerry, Munster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.10734865208675",
+      "lng": "-10.301055908203125"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "caa86953-eb74-4e1f-b69b-5796d685c7d9",
+    "name": "The Stratheay",
+    "location": {
+      "country": "Ireland",
+      "region": "Lambay Island, Dublin",
+      "ocean": [
+        "Atlantic Ocean",
+        "Irish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.497951657122414",
+      "lng": "-6.005358695983887"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cbe69e4a-eb6e-4ed9-833d-61f4eadfb4c0",
+    "name": "Mystique Wreck",
+    "location": {
+      "country": "Ireland",
+      "region": "Calf Island East, Cork",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.48897254548231",
+      "lng": "-9.486351013183596"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cca7be79-f54c-486a-a97d-818dc6fcc2df",
+    "name": "Candles Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Donegal, Ulster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.6568539901896",
+      "lng": "-8.777303695678713"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cfce566e-a593-4f18-87bf-02ab87cab303",
+    "name": "Ulrica",
+    "location": {
+      "country": "Ireland",
+      "region": "Antrim, Northern Ireland",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.844594566291754",
+      "lng": "-5.711174011230469"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d03d4265-97e5-474a-aebf-94555c6b8ed3",
+    "name": "Bull Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.61375295750102",
+      "lng": "-10.319595336914064"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d0411984-fb5d-4179-b5bf-ea6a9d755f0b",
+    "name": "Long Island",
+    "location": {
+      "country": "Ireland",
+      "region": "Long Island, Cork",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.49634719159713",
+      "lng": "-9.551067352294924"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d05783e7-c252-45a0-a746-c8ad6e92b036",
+    "name": "Black Ball Head",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.587096436990265",
+      "lng": "-10.038414001464846"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d0c0ddf8-24db-4292-b98f-859e8fc99b47",
+    "name": "Garnish Pier",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.624357899810725",
+      "lng": "-10.130853652954103"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d0fb7f37-725b-4451-8f3f-4f288397e8f5",
+    "name": "Reef Dives",
+    "location": {
+      "country": "Ireland",
+      "region": "Gorumna Island, Galway",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.25494442847799",
+      "lng": "-9.635353088378908"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d16476fc-fec0-4d88-8d6f-2a2990ecbf5c",
+    "name": "Achill Beg Bay",
+    "location": {
+      "country": "Ireland",
+      "region": "Achill Island, Mayo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.86487814926191",
+      "lng": "-9.966573715209963"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d18806c2-6ea8-4195-ba4a-7ea253018691",
+    "name": "Illaunimmil And Inishtooskert",
+    "location": {
+      "country": "Ireland",
+      "region": "Illanimmil Island, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.33402790519474",
+      "lng": "-10.050945281982424"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d1e19e36-c8ba-43f5-9067-0ea156082506",
+    "name": "Ballybroom Pier",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.558076367179645",
+      "lng": "-9.76066589355469"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d4086e18-8b89-48ca-b4af-8649a511e6d8",
+    "name": "Myles Creek",
+    "location": {
+      "country": "Ireland",
+      "region": "Clare, Munster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.68122158308852",
+      "lng": "-9.677882194519045"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d42c294d-fe4a-4c7a-90e9-934ef6cd781b",
+    "name": "Ferric",
+    "location": {
+      "country": "Ireland",
+      "region": "Antrim, Northern Ireland",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.882334531626164",
+      "lng": "-5.830307006835938"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d46398f3-b24a-4c57-bc3c-dc14fe11cfbc",
+    "name": "Mahony&#039;s Banks",
+    "location": {
+      "country": "Ireland",
+      "region": "Gurrig Island, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.333293634867005",
+      "lng": "-10.066652297973635"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d64dfb2e-1fb9-4cbe-8084-e6f341480fa3",
+    "name": "Coninbeg Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Munster, Ireland",
+      "ocean": [
+        "Europe",
+        "Ireland",
+        "Munster"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.19244293445735",
+      "lng": "-6.743459701538087"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d680f748-4711-4c43-800b-f10ac19c0fa4",
+    "name": "Falskirt Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Waterford, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.13369877998277",
+      "lng": "-7.039833068847657"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d69bbae6-5d75-4d8c-ac26-521d60526711",
+    "name": "Dunaff Head",
+    "location": {
+      "country": "Ireland",
+      "region": "Donegal, Ulster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.27833308636379",
+      "lng": "-7.536621093750001"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d6f0f2c5-828a-409d-bd96-240dcfa4a181",
+    "name": "Nestorian Wreck",
+    "location": {
+      "country": "Ireland",
+      "region": "Cape Clear Island, Cork",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.42425969496347",
+      "lng": "-9.522142410278322"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d78eaab3-d2ff-4392-84d8-95e9cc42f84b",
+    "name": "The Tayleur",
+    "location": {
+      "country": "Ireland",
+      "region": "Lambay Island, Dublin",
+      "ocean": [
+        "Atlantic Ocean",
+        "Irish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.49325419747005",
+      "lng": "-5.998277664184571"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d7ab2eef-efca-4b82-9084-3cc30c69d162",
+    "name": "White Vein Point",
+    "location": {
+      "country": "Ireland",
+      "region": "Donegal, Ulster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.225498571063845",
+      "lng": "-8.006286621093752"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d7eb4721-1288-4854-8a68-cb2983d47b14",
+    "name": "The Three Brothers",
+    "location": {
+      "country": "Ireland",
+      "region": "Great Blasket Island, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.07085437153737",
+      "lng": "-10.582237243652344"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d7ef661e-f1db-4591-9f59-ed7524bd6c8b",
+    "name": "Three Mile Rock And Western Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Waterford, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.11725812770208",
+      "lng": "-6.938982009887696"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d8e5e613-dc08-4456-88f1-4cdca2b9d4f1",
+    "name": "The Island Harbour",
+    "location": {
+      "country": "Ireland",
+      "region": "Great Blasket Island, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.1098789403549",
+      "lng": "-10.508422851562502"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "db17a4b8-4f14-45f6-ba42-497fef56f453",
+    "name": "Mizen Head",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.44999537655326",
+      "lng": "-9.823751449584961"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "db4563e9-05bf-4a8c-aee6-765f8e182943",
+    "name": "Poll Seidte",
+    "location": {
+      "country": "Ireland",
+      "region": "Inishmaan Island, Aran Islands",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.06102475986279",
+      "lng": "-9.617156982421875"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dd171229-0b25-4abe-a2b5-c772db8b1001",
+    "name": "Sandycove",
+    "location": {
+      "country": "Ireland",
+      "region": "Dublin, Leinster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Irish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.29015511968526",
+      "lng": "-6.125049591064454"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dd1d48e7-5aa0-46ac-92aa-a4b3f358f3f1",
+    "name": "Tragumna Bay",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.47047724507887",
+      "lng": "-9.352025985717775"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dec64ab1-2310-4155-95e1-70c405ed6955",
+    "name": "Makestone Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Saltee Islands, Waterford",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.12302885514836",
+      "lng": "-6.603899002075196"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e02e4f69-8425-48cf-a412-732ed8606d21",
+    "name": "Spanish Trawler",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.620787668323544",
+      "lng": "-9.92271423339844"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e1037590-dbed-4206-854d-86f0808fc69a",
+    "name": "Deenish Island",
+    "location": {
+      "country": "Ireland",
+      "region": "Deenish Island, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.73191900623895",
+      "lng": "-10.219173431396486"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e10da201-420f-4d60-bf5a-fca7362c1df3",
+    "name": "The Quiebra",
+    "location": {
+      "country": "Ireland",
+      "region": "Great Blasket Island, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.10629432293092",
+      "lng": "-10.527648925781252"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e20cf23f-babb-41ea-bfa9-cc7acf09eec8",
+    "name": "Innishgallon",
+    "location": {
+      "country": "Ireland",
+      "region": "Achill Island, Mayo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.969719170591475",
+      "lng": "-10.127849578857424"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e20fd8c7-51e3-4281-ad05-4f4713407184",
+    "name": "U-260",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.465504685939734",
+      "lng": "-9.328336715698244"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e21aced9-c6ce-432b-8afe-ffb1074bb0c0",
+    "name": "Achill Beg West",
+    "location": {
+      "country": "Ireland",
+      "region": "Achill Island, Mayo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.85900655610469",
+      "lng": "-9.962539672851564"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e242dffe-fdcb-40bc-a365-75306395ade6",
+    "name": "Gurrig Island",
+    "location": {
+      "country": "Ireland",
+      "region": "Gurrig Island, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.32532077237154",
+      "lng": "-10.073604583740236"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e2d5305e-695c-4624-9f70-039ac5416e90",
+    "name": "Deliverer",
+    "location": {
+      "country": "Ireland",
+      "region": "Dublin, Leinster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Irish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.341533208558765",
+      "lng": "-5.940856933593751"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e2d7da31-889e-40cf-a6ff-100ef3c9dc7b",
+    "name": "Shamrock",
+    "location": {
+      "country": "Ireland",
+      "region": "Ireland&#039;s Eye, Dublin",
+      "ocean": [
+        "Atlantic Ocean",
+        "Irish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.40707596167946",
+      "lng": "-6.058616638183594"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e46ca702-8f5a-4f6a-bb3b-5f5aea145982",
+    "name": "The Black Rocks",
+    "location": {
+      "country": "Ireland",
+      "region": "Donegal, Ulster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.20434509493409",
+      "lng": "-7.882690429687501"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e4910438-ad73-4838-8ab4-a4aba400f3fd",
+    "name": "Glassan Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Inishmore Island, Aran Islands",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.08866339061861",
+      "lng": "-9.632263183593752"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e5a238e5-0d8c-4fb4-b7c2-9306d666b10f",
+    "name": "Coral Stand",
+    "location": {
+      "country": "Ireland",
+      "region": "Gorumna Island, Galway",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.2346055189873",
+      "lng": "-9.635696411132812"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e75096c7-211a-4531-a02b-cbfeb88404e5",
+    "name": "Malmanger",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.464167884073994",
+      "lng": "-9.38936233520508"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e7fc8658-2b8c-4391-a12f-87fe90bbffca",
+    "name": "Black Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Donegal, Ulster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.57932512319186",
+      "lng": "-8.432092666625978"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e890b82b-b60e-41ed-9fb0-5ec6a7e7afcf",
+    "name": "Broadhaven",
+    "location": {
+      "country": "Ireland",
+      "region": "Mayo, Connacht",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.269434618955515",
+      "lng": "-9.894561767578127"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e8b0b62e-6a44-4d98-afbf-4deae560ade4",
+    "name": "Galley Cove Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.461066352925236",
+      "lng": "-9.735345840454103"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e93f530f-2da1-45e9-bb66-e0fd9c51378d",
+    "name": "Carrignagower",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.44694637534",
+      "lng": "-9.806413650512697"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ea3e76e1-3c2f-4c39-a73a-3c3edfa525f1",
+    "name": "Three Miles Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Waterford, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.11694190186682",
+      "lng": "-6.938724517822266"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ea73912a-f9ac-4a2a-9e1a-a0c5fcbcac63",
+    "name": "Alasdair",
+    "location": {
+      "country": "Ireland",
+      "region": "Down, Northern Ireland",
+      "ocean": [
+        "Atlantic Ocean",
+        "Irish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.40394494398496",
+      "lng": "-5.581398010253906"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ecf8aea5-d989-4732-8105-da0d7fc0e613",
+    "name": "Pollock Rock Drift",
+    "location": {
+      "country": "Ireland",
+      "region": "Waterford, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.12758693811187",
+      "lng": "-6.908276081085205"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ed269ddf-cb85-4e32-a659-df78cdcbdb7a",
+    "name": "Lonehort Point",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.65913962563551",
+      "lng": "-9.772682189941408"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ed8ff893-5936-4b84-a7f6-79d52f959e61",
+    "name": "Tiberia",
+    "location": {
+      "country": "Ireland",
+      "region": "Antrim, Northern Ireland",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.777524054041095",
+      "lng": "-5.69194793701172"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eecf7bc1-f55f-425a-a064-d75f1bc51fe5",
+    "name": "Corcaigh Rocks",
+    "location": {
+      "country": "Ireland",
+      "region": "Achill Island, Mayo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.89604452913564",
+      "lng": "-10.002193450927736"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ef06e6ef-c8b8-4c2d-8fe6-9db4e5cc7eb0",
+    "name": "Coastguards Patch",
+    "location": {
+      "country": "Ireland",
+      "region": "Kerry, Munster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.94796831528297",
+      "lng": "-10.349292755126955"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ef3ec295-484c-40c9-9656-d12923ec064e",
+    "name": "Dromgour Point",
+    "location": {
+      "country": "Ireland",
+      "region": "Kerry, Munster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.86281790485742",
+      "lng": "-10.394954681396486"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f2317e9c-f698-4bd9-87c4-37d63e3b4ff2",
+    "name": "The Canyon",
+    "location": {
+      "country": "Ireland",
+      "region": "Aran Islands, Galway",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.148417609197466",
+      "lng": "-9.853363037109377"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f399c3f7-720c-4f0d-8c62-af62a60953a1",
+    "name": "Kilcrohane Bay",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.571521791080826",
+      "lng": "-9.696121215820314"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f3f0bc51-9d0f-4418-ba16-a87fd18f2a24",
+    "name": "Zetland Pier",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.704906406014544",
+      "lng": "-9.57939147949219"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f42fd2f6-a2af-4734-bbac-375feae1cbea",
+    "name": "Bishop&#039;s Bay",
+    "location": {
+      "country": "Ireland",
+      "region": "Lambay Island, Dublin",
+      "ocean": [
+        "Atlantic Ocean",
+        "Irish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.48304053330082",
+      "lng": "-6.0172462463378915"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f7892919-fe08-4ed0-a061-d1c5d732def8",
+    "name": "The Stonewall Jackson",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.643376636162294",
+      "lng": "-8.546333312988283"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f79e3acd-808b-48ce-be2b-e35f30bd8888",
+    "name": "Dooninaheena",
+    "location": {
+      "country": "Ireland",
+      "region": "Inishbonfin Island, Galway",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.63588560604621",
+      "lng": "-10.192480087280273"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f87b01dd-f08e-4c71-8159-5b8c0e556bd7",
+    "name": "Black Chan",
+    "location": {
+      "country": "Ireland",
+      "region": "Waterford, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.12833779144381",
+      "lng": "-6.9145309925079355"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f8ff439f-af73-4ebc-972d-c5d86329069d",
+    "name": "Erris Head",
+    "location": {
+      "country": "Ireland",
+      "region": "Mayo, Connacht",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.31091550638437",
+      "lng": "-9.99961853027344"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f90233ae-7f99-472d-9295-1669fe99cfa2",
+    "name": "Alondra",
+    "location": {
+      "country": "Ireland",
+      "region": "Cork, Munster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.467376142760884",
+      "lng": "-9.379062652587892"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f947e9e8-8235-43f4-a06d-1c7b0e342e01",
+    "name": "Scoltgar-Hyancaul",
+    "location": {
+      "country": "Ireland",
+      "region": "Donegal, Ulster",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.25838163519258",
+      "lng": "-8.226013183593752"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f9f84be7-e7b4-4b8a-904e-79a4333ab37b",
+    "name": "Achill Head",
+    "location": {
+      "country": "Ireland",
+      "region": "Achill Island, Mayo",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.973858874700106",
+      "lng": "-10.248184204101562"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fa9d4047-2e54-4cea-a1ec-1ebf65dd87fc",
+    "name": "Ss Lennox",
+    "location": {
+      "country": "Ireland",
+      "region": "Saltee Islands, Waterford",
+      "ocean": [
+        "Atlantic Ocean",
+        "Celtic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.11175020702235",
+      "lng": "-6.617417335510255"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fb9f8e97-7505-4224-b761-760b287bed80",
+    "name": "Tayleur",
+    "location": {
+      "country": "Ireland",
+      "region": "Ireland&#039;s Eye, Dublin",
+      "ocean": [
+        "Atlantic Ocean",
+        "Irish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.405233950076024",
+      "lng": "-6.057929992675782"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fbc70dfc-2121-4c43-ba24-7d5887d3c4ce",
+    "name": "Limestone Rock",
+    "location": {
+      "country": "Ireland",
+      "region": "Down, Northern Ireland",
+      "ocean": [
+        "Atlantic Ocean",
+        "Irish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.42402362955701",
+      "lng": "-5.601139068603516"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fe8a2aee-f7e2-4428-b10e-a35293e1610a",
+    "name": "Culoo Head",
+    "location": {
+      "country": "Ireland",
+      "region": "Valentia Island, Kerry",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.91632053512271",
+      "lng": "-10.38911819458008"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ff57e65e-f8bd-4576-bef7-a6cc7c64bf46",
+    "name": "Doonbristy",
+    "location": {
+      "country": "Ireland",
+      "region": "Mayo, Connacht",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.32831200949197",
+      "lng": "-9.348378181457521"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ffe9d1b1-475f-4bf4-9d98-a384ec302d8b",
+    "name": "Sir Charles Napier",
+    "location": {
+      "country": "Ireland",
+      "region": "Dublin, Leinster",
+      "ocean": [
+        "Atlantic Ocean",
+        "Irish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.25453363708633",
+      "lng": "-5.92987060546875"
+    },
+    "additionalInfo": {}
+  }
+]

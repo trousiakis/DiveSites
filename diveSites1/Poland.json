@@ -1,0 +1,288 @@
+[
+  {
+    "id": "1abe07d0-acfe-44ba-bda1-52e8bca3a4b7",
+    "name": "Wrak Delfin",
+    "location": {
+      "country": "Poland",
+      "region": "Hel Peninsula, Poland",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea",
+        "Gulf Of Gdansk"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.649928730437566",
+      "lng": "18.58169298148015"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "21d3fa63-175c-4ad1-a024-a23328c9b90c",
+    "name": "Kamionka Piast",
+    "location": {
+      "country": "Poland",
+      "region": "Opole Voivodeship, Poland",
+      "ocean": [
+        "Europe",
+        "Poland",
+        "Opole Voivodeship"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.66099931084768",
+      "lng": "17.95070922933519"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "30ee7a8b-d753-4fb7-804c-363c0ef9c1af",
+    "name": "Hańcza",
+    "location": {
+      "country": "Poland",
+      "region": "Suwalki Region, Poland",
+      "ocean": [
+        "Europe",
+        "Poland",
+        "Suwalki Region"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.262720468284925",
+      "lng": "22.818143181502826"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3a7ba090-dcb5-4899-a900-a52303fe0331",
+    "name": "Narty, Świętajno Lake",
+    "location": {
+      "country": "Poland",
+      "region": "Olecko County, Poland",
+      "ocean": [
+        "Europe",
+        "Poland",
+        "Olecko County"
+      ]
+    },
+    "coordinates": {
+      "lat": "53.541928062596284",
+      "lng": "20.80245338380337"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4d98fe17-5c92-4c05-8984-9e4f3df8abe3",
+    "name": "Brodno Wielkie",
+    "location": {
+      "country": "Poland",
+      "region": "Pomorskie Province, Poland",
+      "ocean": [
+        "Europe",
+        "Poland",
+        "Pomorskie Province"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.27428989835029",
+      "lng": "18.098659966959666"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "53d56cb0-96e4-412c-b33c-f0cab1e65619",
+    "name": "Wrak Groźny",
+    "location": {
+      "country": "Poland",
+      "region": "Hel Peninsula, Poland",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea",
+        "Gulf Of Gdansk"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.66070310750292",
+      "lng": "18.67576705746083"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7b9ba88e-759b-4a15-bcda-a71716b7c06c",
+    "name": "Trałowiec",
+    "location": {
+      "country": "Poland",
+      "region": "Hel Peninsula, Poland",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea",
+        "Gulf Of Gdansk"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.60257177494078",
+      "lng": "18.791320323944095"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "900bbeea-bd0f-4970-b9b6-54005b1e31f5",
+    "name": "Kanonierka",
+    "location": {
+      "country": "Poland",
+      "region": "Hel Peninsula, Poland",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea",
+        "Gulf Of Gdansk"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.591590069971915",
+      "lng": "18.802655171602968"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "aa431748-d1c5-44db-b368-79f2a35fa289",
+    "name": "Honoratka",
+    "location": {
+      "country": "Poland",
+      "region": "Gmina Ślesin, Poland",
+      "ocean": [
+        "Europe",
+        "Poland",
+        "Gmina ślesin"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.34073469189853",
+      "lng": "18.26871012874934"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b1e08f73-1115-4af1-b7a1-5a3e849fd332",
+    "name": "Fort 53A &quot;winnica&quot;",
+    "location": {
+      "country": "Poland",
+      "region": "Lesser Poland, Poland",
+      "ocean": [
+        "Europe",
+        "Poland",
+        "Lesser Poland"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.02305512452117",
+      "lng": "19.86186334913508"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b8e10e31-0574-44d6-870f-8f3802894988",
+    "name": "Diving Marina &quot;koparki&quot;",
+    "location": {
+      "country": "Poland",
+      "region": "Silesian Voivodeship, Poland",
+      "ocean": [
+        "Europe",
+        "Poland",
+        "Silesian Voivodeship"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.22892412235711",
+      "lng": "19.311883449554447"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c07fe176-f6c3-4523-995e-105a43eddbad",
+    "name": "Jezioro Zawiad, Bieszkowice",
+    "location": {
+      "country": "Poland",
+      "region": "Pomorskie Province, Poland",
+      "ocean": [
+        "Europe",
+        "Poland",
+        "Pomorskie Province"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.51025418293317",
+      "lng": "18.28824301103908"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c37cebbe-09fc-4747-a598-e987996d910a",
+    "name": "Zakrzówek",
+    "location": {
+      "country": "Poland",
+      "region": "Lesser Poland, Poland",
+      "ocean": [
+        "Europe",
+        "Poland",
+        "Lesser Poland"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.03651118288835",
+      "lng": "19.909629821777347"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c735b036-14f0-4256-bfe8-3d48b9d51af8",
+    "name": "Deepspot Warsaw",
+    "location": {
+      "country": "Poland",
+      "region": "Poland, Europe",
+      "ocean": [
+        "Europe",
+        "Poland"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.977819946815586",
+      "lng": "20.52477836608887"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d47e8a92-c754-4fd4-b9d4-48081e443622",
+    "name": "Zimnik",
+    "location": {
+      "country": "Poland",
+      "region": "Poland, Europe",
+      "ocean": [
+        "Europe",
+        "Poland"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.007627736345825",
+      "lng": "16.256182193756107"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fd285946-d4b0-4895-ada2-1f7890db3f5b",
+    "name": "Bryza",
+    "location": {
+      "country": "Poland",
+      "region": "Hel Peninsula, Poland",
+      "ocean": [
+        "Atlantic Ocean",
+        "Baltic Sea",
+        "Gulf Of Gdansk"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.60640032359177",
+      "lng": "18.79391670227051"
+    },
+    "additionalInfo": {}
+  }
+]

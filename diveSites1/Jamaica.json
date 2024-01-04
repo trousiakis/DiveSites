@@ -1,0 +1,275 @@
+[
+  {
+    "id": "06af15cc-2669-4bae-846c-60fb6ea78f42",
+    "name": "Shannan Rock",
+    "location": {
+      "country": "Jamaica",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.893915964126325",
+      "lng": "-77.530517578125"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0ff073b5-e313-487a-a4ed-627e296b12d0",
+    "name": "Surprise Reef",
+    "location": {
+      "country": "Jamaica",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.34593084658898",
+      "lng": "-78.34385991096498"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1ac07c38-ae23-4588-852c-a3237e764210",
+    "name": "Portland Rock",
+    "location": {
+      "country": "Jamaica",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.256236314156435",
+      "lng": "-77.3602294921875"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "20bd1046-a0b5-4559-8420-85f676288f04",
+    "name": "Morant Bank",
+    "location": {
+      "country": "Jamaica",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.429269667952468",
+      "lng": "-76.20666503906251"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3bb8905c-1127-4294-b682-7ca5e44349b9",
+    "name": "Sbapper Drop",
+    "location": {
+      "country": "Jamaica",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.349922742847045",
+      "lng": "-78.33845257759096"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3fc52963-b21d-4ee5-87f3-249654c6d154",
+    "name": "The Gallery",
+    "location": {
+      "country": "Jamaica",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.345116162550838",
+      "lng": "-78.34171414375307"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "42963ef7-3d99-45df-ba93-4d7a7e5714a5",
+    "name": "Both Rock",
+    "location": {
+      "country": "Jamaica",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.799282416303996",
+      "lng": "-77.81066894531251"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4e15f5a5-90cc-4600-9e27-1bf2342fff2d",
+    "name": "Morant Cays",
+    "location": {
+      "country": "Jamaica",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.444991866993277",
+      "lng": "-75.93750000000001"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4e5df4ee-aa32-4135-94bc-92cbbc2e69d5",
+    "name": "Fanta Sea",
+    "location": {
+      "country": "Jamaica",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.351389130550878",
+      "lng": "-78.34583401679994"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6b6c0760-155d-473a-b609-26cf62b21597",
+    "name": "Blower Rock",
+    "location": {
+      "country": "Jamaica",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.088291217955476",
+      "lng": "-77.40966796875001"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "82c03d0c-4457-4a7a-bd60-e66bd1550b88",
+    "name": "Big White",
+    "location": {
+      "country": "Jamaica",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.344301474671553",
+      "lng": "-78.34613442420961"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9013b3b2-80e7-4ec8-aae7-5a57839e0490",
+    "name": "Middel Cay",
+    "location": {
+      "country": "Jamaica",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.98850206537361",
+      "lng": "-77.81616210937501"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9d07378a-97bb-4da6-a7c2-5e7414eabcb6",
+    "name": "Ne Cay",
+    "location": {
+      "country": "Jamaica",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "17.035777250427195",
+      "lng": "-77.73376464843751"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b737cb36-73a6-4361-91f9-ad32cfbd0e34",
+    "name": "South Cay",
+    "location": {
+      "country": "Jamaica",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.76772739719064",
+      "lng": "-78.22814941406251"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d4a97258-64b2-4f31-a6ba-4392d734d299",
+    "name": "Sw Cay",
+    "location": {
+      "country": "Jamaica",
+      "region": "Atlantic Ocean",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "16.85711965391805",
+      "lng": "-78.00292968750001"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f7e7c843-8dde-4456-82cf-0da3498bd258",
+    "name": "Coral Garden",
+    "location": {
+      "country": "Jamaica",
+      "region": "The Caribbean",
+      "ocean": [
+        "The Caribbean",
+        "Jamaica",
+        "Saint Ann"
+      ]
+    },
+    "coordinates": {
+      "lat": "18.435889023148956",
+      "lng": "-77.16015815734865"
+    },
+    "additionalInfo": {}
+  }
+]

@@ -1,0 +1,597 @@
+[
+  {
+    "id": "0b4b2423-3940-43a9-99c4-591b23d55c77",
+    "name": "Quallah Cracks",
+    "location": {
+      "country": "Comoros",
+      "region": "Moheli, Comoros",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.34025337712037",
+      "lng": "43.655719757080085"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0bcd4c89-0be6-435f-95f0-e2b1151fe0e1",
+    "name": "Mchaco",
+    "location": {
+      "country": "Comoros",
+      "region": "Moheli, Comoros",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.377311403938494",
+      "lng": "43.88463020324708"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "187377e6-9c30-4bab-9d6e-207a88170b31",
+    "name": "The Vailheu Bank",
+    "location": {
+      "country": "Comoros",
+      "region": "Grande Comore, Comoros",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-11.938570343535822",
+      "lng": "43.21678161621094"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "188fa36c-e6b6-4a9d-b45b-221a77c3fdc0",
+    "name": "Magic Rocks",
+    "location": {
+      "country": "Comoros",
+      "region": "Moheli, Comoros",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.390012210417433",
+      "lng": "43.70502948760987"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "20b7971a-cf20-4fd3-9ea8-5f8075777410",
+    "name": "The Massiwa",
+    "location": {
+      "country": "Comoros",
+      "region": "Grande Comore, Comoros",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-11.35963253378743",
+      "lng": "43.31059455871583"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "26cc6090-d74e-4a0d-871c-a86718be754d",
+    "name": "Glass Reef",
+    "location": {
+      "country": "Comoros",
+      "region": "Moheli, Comoros",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.391395429232723",
+      "lng": "43.69829177856446"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3158d9cd-e127-4151-bab0-c6266770ae11",
+    "name": "Itsandra Bay",
+    "location": {
+      "country": "Comoros",
+      "region": "Grande Comore, Comoros",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-11.618609631884944",
+      "lng": "43.25686454772949"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "402c0d8a-4c6d-4f41-9593-4203b1b863c1",
+    "name": "The Royal Itsandra",
+    "location": {
+      "country": "Comoros",
+      "region": "Grande Comore, Comoros",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-11.605830393754378",
+      "lng": "43.25686454772949"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "48853dfb-6cac-4f9c-b26a-729b7d149208",
+    "name": "Turtle&#039;s Doom",
+    "location": {
+      "country": "Comoros",
+      "region": "Moheli, Comoros",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.372197373357952",
+      "lng": "43.67734909057618"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4abb603b-1d11-4d64-94c7-fd49b927f64d",
+    "name": "Moray Eel Councils Flats",
+    "location": {
+      "country": "Comoros",
+      "region": "Grande Comore, Comoros",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-11.59187345178519",
+      "lng": "43.260555267333984"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4d2be26f-3a04-40dd-9c5b-186c5152437e",
+    "name": "The Small Wreck",
+    "location": {
+      "country": "Comoros",
+      "region": "Grande Comore, Comoros",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-11.688716848709857",
+      "lng": "43.24098587036133"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "556cccd5-bf32-420e-a9d2-fd6197c70180",
+    "name": "Mandzaza",
+    "location": {
+      "country": "Comoros",
+      "region": "Grande Comore, Comoros",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-11.799473573212204",
+      "lng": "43.23944091796875"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5714c3ed-b089-4485-8afa-8eed4cab6acf",
+    "name": "The Coelacanth",
+    "location": {
+      "country": "Comoros",
+      "region": "Grande Comore, Comoros",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-11.684850485201062",
+      "lng": "43.24913978576661"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "574659ee-25ea-4d6e-9271-367e5d4a2efb",
+    "name": "Ras Kanzani",
+    "location": {
+      "country": "Comoros",
+      "region": "Moheli, Comoros",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.393658862377407",
+      "lng": "43.673744201660156"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5949b55b-9c01-4ecb-a5a8-052040fae91e",
+    "name": "Sao Paolo",
+    "location": {
+      "country": "Comoros",
+      "region": "Moheli, Comoros",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.42685362265373",
+      "lng": "43.67511749267578"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5e746d67-a0af-4f6a-a120-1d024ee0041e",
+    "name": "Caves Of The Presidency",
+    "location": {
+      "country": "Comoros",
+      "region": "Grande Comore, Comoros",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-11.638449919061376",
+      "lng": "43.255233764648445"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "63bef502-9f9b-4d2e-92a4-5f79ce5f47bd",
+    "name": "Gnandza",
+    "location": {
+      "country": "Comoros",
+      "region": "Moheli, Comoros",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.38234150023395",
+      "lng": "43.877506256103516"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "660214ed-113c-496a-bf6c-ce73e0cdb4ec",
+    "name": "Salimani",
+    "location": {
+      "country": "Comoros",
+      "region": "Grande Comore, Comoros",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-11.825685630908605",
+      "lng": "43.256950378417976"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "69dbe756-7131-4cef-9e8f-0823ffdc6ec2",
+    "name": "Foro",
+    "location": {
+      "country": "Comoros",
+      "region": "Moheli, Comoros",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.379742629250648",
+      "lng": "43.758115768432624"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "729c49ba-29eb-47f1-8d35-98ca2e0958b7",
+    "name": "Enfag",
+    "location": {
+      "country": "Comoros",
+      "region": "Grande Comore, Comoros",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-11.570684472221153",
+      "lng": "43.26587677001954"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "73994788-cb2a-47be-8a9b-b0520fade325",
+    "name": "House Reef",
+    "location": {
+      "country": "Comoros",
+      "region": "Moheli, Comoros",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.375802356150585",
+      "lng": "43.71494293212891"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7ea6b5e6-eb3e-4709-9c4f-fb5afe13c1d6",
+    "name": "Tombant De Phantoms",
+    "location": {
+      "country": "Comoros",
+      "region": "Moheli, Comoros",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.386784671321152",
+      "lng": "43.732109069824226"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7ff8d218-db47-4970-8b08-b0091b285046",
+    "name": "Masters",
+    "location": {
+      "country": "Comoros",
+      "region": "Moheli, Comoros",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.399694588027034",
+      "lng": "43.63851070404053"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "830c7a37-1642-4841-9315-1071c3627f13",
+    "name": "Beit Salam",
+    "location": {
+      "country": "Comoros",
+      "region": "Grande Comore, Comoros",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-11.625167171341227",
+      "lng": "43.25231552124024"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9ba7b22e-dd11-4406-8e67-e27e949b0848",
+    "name": "Worm Bowl",
+    "location": {
+      "country": "Comoros",
+      "region": "Moheli, Comoros",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.342601100173912",
+      "lng": "43.65357398986817"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9ef3d2db-a941-419d-b1fb-98cd76670f68",
+    "name": "Zaki&#039;s Station",
+    "location": {
+      "country": "Comoros",
+      "region": "Moheli, Comoros",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.43406202608085",
+      "lng": "43.70258331298829"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "aef4face-0f59-4353-a1b5-a3f3800b4ceb",
+    "name": "Bouelachamba",
+    "location": {
+      "country": "Comoros",
+      "region": "Moheli, Comoros",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.297906905813973",
+      "lng": "43.62366199493408"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b09b9dcb-35e7-45f0-a4f0-310e757dbb41",
+    "name": "The Delightful Hole",
+    "location": {
+      "country": "Comoros",
+      "region": "Grande Comore, Comoros",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-11.583633483895817",
+      "lng": "43.26278686523438"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bcc1c039-ac42-4e19-9d7f-e8efd2b19c0b",
+    "name": "Flat Rocks",
+    "location": {
+      "country": "Comoros",
+      "region": "Moheli, Comoros",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.380077968896067",
+      "lng": "43.69588851928711"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c3ff4095-7c12-4266-8979-3a32f4675e48",
+    "name": "Candy Reef",
+    "location": {
+      "country": "Comoros",
+      "region": "Moheli, Comoros",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.397682695006017",
+      "lng": "43.64546298980713"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cf389266-dbf1-4647-9709-a4593d632fe8",
+    "name": "Ortc",
+    "location": {
+      "country": "Comoros",
+      "region": "Grande Comore, Comoros",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-11.574131994921757",
+      "lng": "43.265790939331055"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d6c2d642-b098-42de-bd7c-d9a56d9435a9",
+    "name": "The Moroni",
+    "location": {
+      "country": "Comoros",
+      "region": "Grande Comore, Comoros",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-11.70132418073678",
+      "lng": "43.24098587036133"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ec82143c-dcfa-4966-9461-85ae50b7ec1b",
+    "name": "Mtsaka Pt",
+    "location": {
+      "country": "Comoros",
+      "region": "Moheli, Comoros",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-12.39533546685391",
+      "lng": "43.714427947998054"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f3d77eff-ed27-4958-abe3-de71b97b2400",
+    "name": "Iconi",
+    "location": {
+      "country": "Comoros",
+      "region": "Grande Comore, Comoros",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-11.74763017784163",
+      "lng": "43.22442054748535"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f9b5ce2e-0c71-4296-b8de-cc76d6f0aac1",
+    "name": "The University",
+    "location": {
+      "country": "Comoros",
+      "region": "Grande Comore, Comoros",
+      "ocean": [
+        "Indian Ocean",
+        "Mozambique Channel"
+      ]
+    },
+    "coordinates": {
+      "lat": "-11.69535678182041",
+      "lng": "43.246049880981445"
+    },
+    "additionalInfo": {}
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "3024bfe3-cee7-4863-a8c4-d4e03cba216b",
+    "name": "Bordelaise, Alger Ain Taya",
+    "location": {
+      "country": "Algeria",
+      "region": "Algiers, Algeria",
+      "ocean": [
+        "Africa",
+        "Algeria",
+        "Algiers"
+      ]
+    },
+    "coordinates": {
+      "lat": "36.881542943528935",
+      "lng": "3.2862854003906254"
+    },
+    "additionalInfo": {}
+  }
+]

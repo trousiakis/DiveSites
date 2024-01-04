@@ -1,0 +1,279 @@
+[
+  {
+    "id": "01795863-4b83-41c2-9b67-5c1aa6e973e5",
+    "name": "Klubben",
+    "location": {
+      "country": "Norway",
+      "region": "Sor-Trondelag, Norway",
+      "ocean": [
+        "Atlantic Ocean",
+        "Norwegian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "63.47321158097113",
+      "lng": "10.39512634277344"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0bd860ad-cc86-473f-b503-3d53dd6ee64c",
+    "name": "Busteinsundet",
+    "location": {
+      "country": "Norway",
+      "region": "Vestfold, Norway",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Skagerrak Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "59.03560901446362",
+      "lng": "10.288696289062502"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "13b4902e-6607-4a83-989e-23d149914aff",
+    "name": "Muren",
+    "location": {
+      "country": "Norway",
+      "region": "Hordaland, Norway",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "60.40978387276017",
+      "lng": "5.285110473632813"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "19996c0d-0a99-4903-b237-1f9be17dde1c",
+    "name": "Faerder Fyr",
+    "location": {
+      "country": "Norway",
+      "region": "Vestfold, Norway",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Skagerrak Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "59.02598071237046",
+      "lng": "10.525760650634766"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1bc0f103-1d6a-41da-89f6-63f93bf09a78",
+    "name": "Ingdalen",
+    "location": {
+      "country": "Norway",
+      "region": "Sor-Trondelag, Norway",
+      "ocean": [
+        "Atlantic Ocean",
+        "Norwegian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "63.45357815752356",
+      "lng": "9.969921112060547"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3f0dced6-9fde-4f0c-ae3c-7e9903e38959",
+    "name": "M.s. Hamburg",
+    "location": {
+      "country": "Norway",
+      "region": "Austvagoy Island, Vagan",
+      "ocean": [
+        "Atlantic Ocean",
+        "Norwegian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "68.20829104467289",
+      "lng": "14.622802734375"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "728ce577-b8dd-40db-a951-da83a78f5434",
+    "name": "Fagertun",
+    "location": {
+      "country": "Norway",
+      "region": "Vestfold, Norway",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea",
+        "Skagerrak Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "59.12099718220653",
+      "lng": "10.366973876953127"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "742badc4-3d9b-493d-8ae2-394f9e56b669",
+    "name": "Hamborra",
+    "location": {
+      "country": "Norway",
+      "region": "Sor-Trondelag, Norway",
+      "ocean": [
+        "Atlantic Ocean",
+        "Norwegian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "63.470144746565445",
+      "lng": "10.134887695312502"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "751834f4-1eae-4e63-8a02-fb0a0aaa028a",
+    "name": "Raftsund Drift",
+    "location": {
+      "country": "Norway",
+      "region": "Sandoya, Lonkan",
+      "ocean": [
+        "Atlantic Ocean",
+        "Norwegian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "68.50208023394758",
+      "lng": "15.177612304687502"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7c814880-a4e7-4138-bc4e-55f3d053d54f",
+    "name": "Skarberget Wall",
+    "location": {
+      "country": "Norway",
+      "region": "Korsnes, Tysfjord",
+      "ocean": [
+        "Atlantic Ocean",
+        "Norwegian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "68.25819812982981",
+      "lng": "16.127929687500004"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9154f6f0-5b61-4ff6-b982-fa0656476a37",
+    "name": "Molla Wall",
+    "location": {
+      "country": "Norway",
+      "region": "Stormolla, Vagan",
+      "ocean": [
+        "Atlantic Ocean",
+        "Norwegian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "68.22459920761474",
+      "lng": "14.968872070312502"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9a95c149-8c5c-4201-9f7a-c23260e78cf7",
+    "name": "Pro Dykk",
+    "location": {
+      "country": "Norway",
+      "region": "Oslo, Norway",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "59.82014307637306",
+      "lng": "10.603008270263672"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b1ad6533-0989-4e85-a427-d0c2b9e70824",
+    "name": "Haakon Jarl Ii",
+    "location": {
+      "country": "Norway",
+      "region": "Offersoy, Londingen",
+      "ocean": [
+        "Atlantic Ocean",
+        "Norwegian Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "68.28666761625654",
+      "lng": "15.625305175781252"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e1463a8a-0556-4998-964c-25bc6adac7c8",
+    "name": "Bru - Hausen",
+    "location": {
+      "country": "Norway",
+      "region": "Byfjorden, Rogaland",
+      "ocean": [
+        "Europe",
+        "Norway",
+        "Rogaland",
+        "Byfjorden"
+      ]
+    },
+    "coordinates": {
+      "lat": "59.04067604000804",
+      "lng": "5.628733634948731"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e33731e2-9e2b-4398-8e5e-e9a06a913a07",
+    "name": "Avik",
+    "location": {
+      "country": "Norway",
+      "region": "Vest-Agder, Norway",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "58.022828028234485",
+      "lng": "7.318439483642579"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f285b49b-fa3e-4f8e-ba8d-49f24da9990a",
+    "name": "Vikaneset",
+    "location": {
+      "country": "Norway",
+      "region": "Hordaland, Norway",
+      "ocean": [
+        "Atlantic Ocean",
+        "North Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "60.72291435076011",
+      "lng": "5.649719238281251"
+    },
+    "additionalInfo": {}
+  }
+]

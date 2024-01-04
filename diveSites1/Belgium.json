@@ -1,0 +1,215 @@
+[
+  {
+    "id": "0ef6ae03-f5c6-4c61-8d04-07f54f13b0d5",
+    "name": "Vodelee",
+    "location": {
+      "country": "Belgium",
+      "region": "Vodelee, Doische",
+      "ocean": [
+        "Europe",
+        "Belgium",
+        "Namur",
+        "Doische",
+        "Vodelee"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.165161089493544",
+      "lng": "4.727683067321777"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "12682950-4f5d-45c2-af41-c04931341763",
+    "name": "La Gombe",
+    "location": {
+      "country": "Belgium",
+      "region": "La Gombe, Esneux",
+      "ocean": [
+        "Europe",
+        "Belgium",
+        "Liege",
+        "Esneux",
+        "La Gombe"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.50878704002074",
+      "lng": "5.566463470458985"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "163b92d7-3fe7-4ee0-a246-6f37f64fa99b",
+    "name": "Put Van Ekeren",
+    "location": {
+      "country": "Belgium",
+      "region": "Antwerpen, Belgium",
+      "ocean": [
+        "Europe",
+        "Belgium",
+        "Antwerpen"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.28339364122659",
+      "lng": "4.397192001342774"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1e6c9acb-d29f-4a8e-aa0e-016d0c1999e1",
+    "name": "Lac De L&#039;eau D&#039;heure",
+    "location": {
+      "country": "Belgium",
+      "region": "Lac De L&#039;eau D&#039;heure, Hainaut",
+      "ocean": [
+        "Europe",
+        "Belgium",
+        "Hainaut",
+        "Lac De L'eau D'heure"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.18328768282354",
+      "lng": "4.3876004219055185"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2ea9a75b-a358-4181-8cae-18113d66b112",
+    "name": "La Roche Fontaine",
+    "location": {
+      "country": "Belgium",
+      "region": "La Roche Fontaine, Philippeville",
+      "ocean": [
+        "Europe",
+        "Belgium",
+        "Namur",
+        "Philippeville",
+        "La Roche Fontaine"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.18308158129795",
+      "lng": "4.640886783599854"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5c5a8e5e-64f4-4b51-a57d-602d0020f4fb",
+    "name": "Carrieré Traigneaux",
+    "location": {
+      "country": "Belgium",
+      "region": "Villers-Deux-Eglises, Cerfontaine",
+      "ocean": [
+        "Europe",
+        "Belgium",
+        "Cerfontaine",
+        "Villers-deux-eglises"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.18507385879362",
+      "lng": "4.4973134994506845"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8247771b-0ab8-4fc0-b05f-ab0f208df80b",
+    "name": "Vodecee",
+    "location": {
+      "country": "Belgium",
+      "region": "Vodecee, Philippeville",
+      "ocean": [
+        "Europe",
+        "Belgium",
+        "Namur",
+        "Philippeville",
+        "Vodecee"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.19434716022471",
+      "lng": "4.573380947113038"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a01a6977-2dda-41e1-a252-a6e05449af71",
+    "name": "Carrière De Lessines",
+    "location": {
+      "country": "Belgium",
+      "region": "Lessines, Hainaut",
+      "ocean": [
+        "Europe",
+        "Belgium",
+        "Hainaut",
+        "Lessines"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.704408225231035",
+      "lng": "3.847424983978272"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "be4a0615-59ad-4d24-b7ff-20e955e7fe87",
+    "name": "Zilvermeer",
+    "location": {
+      "country": "Belgium",
+      "region": "Zilvermeer, Mol",
+      "ocean": [
+        "Europe",
+        "Belgium",
+        "Antwerpen",
+        "Mol",
+        "Zilvermeer"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.22488065678508",
+      "lng": "5.171535015106202"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d3895d3f-6916-4295-a746-7d809f306609",
+    "name": "Sprimont",
+    "location": {
+      "country": "Belgium",
+      "region": "Carriere De Lille Sprimont, Sprimont",
+      "ocean": [
+        "Europe",
+        "Belgium",
+        "Liege",
+        "Sprimont",
+        "Carriere De Lille Sprimont"
+      ]
+    },
+    "coordinates": {
+      "lat": "50.50154034198494",
+      "lng": "5.649118423461915"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ddddb2a5-9319-47ec-9e00-ab68da46516e",
+    "name": "Blaarmeersen",
+    "location": {
+      "country": "Belgium",
+      "region": "Gent, Belgium",
+      "ocean": [
+        "Europe",
+        "Belgium",
+        "Gent"
+      ]
+    },
+    "coordinates": {
+      "lat": "51.044508700642425",
+      "lng": "3.6830785907525336"
+    },
+    "additionalInfo": {}
+  }
+]

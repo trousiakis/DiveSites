@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "009fdd92-0ab8-4534-a5b2-e74d8edd3a76",
+    "name": "Cave",
+    "location": {
+      "country": "South Africa",
+      "region": "Kwazulu-Natal, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-31.044109930143044",
+      "lng": "31.133537292480472"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "042e4f93-e225-48af-bd41-33757fb5ea23",
+    "name": "Northern Sands",
+    "location": {
+      "country": "South Africa",
+      "region": "Kwazulu-Natal, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-30.739475058679485",
+      "lng": "31.10641479492188"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "05c1552f-398f-4823-b492-b825cd283c20",
+    "name": "Oddi",
+    "location": {
+      "country": "South Africa",
+      "region": "Durban, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-29.862529985975385",
+      "lng": "31.05319976806641"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "07fe0361-a7e5-40fc-9be5-ec8166275af4",
+    "name": "Bay Of Caves",
+    "location": {
+      "country": "South Africa",
+      "region": "Kwazulu-Natal, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-31.064698120353732",
+      "lng": "31.108818054199222"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "085e8037-f98f-4b22-acad-a4872c12c8a3",
+    "name": "North Light",
+    "location": {
+      "country": "South Africa",
+      "region": "Durban, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-29.8771180441075",
+      "lng": "31.080322265625004"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0f7f99ce-6dd0-4cf1-a7dd-14b295389af3",
+    "name": "Romelia",
+    "location": {
+      "country": "South Africa",
+      "region": "Cape Town, Western Cape",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-34.00926956417642",
+      "lng": "18.331375122070316"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0fb60456-3d69-4561-b805-93696ce990a5",
+    "name": "Tiger Cave",
+    "location": {
+      "country": "South Africa",
+      "region": "Kwazulu-Natal, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-30.9346237190236",
+      "lng": "31.048049926757816"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0ffe3b37-0aa4-472e-b514-0d06788bd448",
+    "name": "Strawberry Rocks",
+    "location": {
+      "country": "South Africa",
+      "region": "Cape Town, Western Cape",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-33.97055563443802",
+      "lng": "18.36175918579102"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "11faa0df-342b-41f5-9032-dd88f5d1e844",
+    "name": "Containers B&amp;c",
+    "location": {
+      "country": "South Africa",
+      "region": "Durban, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-29.816370046351942",
+      "lng": "31.07542991638184"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "13441142-6313-43a8-9bcf-f37b6978f1ca",
+    "name": "Nev&#039;s Ledge",
+    "location": {
+      "country": "South Africa",
+      "region": "Durban, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-29.835134401350402",
+      "lng": "31.09362602233887"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "145c7fdf-6679-4add-a960-13fc8e072813",
+    "name": "Southern Ledges",
+    "location": {
+      "country": "South Africa",
+      "region": "Kwazulu-Natal, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-31.03763843613439",
+      "lng": "31.083755493164066"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "14e77a8e-dafa-4b9e-ac02-133785317b66",
+    "name": "Hawthorn 2",
+    "location": {
+      "country": "South Africa",
+      "region": "Durban, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-29.856723940942363",
+      "lng": "31.090450286865238"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1a627574-2f41-496c-ad2e-a9202c7baa99",
+    "name": "Lionfish Hole",
+    "location": {
+      "country": "South Africa",
+      "region": "Kwazulu-Natal, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-30.811449130641915",
+      "lng": "31.081008911132816"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1c0d75aa-f5a6-4c02-83c4-7cf3fc77f564",
+    "name": "Juvenile Fish Creche",
+    "location": {
+      "country": "South Africa",
+      "region": "Kwazulu-Natal, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-31.10292150855315",
+      "lng": "31.02573394775391"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "235ff66e-c659-4562-8e2f-0b6e23ba3c6b",
+    "name": "Millers Point",
+    "location": {
+      "country": "South Africa",
+      "region": "Cape Town, Western Cape",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-34.24025991178574",
+      "lng": "18.479690551757816"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "23c716ba-e9a1-4d30-9ea5-baf5601c5a90",
+    "name": "Northern Pinnacles",
+    "location": {
+      "country": "South Africa",
+      "region": "Kwazulu-Natal, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-30.735638864097446",
+      "lng": "31.150188446044925"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2bf6bc19-aa3f-45ef-a2ef-9b5709f44e51",
+    "name": "Boulder&#039;s Rock",
+    "location": {
+      "country": "South Africa",
+      "region": "Cape Town, Western Cape",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-34.19632732480694",
+      "lng": "18.455743789672855"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2c4cbc2a-5c02-4334-9e9f-44a68e7754ed",
+    "name": "Inside Anvil",
+    "location": {
+      "country": "South Africa",
+      "region": "Kwazulu-Natal, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-30.965539811540093",
+      "lng": "31.039123535156254"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2ffe6ef5-1029-42d4-975e-b692a6114184",
+    "name": "Ribbon Reef",
+    "location": {
+      "country": "South Africa",
+      "region": "Nomvunya, Kwazulu-Natal",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.5301557572541",
+      "lng": "32.68248081207276"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "30ca1306-b1d6-4340-b654-fc873f015008",
+    "name": "Mossel Bay",
+    "location": {
+      "country": "South Africa",
+      "region": "Western Cape, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-34.234512362369856",
+      "lng": "22.200622558593754"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3765b148-5c5a-43f5-9f10-6de01c2ae16b",
+    "name": "Athens",
+    "location": {
+      "country": "South Africa",
+      "region": "Cape Town, Western Cape",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-33.87497640410958",
+      "lng": "18.391113281250004"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "38119329-fe01-4844-ba08-1ea795b6b3a9",
+    "name": "Hot Spot",
+    "location": {
+      "country": "South Africa",
+      "region": "Nomvunya, Kwazulu-Natal",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.536853398699822",
+      "lng": "32.691149711608894"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "38577b07-4727-4a30-8567-f7e732464d79",
+    "name": "Amphitheatre",
+    "location": {
+      "country": "South Africa",
+      "region": "Durban, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-29.839080424389746",
+      "lng": "31.09663009643555"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "38a4a123-34b2-45e8-9da4-39a8b3913f1a",
+    "name": "Deep Blood",
+    "location": {
+      "country": "South Africa",
+      "region": "Durban, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-29.916405869526507",
+      "lng": "31.041355133056644"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "393c929d-df23-4a3f-a48b-cc8720944c3a",
+    "name": "Seven Mile Reef",
+    "location": {
+      "country": "South Africa",
+      "region": "Nomvunya, Kwazulu-Natal",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.457406811972767",
+      "lng": "32.70715713500977"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3b1faa8b-1bc3-42ca-989b-9d7c788e344d",
+    "name": "Bikini",
+    "location": {
+      "country": "South Africa",
+      "region": "Nomvunya, Kwazulu-Natal",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.529603944732944",
+      "lng": "32.68458366394044"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4074291c-c971-448c-84a3-97ce70b52be7",
+    "name": "Mv Produce (Wreck)",
+    "location": {
+      "country": "South Africa",
+      "region": "Kwazulu-Natal, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-30.44748978060767",
+      "lng": "31.13113403320313"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "41e93b60-3254-4885-ae6d-be11da7e3a5e",
+    "name": "South Sands",
+    "location": {
+      "country": "South Africa",
+      "region": "Kwazulu-Natal, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-31.017632855634172",
+      "lng": "31.117916107177738"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "42b6a8a8-73f1-46eb-a624-4132c96bf418",
+    "name": "Hawthorn",
+    "location": {
+      "country": "South Africa",
+      "region": "Durban, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-29.85047089934508",
+      "lng": "31.102809906005863"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "47738dff-33ce-49b8-a83c-f9af961e4632",
+    "name": "Sandy Cove",
+    "location": {
+      "country": "South Africa",
+      "region": "Cape Town, Western Cape",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-33.97511112977911",
+      "lng": "18.363132476806644"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4ad2badf-a8cd-42d9-a07a-94d5371d8030",
+    "name": "Deep Flats",
+    "location": {
+      "country": "South Africa",
+      "region": "Kwazulu-Natal, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-30.696087652009787",
+      "lng": "31.18829727172852"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5004c634-1303-4eb2-854f-9b70a6215863",
+    "name": "Antipolis",
+    "location": {
+      "country": "South Africa",
+      "region": "Cape Town, Western Cape",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-33.977673488654276",
+      "lng": "18.35575103759766"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "507e1366-53cf-4265-bd5b-a7953a8ea74d",
+    "name": "Barracuda Sluit",
+    "location": {
+      "country": "South Africa",
+      "region": "Kwazulu-Natal, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-30.950230235126554",
+      "lng": "31.158428192138675"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "511d985a-de88-4652-9f00-ef4dbc3ff0c1",
+    "name": "Quarter Mile",
+    "location": {
+      "country": "South Africa",
+      "region": "Nomvunya, Kwazulu-Natal",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.536358700508153",
+      "lng": "32.68321037292481"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "51730177-7024-4194-b6eb-60cd7bfc3fc7",
+    "name": "Brindle Cave",
+    "location": {
+      "country": "South Africa",
+      "region": "Kwazulu-Natal, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-30.907821682379137",
+      "lng": "31.152935028076175"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "588916cf-fbaa-45ea-80be-29f62768f641",
+    "name": "G-Spot",
+    "location": {
+      "country": "South Africa",
+      "region": "Durban, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-29.901823560250385",
+      "lng": "31.055774688720707"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5953b504-b2e3-4235-b6b6-ddf3197fa4a4",
+    "name": "Buffels Bay",
+    "location": {
+      "country": "South Africa",
+      "region": "Cape Town, Western Cape",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-34.321889460526734",
+      "lng": "18.468017578125004"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5f4e9f05-03d8-45eb-b149-3f99cedadea2",
+    "name": "Sand Shark Paradise",
+    "location": {
+      "country": "South Africa",
+      "region": "Kwazulu-Natal, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-30.993502891957373",
+      "lng": "31.1488151550293"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5fd2f87d-9ef6-44d3-9948-008913aca647",
+    "name": "False Bay",
+    "location": {
+      "country": "South Africa",
+      "region": "Cape Town, Western Cape",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-34.22997081127308",
+      "lng": "18.635559082031254"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "673362ea-eff1-40b8-bbe2-57aa41c0049e",
+    "name": "Chunnel",
+    "location": {
+      "country": "South Africa",
+      "region": "Kwazulu-Natal, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-30.777828602000117",
+      "lng": "31.10710144042969"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "67b04f4f-c3d2-4e63-a070-6810a37d2a37",
+    "name": "Pat&#039;s Place",
+    "location": {
+      "country": "South Africa",
+      "region": "Durban, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-29.906734168105363",
+      "lng": "31.04667663574219"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "68e16534-d7df-4e3c-92d4-483721f57798",
+    "name": "Protea Banks",
+    "location": {
+      "country": "South Africa",
+      "region": "Eastern Cape, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-31.746854162921395",
+      "lng": "30.355224609375004"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "690f98b9-4748-4082-a4f7-df882415541c",
+    "name": "Yacht",
+    "location": {
+      "country": "South Africa",
+      "region": "Durban, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-29.781661603462577",
+      "lng": "31.064014434814457"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "69823b0c-0a94-4dfd-91cd-b0e8aa62206a",
+    "name": "Cathedral",
+    "location": {
+      "country": "South Africa",
+      "region": "Kwazulu-Natal, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-31.000565952512236",
+      "lng": "31.11139297485352"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6a1b5226-f4db-4091-99fb-77d6c7c54f55",
+    "name": "A Frame",
+    "location": {
+      "country": "South Africa",
+      "region": "Cape Town, Western Cape",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-34.21364759033911",
+      "lng": "18.467760086059574"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6a730362-46d3-47cc-a861-5446faac0563",
+    "name": "Doug&#039;s",
+    "location": {
+      "country": "South Africa",
+      "region": "Durban, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-29.90941257945503",
+      "lng": "31.04169845581055"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6b237745-4167-42f3-a693-4b5388761c26",
+    "name": "Two Mile Reef",
+    "location": {
+      "country": "South Africa",
+      "region": "Nomvunya, Kwazulu-Natal",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.51013651025991",
+      "lng": "32.68243789672852"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6f9b6fd5-495c-4b5f-bed1-d1fd02509577",
+    "name": "Star Walls",
+    "location": {
+      "country": "South Africa",
+      "region": "Cape Town, Western Cape",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-34.03829343430807",
+      "lng": "18.302364349365238"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "73659eaf-e853-410f-8292-c986b3170134",
+    "name": "Klein Tafelberg Reef",
+    "location": {
+      "country": "South Africa",
+      "region": "Cape Town, Western Cape",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-34.071999875341646",
+      "lng": "18.34373474121094"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "75f39297-a6b7-4218-b8a4-03374625d218",
+    "name": "Shark Alley",
+    "location": {
+      "country": "South Africa",
+      "region": "Kwazulu-Natal, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-30.891324389339708",
+      "lng": "31.154994964599613"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "79f2373a-a214-4aa7-9344-68dc7b3d85e0",
+    "name": "Kate Wreck",
+    "location": {
+      "country": "South Africa",
+      "region": "Durban, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-29.861487900200448",
+      "lng": "31.101264953613285"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7b45ab27-02c2-4b93-b31e-878bbae2c523",
+    "name": "Junction",
+    "location": {
+      "country": "South Africa",
+      "region": "Kwazulu-Natal, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-30.764849113369173",
+      "lng": "31.10984802246094"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7dea3dff-1381-429d-80db-6637e4192446",
+    "name": "Fontao",
+    "location": {
+      "country": "South Africa",
+      "region": "Durban, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-29.751412246719678",
+      "lng": "31.0828971862793"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7e283a60-8523-467f-8c21-dc6069922f2f",
+    "name": "Sodwana Bay",
+    "location": {
+      "country": "South Africa",
+      "region": "Kwazulu-Natal, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-29.20971322586817",
+      "lng": "32.55249023437501"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "844d8abd-166a-4628-93a8-afeec6bcf2b4",
+    "name": "Justins Caves",
+    "location": {
+      "country": "South Africa",
+      "region": "Cape Town, Western Cape",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-33.972263973791314",
+      "lng": "18.357295989990238"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "86ecf917-caac-482f-b3c7-e978d89ea447",
+    "name": "Spur Reef",
+    "location": {
+      "country": "South Africa",
+      "region": "Kwazulu-Natal, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-30.969955579451806",
+      "lng": "31.19602203369141"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "89c60d48-9fb6-46c5-a6cf-08fc47bfdac1",
+    "name": "Chains",
+    "location": {
+      "country": "South Africa",
+      "region": "Durban, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-29.831188222441117",
+      "lng": "31.096458435058597"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8c1ba129-35a4-4430-a6c9-ec7b15959add",
+    "name": "Ledges",
+    "location": {
+      "country": "South Africa",
+      "region": "Durban, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-29.821359325826105",
+      "lng": "31.11611366271973"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8ec6bb92-ca65-4f7a-be99-ccab09ab0eb3",
+    "name": "Outer Castle",
+    "location": {
+      "country": "South Africa",
+      "region": "Cape Town, Western Cape",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-34.24387853788724",
+      "lng": "18.487157821655277"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "934b8791-efd4-462e-af0c-cb9d075b71b9",
+    "name": "Pyramid Rocks",
+    "location": {
+      "country": "South Africa",
+      "region": "Cape Town, Western Cape",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-34.23742166481773",
+      "lng": "18.477029800415043"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "949f65f5-6de7-4314-bca9-26997c0b4c7b",
+    "name": "Sub",
+    "location": {
+      "country": "South Africa",
+      "region": "Durban, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-29.895275706606853",
+      "lng": "31.06470108032227"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "965392a6-75a2-4cc6-b705-c11b4f4b52ab",
+    "name": "Aster",
+    "location": {
+      "country": "South Africa",
+      "region": "Cape Town, Western Cape",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-34.06090809595026",
+      "lng": "18.35849761962891"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9c44b732-c1f1-4f74-a964-3a9c7a66e6dc",
+    "name": "Algae Plain",
+    "location": {
+      "country": "South Africa",
+      "region": "Kwazulu-Natal, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-30.890440525562102",
+      "lng": "31.12358093261719"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9ccbda8d-38ea-4b0a-8944-e8084987a9b7",
+    "name": "Blowhole",
+    "location": {
+      "country": "South Africa",
+      "region": "Kwazulu-Natal, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-30.681620845933267",
+      "lng": "31.13662719726563"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a7e9c38d-7ff8-4b7c-bbed-27886897b80f",
+    "name": "Coopers",
+    "location": {
+      "country": "South Africa",
+      "region": "Durban, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-29.950472532236315",
+      "lng": "31.02401733398438"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a899f377-3760-475d-bdc9-46f92291275a",
+    "name": "Castle Rocks",
+    "location": {
+      "country": "South Africa",
+      "region": "Cape Town, Western Cape",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-34.24160804557394",
+      "lng": "18.477287292480472"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ab5bf7b4-a943-4e08-93c5-eba10b6fafdd",
+    "name": "Blowholes",
+    "location": {
+      "country": "South Africa",
+      "region": "Kwazulu-Natal, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-30.9051705234465",
+      "lng": "31.060752868652347"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b0ef0198-b56f-436e-84d7-22dc9df69734",
+    "name": "Clan Stuart",
+    "location": {
+      "country": "South Africa",
+      "region": "Cape Town, Western Cape",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-34.18148869410052",
+      "lng": "18.42836380004883"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b242c475-ac98-4a52-9f83-fb8093475587",
+    "name": "Kifaru Point",
+    "location": {
+      "country": "South Africa",
+      "region": "Kwazulu-Natal, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-30.683982921529303",
+      "lng": "31.059036254882812"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b4b466a4-5f4f-4624-9afd-78b32324d17d",
+    "name": "Wallflower Gully",
+    "location": {
+      "country": "South Africa",
+      "region": "Kwazulu-Natal, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-30.923138051478702",
+      "lng": "31.150188446044925"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b557212d-6fee-4814-ae95-64c691047fd7",
+    "name": "Nine Mile Reef",
+    "location": {
+      "country": "South Africa",
+      "region": "Nomvunya, Kwazulu-Natal",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-27.424956946115394",
+      "lng": "32.72621154785157"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bb99ee38-65ad-4bbd-9aad-d67b2f53ea0b",
+    "name": "The Maori",
+    "location": {
+      "country": "South Africa",
+      "region": "Cape Town, Western Cape",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-34.030469348601684",
+      "lng": "18.314208984375004"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bcc3c4cd-9f9b-42e3-9e50-6c8160f4f4e0",
+    "name": "Caves",
+    "location": {
+      "country": "South Africa",
+      "region": "Durban, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-29.894680425849778",
+      "lng": "31.05216979980469"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c4cee258-7cca-418d-a676-14558c0b3b53",
+    "name": "Two Oceans Aquarium",
+    "location": {
+      "country": "South Africa",
+      "region": "Cape Town, Western Cape",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-33.88979749364443",
+      "lng": "18.435058593750004"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c561aebd-493c-46d6-b5a6-1c953a96f9a9",
+    "name": "Raggie Cave",
+    "location": {
+      "country": "South Africa",
+      "region": "Kwazulu-Natal, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-30.828844610528247",
+      "lng": "31.127185821533207"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c7823db1-a19a-4f5c-9271-dbebd3eb2e84",
+    "name": "Nebo (Wreck)",
+    "location": {
+      "country": "South Africa",
+      "region": "Kwazulu-Natal, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-30.394199462058317",
+      "lng": "31.099548339843754"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c7927144-9c18-4093-9a75-56044203cc25",
+    "name": "Pipeline",
+    "location": {
+      "country": "South Africa",
+      "region": "Durban, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-29.896019802553035",
+      "lng": "31.078090667724613"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d26f75e2-d1c6-4d7f-a9d7-9edd78000d28",
+    "name": "Tunnel",
+    "location": {
+      "country": "South Africa",
+      "region": "Kwazulu-Natal, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-31.022634644658943",
+      "lng": "31.152248382568363"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d7856972-757b-4033-95dd-130c8c8a954e",
+    "name": "Aliwal Shoal",
+    "location": {
+      "country": "South Africa",
+      "region": "Kwazulu-Natal, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-30.7701591157842",
+      "lng": "31.168212890625004"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d8c91ac5-7183-43d0-a830-c411df501536",
+    "name": "White Shark Dive",
+    "location": {
+      "country": "South Africa",
+      "region": "Western Cape, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-34.59195435318067",
+      "lng": "19.174575805664066"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "da342f3e-ccae-4b5b-a2a6-b89e0cefe900",
+    "name": "Deep Cut",
+    "location": {
+      "country": "South Africa",
+      "region": "Kwazulu-Natal, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-30.755998458321656",
+      "lng": "31.16254806518555"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dcebb4d6-3a78-4556-97ae-2c51898f83f2",
+    "name": "Gans Baai",
+    "location": {
+      "country": "South Africa",
+      "region": "Western Cape, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-34.84085858477277",
+      "lng": "19.38812255859375"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "df6a5cff-1698-484a-acea-0101077510d6",
+    "name": "Potholes",
+    "location": {
+      "country": "South Africa",
+      "region": "Kwazulu-Natal, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-30.776648720836967",
+      "lng": "31.089248657226566"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e97f57e0-57fb-4fa5-8d3b-fd9134a8f799",
+    "name": "Yardingdale",
+    "location": {
+      "country": "South Africa",
+      "region": "Durban, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-29.82329539706302",
+      "lng": "31.113452911376957"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eabb04e6-fe9d-4e1c-944e-3afdeb4710b7",
+    "name": "Pizza Rock",
+    "location": {
+      "country": "South Africa",
+      "region": "Kwazulu-Natal, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-30.87452958280949",
+      "lng": "31.063499450683597"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f79e2a12-e4b2-45ee-a38e-b88e063b6958",
+    "name": "T-Barge",
+    "location": {
+      "country": "South Africa",
+      "region": "Durban, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-29.78791895052742",
+      "lng": "31.067790985107425"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f874627c-07c1-4ebf-b110-5286d9939f98",
+    "name": "Manta Point",
+    "location": {
+      "country": "South Africa",
+      "region": "Kwazulu-Natal, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-30.76632414342836",
+      "lng": "31.142978668212894"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fa63ba41-6940-46ab-b354-7ddf6f956b21",
+    "name": "Quintone&#039;s Cave",
+    "location": {
+      "country": "South Africa",
+      "region": "Kwazulu-Natal, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-30.853016145357273",
+      "lng": "31.131992340087894"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fd7f525a-4db5-4150-b09a-48c26849d5f0",
+    "name": "Windmill Beach",
+    "location": {
+      "country": "South Africa",
+      "region": "Cape Town, Western Cape",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-34.201195228772434",
+      "lng": "18.45664501190186"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ff6dd1e6-c212-4cdf-a47a-06af6624faca",
+    "name": "Containers A",
+    "location": {
+      "country": "South Africa",
+      "region": "Durban, South Africa",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-29.79670837261258",
+      "lng": "31.07088088989258"
+    },
+    "additionalInfo": {}
+  }
+]

@@ -1,0 +1,2188 @@
+[
+  {
+    "id": "0424f756-8efa-451e-a31b-9d832a69f8c0",
+    "name": "Blue Maomao Arch",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.48808758918942",
+      "lng": "174.74096059799194"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "050c53f9-3b17-4e4b-9fad-136a5bf82627",
+    "name": "Jan&#039;s Tunnel (Lost World)",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.48808758918942",
+      "lng": "174.73575711250305"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "096b275e-58be-403b-96ee-9d7687cd13c5",
+    "name": "Urupa Point",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.473532416775775",
+      "lng": "174.73655104637146"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "10b9e5d9-f458-42dd-9383-54075ca3d1e3",
+    "name": "Imagination Point",
+    "location": {
+      "country": "New Zealand",
+      "region": "Archway Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.4919487231547",
+      "lng": "174.7389328479767"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "111e55c0-c1f8-4bd7-b904-a7f44b077772",
+    "name": "Northen Arch",
+    "location": {
+      "country": "New Zealand",
+      "region": "Tawhiti Rahi Island, New Zealand",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.448557081526275",
+      "lng": "174.7316908836365"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "126cbfe2-f74d-450c-91e2-8422c549e939",
+    "name": "Roger&#039;s Rocks",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.47299069682993",
+      "lng": "174.73627209663394"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "13fd55a9-e137-4126-a2c4-3ebe1d188a32",
+    "name": "Magic Wall",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "Oceania",
+        "Polynesia",
+        "New Zealand",
+        "Northland",
+        "Matapouri",
+        "Aorangi Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.488576792896914",
+      "lng": "174.73778486251834"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1402ad66-edb6-4da4-b348-b97d8d5245f8",
+    "name": "Danger Reef",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-45.4964809868346",
+      "lng": "170.82675933837893"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "192365a9-6908-44d8-a2aa-9a1aeefc4793",
+    "name": "Bartie&#039;s Bay",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.47380327538003",
+      "lng": "174.7373449802399"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "202390a1-5b65-419c-9450-56abd94f9ffb",
+    "name": "Mine Shaft Cave",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.47685255606077",
+      "lng": "174.74337458610535"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2067551c-6ddf-4efc-86ae-0d4c775c7ed4",
+    "name": "Rikoriko Cave",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.48180629844022",
+      "lng": "174.7343623638153"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "251cf585-2ad3-4dce-9dd9-04f0f8be60e6",
+    "name": "Nigaroimata Point",
+    "location": {
+      "country": "New Zealand",
+      "region": "Tawhiti Rahi Island, New Zealand",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.450899394839794",
+      "lng": "174.74377155303955"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "260fa483-5897-4ad1-a863-a6c85e671070",
+    "name": "Scorching Bay",
+    "location": {
+      "country": "New Zealand",
+      "region": "Wellington, North Island",
+      "ocean": [
+        "Pacific Ocean",
+        "South Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-41.296991493271854",
+      "lng": "174.8344860632665"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "26828b48-aedc-4372-9373-3a72a00006db",
+    "name": "Taravana Cave",
+    "location": {
+      "country": "New Zealand",
+      "region": "Tawhiti Rahi Island, New Zealand",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.466909203117304",
+      "lng": "174.73600387573242"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2bd20397-566b-4d86-ad46-ace6eb7d6b20",
+    "name": "Bruce Rocks",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-45.968393259152094",
+      "lng": "170.32250404357913"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3761c3ca-d9fa-4048-808b-f745e8f007c2",
+    "name": "Cream Gardens",
+    "location": {
+      "country": "New Zealand",
+      "region": "Tawhiti Rahi Island, New Zealand",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.44590004658463",
+      "lng": "174.73845005035403"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "38c64a6d-5a0a-4414-8847-cc25fbb2c14d",
+    "name": "Gull Rocks",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-45.90541930706497",
+      "lng": "170.64994812011722"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3fa03dc7-80d8-42a4-8a4e-4f8e3f7863b3",
+    "name": "Milford Sound",
+    "location": {
+      "country": "New Zealand",
+      "region": "Southland, New Zealand",
+      "ocean": [
+        "Pacific Ocean",
+        "Tasman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-44.66694368704209",
+      "lng": "167.91538238525393"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "40f94c38-4052-4725-8680-febf2429a09d",
+    "name": "Chorister&#039;s Rock",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-45.70378168033737",
+      "lng": "170.61220407485965"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "43e5e4c0-e248-4df4-95e1-b95069cf0a7d",
+    "name": "Hoiho Point",
+    "location": {
+      "country": "New Zealand",
+      "region": "Tawhiti Rahi Island, New Zealand",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.468726709193966",
+      "lng": "174.7390723228455"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "462bb4f6-a4b7-46af-b080-ff9307f78d59",
+    "name": "Wild Beast Point",
+    "location": {
+      "country": "New Zealand",
+      "region": "Tawhiti Rahi Island, New Zealand",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.44354010647414",
+      "lng": "174.7363901138306"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "483718de-1e08-4b07-84e1-7a5875ff42c5",
+    "name": "Shag Point",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-45.46711365012762",
+      "lng": "170.83439826965335"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "49d687b9-47be-4442-989c-5f4adfccf1aa",
+    "name": "Diadema Reef",
+    "location": {
+      "country": "New Zealand",
+      "region": "Kaka Rock, New Zealand",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.47262372318006",
+      "lng": "174.73171234130862"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4a9ee71f-f999-4f95-a157-32386cea755d",
+    "name": "The Great Wall",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.47982309077957",
+      "lng": "174.73720550537112"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4b0ac4f0-4504-41a4-84d7-8f9e19a13a07",
+    "name": "Puddingstone Rock",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-45.87238164300784",
+      "lng": "170.75011253356934"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4b4d184e-d915-4a9b-9681-873693c95f75",
+    "name": "Calypso Bay",
+    "location": {
+      "country": "New Zealand",
+      "region": "Archway Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.489939558950034",
+      "lng": "174.7399735450745"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4bbc8c9b-8ab9-4943-b708-8753f89d9a85",
+    "name": "Yukon Bay",
+    "location": {
+      "country": "New Zealand",
+      "region": "Tawhiti Rahi Island, New Zealand",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.46143022233405",
+      "lng": "174.73537087440494"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4e20ae54-0bba-4ac0-b476-39d2ab0619b3",
+    "name": "Tyrone",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-45.8144436673781",
+      "lng": "170.74788093566897"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4eb21b9f-39a5-4635-9a2f-9da02b574eb6",
+    "name": "Hope Point",
+    "location": {
+      "country": "New Zealand",
+      "region": "Tawhiti Rahi Island, New Zealand",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.46087968209955",
+      "lng": "174.74505901336673"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4f9c4197-45d3-42de-9f59-6848cf15971e",
+    "name": "Maomao Arch",
+    "location": {
+      "country": "New Zealand",
+      "region": "Tawhiti Rahi Island, New Zealand",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.46759077270956",
+      "lng": "174.73720550537112"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4ffd4ce5-6993-4467-98ae-2dc68c85e13a",
+    "name": "Herakeke Point",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-45.89705719915814",
+      "lng": "170.6854820251465"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "53aad52b-2537-4cae-aa86-6e9d0ae00f8b",
+    "name": "Cable Bay Reserve",
+    "location": {
+      "country": "New Zealand",
+      "region": "Nelson, New Zealand",
+      "ocean": [
+        "Pacific Ocean",
+        "Tasman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-41.15539335830358",
+      "lng": "173.40545654296878"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "596c032d-6606-444d-ba77-3051b22470f2",
+    "name": "Barren (Splendid) Arch",
+    "location": {
+      "country": "New Zealand",
+      "region": "Tawhiti Rahi Island, New Zealand",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.44964084690702",
+      "lng": "174.74050998687747"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "59adba98-b5d8-4a5d-ae50-aba2130e7efc",
+    "name": "Ramariki Point",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.483204124661384",
+      "lng": "174.74561691284183"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5a57075f-a49d-4525-8e52-31b3c4bfe46b",
+    "name": "Mayor Island",
+    "location": {
+      "country": "New Zealand",
+      "region": "Mayor Island, Bay Of Plenty",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-37.26655655745301",
+      "lng": "176.27007722854614"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5f6f5276-d8a6-4fc6-8fae-dfac79376c74",
+    "name": "Puddle Alley",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-45.47590138435108",
+      "lng": "170.83148002624515"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "632dfe7e-a6bc-4a1a-9faf-580fcbbe6366",
+    "name": "Lovers Leap",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-45.89884918544735",
+      "lng": "170.67612648010254"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "67a9897c-1a9c-48cf-b3f6-79392ae7d454",
+    "name": "Maroro Point",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.47582158011804",
+      "lng": "174.73634719848636"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "67fa2e48-2b47-455d-8a00-8dc8bd80b552",
+    "name": "Carpet Shark Reef",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-45.31570186926016",
+      "lng": "170.8634948730469"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "685eb7c9-24d7-43eb-b3d9-57f0fa08a1df",
+    "name": "Cornish Head",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-45.621106388483085",
+      "lng": "170.69421529769897"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6bc61178-bc48-49bd-b521-d811af2e4dbc",
+    "name": "D Urville Island Paiges",
+    "location": {
+      "country": "New Zealand",
+      "region": "D&#039;urvile Island, Tasman",
+      "ocean": [
+        "Pacific Ocean",
+        "Tasman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-40.91344771392733",
+      "lng": "173.762469291687"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6c76864a-b42a-49cf-ad2b-44087d5b5a9f",
+    "name": "Seal Rock",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.475498305277696",
+      "lng": "174.74405050277713"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "70ee2f47-1606-46c5-be39-8e6b28713b8f",
+    "name": "Wellers Rock",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-45.797451444026876",
+      "lng": "170.71513652801517"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "71bbd1ff-1129-4e7d-8910-9206a473e704",
+    "name": "Shaft Cave",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangaia Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.48774034010771",
+      "lng": "174.74695801734924"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "761132f2-a815-4208-bd05-c8cc19476f6d",
+    "name": "Ngaio Rock",
+    "location": {
+      "country": "New Zealand",
+      "region": "Ngoio Rock, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.48969496161664",
+      "lng": "174.73777413368225"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7ae3c64f-c63a-42ee-bcae-b12bdda19cfe",
+    "name": "Brady&#039;s Corner",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.48067928334888",
+      "lng": "174.7379565238953"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7da5d574-a88f-43aa-ba6a-d0420e4c8c30",
+    "name": "Bird Rock",
+    "location": {
+      "country": "New Zealand",
+      "region": "Tawhiti Rahi Island, New Zealand",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.46986262963313",
+      "lng": "174.74040269851685"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7f701d94-22df-46fd-890a-ea9a0775401f",
+    "name": "Kahawai Point",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.48229554038279",
+      "lng": "174.73210930824283"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "82c9e4de-106b-4940-96d4-5c00a8c54bf1",
+    "name": "Boar Fish / Good Shit Reef",
+    "location": {
+      "country": "New Zealand",
+      "region": "Tawhiti Rahi Island, New Zealand",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.462295349375516",
+      "lng": "174.7329354286194"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "83f086cc-59c1-48ab-b4ba-3112a0174ba7",
+    "name": "Taieri Reef",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-46.05828304644635",
+      "lng": "170.21950721740725"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8530a7a4-d242-4c49-b121-859e67d770fd",
+    "name": "Serpent Rock",
+    "location": {
+      "country": "New Zealand",
+      "region": "Kaka Rock, New Zealand",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.47327029467708",
+      "lng": "174.7298240661621"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "85cdc16c-de25-4bd4-890d-6d839b1e7f32",
+    "name": "El Torito Cave",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.479202782302934",
+      "lng": "174.73831057548526"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "86c5c9c7-8d58-4dd9-b998-b0091f9f4ef4",
+    "name": "The Chimney",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.48354484111793",
+      "lng": "174.73306417465213"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8d9ca00b-e19a-4b6d-8da8-8556f1702f9b",
+    "name": "White Island",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-45.93390074775923",
+      "lng": "170.49785614013675"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8f9e452f-f2f8-4496-98ad-803190668f7e",
+    "name": "Centre Reef",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-45.950970659526696",
+      "lng": "170.3603553771973"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8feda881-8928-4368-8221-641ff7ce1c6a",
+    "name": "Southern Arch",
+    "location": {
+      "country": "New Zealand",
+      "region": "Archway Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.491127592550086",
+      "lng": "174.7410249710083"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "93ecc4fb-5808-442e-8b71-593747c5b1d4",
+    "name": "Nugget Point",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-46.452523981411225",
+      "lng": "169.8081207275391"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "98d0a387-07b1-431b-b10d-0b9aeede2fcb",
+    "name": "Fraggle Rock",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.485658998125174",
+      "lng": "174.7417384386063"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "98f1cd6b-577f-4e0d-b8d4-f50d3f49f673",
+    "name": "Ann&#039;s Rock / Astrid&#039;s Wall",
+    "location": {
+      "country": "New Zealand",
+      "region": "Tawhiti Rahi Island, New Zealand",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.447455821108996",
+      "lng": "174.73452329635623"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9980e0e2-abb7-4bae-8855-917b171c0f3c",
+    "name": "Green Island",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-45.95222383753576",
+      "lng": "170.38447380065918"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "99b6205b-7aae-4ab6-8889-eec3fe4907a5",
+    "name": "Moana",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-45.77331537701665",
+      "lng": "170.7167887687683"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9a16b8f3-d67a-4b3d-902b-a274ab004621",
+    "name": "Waitaha Bay",
+    "location": {
+      "country": "New Zealand",
+      "region": "Wellington, North Island",
+      "ocean": [
+        "Pacific Ocean",
+        "South Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-41.34145555757578",
+      "lng": "174.7922632986744"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9bacff2d-22d5-4455-9fce-4f46d80e494f",
+    "name": "Fraser&#039;s Landing",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.483702094379986",
+      "lng": "174.74449038505557"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9c9145d0-062b-4bb4-9aa7-02ee5070cdd2",
+    "name": "Wreck Of The Yung Pen",
+    "location": {
+      "country": "New Zealand",
+      "region": "Owhiro Bay, Wellington",
+      "ocean": [
+        "Pacific Ocean",
+        "South Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-41.33390034695622",
+      "lng": "174.79574203491214"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a0ad5427-ee7c-45f3-856e-a55e093c8242",
+    "name": "Te Araara Point",
+    "location": {
+      "country": "New Zealand",
+      "region": "Tawhiti Rahi Island, New Zealand",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.44806763431233",
+      "lng": "174.73031759262088"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a3b6435c-4b21-4e61-a16b-8671c00ec9af",
+    "name": "Goat Island Marine Reserve, Leigh",
+    "location": {
+      "country": "New Zealand",
+      "region": "Leigh, Auckland",
+      "ocean": [
+        "Oceania",
+        "Polynesia",
+        "New Zealand",
+        "North Island",
+        "Auckland",
+        "Leigh"
+      ]
+    },
+    "coordinates": {
+      "lat": "-36.26794378582782",
+      "lng": "174.7968578338623"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a4b3fe7f-a005-4c38-b23e-9babd2ec5e96",
+    "name": "Gentle Forest",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.48124716114519",
+      "lng": "174.73681926727295"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a4cb7982-f43a-4e35-bbcc-6c18c1ed623b",
+    "name": "Red Barn Reef",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-45.6095944559168",
+      "lng": "170.71402072906497"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a5a4d2af-2eb0-49ba-bc3f-55a28aaea656",
+    "name": "Trev&#039;s Rock",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.478136888952875",
+      "lng": "174.7368943691254"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a5b6e422-8bb7-41eb-aaa5-ee44bfd7eac8",
+    "name": "Moki Patch",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-45.358779760210126",
+      "lng": "170.89370727539065"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a5f6d054-f7c8-449e-af7a-d77cff25c0ea",
+    "name": "The Labyrinth",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.476249698851944",
+      "lng": "174.7366797924042"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a919b61d-4ef6-4c6e-b6d2-b44fd9e89c15",
+    "name": "Doubtful Sound",
+    "location": {
+      "country": "New Zealand",
+      "region": "Secretary Island, Southland",
+      "ocean": [
+        "Pacific Ocean",
+        "Tasman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-45.28436837987179",
+      "lng": "166.92498207092288"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ad5e81ff-2038-4f1e-a7de-36cfa02ab8f7",
+    "name": "Red Baron",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.48306434313319",
+      "lng": "174.73279595375064"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ad5f4e61-de25-4337-b527-d049f27216a9",
+    "name": "Katiki Reef",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-45.43736964827512",
+      "lng": "170.8554267883301"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "adab3d46-d84c-49bb-9354-27cefd4a789a",
+    "name": "Bernie&#039;s Cave",
+    "location": {
+      "country": "New Zealand",
+      "region": "Tawhiti Rahi Island, New Zealand",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.45741031806633",
+      "lng": "174.73271012306216"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "af93ae10-76b5-4cb2-b80d-a4299eaf221e",
+    "name": "The Tunnel / Eastern Arch",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangaia Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.48585119145908",
+      "lng": "174.74778413772586"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "afae0c24-fc5c-4621-be5c-953d369c80ef",
+    "name": "Crinoid Cliff",
+    "location": {
+      "country": "New Zealand",
+      "region": "Archway Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.48912714350807",
+      "lng": "174.7389328479767"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b33896b6-39d3-4cc5-b0e8-2bd7ec394f5c",
+    "name": "The Outpost",
+    "location": {
+      "country": "New Zealand",
+      "region": "Auckland Region, New Zealand",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-36.29105376535978",
+      "lng": "174.8177146911621"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b476684d-5e33-45e3-a7de-d327fdc8aa97",
+    "name": "Crystal / Scary / Isabella / Stirling Cave",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.48378072089562",
+      "lng": "174.7342550754547"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b50fabfa-28a6-414e-8193-887047bbaf11",
+    "name": "Arid Point",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.47652054830213",
+      "lng": "174.7445118427277"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b733cb70-0e70-4e22-b7a2-0eb0861adba4",
+    "name": "Fred&#039;s Pinnacle",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.47954351572063",
+      "lng": "174.74763393402102"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b8e92a25-69df-4b05-aa34-e84f3bea6b25",
+    "name": "Paloona",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-45.77425827133919",
+      "lng": "170.7155227661133"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b9d86020-3e67-466d-b725-dd71c2341788",
+    "name": "Landing Bay Pinnacle",
+    "location": {
+      "country": "New Zealand",
+      "region": "Tawhiti Rahi Island, New Zealand",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.46507417935149",
+      "lng": "174.73564982414246"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ba1b200c-5e59-4dad-bdb4-e9515ab9d997",
+    "name": "Akatore Pinnacles",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-46.12144022716251",
+      "lng": "170.2580451965332"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bbfd507d-cacf-4a06-9542-70294b650bf6",
+    "name": "Sand Garden",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.47477311644788",
+      "lng": "174.73674416542056"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bc17fb64-f447-43fa-b54c-cdae656472bb",
+    "name": "Roundhouse Reef",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-46.01591952676437",
+      "lng": "170.25315284729004"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bce44f22-90a6-4918-afd1-18396a6ed962",
+    "name": "Houghton Bay",
+    "location": {
+      "country": "New Zealand",
+      "region": "Wellington, North Island",
+      "ocean": [
+        "Pacific Ocean",
+        "South Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-41.34408097487775",
+      "lng": "174.7835890425591"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bd87883a-7e2f-4cb4-8bb9-c3d091787b0b",
+    "name": "Nursery Cove",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.47584779153461",
+      "lng": "174.7378492355347"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bd9edd34-082a-4627-965c-c09ed232f105",
+    "name": "Tory Channel",
+    "location": {
+      "country": "New Zealand",
+      "region": "Arapawa Island, Tasman",
+      "ocean": [
+        "Pacific Ocean",
+        "Tasman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-41.208993425153736",
+      "lng": "174.31687116622928"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "beed7fca-f3e9-4cc8-8e62-9e5139513aa7",
+    "name": "Princess Bay",
+    "location": {
+      "country": "New Zealand",
+      "region": "Wellington, North Island",
+      "ocean": [
+        "Pacific Ocean",
+        "South Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-41.35107035106174",
+      "lng": "174.78904031049964"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bfbf38eb-2257-4eaa-b2a4-a8e8ebfe782a",
+    "name": "Bennett&#039;s Bommie",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.47444110010194",
+      "lng": "174.74196910858157"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c1b29dc0-e9c2-4784-a9f7-32f4acdf614b",
+    "name": "At Pack Point",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangaia Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.48805264595351",
+      "lng": "174.74684536457065"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c351a480-86a2-428d-85c0-ae03f5fb8170",
+    "name": "Karitane Point",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-45.641107814373434",
+      "lng": "170.67569732666018"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c574182b-6307-40ed-bd21-aaf7efb6d9e2",
+    "name": "Boulder Bank",
+    "location": {
+      "country": "New Zealand",
+      "region": "Nelson, New Zealand",
+      "ocean": [
+        "Pacific Ocean",
+        "Tasman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-41.234187566959086",
+      "lng": "173.29507827758792"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c65ea650-1bdf-4e2c-b8c1-08cb970d026a",
+    "name": "Robin Hood Bay",
+    "location": {
+      "country": "New Zealand",
+      "region": "Tasman, New Zealand",
+      "ocean": [
+        "Pacific Ocean",
+        "Tasman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-41.35774173825273",
+      "lng": "174.07768249511722"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c68e3aa2-7177-4025-9be7-273b13c07975",
+    "name": "Hydra Rock",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-45.832746388755936",
+      "lng": "170.76959609985352"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c6fec8f9-d8a9-484c-8d36-30cc67779282",
+    "name": "Long Cave / Matt&#039;s Crack",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.47627591012894",
+      "lng": "174.74214076995852"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c79bbed2-4b4a-4c35-a7b7-301f70be2d7b",
+    "name": "Noel&#039;s Hole",
+    "location": {
+      "country": "New Zealand",
+      "region": "Tawhiti Rahi Island, New Zealand",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.46891894301158",
+      "lng": "174.73490953445437"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cd476ad6-f76a-461c-a726-fc3c162ae761",
+    "name": "North Taieri Reef",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-46.04082915893519",
+      "lng": "170.23246765136722"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cd8aa30b-4954-48f5-a1e9-75ff08be9dfb",
+    "name": "Skull Bay",
+    "location": {
+      "country": "New Zealand",
+      "region": "Tawhiti Rahi Island, New Zealand",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.46745096403334",
+      "lng": "174.73665833473208"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cfff80ca-6a5b-4727-bc4e-e574ad1c904e",
+    "name": "Tow Rock",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-45.91234695668134",
+      "lng": "170.64677238464355"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d1abac63-3407-4c10-9a60-044ad805dfec",
+    "name": "Oculina Point",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.48578130302721",
+      "lng": "174.73203420639038"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d2c4e7ee-0132-473d-aad7-4b52fda06711",
+    "name": "The Canyon",
+    "location": {
+      "country": "New Zealand",
+      "region": "Motu Kapiti Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.469390787706615",
+      "lng": "174.73222732543948"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d619ecd8-bb06-4d8b-847a-6c382022a6c7",
+    "name": "Aramoa Mole",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-45.77144450775351",
+      "lng": "170.71964263916018"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d65e9c6d-86f7-43fc-ae7f-30b82ba13380",
+    "name": "Cape Saunders",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-45.88176323049636",
+      "lng": "170.73492050170898"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d7186431-9386-42aa-b34a-e67080152dec",
+    "name": "Alderman Islands",
+    "location": {
+      "country": "New Zealand",
+      "region": "Middle Land, New Zealand",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-36.96028285438961",
+      "lng": "176.07815980911255"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d7d94e27-cc2f-4384-9d59-ae078213e40a",
+    "name": "Moturoa",
+    "location": {
+      "country": "New Zealand",
+      "region": "Moturoa Island, New Zealand",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.20685027905239",
+      "lng": "174.08060073852542"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d8c8f972-353d-4e6b-862f-8283df51da8f",
+    "name": "Air Bubble Cave",
+    "location": {
+      "country": "New Zealand",
+      "region": "Tawhiti Rahi Island, New Zealand",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.46135157395982",
+      "lng": "174.74420070648196"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d956184d-cf03-4799-91a6-4e6acc0b4679",
+    "name": "Macro City",
+    "location": {
+      "country": "New Zealand",
+      "region": "Tawhiti Rahi Island, New Zealand",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.45346886908591",
+      "lng": "174.74252700805667"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "da59650b-3fcf-4c01-b826-920ac8bf5099",
+    "name": "Kamakaze Dropoff",
+    "location": {
+      "country": "New Zealand",
+      "region": "New Zealand, Polynesia",
+      "ocean": [
+        "Northland",
+        "Matapouri",
+        "Aorangi Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.4745459475172",
+      "lng": "174.7259831428528"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "da69c118-d777-44e9-af1c-ebaec8436b19",
+    "name": "Butterfish Bay",
+    "location": {
+      "country": "New Zealand",
+      "region": "Tawhiti Rahi Island, New Zealand",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.46799272129985",
+      "lng": "174.7358322143555"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "db124e62-ed1a-435b-9d76-638aa5288ad0",
+    "name": "Maratea Point",
+    "location": {
+      "country": "New Zealand",
+      "region": "Tawhiti Rahi Island, New Zealand",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.45775988293337",
+      "lng": "174.73148703575134"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dd979db0-3155-4215-9dc1-c2b207bede7e",
+    "name": "Deep Forest",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.47288584738658",
+      "lng": "174.73723769187927"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ddd52517-1755-4ea0-b3fc-a59b87ab4982",
+    "name": "Sombre Forest",
+    "location": {
+      "country": "New Zealand",
+      "region": "Tawhiti Rahi Island, New Zealand",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.46308182042992",
+      "lng": "174.73500609397888"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "df5687c0-bc2b-4399-8fb2-0ec6d091df95",
+    "name": "Fish Reef",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-45.398570512042006",
+      "lng": "170.89593887329102"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e0353273-8c93-4379-8842-2bfefb8cba00",
+    "name": "Mahanga Bay",
+    "location": {
+      "country": "New Zealand",
+      "region": "Wellington, North Island",
+      "ocean": [
+        "Pacific Ocean",
+        "South Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-41.29070545826682",
+      "lng": "174.83551757168624"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e141e901-7dc0-475c-8248-2e1c995c98b8",
+    "name": "Gorgonian Plain",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "New Zealand"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.473916860974775",
+      "lng": "174.72795724868777"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e1a94d56-ceb9-435a-a45f-07c331f6f0da",
+    "name": "Rock Garden",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.4738819115781",
+      "lng": "174.73629355430606"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e3123b27-88d5-4d3b-86dc-0fa6f0660901",
+    "name": "Nudibranch City",
+    "location": {
+      "country": "New Zealand",
+      "region": "Motu Kapiti Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.47047427245433",
+      "lng": "174.732141494751"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e36ba50a-3075-45a8-90e6-5db0d2339b1c",
+    "name": "Mary&#039;s Wall",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.477656358640445",
+      "lng": "174.73640084266663"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e3b5c517-c9e5-4856-acd9-f343af322dbf",
+    "name": "Mokoa",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-45.775156251111",
+      "lng": "170.71423530578616"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e4de0ff9-dd81-4c9d-984a-0e4b00c533db",
+    "name": "Labrid Channel",
+    "location": {
+      "country": "New Zealand",
+      "region": "Archway Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.488524378356416",
+      "lng": "174.73860025405887"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e63307f8-7baf-4d84-8527-059b0e072999",
+    "name": "Green / Brinn&#039;s Point",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-45.67221362002448",
+      "lng": "170.6529200077057"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e6a3d355-ac07-4cc7-8e92-2a1453f6cf49",
+    "name": "Tower Point",
+    "location": {
+      "country": "New Zealand",
+      "region": "Tawhiti Rahi Island, New Zealand",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.45013028455306",
+      "lng": "174.7312617301941"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e6e93728-dac6-405f-b1ab-25032b19e593",
+    "name": "Otakou Wall",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-45.796763269453585",
+      "lng": "170.70668220520022"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e7c02a1d-def7-4216-a702-84a8a5a471b6",
+    "name": "Jans Tunnel",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.48611327253734",
+      "lng": "174.73368644714358"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e82a5fc2-7843-4dd1-9e07-9f82fc8e7e24",
+    "name": "Dark Forest",
+    "location": {
+      "country": "New Zealand",
+      "region": "Tawhiti Rahi Island, New Zealand",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.45691218550649",
+      "lng": "174.74181890487674"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ed469373-5ffd-4a99-8b67-becc7d10e0dd",
+    "name": "Giant Staircase",
+    "location": {
+      "country": "New Zealand",
+      "region": "Tawhiti Rahi Island, New Zealand",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.46466347782248",
+      "lng": "174.73574638366702"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eed68b87-5e50-4ed0-9e6d-bac135848093",
+    "name": "Haku Point",
+    "location": {
+      "country": "New Zealand",
+      "region": "Tawhiti Rahi Island, New Zealand",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.44843472000185",
+      "lng": "174.74117517471316"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f19aeecc-4432-41b9-8b12-6402a426a45d",
+    "name": "Harrington Point",
+    "location": {
+      "country": "New Zealand",
+      "region": "Otago, South Island",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-45.783506770448184",
+      "lng": "170.72196006774905"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f1b15be7-f305-463b-805a-3cb448836377",
+    "name": "Hideaway Bay / Dutchman&#039;s Cave",
+    "location": {
+      "country": "New Zealand",
+      "region": "Poor Knights Islands, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.472746047916104",
+      "lng": "174.73351478576663"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f3a9ca30-e5fb-438c-b615-c5d65354bf56",
+    "name": "Middle Arch",
+    "location": {
+      "country": "New Zealand",
+      "region": "Tawhiti Rahi Island, New Zealand",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.45720057841706",
+      "lng": "174.73149776458743"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f4eb9663-1e21-4566-941d-87be12c9f44e",
+    "name": "Pepin Island",
+    "location": {
+      "country": "New Zealand",
+      "region": "Pepin Island, Nelson",
+      "ocean": [
+        "Pacific Ocean",
+        "Tasman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-41.13419316582357",
+      "lng": "173.42262268066406"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fa849f41-0a15-4144-9bd9-18f6bc21af48",
+    "name": "Kev&#039;s Cave",
+    "location": {
+      "country": "New Zealand",
+      "region": "Aorangi Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.48750228798353",
+      "lng": "174.73600387573242"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fbfc4c75-3cd4-4287-ac29-f57fb88b9ffa",
+    "name": "Motu Kapiti Island",
+    "location": {
+      "country": "New Zealand",
+      "region": "Motu Kapiti Island, Matapouri",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.46970534929858",
+      "lng": "174.7313475608826"
+    },
+    "additionalInfo": {}
+  }
+]

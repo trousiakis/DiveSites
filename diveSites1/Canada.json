@@ -1,0 +1,3255 @@
+[
+  {
+    "id": "00801914-2a1e-40af-b555-d4ac85c73d18",
+    "name": "Newaygo",
+    "location": {
+      "country": "Canada",
+      "region": "Lake Huron, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Lake Huron"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.28189235659108",
+      "lng": "-81.75596237182619"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "009cf1d0-61b5-42b8-a272-9bb2da39dba5",
+    "name": "Florence",
+    "location": {
+      "country": "Canada",
+      "region": "Prince Edward, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Prince Edward"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.92250264290764",
+      "lng": "-76.88000679016113"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "015b69a7-6c50-4c22-8b05-5c514ecc628d",
+    "name": "Alberta",
+    "location": {
+      "country": "Canada",
+      "region": "Main Duck Island, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Main Duck Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.925655482325375",
+      "lng": "-76.65873527526857"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "01d77053-ba56-47a2-aa76-614bde698340",
+    "name": "Cascaden",
+    "location": {
+      "country": "Canada",
+      "region": "Lake Huron, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Lake Huron"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.229447770946926",
+      "lng": "-81.72780990600587"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "02bb2882-0ab6-45aa-9937-fc35c4b2a940",
+    "name": "King Horn",
+    "location": {
+      "country": "Canada",
+      "region": "Ontario, Canada",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.374790792593565",
+      "lng": "-75.93140602111818"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "032f09f5-868a-4b1b-a0bb-379ddb1915fa",
+    "name": "R. H. Rae",
+    "location": {
+      "country": "Canada",
+      "region": "Main Duck Island, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Main Duck Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.927077296411476",
+      "lng": "-76.61058425903322"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "042b5beb-55af-43f2-8c48-edec8ca99c7c",
+    "name": "Henderson Point",
+    "location": {
+      "country": "Canada",
+      "region": "Vancouver Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Haro Strait",
+        "Saanich Inlet"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.59727342304648",
+      "lng": "-123.48199367523195"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0493df03-a5ab-451d-a3e5-676e457189ab",
+    "name": "William Iv",
+    "location": {
+      "country": "Canada",
+      "region": "Wolfe Island, Frontenac Islands",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Frontenac Islands",
+        "Wolfe Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.19648217947713",
+      "lng": "-76.4857006072998"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "07fe0457-82c8-4b1d-8645-094f2724820e",
+    "name": "Patey Rock",
+    "location": {
+      "country": "Canada",
+      "region": "Vancouver Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Haro Strait",
+        "Saanich Inlet"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.704783184209155",
+      "lng": "-123.52452278137208"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "08f6e8c0-7bf5-4047-b123-3d13378ee108",
+    "name": "Wreck Of The Black Dragon",
+    "location": {
+      "country": "Canada",
+      "region": "Victoria, Vancouver Island",
+      "ocean": [
+        "Pacific Ocean",
+        "Haro Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.492264777304264",
+      "lng": "-123.24926376342773"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "097516f4-58aa-4504-97a2-b947bc2b14e0",
+    "name": "Saxe Point",
+    "location": {
+      "country": "Canada",
+      "region": "Victoria, Vancouver Island",
+      "ocean": [
+        "Pacific Ocean",
+        "Strait Of Juan De Fuca"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.4146186174932",
+      "lng": "-123.42761993408205"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0b2ac4f1-f4f5-4159-9653-6e1e93d2edb3",
+    "name": "Park Wharf",
+    "location": {
+      "country": "Canada",
+      "region": "Ontario, Canada",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.02810303682291",
+      "lng": "-74.83539104461671"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0bff62d5-0701-49f5-8262-3d0706141c48",
+    "name": "North Otter Wall",
+    "location": {
+      "country": "Canada",
+      "region": "Lake Huron, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Lake Huron"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.29372797919738",
+      "lng": "-81.69485092163087"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0c6f9e40-5f31-4e76-88b8-20d66a1353f9",
+    "name": "White Lady",
+    "location": {
+      "country": "Canada",
+      "region": "Vancouver Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Haro Strait",
+        "Saanich Inlet"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.546330528197664",
+      "lng": "-123.54181766510011"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0cbfcad8-f627-4e93-8b05-b29d23cd2ebd",
+    "name": "Tozier Rock",
+    "location": {
+      "country": "Canada",
+      "region": "Vancouver Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Haro Strait",
+        "Saanich Inlet"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.61747733567233",
+      "lng": "-123.51851463317873"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0d86cad9-c7e3-4019-9af7-78f4d1ffc9a9",
+    "name": "Titanic",
+    "location": {
+      "country": "Canada",
+      "region": "Amherst Island, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Amherst Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.13934853953939",
+      "lng": "-76.64852142333986"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0da5a631-069d-4b62-ba6d-2d8142a460dd",
+    "name": "Charles P. Minch",
+    "location": {
+      "country": "Canada",
+      "region": "Lake Huron, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Lake Huron"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.29348646056437",
+      "lng": "-81.70446395874025"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0eaee735-bfb4-4c45-acaf-63b416dde86d",
+    "name": "Little Cove",
+    "location": {
+      "country": "Canada",
+      "region": "Lake Huron, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Lake Huron"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.25192995269287",
+      "lng": "-81.60455703735353"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "105fa653-7a8e-489b-acdd-1a5f88109cad",
+    "name": "Hercules",
+    "location": {
+      "country": "Canada",
+      "region": "Wolfe Island, Frontenac Islands",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Frontenac Islands",
+        "Wolfe Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.19082053987169",
+      "lng": "-76.49668693542482"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "12c2f837-34c7-4125-afb0-c7d624b8ff46",
+    "name": "John Walters",
+    "location": {
+      "country": "Canada",
+      "region": "Lake Huron, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Lake Huron"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.25700534317162",
+      "lng": "-81.69699668884279"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "136af990-aac5-4226-81c3-5a42f27cae6d",
+    "name": "Fabiola",
+    "location": {
+      "country": "Canada",
+      "region": "Main Duck Island, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Main Duck Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.92967356487651",
+      "lng": "-76.65435791015626"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "146bc803-720d-4f97-aff9-52f7aacf826f",
+    "name": "Clark Rock",
+    "location": {
+      "country": "Canada",
+      "region": "Vancouver Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Salish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.22522116430232",
+      "lng": "-123.93934249877931"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "14e4d83a-7923-48f3-88fa-d8e429a6a0b9",
+    "name": "Sprague Creek",
+    "location": {
+      "country": "Canada",
+      "region": "Lake Mcdonald, Montana",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Montana",
+        "Lake Mcdonald"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.61225687435646",
+      "lng": "-113.88547897338869"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "155760ed-9fde-4d6f-8c93-db6699e6ad1e",
+    "name": "Shute Reef",
+    "location": {
+      "country": "Canada",
+      "region": "Vancouver Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Haro Strait",
+        "Saanich Inlet"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.71067371293027",
+      "lng": "-123.42839241027833"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "157d952c-1a3b-4829-aa7a-9d7a0b691998",
+    "name": "Oliver Mowat",
+    "location": {
+      "country": "Canada",
+      "region": "Main Duck Island, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Main Duck Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.93820336335502",
+      "lng": "-76.62852287292482"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "158824dc-13d2-4df1-8982-2556e0d48fd6",
+    "name": "Separation Point",
+    "location": {
+      "country": "Canada",
+      "region": "Vancouver Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Haro Strait",
+        "Saanich Inlet"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.739436770701765",
+      "lng": "-123.56649398803712"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "173611c3-4057-4c79-b0f9-159b1fecef0a",
+    "name": "Windmill Point Quarry",
+    "location": {
+      "country": "Canada",
+      "region": "Ontario, Canada",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.88286689975013",
+      "lng": "-79.00193452835084"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "184c39d6-9cc0-4732-a5bb-1cb7bd39cb0c",
+    "name": "Lock 24",
+    "location": {
+      "country": "Canada",
+      "region": "Ontario, Canada",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.77723524041627",
+      "lng": "-75.40043592453004"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "18aa5782-c122-4ee9-bcd0-c06e51b4e5a1",
+    "name": "Mystery Pinnacle",
+    "location": {
+      "country": "Canada",
+      "region": "Vancouver Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Haro Strait",
+        "Saanich Inlet"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.57677749299975",
+      "lng": "-123.47714424133301"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "193eb847-7f04-47dd-868e-ca8acfed148b",
+    "name": "Custom House Beach",
+    "location": {
+      "country": "Canada",
+      "region": "Deer Island, New Brunswick",
+      "ocean": [
+        "Atlantic Ocean",
+        "Bay Of Fundy"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.934911609924086",
+      "lng": "-66.99471473693849"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1a209577-c850-4a99-ad1c-8e8454425b53",
+    "name": "China",
+    "location": {
+      "country": "Canada",
+      "region": "Lake Huron, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Lake Huron"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.24745839955096",
+      "lng": "-81.69751167297365"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1eae62f9-8900-4453-bd81-effeb6ca5d5a",
+    "name": "Setchel Point",
+    "location": {
+      "country": "Canada",
+      "region": "Vancouver Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Haro Strait",
+        "Saanich Inlet"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.68110083457149",
+      "lng": "-123.47937583923341"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1f211bd6-21d5-45fc-ad7d-959142f82fe4",
+    "name": "Ogden Point",
+    "location": {
+      "country": "Canada",
+      "region": "Victoria, Vancouver Island",
+      "ocean": [
+        "Pacific Ocean",
+        "Strait Of Juan De Fuca"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.40778189398015",
+      "lng": "-123.39397430419923"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "1ff72f5b-a56f-4a10-a8f9-0d6c88737b81",
+    "name": "Race Rocks",
+    "location": {
+      "country": "Canada",
+      "region": "Vancouver Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Strait Of Juan De Fuca"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.28958948415696",
+      "lng": "-123.54778289794923"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2099a3fb-0d7c-467e-a211-b5ec23dcd150",
+    "name": "Robert Gaskin",
+    "location": {
+      "country": "Canada",
+      "region": "Ontario, Canada",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.58985594097533",
+      "lng": "-75.6742572784424"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2300bf32-1bdc-4c26-b3d3-c7807bd81fd1",
+    "name": "Lock 20",
+    "location": {
+      "country": "Canada",
+      "region": "Ontario, Canada",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.01687952478386",
+      "lng": "-74.80509281158449"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "23273981-ceee-4edb-98d8-c9d93bc36b4d",
+    "name": "Annapolis",
+    "location": {
+      "country": "Canada",
+      "region": "Gambier Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Salish Sea",
+        "Strait Of Georgia",
+        "Howe Sound"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.44893237667009",
+      "lng": "-123.3284854888916"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2343684b-abee-4e37-8fac-e5bf7b25fd2f",
+    "name": "Head Harbour",
+    "location": {
+      "country": "Canada",
+      "region": "Campobello Island, New Brunswick",
+      "ocean": [
+        "Atlantic Ocean",
+        "Bay Of Fundy"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.94754837590691",
+      "lng": "-66.90939903259279"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2432dc0f-63d8-4ce7-adbe-ca0f0ef1e7cf",
+    "name": "Hiram A. Galvin",
+    "location": {
+      "country": "Canada",
+      "region": "Wolfe Island, Frontenac Islands",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Frontenac Islands",
+        "Wolfe Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.191805211918414",
+      "lng": "-76.48072242736818"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "276bb00d-6781-4f6f-87ac-a87a0dcca3ec",
+    "name": "Halkett Wall",
+    "location": {
+      "country": "Canada",
+      "region": "Gambier Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Salish Sea",
+        "Strait Of Georgia",
+        "Howe Sound"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.438217467207686",
+      "lng": "-123.3164691925049"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "27b4c6b4-61d2-4588-b87c-74232584ff4f",
+    "name": "Marion L. Breck",
+    "location": {
+      "country": "Canada",
+      "region": "Lake Huron, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Lake Huron"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.30411230740031",
+      "lng": "-81.57709121704103"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "29e75816-eeea-4d7a-a5aa-9a11ef9ff196",
+    "name": "Willis Point",
+    "location": {
+      "country": "Canada",
+      "region": "Vancouver Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Haro Strait",
+        "Saanich Inlet"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.57524422229134",
+      "lng": "-123.47830295562746"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2b45aa15-2d19-4789-83ff-c46917dfa876",
+    "name": "Mystery Barge",
+    "location": {
+      "country": "Canada",
+      "region": "Vancouver Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Haro Strait",
+        "Saanich Inlet"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.6814408514071",
+      "lng": "-123.47594261169435"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2c19a761-1098-494c-be9c-f264a1224399",
+    "name": "Comet",
+    "location": {
+      "country": "Canada",
+      "region": "Lake Ontario, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Lake Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.11002144989749",
+      "lng": "-76.58895492553712"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2d9aecdf-b00c-4ea2-9f15-27b4029e33f6",
+    "name": "Tyee Cove",
+    "location": {
+      "country": "Canada",
+      "region": "Vancouver Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Salish Sea",
+        "Strait Of Georgia"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.29255326257339",
+      "lng": "-124.13992881774904"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "30685b1a-61e0-46ec-8955-1e85985bec58",
+    "name": "Psyche",
+    "location": {
+      "country": "Canada",
+      "region": "Kingston, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Kingston"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.23203960230863",
+      "lng": "-76.44948005676271"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "334be007-943f-4f4c-9a76-77392683cd88",
+    "name": "Dolphin Beach",
+    "location": {
+      "country": "Canada",
+      "region": "Vancouver Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Salish Sea",
+        "Strait Of Georgia"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.29512820686107",
+      "lng": "-124.14576530456543"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3403b77f-8e2d-4d8e-8142-88c079db6a73",
+    "name": "Sam Cooke",
+    "location": {
+      "country": "Canada",
+      "region": "Ontario, Canada",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.55188532189964",
+      "lng": "-75.7220220565796"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "34d432f0-22e1-45a1-99ad-bf0bdd66e39f",
+    "name": "D.d. Galvin",
+    "location": {
+      "country": "Canada",
+      "region": "Wolfe Island, Frontenac Islands",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Frontenac Islands",
+        "Wolfe Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.19635910613896",
+      "lng": "-76.45068168640138"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3607c847-8130-4685-8741-dfeeb0290036",
+    "name": "Cornwall",
+    "location": {
+      "country": "Canada",
+      "region": "Lake Ontario, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Lake Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.111500475222",
+      "lng": "-76.61916732788087"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "38433528-1d39-48b4-aff9-266ed38e7d5b",
+    "name": "Forest City",
+    "location": {
+      "country": "Canada",
+      "region": "Lake Huron, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Lake Huron"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.31618471624331",
+      "lng": "-81.55443191528322"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3abd4876-f031-4428-9718-9a76cb333c40",
+    "name": "James C. King",
+    "location": {
+      "country": "Canada",
+      "region": "Lake Huron, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Lake Huron"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.265100860453366",
+      "lng": "-81.71261787414552"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3ae41180-bf1d-4f85-839d-21d70f2a826d",
+    "name": "Sheppards Point",
+    "location": {
+      "country": "Canada",
+      "region": "Vancouver Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Haro Strait",
+        "Saanich Inlet"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.56496442899649",
+      "lng": "-123.5182571411133"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3fa17cc0-a36c-4e52-a9ef-3fa70a285d2a",
+    "name": "Portsmouth Olympic Harbour",
+    "location": {
+      "country": "Canada",
+      "region": "Kingston, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Kingston"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.21530937186704",
+      "lng": "-76.51659965515138"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "42a8cff1-a60a-428c-9998-74fed55749e9",
+    "name": "Manola",
+    "location": {
+      "country": "Canada",
+      "region": "Main Duck Island, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Main Duck Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.93152797296857",
+      "lng": "-76.64706230163576"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "44290d9e-0647-4e4f-95e2-91d320d12394",
+    "name": "Banshee",
+    "location": {
+      "country": "Canada",
+      "region": "Timber Island, Prince Edward",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Prince Edward",
+        "Timber Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.959954990033935",
+      "lng": "-76.84850692749025"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4445ac69-045f-4617-ba3d-7a5590b63070",
+    "name": "Molly&#039;s Gut Wrecks",
+    "location": {
+      "country": "Canada",
+      "region": "Ontario, Canada",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.549744532959856",
+      "lng": "-75.73330879211426"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "461e44e6-164d-4e67-b5b8-ae3115cbd21e",
+    "name": "Hms St. Lawrence",
+    "location": {
+      "country": "Canada",
+      "region": "Kingston, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Kingston"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.21666272899817",
+      "lng": "-76.50930404663087"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "46b9f3ae-22fe-4aa0-9fbf-d32d19833f69",
+    "name": "Furry Creek",
+    "location": {
+      "country": "Canada",
+      "region": "British Columbia, Canada",
+      "ocean": [
+        "Pacific Ocean",
+        "Salish Sea",
+        "Strait Of Georgia",
+        "Howe Sound"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.5773286999598",
+      "lng": "-123.24128150939943"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4728560f-15a5-4930-8530-a15fd66f8535",
+    "name": "Wall Beach",
+    "location": {
+      "country": "Canada",
+      "region": "Vancouver Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Salish Sea",
+        "Strait Of Georgia"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.30587434804734",
+      "lng": "-124.22052383422853"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "475ec7ed-1b6f-4395-9746-d3ba8d82b011",
+    "name": "China",
+    "location": {
+      "country": "Canada",
+      "region": "Prince Edward, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Prince Edward"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.92818999677307",
+      "lng": "-76.84292793273927"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "48ce0cb4-2f12-4f94-a90b-7d9192f740c9",
+    "name": "North Cod Reef",
+    "location": {
+      "country": "Canada",
+      "region": "Gooch Island, Southern Gulf Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "Boundary Pass"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.657577433474934",
+      "lng": "-123.3008909225464"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "48e2e65f-9fb7-4bc2-bad2-4cc2b519337c",
+    "name": "Needles Eye Drift",
+    "location": {
+      "country": "Canada",
+      "region": "Ontario, Canada",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.55641130212881",
+      "lng": "-75.72227954864503"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "490eef91-5dde-404d-8fa6-61709f979b59",
+    "name": "Smugglers Cove",
+    "location": {
+      "country": "Canada",
+      "region": "Bowen Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Salish Sea",
+        "Strait Of Georgia",
+        "Howe Sound"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.418344043300856",
+      "lng": "-123.34771156311037"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4f357ba7-919c-49c8-959e-6c669640ed2c",
+    "name": "Davidson Head",
+    "location": {
+      "country": "Canada",
+      "region": "Deer Island, New Brunswick",
+      "ocean": [
+        "Atlantic Ocean",
+        "Bay Of Fundy"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.00316565406114",
+      "lng": "-66.99720382690431"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "504eb587-7b8c-4644-8a05-4a5679af328e",
+    "name": "Possession Point",
+    "location": {
+      "country": "Canada",
+      "region": "Vancouver Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Strait Of Juan De Fuca"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.337538364848584",
+      "lng": "-123.7215042114258"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "506e186c-8433-4d70-896b-742871bba39a",
+    "name": "Narrows Drift",
+    "location": {
+      "country": "Canada",
+      "region": "Ontario, Canada",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.56625715119101",
+      "lng": "-75.70459842681886"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "51de6d1e-bcaf-48c7-8c8e-c665809a073f",
+    "name": "Graham&#039;s Wall",
+    "location": {
+      "country": "Canada",
+      "region": "Bomville, Southern Gulf Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "Boundary Pass"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.669765626606946",
+      "lng": "-123.32797050476076"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "52335e61-33e3-46df-b58a-d8c8c2f621ce",
+    "name": "Whirpool",
+    "location": {
+      "country": "Canada",
+      "region": "Deer Island, New Brunswick",
+      "ocean": [
+        "Atlantic Ocean",
+        "Bay Of Fundy"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.93077975622578",
+      "lng": "-66.99145317077638"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5584cef7-a29d-493e-be29-7a198723f3cc",
+    "name": "K.p.h.",
+    "location": {
+      "country": "Canada",
+      "region": "Kingston, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Kingston"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.20435833845082",
+      "lng": "-76.53419494628906"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "57375d11-b661-4d6a-b714-60ee8bb55f99",
+    "name": "Arrow",
+    "location": {
+      "country": "Canada",
+      "region": "Nova Scotia, Canada",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.413876460821086",
+      "lng": "-61.06750488281251"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "57e8f670-8a7c-4315-8559-3f552dd3da05",
+    "name": "Prince Regent",
+    "location": {
+      "country": "Canada",
+      "region": "Kingston, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Kingston"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.22847252552764",
+      "lng": "-76.45394325256348"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5806603b-914e-4e29-9973-78589b1e3953",
+    "name": "Vertical Wow",
+    "location": {
+      "country": "Canada",
+      "region": "Vancouver Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Haro Strait",
+        "Saanich Inlet"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.56024979174329",
+      "lng": "-123.53143215179445"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "58682608-3b45-44c5-a99c-e4c8207004da",
+    "name": "Museum Wreck",
+    "location": {
+      "country": "Canada",
+      "region": "Kingston, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Kingston"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.21949237521741",
+      "lng": "-76.48690223693849"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5dbba917-4a39-4663-bfd9-42d6a165eb9a",
+    "name": "Larsen Bay",
+    "location": {
+      "country": "Canada",
+      "region": "British Columbia, Canada",
+      "ocean": [
+        "Pacific Ocean",
+        "Salish Sea",
+        "Strait Of Georgia",
+        "Howe Sound"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.357557382002724",
+      "lng": "-123.28866004943849"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5eb1f7b0-3ff1-44da-adb3-558b143ec040",
+    "name": "Hmcs Saganauy",
+    "location": {
+      "country": "Canada",
+      "region": "Nova Scotia, Canada",
+      "ocean": [
+        "Atlantic Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.15068115978094",
+      "lng": "-64.00085449218751"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "63ab9799-27cf-42c6-a8ba-5012da0b89f2",
+    "name": "Orlebar Point",
+    "location": {
+      "country": "Canada",
+      "region": "Gabriola Island, Vancouver Island",
+      "ocean": [
+        "Pacific Ocean",
+        "Salish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.20795322829565",
+      "lng": "-123.8178062438965"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "68a7f01e-902f-451a-a842-6cbda207833f",
+    "name": "South Cod Reef",
+    "location": {
+      "country": "Canada",
+      "region": "Gooch Island, Southern Gulf Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "Boundary Pass"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.65491264517064",
+      "lng": "-123.30136299133302"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6964ee21-89d9-450e-91f7-b515c69fcdf0",
+    "name": "Effie Mae",
+    "location": {
+      "country": "Canada",
+      "region": "Simcoe Island, Frontenac Islands",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Frontenac Islands",
+        "Simcoe Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.155115071133665",
+      "lng": "-76.56251907348634"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "699c2e40-0b5c-47b0-b906-d0ec1d594763",
+    "name": "Sweepstakes",
+    "location": {
+      "country": "Canada",
+      "region": "Lake Huron, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Lake Huron"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.25526828141599",
+      "lng": "-81.68092489242555"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6a21c649-8f1c-4355-ab6c-93cadc5d5898",
+    "name": "Bottle Dive",
+    "location": {
+      "country": "Canada",
+      "region": "Indian Island, New Brunswick",
+      "ocean": [
+        "Atlantic Ocean",
+        "Bay Of Fundy"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.91996261401927",
+      "lng": "-66.96827888488771"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6a2665e1-8f3e-4462-8c2f-4f4dd322084e",
+    "name": "Atlasco",
+    "location": {
+      "country": "Canada",
+      "region": "Main Duck Island, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Main Duck Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.93276421290811",
+      "lng": "-76.61345958709718"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6a7b053d-b128-4a7a-93ab-103f62093c74",
+    "name": "Schooner Barge Augustus",
+    "location": {
+      "country": "Canada",
+      "region": "Kingston, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Kingston"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.18946658894568",
+      "lng": "-76.5392589569092"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6c262540-e211-429e-a150-c869ded5c662",
+    "name": "Rothesay",
+    "location": {
+      "country": "Canada",
+      "region": "Ontario, Canada",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.71944674310232",
+      "lng": "-75.49341201782228"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6da85163-d237-4349-9c09-8c5bca4d748d",
+    "name": "Mourner&#039;s Delight",
+    "location": {
+      "country": "Canada",
+      "region": "Deer Island, New Brunswick",
+      "ocean": [
+        "Atlantic Ocean",
+        "Bay Of Fundy"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.982285140923764",
+      "lng": "-67.00853347778322"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6e49f84f-c26d-4f47-a895-519e839bc5e9",
+    "name": "Highlander",
+    "location": {
+      "country": "Canada",
+      "region": "Wolfe Island, Frontenac Islands",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Frontenac Islands",
+        "Wolfe Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.18651240623675",
+      "lng": "-76.48827552795412"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6fed6621-a8e5-4eb3-96b0-ac06d5a0ac70",
+    "name": "Gb Church",
+    "location": {
+      "country": "Canada",
+      "region": "Portland Island, Southern Gulf Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "Boundary Pass"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.72199971479897",
+      "lng": "-123.35766792297365"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "70e82464-6aa0-484d-8d04-b67a13507052",
+    "name": "Wee Hawk",
+    "location": {
+      "country": "Canada",
+      "region": "Ontario, Canada",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.77674782260197",
+      "lng": "-75.40112257003786"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7251aaba-3dc7-4905-b02c-0482454562d2",
+    "name": "Ten Mile Point",
+    "location": {
+      "country": "Canada",
+      "region": "Victoria, Vancouver Island",
+      "ocean": [
+        "Pacific Ocean",
+        "Haro Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.45581888641364",
+      "lng": "-123.26685905456544"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "73b3905e-fcb7-4bb2-a45b-2962e6f4e1a9",
+    "name": "John Randall",
+    "location": {
+      "country": "Canada",
+      "region": "Main Duck Island, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Main Duck Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.93894502714223",
+      "lng": "-76.6188669204712"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "746182d9-30dd-41b8-85d6-dbd0bd0aed59",
+    "name": "Casco Bay",
+    "location": {
+      "country": "Canada",
+      "region": "Casco Bay Island, New Brunswick",
+      "ocean": [
+        "Atlantic Ocean",
+        "Bay Of Fundy"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.95167902304322",
+      "lng": "-66.93531990051271"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "759f4f06-9893-4e68-be09-67bb5517ebed",
+    "name": "Echo",
+    "location": {
+      "country": "Canada",
+      "region": "Timber Island, Prince Edward",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Prince Edward",
+        "Timber Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.95278771972178",
+      "lng": "-76.85657501220705"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "77945f67-6f22-4b78-be24-a881e2394e6f",
+    "name": "Hmcs Mackanzie",
+    "location": {
+      "country": "Canada",
+      "region": "Gooch Island, Southern Gulf Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "Boundary Pass"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.665230829297926",
+      "lng": "-123.28344583511354"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7ab47309-dcbf-43c2-b570-1edd99b86090",
+    "name": "Clear Lake Main Beach",
+    "location": {
+      "country": "Canada",
+      "region": "Wasagaming, Manitoba",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Manitoba",
+        "Wasagaming"
+      ]
+    },
+    "coordinates": {
+      "lat": "52.76746199122255",
+      "lng": "-110.61163902282715"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7b2fef31-6bcc-4fae-97c2-137160d97e7c",
+    "name": "Dyer Rock",
+    "location": {
+      "country": "Canada",
+      "region": "Vancouver Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Haro Strait",
+        "Saanich Inlet"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.62542048020896",
+      "lng": "-123.48212242126466"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "80d21e08-99cd-4445-bce3-f2103a7f5a6d",
+    "name": "Aloha",
+    "location": {
+      "country": "Canada",
+      "region": "Simcoe Island, Frontenac Islands",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Frontenac Islands",
+        "Simcoe Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.16324304341004",
+      "lng": "-76.55410766601562"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "83467c45-48d9-4328-8954-a32feef4610f",
+    "name": "Philo Scoville",
+    "location": {
+      "country": "Canada",
+      "region": "Lake Huron, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Lake Huron"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.268121280142886",
+      "lng": "-81.70343399047853"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "847ec7e9-b737-4039-b626-1b6fc45d6264",
+    "name": "Moses Point",
+    "location": {
+      "country": "Canada",
+      "region": "Vancouver Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Haro Strait",
+        "Saanich Inlet"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.691526973439345",
+      "lng": "-123.48615646362306"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "86821917-b954-45c7-b25a-b3e3c2db0a0b",
+    "name": "Point Fairfax",
+    "location": {
+      "country": "Canada",
+      "region": "Moresby Island, Southern Gulf Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "Boundary Pass"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.69685253743531",
+      "lng": "-123.29689979553224"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "868e45c5-d639-41b0-a572-98418f5234b2",
+    "name": "Mcdonald&#039;s Point",
+    "location": {
+      "country": "Canada",
+      "region": "Ontario, Canada",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.56466725111193",
+      "lng": "-75.71481227874756"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8c484099-3010-498c-9253-c5183deaa6e9",
+    "name": "Barges Cimentery",
+    "location": {
+      "country": "Canada",
+      "region": "Ontario, Canada",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.02573718217882",
+      "lng": "-74.85680580139162"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8c4fb855-ea11-4bbe-a9cf-de790cb3624c",
+    "name": "Chocolate Cove",
+    "location": {
+      "country": "Canada",
+      "region": "Deer Island, New Brunswick",
+      "ocean": [
+        "Atlantic Ocean",
+        "Bay Of Fundy"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.934425524918154",
+      "lng": "-66.98338508605958"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8cd33bdd-73d5-4f5a-90fc-06601e95b09d",
+    "name": "Mccurdy Point",
+    "location": {
+      "country": "Canada",
+      "region": "Vancouver Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Haro Strait",
+        "Saanich Inlet"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.560420207973785",
+      "lng": "-123.52259159088136"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8ddd9b53-4993-4c22-aa34-114088925b3f",
+    "name": "Mapleglen",
+    "location": {
+      "country": "Canada",
+      "region": "Amherst Island, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Amherst Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.145507842170396",
+      "lng": "-76.63461685180665"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "90bf72df-9467-4057-94a6-ed3fa19eb0d6",
+    "name": "Dread",
+    "location": {
+      "country": "Canada",
+      "region": "Ontario, Canada",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.023067895446175",
+      "lng": "-74.85182762145998"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9316f226-afbe-4b78-ab30-5ee1b29a2358",
+    "name": "Dread",
+    "location": {
+      "country": "Canada",
+      "region": "Ontario, Canada",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.02476654685845",
+      "lng": "-74.85371589660646"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "939fa0b2-ca07-4cd0-a082-0685947b3295",
+    "name": "Dupoint Salvage Scow",
+    "location": {
+      "country": "Canada",
+      "region": "Kingston, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Kingston"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.192297541772525",
+      "lng": "-76.54166221618654"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9654c081-15a4-480a-b79c-650f3750c05d",
+    "name": "Eastcliffe Hall",
+    "location": {
+      "country": "Canada",
+      "region": "Ontario, Canada",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.92111734990139",
+      "lng": "-75.10653018951417"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "983a720e-e04a-455e-abe4-c993d7abf35e",
+    "name": "Beaver Harbour First Cove",
+    "location": {
+      "country": "Canada",
+      "region": "New Brunswick, Canada",
+      "ocean": [
+        "Atlantic Ocean",
+        "Bay Of Fundy"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.060911753207165",
+      "lng": "-66.73516273498537"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "989d5279-a236-4e0a-a2ea-233589db7d13",
+    "name": "Brockville Walls",
+    "location": {
+      "country": "Canada",
+      "region": "Ontario, Canada",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.589611443042045",
+      "lng": "-75.66704750061037"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9bff0c91-f4b9-490a-8051-710f4a189cf1",
+    "name": "Lillie Parsons",
+    "location": {
+      "country": "Canada",
+      "region": "Ontario, Canada",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.55610550374227",
+      "lng": "-75.71936130523682"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9d3b8776-d2b5-4477-a916-451fdaef953e",
+    "name": "Whytecliff Park",
+    "location": {
+      "country": "Canada",
+      "region": "British Columbia, Canada",
+      "ocean": [
+        "Pacific Ocean",
+        "Salish Sea",
+        "Strait Of Georgia",
+        "Howe Sound"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.36571878486878",
+      "lng": "-123.29067707061769"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9fddede7-8560-4cdd-aa88-f107b05892c4",
+    "name": "Taber",
+    "location": {
+      "country": "Canada",
+      "region": "Simcoe Island, Frontenac Islands",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Frontenac Islands",
+        "Simcoe Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.16718347540891",
+      "lng": "-76.54397964477539"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a198bb98-e3eb-421d-80fa-2fae13d68d99",
+    "name": "George A Marsh",
+    "location": {
+      "country": "Canada",
+      "region": "Lake Ontario, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Lake Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.09153051045221",
+      "lng": "-76.60577774047853"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a253ef37-09ee-4acc-852f-6ed0c17fc0a9",
+    "name": "Madrona Point",
+    "location": {
+      "country": "Canada",
+      "region": "Vancouver Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Salish Sea",
+        "Strait Of Georgia"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.3163943408001",
+      "lng": "-124.23974990844728"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a400aecb-4088-4a89-a167-d3db9b8e450d",
+    "name": "Crysler Park Wreck",
+    "location": {
+      "country": "Canada",
+      "region": "Ontario, Canada",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.93102281467221",
+      "lng": "-75.0697946548462"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a702edfe-8cfd-41c2-b83c-b93ed9843971",
+    "name": "The Caves",
+    "location": {
+      "country": "Canada",
+      "region": "Lake Huron, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Lake Huron"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.249271233793976",
+      "lng": "-81.5343475341797"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a7d41e6e-60cb-4a74-abe6-29d92fb4ce60",
+    "name": "Ansel Point",
+    "location": {
+      "country": "Canada",
+      "region": "British Columbia, Canada",
+      "ocean": [
+        "Pacific Ocean",
+        "Salish Sea",
+        "Strait Of Georgia",
+        "Howe Sound"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.401813942961155",
+      "lng": "-123.25977802276613"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a80c7f06-d0cd-44bd-9a26-d80015468ac8",
+    "name": "Power House",
+    "location": {
+      "country": "Canada",
+      "region": "Ontario, Canada",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.02343189642041",
+      "lng": "-74.84011173248292"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a9c704ff-9ed2-4b0e-bc3e-b3f1a5257886",
+    "name": "Kellys Cove",
+    "location": {
+      "country": "Canada",
+      "region": "Mohawk Island, New Brunswick",
+      "ocean": [
+        "Atlantic Ocean",
+        "Bay Of Fundy"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.03811133988268",
+      "lng": "-66.90210342407228"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "abc36c47-2289-4ecd-8c81-7447be84d423",
+    "name": "Christmas Point",
+    "location": {
+      "country": "Canada",
+      "region": "Vancouver Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Haro Strait",
+        "Saanich Inlet"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.52786028982028",
+      "lng": "-123.54615211486818"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b13ce88c-e19e-4fbd-9b44-ccdb87a3db47",
+    "name": "Annie Felcorner",
+    "location": {
+      "country": "Canada",
+      "region": "Prince Edward, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Prince Edward"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.93251696697599",
+      "lng": "-76.84816360473634"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b19ff75f-0a4b-4d70-b879-e2da634d260c",
+    "name": "Jamison",
+    "location": {
+      "country": "Canada",
+      "region": "Amherst Island, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Amherst Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.162996757670605",
+      "lng": "-76.75632476806642"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b3fd43e5-0e25-4c55-83bc-ef515cf80274",
+    "name": "Porteau Cove",
+    "location": {
+      "country": "Canada",
+      "region": "British Columbia, Canada",
+      "ocean": [
+        "Pacific Ocean",
+        "Salish Sea",
+        "Strait Of Georgia",
+        "Howe Sound"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.544147382400695",
+      "lng": "-123.25570106506349"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b44026bc-4c74-49c6-96fe-05c6cabbc2b7",
+    "name": "Seymour Point",
+    "location": {
+      "country": "Canada",
+      "region": "Moresby Island, Southern Gulf Islands",
+      "ocean": [
+        "Pacific Ocean",
+        "Boundary Pass"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.72018772585415",
+      "lng": "-123.33638191223146"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b4d4eb1e-575d-42ed-82b7-7c9b751c8546",
+    "name": "Crazzy Crabs",
+    "location": {
+      "country": "Canada",
+      "region": "Bowyer Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Salish Sea",
+        "Strait Of Georgia",
+        "Howe Sound"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.4330824099605",
+      "lng": "-123.27458381652833"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bfb2debf-6bf3-4e93-92b4-1fbb30aaea0f",
+    "name": "Clara White",
+    "location": {
+      "country": "Canada",
+      "region": "Ontario, Canada",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.38755022266172",
+      "lng": "-75.88711738586427"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c02fd990-e10f-4961-84bc-df4bcb8c7e50",
+    "name": "Wolfe Islander Ii",
+    "location": {
+      "country": "Canada",
+      "region": "Wolfe Island, Frontenac Islands",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Frontenac Islands",
+        "Wolfe Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.21764696919354",
+      "lng": "-76.41231536865236"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c0c50162-bd63-4524-9c9a-07dea599335b",
+    "name": "Conestoga",
+    "location": {
+      "country": "Canada",
+      "region": "Ontario, Canada",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.779794116440655",
+      "lng": "-75.39352655410768"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c13295ac-42ac-452a-b4f5-bb49a78646b8",
+    "name": "The Canyons",
+    "location": {
+      "country": "Canada",
+      "region": "Bowyer Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Salish Sea",
+        "Strait Of Georgia",
+        "Howe Sound"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.416110571218226",
+      "lng": "-123.27149391174318"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c1efaed7-a027-45df-9649-bec62d16b736",
+    "name": "Mcneil Point",
+    "location": {
+      "country": "Canada",
+      "region": "Victoria, Vancouver Island",
+      "ocean": [
+        "Pacific Ocean",
+        "Strait Of Juan De Fuca"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.40231185333918",
+      "lng": "-123.29509735107423"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c3900272-cb29-49e5-b0a4-f3f74125364f",
+    "name": "Nankivell Point",
+    "location": {
+      "country": "Canada",
+      "region": "Vancouver Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Salish Sea",
+        "Strait Of Georgia"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.28908247266381",
+      "lng": "-124.13186073303224"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c559a62c-7910-4413-a5cd-2924bb8e5733",
+    "name": "City Of Sheboygan",
+    "location": {
+      "country": "Canada",
+      "region": "Amherst Island, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Amherst Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.08462574387029",
+      "lng": "-76.74224853515626"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c564bcaa-bfc7-4654-a528-14f159010687",
+    "name": "Centeen Park",
+    "location": {
+      "country": "Canada",
+      "region": "Ontario, Canada",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.591980106320946",
+      "lng": "-75.6775188446045"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c5908601-fc27-4231-ace0-a385c8b16d0f",
+    "name": "Mahogany Launch",
+    "location": {
+      "country": "Canada",
+      "region": "Ontario, Canada",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.58374318409057",
+      "lng": "-75.68060874938965"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c7348cfe-628f-4e17-b85e-6100562bfe71",
+    "name": "Head Of Lake",
+    "location": {
+      "country": "Canada",
+      "region": "Lake Mcdonald, Montana",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Montana",
+        "Lake Mcdonald"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.530929657787475",
+      "lng": "-113.97989273071289"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c8ba0d57-19a9-4b6a-8515-532bb8aaa85e",
+    "name": "Motor Vessel",
+    "location": {
+      "country": "Canada",
+      "region": "Ontario, Canada",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.57396143601839",
+      "lng": "-75.69764614105226"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c8d1f7e9-2319-462b-a17f-001d2132db68",
+    "name": "Munson",
+    "location": {
+      "country": "Canada",
+      "region": "Kingston, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Kingston"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.199928128583025",
+      "lng": "-76.5685272216797"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cd5d1308-c071-4856-beea-f040749c8b70",
+    "name": "Arbutus Ridge",
+    "location": {
+      "country": "Canada",
+      "region": "Vancouver Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Haro Strait",
+        "Saanich Inlet"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.67033244757764",
+      "lng": "-123.53044509887697"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cdcf5d19-82af-44f3-90e9-669ca9a82557",
+    "name": "Gabriola Passage",
+    "location": {
+      "country": "Canada",
+      "region": "Valdes Island, Vancouver Island",
+      "ocean": [
+        "Pacific Ocean",
+        "Salish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.127813961593255",
+      "lng": "-123.71068954467775"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d1aef983-ed95-4c20-8d7d-612539bc729a",
+    "name": "The Nursery",
+    "location": {
+      "country": "Canada",
+      "region": "Bowen Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Tasman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.112813148947794",
+      "lng": "150.7653218507767"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d321a530-d3fa-46f4-bbdd-861afbd0cbd0",
+    "name": "Dredge Islander",
+    "location": {
+      "country": "Canada",
+      "region": "Kingston, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Kingston"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.18934350095555",
+      "lng": "-76.5462112426758"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d52e577c-42a9-45c0-aece-5294715e1c7c",
+    "name": "Kattie Eccle",
+    "location": {
+      "country": "Canada",
+      "region": "Prince Edward, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Prince Edward"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.92645912054985",
+      "lng": "-76.8527126312256"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d5b6d247-10bc-4112-a9b4-087ced065f6a",
+    "name": "Lord Jim Wreck",
+    "location": {
+      "country": "Canada",
+      "region": "Vancouver Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Haro Strait",
+        "Saanich Inlet"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.646520476743575",
+      "lng": "-123.54340553283693"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d5fd5160-d103-4400-9886-67cbab5c27e3",
+    "name": "Palm Rocks",
+    "location": {
+      "country": "Canada",
+      "region": "British Columbia, Canada",
+      "ocean": [
+        "Pacific Ocean",
+        "Salish Sea",
+        "Strait Of Georgia",
+        "Howe Sound"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.48775429690567",
+      "lng": "-123.29518318176271"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d64a8309-fef4-4130-8716-0f90b43cedd2",
+    "name": "Two Hulls",
+    "location": {
+      "country": "Canada",
+      "region": "Ontario, Canada",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.58380431484136",
+      "lng": "-75.68372011184694"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d96a9727-27e6-4949-8cd8-4146e6c95e0d",
+    "name": "Henry C. Daryaw",
+    "location": {
+      "country": "Canada",
+      "region": "Ontario, Canada",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.537509942716206",
+      "lng": "-75.74395179748537"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "da036a91-14cf-4a7f-bd89-88487bde145a",
+    "name": "Swing Bridge",
+    "location": {
+      "country": "Canada",
+      "region": "Ontario, Canada",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.0210051795428",
+      "lng": "-74.84363079071046"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "df09210a-3221-479d-852f-3b8ff585b685",
+    "name": "The Jib",
+    "location": {
+      "country": "Canada",
+      "region": "Vancouver Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Salish Sea",
+        "Strait Of Georgia"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.29938216794409",
+      "lng": "-124.20473098754884"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e045c090-87f9-4e71-bd13-63bd7a622b50",
+    "name": "Tanner Rock",
+    "location": {
+      "country": "Canada",
+      "region": "Vancouver Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Haro Strait",
+        "Saanich Inlet"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.628824302362084",
+      "lng": "-123.52606773376466"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e0d37994-ae19-4d9e-a55d-824485df6f13",
+    "name": "Secret Spot",
+    "location": {
+      "country": "Canada",
+      "region": "Vancouver Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Haro Strait",
+        "Saanich Inlet"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.542296066777226",
+      "lng": "-123.54065895080566"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e1faa9ef-0b38-45e2-b905-a8eb354cb74c",
+    "name": "Caroline Rose",
+    "location": {
+      "country": "Canada",
+      "region": "Lake Huron, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Lake Huron"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.24806268406058",
+      "lng": "-81.56782150268556"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e278c75d-ad15-4fed-8192-4b90516fcb73",
+    "name": "Cape Keppel",
+    "location": {
+      "country": "Canada",
+      "region": "Vancouver Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Haro Strait",
+        "Saanich Inlet"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.71724310459497",
+      "lng": "-123.50495338439943"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e2b1ff77-90e5-4c48-89bb-56dad0234e06",
+    "name": "Olive Branch",
+    "location": {
+      "country": "Canada",
+      "region": "Main Duck Island, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Main Duck Island"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.937090850328275",
+      "lng": "-76.63890838623047"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e2bdc94c-7adf-43d4-bb5b-479419e6f615",
+    "name": "Cottam Point",
+    "location": {
+      "country": "Canada",
+      "region": "Vancouver Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Salish Sea",
+        "Strait Of Georgia"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.316618146025625",
+      "lng": "-124.21743392944337"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e3a6b6fc-93b3-4dfc-9e3a-8d73f6e2993d",
+    "name": "Spring Bay",
+    "location": {
+      "country": "Canada",
+      "region": "Victoria, Vancouver Island",
+      "ocean": [
+        "Pacific Ocean",
+        "Haro Strait"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.45594696229856",
+      "lng": "-123.26835036277772"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e535a906-8303-4c68-8aa8-359fa4dcf3a9",
+    "name": "Welland Scuba Park",
+    "location": {
+      "country": "Canada",
+      "region": "Ontario, Canada",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.98071222656627",
+      "lng": "-79.25526380538942"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e628c525-9054-48bc-9e3f-1429df16edf7",
+    "name": "Dunks Point",
+    "location": {
+      "country": "Canada",
+      "region": "Lake Huron, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Lake Huron"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.26111366037771",
+      "lng": "-81.62927627563478"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e70dc17a-c78a-4928-86d2-57c738023a98",
+    "name": "Glendora",
+    "location": {
+      "country": "Canada",
+      "region": "Lake Ontario, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Lake Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.125056482685174",
+      "lng": "-76.63959503173828"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ecae8b71-113f-4cd3-b900-b6944f193ded",
+    "name": "Fish Creek",
+    "location": {
+      "country": "Canada",
+      "region": "Lake Mcdonald, Montana",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Montana",
+        "Lake Mcdonald"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.55025103468065",
+      "lng": "-113.97783279418947"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ed0b80ae-cd08-4cba-92f1-bfd0227b529d",
+    "name": "Innerkip Quarry (Trout Lake)",
+    "location": {
+      "country": "Canada",
+      "region": "Ontario, Canada",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "43.19996726084012",
+      "lng": "-80.69728374481203"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "edc1314d-0ef9-43af-80f7-cc677bda1495",
+    "name": "Little Letete Passage",
+    "location": {
+      "country": "Canada",
+      "region": "Pendleton Island, New Brunswick",
+      "ocean": [
+        "Atlantic Ocean",
+        "Bay Of Fundy"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.038596546452595",
+      "lng": "-66.94295883178712"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ef51968a-724c-47d8-b674-1a8d1b35e6f3",
+    "name": "Arabia",
+    "location": {
+      "country": "Canada",
+      "region": "Lake Huron, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Lake Huron"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.30966593483413",
+      "lng": "-81.67390823364259"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "efe2448f-db90-43e4-adfa-62ad45824618",
+    "name": "Queen Mary",
+    "location": {
+      "country": "Canada",
+      "region": "Lake Ontario, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Lake Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.13417422873266",
+      "lng": "-76.62878036499023"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f2c859b0-81f5-47a9-b36f-5a541e953e82",
+    "name": "Dodd Narrows",
+    "location": {
+      "country": "Canada",
+      "region": "Mudge Island, Vancouver Island",
+      "ocean": [
+        "Pacific Ocean",
+        "Salish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.12826328239519",
+      "lng": "-123.80647659301759"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f3d4c5d0-9b2a-4741-947e-f781ea84846a",
+    "name": "Aztec Reef",
+    "location": {
+      "country": "Canada",
+      "region": "Bowen Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Tasman Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "-35.11237871527906",
+      "lng": "150.76716184616092"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f4cdd9c6-cdc6-4e74-a7bb-9a9ab065a3b6",
+    "name": "Kelvin Grove",
+    "location": {
+      "country": "Canada",
+      "region": "British Columbia, Canada",
+      "ocean": [
+        "Pacific Ocean",
+        "Salish Sea",
+        "Strait Of Georgia",
+        "Howe Sound"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.447369931539896",
+      "lng": "-123.24711799621583"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f8195494-c1db-462c-8a44-987917535539",
+    "name": "Cape Breton",
+    "location": {
+      "country": "Canada",
+      "region": "Gabriola Island, Vancouver Island",
+      "ocean": [
+        "Pacific Ocean",
+        "Salish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.20458864257369",
+      "lng": "-123.86140823364259"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f870a044-e32a-47b4-88e2-d16b5dd4e38c",
+    "name": "Hmcs Saskatchewan",
+    "location": {
+      "country": "Canada",
+      "region": "Vancouver Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Salish Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "49.221633518287476",
+      "lng": "-123.88750076293947"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f995ddbd-89f3-43df-8b3f-dd071ef639e2",
+    "name": "Clam Cove Head Reef",
+    "location": {
+      "country": "Canada",
+      "region": "Deer Island, New Brunswick",
+      "ocean": [
+        "Atlantic Ocean",
+        "Bay Of Fundy"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.96892733593126",
+      "lng": "-67.01308250427248"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fa74d017-9528-41ab-a70f-c6345f5da4ba",
+    "name": "Slugger Point",
+    "location": {
+      "country": "Canada",
+      "region": "Vancouver Island, British Columbia",
+      "ocean": [
+        "Pacific Ocean",
+        "Haro Strait",
+        "Saanich Inlet"
+      ]
+    },
+    "coordinates": {
+      "lat": "48.57842428752037",
+      "lng": "-123.47358226776124"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fb4dbc44-dae2-4800-8ddf-190636c47f84",
+    "name": "John B. King",
+    "location": {
+      "country": "Canada",
+      "region": "Ontario, Canada",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.562343472830726",
+      "lng": "-75.71300983428956"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fb6626dc-7dca-4dd0-b224-b1ff4ff4c0c1",
+    "name": "Control Dam",
+    "location": {
+      "country": "Canada",
+      "region": "Ontario, Canada",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.02422055725831",
+      "lng": "-74.83788013458253"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fbd20f21-7397-47d6-aaed-868541a32ecb",
+    "name": "W. L. Wetmore",
+    "location": {
+      "country": "Canada",
+      "region": "Lake Huron, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Lake Huron"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.26195945349073",
+      "lng": "-81.7086696624756"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fc2a0bb6-8e84-40a0-b999-afd48869e4b4",
+    "name": "Niagara Ii",
+    "location": {
+      "country": "Canada",
+      "region": "Lake Huron, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Lake Huron"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.25241334275755",
+      "lng": "-81.59322738647461"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fda144da-f0d7-4679-bcf0-6f343472d2c3",
+    "name": "Dam",
+    "location": {
+      "country": "Canada",
+      "region": "Ontario, Canada",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.00510764061731",
+      "lng": "-74.87448692321779"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ff2d92ce-6598-473b-99c7-62f26501de79",
+    "name": "Lock 21",
+    "location": {
+      "country": "Canada",
+      "region": "Ontario, Canada",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario"
+      ]
+    },
+    "coordinates": {
+      "lat": "44.99515426365949",
+      "lng": "-74.89989280700685"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ffc0cdc8-ef0c-49b6-8b59-26242c882918",
+    "name": "Avalon Voyageur Ii",
+    "location": {
+      "country": "Canada",
+      "region": "Lake Huron, Ontario",
+      "ocean": [
+        "North America",
+        "Canada",
+        "Ontario",
+        "Lake Huron"
+      ]
+    },
+    "coordinates": {
+      "lat": "45.2398438639272",
+      "lng": "-81.7075538635254"
+    },
+    "additionalInfo": {}
+  }
+]

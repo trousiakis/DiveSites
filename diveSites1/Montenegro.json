@@ -1,0 +1,452 @@
+[
+  {
+    "id": "22b1f667-3c74-43f0-866a-11f54a1ad1cb",
+    "name": "Skoljic",
+    "location": {
+      "country": "Montenegro",
+      "region": "Budva Municipality, Montenegro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.24478535602799",
+      "lng": "18.886699676513675"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2a0d08bb-d518-488a-85f0-07f80af7ec10",
+    "name": "Patrol Ship",
+    "location": {
+      "country": "Montenegro",
+      "region": "Herceg Novi Municipality, Montenegro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.35854391749705",
+      "lng": "18.554191589355472"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "366c4ca2-7821-47de-a3f6-009ce2421830",
+    "name": "Kuinto",
+    "location": {
+      "country": "Montenegro",
+      "region": "Bar Municipality, Montenegro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.072997707782925",
+      "lng": "19.067029953002933"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3c2df8fc-70cd-4980-9c60-14505d8cd840",
+    "name": "The Lighthouse",
+    "location": {
+      "country": "Montenegro",
+      "region": "Budva Municipality, Montenegro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.24275208539065",
+      "lng": "18.852367401123047"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3cce2505-5493-4957-b44d-7cfa09d064c1",
+    "name": "Patrol Kayar",
+    "location": {
+      "country": "Montenegro",
+      "region": "Lustica, Montenegro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.39817140740214",
+      "lng": "18.573846817016605"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "41977343-fab0-45d7-84ab-805744cf1fbb",
+    "name": "Patrol Ship Pbr 512",
+    "location": {
+      "country": "Montenegro",
+      "region": "Lustica, Montenegro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.39907462257924",
+      "lng": "18.5729455947876"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "41d4da7a-3e37-46b0-a519-b20792820292",
+    "name": "Tug Military Pr-38 &quot;tunj&quot;",
+    "location": {
+      "country": "Montenegro",
+      "region": "Kotor Municipality, Montenegro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.49203614682551",
+      "lng": "18.690533638000492"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4689437f-5794-4d67-9d59-42e33116a7f0",
+    "name": "Galiola",
+    "location": {
+      "country": "Montenegro",
+      "region": "Budva Municipality, Montenegro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.25596717322463",
+      "lng": "18.835201263427738"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4d380d7b-cace-4d90-a72c-fda9a8836c17",
+    "name": "Submarines Tunnel",
+    "location": {
+      "country": "Montenegro",
+      "region": "Lustica, Montenegro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.41914799659737",
+      "lng": "18.543299615890277"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "52025b18-7c67-4631-a60f-e6ea1cec2200",
+    "name": "Sv. Stefan",
+    "location": {
+      "country": "Montenegro",
+      "region": "Budva Municipality, Montenegro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.25717418267041",
+      "lng": "18.89159202575684"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "56ca8dff-1af2-4a93-802a-4bfb9c030404",
+    "name": "Seka Albaneze",
+    "location": {
+      "country": "Montenegro",
+      "region": "Kotor Municipality, Montenegro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.30676863078423",
+      "lng": "18.695125579833988"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "688094f5-aa73-4909-a1f6-c87f3f7e1c42",
+    "name": "Mravinjak",
+    "location": {
+      "country": "Montenegro",
+      "region": "Bar Municipality, Montenegro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.14304156290942",
+      "lng": "18.979482650756836"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "71286c4e-7d63-4e47-8cfa-bd3fa798fd94",
+    "name": "Katic",
+    "location": {
+      "country": "Montenegro",
+      "region": "Budva Municipality, Montenegro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.17205523161925",
+      "lng": "18.927898406982425"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "753bca89-50f0-488c-9b4b-15aa51855f58",
+    "name": "Bomber ",
+    "location": {
+      "country": "Montenegro",
+      "region": "Bar Municipality, Montenegro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.115542659613865",
+      "lng": "18.967123031616214"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "75e1c605-a456-4929-8cd2-a7f8328a23da",
+    "name": "Minesweeper 143",
+    "location": {
+      "country": "Montenegro",
+      "region": "Sveti Nikola Island, Budva Municipality",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.26054098165532",
+      "lng": "18.86884689331055"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7ab0813c-8712-4e7c-ba6f-7b6f2fdc9e7a",
+    "name": "Dag",
+    "location": {
+      "country": "Montenegro",
+      "region": "Bar Municipality, Montenegro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.10076980332241",
+      "lng": "19.06737327575684"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "909c40d4-11eb-41f8-aa00-948bd0ca3b22",
+    "name": "Cave Mala Krekavica",
+    "location": {
+      "country": "Montenegro",
+      "region": "Kotor Municipality, Montenegro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.266130741436434",
+      "lng": "18.73151779174805"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a9f9ca75-d4c0-4fcf-b6e5-5a45d8896fda",
+    "name": "Poseidon City",
+    "location": {
+      "country": "Montenegro",
+      "region": "Herceg Novi Municipality, Montenegro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.33621470741859",
+      "lng": "18.566551208496097"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b17bf7d7-5f29-45b1-a316-c37fed0fc783",
+    "name": "Kalafat",
+    "location": {
+      "country": "Montenegro",
+      "region": "Kotor Municipality, Montenegro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.35052027063758",
+      "lng": "18.68980407714844"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c8d82df6-c1d6-4ec6-afd6-edce6012e01a",
+    "name": "Plava Spilja",
+    "location": {
+      "country": "Montenegro",
+      "region": "Herceg Novi Municipality, Montenegro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.33519955487233",
+      "lng": "18.594017028808597"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cf0b73fd-cadd-45f5-a9ac-42e0a7b6bf6e",
+    "name": "Donkova Seka",
+    "location": {
+      "country": "Montenegro",
+      "region": "Budva Municipality, Montenegro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.16034956263453",
+      "lng": "18.946437835693363"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d378310c-100c-47c6-bed5-2ec0626cf6fb",
+    "name": "Sveta Nedelja",
+    "location": {
+      "country": "Montenegro",
+      "region": "Budva Municipality, Montenegro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.19189902447192",
+      "lng": "18.91828536987305"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d53154e7-ae3d-4dc9-9f89-ed9729abfbc2",
+    "name": "Bigova",
+    "location": {
+      "country": "Montenegro",
+      "region": "Kotor Municipality, Montenegro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.3562606123939",
+      "lng": "18.702249526977543"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e4653918-80cb-49fa-9f74-278d6f74645a",
+    "name": "Amphoras",
+    "location": {
+      "country": "Montenegro",
+      "region": "Kotor Municipality, Montenegro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.365266500741534",
+      "lng": "18.691005706787113"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f5c57ecb-e517-4457-880f-3495ddd6725d",
+    "name": "Oreste",
+    "location": {
+      "country": "Montenegro",
+      "region": "Kotor Municipality, Montenegro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Adriatic Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "42.26917949243506",
+      "lng": "18.7946891784668"
+    },
+    "additionalInfo": {}
+  }
+]

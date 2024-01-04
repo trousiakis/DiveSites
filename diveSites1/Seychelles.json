@@ -1,0 +1,756 @@
+[
+  {
+    "id": "03b9f1c0-d514-4eaf-91ad-747cc135c42d",
+    "name": " Fusilier Bank",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.393994386180314",
+      "lng": "55.29899597167969"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "05dc582d-6092-4a0e-b2bb-b4defe9964b5",
+    "name": "Horse Shoe Rocks",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.61603674728274",
+      "lng": "55.39907455444337"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "07ac2bb9-1579-4e3b-8d90-ac41cae96fb5",
+    "name": "Light House",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.638493866800065",
+      "lng": "55.36572933197022"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0dada182-32e0-4538-9f5b-0dc513eda8d4",
+    "name": "Lapay Koray",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.587675598448729",
+      "lng": "55.428128242492676"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0ddef806-4e18-452f-8388-b7acfea9a2a1",
+    "name": "Amoujie Mamon",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.227012442580121",
+      "lng": "55.730724334716804"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "0e7d62ba-3731-46d7-9578-966253b418b1",
+    "name": "Coral Garden",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.5907983745253205",
+      "lng": "55.42752742767335"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "10761246-b509-4fe9-ad03-db996e6ba8d3",
+    "name": "De Tete",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.425828874929904",
+      "lng": "55.61519622802735"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "19186769-adad-43f9-9756-32b89731d800",
+    "name": "L&#039;ilot Rocks",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.561708973442736",
+      "lng": "55.43018817901612"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "24c681f6-86ec-4082-bf37-5c3bf5c82a1c",
+    "name": "Fusilier Bank",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.449789415619577",
+      "lng": "56.12159729003907"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "27ec7628-165b-4544-835d-d8b2bb36108b",
+    "name": "Trompeuse Rocks",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.359248742749082",
+      "lng": "55.641803741455085"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2a559dd9-36e2-477d-b827-0efcced41a50",
+    "name": "Twin Barges Wreck",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.612956858254796",
+      "lng": "55.41890144348145"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2ddef131-67fe-41a5-af23-1ccbdef153a3",
+    "name": "Chuckles",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.566286354573736",
+      "lng": "55.430316925048835"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3a31ce20-9252-4f62-8d5d-98670fd26924",
+    "name": "Renomee Rocks",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.473406899783153",
+      "lng": "55.871315002441406"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3cd35c4d-f9f9-42f9-8a2d-c7dc9b15f1cc",
+    "name": "Dredger Wreck",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.614282923224343",
+      "lng": "55.40877342224122"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3df6df60-0348-4b2e-8c5f-e8b073a18832",
+    "name": "Harrison Rock",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.637253396895994",
+      "lng": "55.53065299987794"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "403e0c4b-590d-4c2e-8303-184db21cbaaf",
+    "name": "Caiman Rock",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.435755478979792",
+      "lng": "55.76831817626954"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4206c13f-4435-4923-9539-1a264dc41229",
+    "name": "Toukoula",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.56307791291517",
+      "lng": "55.48593521118165"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4396622f-0168-4977-8033-a8f4bfc840fa",
+    "name": "Blanchisseuse Rocks",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.383724905848168",
+      "lng": "55.605926513671875"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "44c9fdf6-8b76-47f4-81ec-4a10e05928c1",
+    "name": "Willie&#039;s Rock",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.619715486102553",
+      "lng": "55.38954734802247"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4792c74a-78a5-4163-aaaa-48d6e92c6b5f",
+    "name": " Koray Lewi",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.557602139371085",
+      "lng": "55.50996780395508"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "48390cbe-8972-4f70-a45f-df1eefdb8e13",
+    "name": "Whale Rock",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.6168494935474715",
+      "lng": "55.39628505706788"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5790c2e4-95f0-4e95-907b-45e9f67a45aa",
+    "name": "Chimney Rock",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.478541034828978",
+      "lng": "55.89878082275391"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "57d05658-fb03-4245-9818-741d21037697",
+    "name": " Ave Maria",
+    "location": {
+      "country": "Seychelles",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Praslin"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.318767187439892",
+      "lng": "55.81895828247071"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "584e4d45-3521-4f7d-a033-00b45cd88290",
+    "name": "L&#039;ilot",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.561281179322406",
+      "lng": "55.43220520019532"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5a3ba991-5838-44a3-9999-b45b7813eb05",
+    "name": " Bay Ternay Marine Park",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.638194443229595",
+      "lng": "55.37126541137696"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5cd22d21-0b4b-4046-90f4-4bf3073ce584",
+    "name": "Shark Rock",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.451158565861594",
+      "lng": "55.77587127685547"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5f82cfe5-0bde-40fb-8d7d-c22c0264078e",
+    "name": "Rock Downstairs",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.334258271396187",
+      "lng": "55.8076286315918"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6152fdb4-73d3-4c71-9bba-785a5de3c2f0",
+    "name": "Cap Matoopa",
+    "location": {
+      "country": "Seychelles",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.643584048067102",
+      "lng": "55.36499977111817"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "71d8bd9e-9fe9-4c27-b8e4-26e7e2e00488",
+    "name": "Corsair Reef",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.6144112519609255",
+      "lng": "55.41602611541749"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "755d9aa9-e150-4d12-87ee-e459a8773d8d",
+    "name": "Coco Rocks",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.306956093172783",
+      "lng": "55.86341857910157"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7a917068-8783-48fa-a957-d75944f8468d",
+    "name": "St. Anne Rocks",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.60089383102632",
+      "lng": "55.51417350769044"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "80e10be1-38a8-469a-af6c-0243e4bbd9e7",
+    "name": "Joker",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.589065877156321",
+      "lng": "55.42765617370606"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "82b4fc8b-17af-4535-ab1d-9f25481d5de9",
+    "name": "Fisherman&#039;s Cove Reef",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.610475826822887",
+      "lng": "55.421819686889656"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "88522be6-fe6e-4243-be9a-5c7742851a07",
+    "name": "Danzille Rocks",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.6164217324715535",
+      "lng": "55.402464866638184"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9789a615-ddbc-4f6c-8854-5e1cfae5d00d",
+    "name": "North Point Rocks",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.5652168756147296",
+      "lng": "55.43220520019532"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ae6ef18d-e64d-4b3b-b3a9-1d661a018bcd",
+    "name": "Channel Rock",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.342902329501454",
+      "lng": "55.80350875854493"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "bde8b502-b562-4511-bfb4-dfab2659cfea",
+    "name": "Aquarium",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.5943061340941425",
+      "lng": "55.42872905731202"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c5726ec2-0ab0-4a4c-af39-22dec95e37a9",
+    "name": "Ray&#039;s Point",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.6248485781383195",
+      "lng": "55.38079261779786"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c9f3a969-f2f6-40c9-b776-636aa2b89422",
+    "name": "Sunset Rocks",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.583911137901003",
+      "lng": "55.43160438537598"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cad30245-c59a-47a0-88fe-cdd8f8dc979e",
+    "name": " Ile Au Vaches",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.688068098274135",
+      "lng": "55.43478012084962"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d3a1c9b0-115e-4781-b49a-1c1972b455e8",
+    "name": "Gran Bazaar",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.5864778176991665",
+      "lng": "55.428557395935066"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "db244f75-a557-4b87-93a9-fd375da7124c",
+    "name": "Alice In Wonderland",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.725296368329273",
+      "lng": "55.46499252319337"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e2966b9f-5cae-4446-a4b8-b88f4f26c835",
+    "name": "Aldebaran Wreck",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.6139834894154514",
+      "lng": "55.38748741149903"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f3dd1f5e-4e80-4f3c-9c79-8b3817da978e",
+    "name": "White Bank",
+    "location": {
+      "country": "Seychelles",
+      "region": "Seychelles",
+      "ocean": [
+        "Seychelles",
+        "Praslin"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.320992445500526",
+      "lng": "55.814323425292976"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f4231b33-341d-434c-9f3b-66e8d404e73c",
+    "name": "Auberge Reef",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.614282923224343",
+      "lng": "55.41405200958253"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f9758475-35ba-4eda-85b6-2e2417267f5d",
+    "name": "Marsoin",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.648289224974163",
+      "lng": "55.63201904296876"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fe32c867-8f7c-4489-80fc-3255a8cb745d",
+    "name": "South Marianne",
+    "location": {
+      "country": "Seychelles",
+      "region": "Indian Ocean",
+      "ocean": [
+        "Indian Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "-4.351781642503905",
+      "lng": "55.92178344726563"
+    },
+    "additionalInfo": {}
+  }
+]

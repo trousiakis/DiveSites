@@ -1,0 +1,92 @@
+[
+  {
+    "id": "2df21551-6fa1-4588-9b9b-858bc2fbdd04",
+    "name": "Bridvaišis",
+    "location": {
+      "country": "Lithuania",
+      "region": "Kelmes, Lithuania",
+      "ocean": [
+        "Europe",
+        "Lithuania",
+        "Kelmes"
+      ]
+    },
+    "coordinates": {
+      "lat": "55.59202494067563",
+      "lng": "23.218960762023926"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7635dd01-241d-42af-9f2c-2c64a95029f7",
+    "name": "Kryziavones Kalva",
+    "location": {
+      "country": "Lithuania",
+      "region": "Plateliai Lake, Lithuania",
+      "ocean": [
+        "Europe",
+        "Lithuania",
+        "Plateliai Lake"
+      ]
+    },
+    "coordinates": {
+      "lat": "56.043",
+      "lng": "21.8558"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b38b2448-165c-4c2e-8f21-a7e87986a6b7",
+    "name": "Wreck Yacht &quot;gervazas&quot;",
+    "location": {
+      "country": "Lithuania",
+      "region": "Plateliai Lake, Lithuania",
+      "ocean": [
+        "Europe",
+        "Lithuania",
+        "Plateliai Lake"
+      ]
+    },
+    "coordinates": {
+      "lat": "56.0372",
+      "lng": "21.8625"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c750ba34-382b-41be-9cfc-b8ed4136cd7a",
+    "name": "Tiltas",
+    "location": {
+      "country": "Lithuania",
+      "region": "Plateliai Lake, Lithuania",
+      "ocean": [
+        "Europe",
+        "Lithuania",
+        "Plateliai Lake"
+      ]
+    },
+    "coordinates": {
+      "lat": "56.041",
+      "lng": "21.8502"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "dabdb3ba-8eef-46de-98aa-41b8022943e1",
+    "name": "Galve Lake",
+    "location": {
+      "country": "Lithuania",
+      "region": "Trakai, Lithuania",
+      "ocean": [
+        "Europe",
+        "Lithuania",
+        "Trakai"
+      ]
+    },
+    "coordinates": {
+      "lat": "54.65084581692442",
+      "lng": "24.9305534362793"
+    },
+    "additionalInfo": {}
+  }
+]

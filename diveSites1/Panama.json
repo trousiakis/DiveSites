@@ -1,0 +1,928 @@
+[
+  {
+    "id": "03d7b1c5-6791-48f3-b720-d17e626b18c5",
+    "name": "Hill Rocks",
+    "location": {
+      "country": "Panama",
+      "region": "Coiba Island, Panama",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.299811893066493",
+      "lng": "-81.67519569396974"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "09c9203e-d71d-458a-89ae-c379d3801144",
+    "name": "Roller Coaster",
+    "location": {
+      "country": "Panama",
+      "region": "Coiba National Park, Panama",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.879365939856721",
+      "lng": "-81.79613113403322"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "19f2d3da-bf4d-4481-9653-2a7c56f92ac0",
+    "name": "Frijoles Ridge",
+    "location": {
+      "country": "Panama",
+      "region": "Coiba Island, Panama",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.651023951028489",
+      "lng": "-81.75999641418458"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2b3abc07-ac8e-4afc-8f8c-2461b3f037a9",
+    "name": "The Pyramids",
+    "location": {
+      "country": "Panama",
+      "region": "Jicaron Island, Panama",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.293852402065871",
+      "lng": "-81.89869880676271"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "2b9cc2cb-7544-44e0-a1b0-42393c4c584d",
+    "name": "Coral Reef Labyrinth",
+    "location": {
+      "country": "Panama",
+      "region": "Portobelo, Panama",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.558940861433717",
+      "lng": "-79.66753005981447"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "3f236f68-d527-46c5-aad3-00e8ac58dfca",
+    "name": "Bajo Pinon",
+    "location": {
+      "country": "Panama",
+      "region": "Isla Afuerita, Coiba National Park",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.702932644388541",
+      "lng": "-81.64117013075158"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "4462f1ed-63da-4292-9611-a530de90339b",
+    "name": "Punta Caracol",
+    "location": {
+      "country": "Panama",
+      "region": "Bocas Del Toro, Panama",
+      "ocean": [
+        "Atlantic Ocean",
+        "Carribean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.368450258514065",
+      "lng": "-82.29875564575197"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "450c1b4e-1d19-4602-aaee-0be49882c42a",
+    "name": "Coral Garden",
+    "location": {
+      "country": "Panama",
+      "region": "Bastimentos, Bocas Del Toro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea",
+        "Almirante Bay"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.280365815085188",
+      "lng": "-82.1927547454834"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "463e61cb-b536-4add-acf3-7ab93cb116ef",
+    "name": "Sechem Reef",
+    "location": {
+      "country": "Panama",
+      "region": "Bastimentos, Bocas Del Toro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea",
+        "Almirante Bay"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.347607225218749",
+      "lng": "-82.21749834498043"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "49756fcd-bd03-41e5-a8ce-f4fba0e38411",
+    "name": "Contreras Ridge",
+    "location": {
+      "country": "Panama",
+      "region": "Coiba National Park, Panama",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.831071568967182",
+      "lng": "-81.77930831909181"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "49e4acab-11a3-4bd6-91e5-4794ca7a557e",
+    "name": "Zopatillas",
+    "location": {
+      "country": "Panama",
+      "region": "Cayo Zapatilla, Bocas Del Toro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea",
+        "Almirante Bay"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.25020873735801",
+      "lng": "-82.01997756958009"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "50fce310-6a53-4e97-aef8-b0be19188323",
+    "name": "Playground",
+    "location": {
+      "country": "Panama",
+      "region": "Bocas Del Toro, Panama",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea",
+        "Almirante Bay"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.335251810983614",
+      "lng": "-82.23815917968751"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5270d5f0-fe54-4b16-907a-77822843da94",
+    "name": "The Monster",
+    "location": {
+      "country": "Panama",
+      "region": "Jicaron Island, Panama",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.2209699426329985",
+      "lng": "-81.7936420440674"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5910a5cf-ef86-4248-8712-d72fd6826231",
+    "name": "Buoyline",
+    "location": {
+      "country": "Panama",
+      "region": "Bastimentos, Bocas Del Toro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea",
+        "Almirante Bay"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.263932222987783",
+      "lng": "-82.18348503112794"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5e10123b-f2c8-4264-be4c-4f8ed39e5122",
+    "name": "Mona Lisa",
+    "location": {
+      "country": "Panama",
+      "region": "Coiba Island, Panama",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.592068754612686",
+      "lng": "-81.7077684402466"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5fc0a3d2-ea93-43c0-87c1-5fbdbf02a7f2",
+    "name": "Octopus Rock",
+    "location": {
+      "country": "Panama",
+      "region": "Coiba Island, Panama",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.6306074861570234",
+      "lng": "-81.7835569381714"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "5fc7396a-0694-4baf-bb41-fa3138923f10",
+    "name": "The Window",
+    "location": {
+      "country": "Panama",
+      "region": "Isla Del Canal De Afuera, Coiba National Park",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.671184251094086",
+      "lng": "-81.62858963012697"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6187ff69-21e4-4db9-ba77-d1fc7dd38d4e",
+    "name": "Sachen",
+    "location": {
+      "country": "Panama",
+      "region": "Carenero Island, Bocas Del Toro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea",
+        "Almirante Bay"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.346431233748264",
+      "lng": "-82.22687244415285"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "62244d62-6147-402f-90db-8057580c85bf",
+    "name": "Wash Rock",
+    "location": {
+      "country": "Panama",
+      "region": "Bastimentos, Bocas Del Toro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea",
+        "Almirante Bay"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.35659403382929",
+      "lng": "-82.18588829040529"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6940dbd4-050a-4691-bf6e-d57b0d4dcf34",
+    "name": "Taboguilla Island, The Lighthouse",
+    "location": {
+      "country": "Panama",
+      "region": "Pacific Ocean",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of Panama",
+        "Isla Taboguilla"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.800558021714199",
+      "lng": "-79.51449394226076"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "6b1ba11d-ee62-4703-92b6-d902185917e8",
+    "name": "Wahoo Rock",
+    "location": {
+      "country": "Panama",
+      "region": "Isla Del Canal De Afuera, Coiba National Park",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.681731875633019",
+      "lng": "-81.60816192626955"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7178a667-0566-473b-a050-2d47cc61357c",
+    "name": "Fisherman&#039;s Dream",
+    "location": {
+      "country": "Panama",
+      "region": "Coiba National Park, Panama",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.869843550953184",
+      "lng": "-81.81398391723634"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "71e72c53-b323-48ad-8092-72af4009b156",
+    "name": "Taboguilla Island",
+    "location": {
+      "country": "Panama",
+      "region": "Pacific Ocean",
+      "ocean": [
+        "Pacific Ocean",
+        "Gulf Of Panama",
+        "Isla Taboguilla"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.802508881044554",
+      "lng": "-79.51003074645998"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "73d47fdb-504e-43fd-87d0-c39d725a7ed0",
+    "name": "Down Twenty",
+    "location": {
+      "country": "Panama",
+      "region": "Coiba National Park, Panama",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.708950341008945",
+      "lng": "-81.67871475219727"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "740864c2-c25d-437a-948b-53ea20070f66",
+    "name": "The Old Wreck",
+    "location": {
+      "country": "Panama",
+      "region": "Bocas Del Toro, Panama",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea",
+        "Almirante Bay"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.335082423031391",
+      "lng": "-82.261118888855"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7cb45e73-2695-4046-b561-075834af783c",
+    "name": "Isla Iglesias",
+    "location": {
+      "country": "Panama",
+      "region": "Coiba Island, Panama",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.627459861042053",
+      "lng": "-81.68978691101076"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "7db77b0a-27b0-4e0c-b0f9-7e4067f31644",
+    "name": "Twin Peaks",
+    "location": {
+      "country": "Panama",
+      "region": "Coiba Island, Panama",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.547357796473341",
+      "lng": "-81.86211347579957"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "82359f26-a4a2-40ae-8d77-cfc3d4d4359c",
+    "name": "Terrys Reef",
+    "location": {
+      "country": "Panama",
+      "region": "Santa Isabel, Panama",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.723269788668805",
+      "lng": "-79.34463500976564"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "86486d5b-8aea-43eb-9aea-65b29bbce0ea",
+    "name": "Tiger Rock",
+    "location": {
+      "country": "Panama",
+      "region": "Popa Island, Bocas Del Toro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea",
+        "Almirante Bay"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.18717549543307",
+      "lng": "-82.07078933715822"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "88267a23-50a4-4199-b0b0-3077631fc074",
+    "name": "Isla Frijoles",
+    "location": {
+      "country": "Panama",
+      "region": "Coiba Island, Panama",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.659190263488902",
+      "lng": "-81.73235893249513"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "8a370c5a-d194-4e71-a981-ea0fa43e5562",
+    "name": "Shark Fin",
+    "location": {
+      "country": "Panama",
+      "region": "Jicaron Island, Panama",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.2735895395821055",
+      "lng": "-81.77441596984865"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "9327e76a-82a5-4a80-b482-b648fc2b8466",
+    "name": "Hospital Point",
+    "location": {
+      "country": "Panama",
+      "region": "Carenero Island, Bocas Del Toro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea",
+        "Almirante Bay"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.337284459988716",
+      "lng": "-82.22820281982423"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a136b1ea-1670-462c-8528-acbcdb8a1d56",
+    "name": "Parchecito",
+    "location": {
+      "country": "Panama",
+      "region": "Portobelo, Panama",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.559110139300696",
+      "lng": "-79.68358039855958"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "a730abbe-16d4-4ef7-876d-370897a280ee",
+    "name": "Freeway",
+    "location": {
+      "country": "Panama",
+      "region": "Jicaron Island, Panama",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.200703802040694",
+      "lng": "-81.79209709167482"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "aba7efbf-5d96-44c0-96a2-971df5d8e436",
+    "name": "Hannibal Bank",
+    "location": {
+      "country": "Panama",
+      "region": "Chiriqui, Panama",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.457964589589189",
+      "lng": "-82.23498344421387"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "acdbf06f-7195-482e-a606-cc2da30c4b0c",
+    "name": "La Miel",
+    "location": {
+      "country": "Panama",
+      "region": "Panama, Central America",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea",
+        "Gulf Of Uraba"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.680136256526199",
+      "lng": "-77.42305755615236"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "b32db0f5-17a0-43ab-887f-854299301d4e",
+    "name": "Airplane Wreck",
+    "location": {
+      "country": "Panama",
+      "region": "Portobelo, Panama",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.550815424802117",
+      "lng": "-79.67061996459962"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "ba014a3f-d721-47fb-ad00-fdd22632973c",
+    "name": "Mangrove Point",
+    "location": {
+      "country": "Panama",
+      "region": "Bocas Del Toro, Panama",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea",
+        "Almirante Bay"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.324072029627082",
+      "lng": "-82.25841522216798"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c08b075a-7565-4816-96ef-dbcf57f81d69",
+    "name": "Don Juan",
+    "location": {
+      "country": "Panama",
+      "region": "Coiba Island, Panama",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.636562389210292",
+      "lng": "-81.71592235565187"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "c7bf8439-f825-4a7d-b344-74a53cdaa7a6",
+    "name": "Hatchet Rock",
+    "location": {
+      "country": "Panama",
+      "region": "Coiba Island, Panama",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.414559099998149",
+      "lng": "-81.84556961059572"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cb2bc017-70d0-419b-a4e5-10d602e87288",
+    "name": "Buffet",
+    "location": {
+      "country": "Panama",
+      "region": "Isla Del Canal De Afuera, Coiba National Park",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.68986314300285",
+      "lng": "-81.61078102217289"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "cc0f4b30-71b8-42cf-afd7-72de33c218f9",
+    "name": "Faro (Light House)",
+    "location": {
+      "country": "Panama",
+      "region": "Coiba National Park, Panama",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.69997694629864",
+      "lng": "-81.65618419647218"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d39cc8c0-caa4-4e86-a01c-8174a47ae055",
+    "name": "Mali-Mali",
+    "location": {
+      "country": "Panama",
+      "region": "Coiba National Park, Panama",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.693725227239705",
+      "lng": "-81.6753673553467"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "d5f46868-372a-4b8e-a64a-221ae7abe091",
+    "name": "The Fridge",
+    "location": {
+      "country": "Panama",
+      "region": "Coiba National Park, Panama",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.783451918747716",
+      "lng": "-81.74016952514648"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "de331abf-35a4-41f9-9021-cf904d90a10e",
+    "name": "La Internacional",
+    "location": {
+      "country": "Panama",
+      "region": "Panama, Central America",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea",
+        "Gulf Of Uraba"
+      ]
+    },
+    "coordinates": {
+      "lat": "8.688960303855694",
+      "lng": "-77.45155334472658"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e60d2226-a713-42c7-8499-d4157ed9f326",
+    "name": "Casa Blanca",
+    "location": {
+      "country": "Panama",
+      "region": "Isla Solarte, Bocas Del Toro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea",
+        "Almirante Bay"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.327680351234777",
+      "lng": "-82.22177195653786"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e71ea2ea-c10a-45fb-ad19-4ab53a5e1d48",
+    "name": "Cathedral Rock",
+    "location": {
+      "country": "Panama",
+      "region": "Jicaron Island, Panama",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.230166043146517",
+      "lng": "-81.85522556304933"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "e8c1c288-5f91-48fb-9898-d061961b02e5",
+    "name": "Airport Point",
+    "location": {
+      "country": "Panama",
+      "region": "Bocas Del Toro, Panama",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea",
+        "Almirante Bay"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.343212951854314",
+      "lng": "-82.25566864013673"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eaaec6b8-dad6-4fc2-a7fa-941d1e6a81ef",
+    "name": "Dolphin Rock",
+    "location": {
+      "country": "Panama",
+      "region": "Bastimentos, Bocas Del Toro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea",
+        "Almirante Bay"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.368365572629534",
+      "lng": "-82.20477104187013"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eb6d211a-e933-42ee-82aa-aca8def8c4aa",
+    "name": "Barco Hundido (Mystic Wind)",
+    "location": {
+      "country": "Panama",
+      "region": "Isla Solarte, Bocas Del Toro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea",
+        "Almirante Bay"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.330354957771899",
+      "lng": "-82.22289508048563"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "eb8907fb-c2ea-4fe9-a782-605d00068606",
+    "name": "Shark City",
+    "location": {
+      "country": "Panama",
+      "region": "Coiba National Park, Panama",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.69295970428577",
+      "lng": "-81.66257858276369"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f08f9ec4-3d91-48e4-b806-334b9074da39",
+    "name": "Coral Cay",
+    "location": {
+      "country": "Panama",
+      "region": "Bastimentos, Bocas Del Toro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Caribbean Sea",
+        "Almirante Bay"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.255630425325789",
+      "lng": "-82.13361740112306"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "f87dbbcb-c20e-488f-9f68-9b2b3c741221",
+    "name": "Jacob&#039;s Ladder",
+    "location": {
+      "country": "Panama",
+      "region": "Coiba Island, Panama",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.5020465435569506",
+      "lng": "-81.90402030944826"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fd04b5cf-8d43-46a7-9384-8be3381af12b",
+    "name": "The Washing Machine",
+    "location": {
+      "country": "Panama",
+      "region": "Jicaron Island, Panama",
+      "ocean": [
+        "Pacific Ocean"
+      ]
+    },
+    "coordinates": {
+      "lat": "7.243363823096825",
+      "lng": "-81.85724258422853"
+    },
+    "additionalInfo": {}
+  },
+  {
+    "id": "fdeeec85-303b-4a81-9e70-a974cba61ed0",
+    "name": "Pandora",
+    "location": {
+      "country": "Panama",
+      "region": "Isla Solarte, Bocas Del Toro",
+      "ocean": [
+        "Atlantic Ocean",
+        "Carribean Sea"
+      ]
+    },
+    "coordinates": {
+      "lat": "9.322124000767271",
+      "lng": "-82.2227954864502"
+    },
+    "additionalInfo": {}
+  }
+]
